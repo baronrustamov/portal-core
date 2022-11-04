@@ -75,6 +75,7 @@ public class BraveMainPreferencesBase
     private static final String PREF_SHIELDS_AND_PRIVACY = "brave_shields_and_privacy";
     private static final String PREF_BRAVE_SEARCH_ENGINES = "brave_search_engines";
     private static final String PREF_BRAVE_NEWS = "brave_news";
+    private static final String PREF_BRAVE_NEWS_V2 = "brave_news_v2";
     private static final String PREF_SYNC = "brave_sync_layout";
     private static final String PREF_PASSWORDS = "passwords";
     private static final String PREF_NOTIFICATIONS = "notifications";
@@ -177,8 +178,12 @@ public class BraveMainPreferencesBase
         removePreferenceIfPresent(PREF_ADVANCED_SECTION);
         removePreferenceIfPresent(PREF_PRIVACY);
         removePreferenceIfPresent(PREF_BRAVE_VPN_CALLOUT);
-        if (!ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS)) {
+
+        if (!ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS)
+                || ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS_V2)) {
             removePreferenceIfPresent(PREF_BRAVE_NEWS);
+        } else {
+            removePreferenceIfPresent(PREF_BRAVE_NEWS_V2);
         }
         updateSearchEnginePreference();
 

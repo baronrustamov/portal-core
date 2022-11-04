@@ -400,6 +400,43 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
         Brave News is ad-supported with completely private and anonymized ads matched on your device.
       </message>
 
+      <message name="IDS_BRAVE_NEWS_SETTINGS_SUBTITLE" desc="Text for Brave News settings subtitle">
+        Ad-supported, private and anonymised ads matched on your device.
+      </message>
+      <message name="IDS_BRAVE_NEWS_SETTINGS_SEARCH" desc="Text for Brave News settings search">
+        Search for news, site, topic or RSS feed
+      </message>
+      <message name="IDS_POPULAR_SOURCES" desc="Text for Brave News settings popular sources">
+        Popular Sources
+      </message>
+      <message name="IDS_POPULAR_SOURCES_SUMMARY" desc="Text for Brave News settings popular sources summary">
+        Currently trending sources
+      </message>
+      <message name="IDS_SUGGESTED" desc="Text for Brave News settings suggested">
+        Suggested
+      </message>
+      <message name="IDS_SUGGESTED_SUMMARY" desc="Text for Brave News settings suggested summary">
+        Our curated list of sources
+      </message>
+      <message name="IDS_CHANNELS" desc="Text for Brave News settings channels">
+        Channels
+      </message>
+      <message name="IDS_CHANNELS_SUMMARY" desc="Text for Brave News settings channels summary">
+        Follow topics relevant to you
+      </message>
+      <message name="IDS_FOLLOWING" desc="Text for Brave News settings following">
+        Following
+      </message>
+      <message name="IDS_FOLLOWING_SUMMARY" desc="Text for Brave News settings following summary">
+        Manage your following list
+      </message>
+      <message name="IDS_FOLLOW" desc="Text for Brave News settings button follow">
+        Follow
+      </message>
+      <message name="IDS_UNFOLLOW" desc="Text for Brave News settings button unfollow">
+        Unfollow
+      </message>
+
       <message name="IDS_BRAVE_NEWS_AD" desc="Text for Brave ad logo">
         Ad
       </message>
