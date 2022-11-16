@@ -8,6 +8,8 @@
 #include "base/no_destructor.h"
 #include "build/build_config.h"
 #include "chrome/common/pref_names.h"
+#include "brave/components/constants/pref_names.h"
+#include "components/bookmarks/common/bookmark_pref_names.h"
 
 namespace {
 
@@ -25,7 +27,7 @@ const std::vector<const char*>& GetBravePersistentPrefNames() {
 
 #define GetIncognitoPersistentPrefsAllowlist \
   GetIncognitoPersistentPrefsAllowlist_ChromiumImpl
-
+#define kShowBookmarkBar kShowBookmarkBar, kAlwaysShowBookmarkBarOnNTP
 #include "src/chrome/browser/prefs/pref_service_incognito_allowlist.cc"
 
 #undef GetIncognitoPersistentPrefsAllowlist
