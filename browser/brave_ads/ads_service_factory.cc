@@ -16,6 +16,7 @@
 #include "brave/components/brave_federated/brave_federated_service.h"
 #include "brave/components/brave_federated/data_store_service.h"
 #include "brave/components/brave_federated/notification_ad_task_constants.h"
+#include "chrome/browser/browser_process.h"
 #include "chrome/browser/dom_distiller/dom_distiller_service_factory.h"
 #include "chrome/browser/history/history_service_factory.h"
 #include "chrome/browser/notifications/notification_display_service_factory.h"
@@ -99,7 +100,7 @@ KeyedService* AdsServiceFactory::BuildServiceInstanceFor(
 
   std::unique_ptr<AdsServiceImpl> ads_service =
       std::make_unique<AdsServiceImpl>(
-          profile,
+          g_browser_process->local_state(), profile,
 #if BUILDFLAG(BRAVE_ADAPTIVE_CAPTCHA_ENABLED)
           brave_adaptive_captcha_service, CreateAdsTooltipsDelegate(profile),
 #endif

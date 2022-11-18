@@ -34,6 +34,7 @@ namespace ads::prefs {
 
 // Brave Ads enabled/disabled pref
 extern const char kEnabled[];
+extern const char kEnabledForLastProfile[];
 
 // Notification prefs
 extern const char kMaximumNotificationAdsPerHour[];

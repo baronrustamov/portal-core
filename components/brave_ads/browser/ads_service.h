@@ -23,6 +23,7 @@
 
 class GURL;
 
+class PrefRegistrySimple;
 namespace user_prefs {
 class PrefRegistrySyncable;
 }  // namespace user_prefs
@@ -45,6 +46,7 @@ class AdsService : public KeyedService {
   void RemoveObserver(AdsServiceObserver* observer);
 
   // static
+  static void RegisterLocalStatePrefs(PrefRegistrySimple* registry);
   static void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry);
 
   // Returns |true| if the user's locale supports ads.
