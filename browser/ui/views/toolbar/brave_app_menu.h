@@ -6,8 +6,6 @@
 #ifndef BRAVE_BROWSER_UI_VIEWS_TOOLBAR_BRAVE_APP_MENU_H_
 #define BRAVE_BROWSER_UI_VIEWS_TOOLBAR_BRAVE_APP_MENU_H_
 
-#include <memory>
-
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/ui/views/toolbar/app_menu.h"
 
@@ -25,7 +23,11 @@ class BraveAppMenu : public AppMenu {
   BraveAppMenu(const BraveAppMenu&) = delete;
   BraveAppMenu& operator=(const BraveAppMenu&) = delete;
 
+  void RunMenu(views::MenuButtonController* host) override;
+
   void ExecuteCommand(int command_id, int mouse_event_flags) override;
+
+  void OnMenuClosed(views::MenuItemView* menu) override;
 
  private:
   // AppMenu overrides:

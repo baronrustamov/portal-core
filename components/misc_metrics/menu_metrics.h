@@ -7,9 +7,8 @@
 #define BRAVE_COMPONENTS_MISC_METRICS_MENU_METRICS_H_
 
 #include "base/containers/flat_map.h"
-#include "base/task/cancelable_task_tracker.h"
 #include "base/timer/timer.h"
-#include "components/keyed_service/core/keyed_service.h"
+#include "brave/components/time_period_storage/weekly_storage.h"
 
 class PrefRegistrySimple;
 class PrefService;
@@ -23,6 +22,7 @@ enum class MenuGroup {
 };
 
 extern const char kFrequentMenuGroupHistogramName[];
+extern const char kMenuDismissRateHistogramName[];
 
 class MenuMetrics {
  public:
@@ -33,10 +33,21 @@ class MenuMetrics {
 
   void RecordMenuGroupAction(MenuGroup group);
 
+  void RecordMenuShown();
+  void RecordMenuDismiss();
+
  private:
+  void RecordMenuDismissRate();
+
+  void Update();
+
   base::flat_map<MenuGroup, double> menu_group_access_counts_;
 
   raw_ptr<PrefService> local_state_ = nullptr;
+  WeeklyStorage menu_shown_storage_;
+  WeeklyStorage menu_dismiss_storage_;
+
+  base::RepeatingTimer update_timer_;
 };
 
 }  // namespace misc_metrics
