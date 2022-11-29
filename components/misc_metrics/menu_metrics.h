@@ -23,6 +23,7 @@ enum class MenuGroup {
 
 extern const char kFrequentMenuGroupHistogramName[];
 extern const char kMenuDismissRateHistogramName[];
+extern const char kMenuOpensHistogramName[];
 
 class MenuMetrics {
  public:
@@ -38,6 +39,7 @@ class MenuMetrics {
 
  private:
   void RecordMenuDismissRate();
+  void RecordMenuOpens();
 
   void Update();
 
