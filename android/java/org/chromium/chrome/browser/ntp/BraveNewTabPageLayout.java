@@ -648,6 +648,7 @@ public class BraveNewTabPageLayout
                             && lastVisibleItemPosition > mNtpAdapter.getStatsCount()
                                             + mNtpAdapter.getTopSitesCount()
                                             + mNtpAdapter.getNewContentCount()) {
+                        Log.e("tapan", "lastVisibleItemPosition:" + lastVisibleItemPosition);
                         if (mNewsSettingsBar.getVisibility() != View.VISIBLE) {
                             mNewsSettingsBar.setVisibility(View.VISIBLE);
                         }
@@ -745,6 +746,11 @@ public class BraveNewTabPageLayout
         mNtpAdapter.removeNewsOptin();
         mNtpAdapter.setImageCreditAlpha(1f);
         mNtpAdapter.setDisplayNews(mIsDisplayNews);
+
+        if (isOptin && BraveActivity.getBraveActivity() != null
+                && BraveNewsUtils.getLocale() == null) {
+            BraveActivity.getBraveActivity().initBraveNewsController();
+        }
     }
 
     private boolean shouldDisplayNewsOptin() {
@@ -988,9 +994,11 @@ public class BraveNewTabPageLayout
     }
 
     private void processFeed(boolean isNewContent) {
+        Log.e("tapan", "processFeed");
         mNtpAdapter.setNewsLoading(false);
 
         if (mNewsItemsFeedCard != null && mNewsItemsFeedCard.size() > 0) {
+            Log.e("tapan", "notifyItemRangeChanged");
             mNtpAdapter.notifyItemRangeChanged(
                     mNtpAdapter.getStatsCount() + mNtpAdapter.getTopSitesCount(),
                     mNtpAdapter.getItemCount() - mNtpAdapter.getStatsCount()

@@ -406,29 +406,29 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
       <message name="IDS_BRAVE_NEWS_SETTINGS_SEARCH" desc="Text for Brave News settings search">
         Search for news, site, topic or RSS feed
       </message>
-      <message name="IDS_POPULAR_SOURCES" desc="Text for Brave News settings popular sources">
-        Popular Sources
+      <message name="IDS_POPULAR" desc="Text for Brave News settings popular sources">
+        Popular
       </message>
-      <message name="IDS_POPULAR_SOURCES_SUMMARY" desc="Text for Brave News settings popular sources summary">
-        Currently trending sources
+      <message name="IDS_POPULAR_SUBTITLE" desc="Text for Brave News settings popular sources subtitle">
+        Ranked list of sources
       </message>
       <message name="IDS_SUGGESTED" desc="Text for Brave News settings suggested">
         Suggested
       </message>
-      <message name="IDS_SUGGESTED_SUMMARY" desc="Text for Brave News settings suggested summary">
-        Our curated list of sources
+      <message name="IDS_SUGGESTED_SUBTITLE" desc="Text for Brave News settings suggested subtitle">
+        Some sources you might like
       </message>
       <message name="IDS_CHANNELS" desc="Text for Brave News settings channels">
         Channels
       </message>
-      <message name="IDS_CHANNELS_SUMMARY" desc="Text for Brave News settings channels summary">
-        Follow topics relevant to you
+      <message name="IDS_CHANNELS_SUBTITLE" desc="Text for Brave News settings channels subtitle">
+        Follow topics that interest you
       </message>
       <message name="IDS_FOLLOWING" desc="Text for Brave News settings following">
         Following
       </message>
-      <message name="IDS_FOLLOWING_SUMMARY" desc="Text for Brave News settings following summary">
-        Manage your following list
+      <message name="IDS_FOLLOWING_SUBTITLE" desc="Text for Brave News settings following subtitle">
+        Manage sources for your feed
       </message>
       <message name="IDS_FOLLOW" desc="Text for Brave News settings button follow">
         Follow
@@ -436,7 +436,24 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
       <message name="IDS_UNFOLLOW" desc="Text for Brave News settings button unfollow">
         Unfollow
       </message>
-
+      <message name="IDS_GET_FEEDS" desc="Text for Brave News settings button get feeds">
+        Get Feeds
+      </message>
+      <message name="IDS_GETTING_FEEDS" desc="Text for Brave News settings button getting feeds">
+        Getting Feeds...
+      </message>
+      <message name="IDS_SOURCES" desc="Text for Brave News settings sources">
+        SOURCES
+      </message>
+      <!-- <message name="IDS_USER_SOURCES" desc="Text for Brave News settings user sources">
+        USER SOURCES
+      </message> -->
+      <!-- <message name="IDS_AVAILABLE_RSS_FEEDS" desc="Text for Brave News settings available rss feeds">
+        AVAILABLE RSS FEEDS
+      </message> -->
+      <message name="IDS_NO_FEED_FOUND" desc="Text for Brave News settings search no found">
+        No feeds found at <ph name="SEARCH_URL">%1$s</ph>
+      </message>
       <message name="IDS_BRAVE_NEWS_AD" desc="Text for Brave ad logo">
         Ad
       </message>

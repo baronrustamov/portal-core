@@ -86,7 +86,7 @@
                android:visibility="gone">
 
                <ImageView
-                    android:id="@+id/iv_popular_sources"
+                    android:id="@+id/iv_popular"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     app:layout_constraintBottom_toBottomOf="parent"
@@ -98,28 +98,27 @@
                     android:contentDescription="@null"/>
 
                <TextView
-                    android:id="@+id/tv_popular_sources"
+                    android:id="@+id/tv_popular"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/popular_sources"
+                    android:text="@string/popular"
                     android:textSize="16sp"
                     android:textColor="@color/news_settings_title_color"
                     android:layout_marginStart="12dp"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toEndOf="@id/iv_popular_sources"
+                    app:layout_constraintStart_toEndOf="@id/iv_popular"
                     app:layout_constraintTop_toTopOf="parent"/>
 
                <TextView
-                    android:id="@+id/tv_popular_sources_summary"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/popular_sources_summary"
+                    android:text="@string/popular_subtitle"
                     android:textSize="14sp"
                     android:textColor="@color/news_settings_subtitle_color"
                     android:layout_marginStart="12dp"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toEndOf="@id/iv_popular_sources"
-                    app:layout_constraintTop_toBottomOf="@id/tv_popular_sources"/>
+                    app:layout_constraintStart_toEndOf="@id/iv_popular"
+                    app:layout_constraintTop_toBottomOf="@id/tv_popular"/>
 
           </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -156,10 +155,9 @@
                     app:layout_constraintTop_toTopOf="parent"/>
 
                <TextView
-                    android:id="@+id/tv_suggested_summary"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/suggested_summary"
+                    android:text="@string/suggested_subtitle"
                     android:textSize="14sp"
                     android:textColor="@color/news_settings_subtitle_color"
                     android:layout_marginStart="12dp"
@@ -202,10 +200,9 @@
                     app:layout_constraintTop_toTopOf="parent"/>
 
                <TextView
-                    android:id="@+id/tv_channels_summary"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/channels_summary"
+                    android:text="@string/channels_subtitle"
                     android:textSize="14sp"
                     android:textColor="@color/news_settings_subtitle_color"
                     android:layout_marginStart="12dp"
@@ -254,16 +251,17 @@
                     android:textSize="12sp"
                     android:textColor="@color/news_settings_following_count_color"
                     android:layout_marginStart="8dp"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="2dp"
                     app:layout_constraintStart_toEndOf="@id/tv_following"
                     app:layout_constraintTop_toTopOf="@id/tv_following"
                     app:layout_constraintBottom_toBottomOf="@id/tv_following"
                     android:background="@drawable/news_settings_following_count_bg"/>
 
                <TextView
-                    android:id="@+id/tv_following_summary"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/following_summary"
+                    android:text="@string/following_subtitle"
                     android:textSize="14sp"
                     android:textColor="@color/news_settings_subtitle_color"
                     android:layout_marginStart="12dp"

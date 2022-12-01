@@ -99,7 +99,7 @@
     <color name="news_settings_subtitle_color">#868E96</color>
     <color name="news_settings_divider_color">#E9E9F4</color>
     <color name="news_settings_icon_bg_color">#0D000000</color>
-    <color name="news_settings_following_count_color">#495057</color>
+    <color name="news_settings_following_count_color">#D9495057</color>
     <color name="news_settings_following_count_bg_color">#1A000000</color>
 
     <!-- Incognito mode colors -->

@@ -63,6 +63,7 @@ import org.chromium.base.supplier.ObservableSupplier;
 import org.chromium.base.supplier.UnownedUserDataSupplier;
 import org.chromium.base.task.PostTask;
 import org.chromium.base.task.TaskTraits;
+import org.chromium.brave_news.mojom.BraveNewsController;
 import org.chromium.brave_wallet.mojom.AccountInfo;
 import org.chromium.brave_wallet.mojom.AssetRatioService;
 import org.chromium.brave_wallet.mojom.BlockchainRegistry;
@@ -94,6 +95,8 @@ import org.chromium.chrome.browser.InternetConnection;
 import org.chromium.chrome.browser.LaunchIntentDispatcher;
 import org.chromium.chrome.browser.app.domain.WalletModel;
 import org.chromium.chrome.browser.bookmarks.TabBookmarker;
+import org.chromium.chrome.browser.brave_news.BraveNewsControllerFactory;
+import org.chromium.chrome.browser.brave_news.BraveNewsUtils;
 import org.chromium.chrome.browser.brave_news.models.FeedItemsCard;
 import org.chromium.chrome.browser.brave_stats.BraveStatsBottomSheetDialogFragment;
 import org.chromium.chrome.browser.brave_stats.BraveStatsUtil;
@@ -268,6 +271,7 @@ public abstract class BraveActivity<C extends ChromeActivityComponent> extends C
     private boolean mNativeInitialized;
     private NewTabPageManager mNewTabPageManager;
     private NotificationPermissionController mNotificationPermissionController;
+    private BraveNewsController mBraveNewsController;
 
     @SuppressLint("VisibleForTests")
     public BraveActivity() {
@@ -393,10 +397,20 @@ public abstract class BraveActivity<C extends ChromeActivityComponent> extends C
         return true;
     }
 
+    private void cleanUpBraveNewsController() {
+        if (mBraveNewsController != null) {
+            mBraveNewsController.close();
+        }
+        mBraveNewsController = null;
+    }
+
     @Override
     public void onConnectionError(MojoException e) {
         cleanUpNativeServices();
         initNativeServices();
+
+        cleanUpBraveNewsController();
+        initBraveNewsController();
     }
 
     @Override
@@ -406,6 +420,7 @@ public abstract class BraveActivity<C extends ChromeActivityComponent> extends C
             mNotificationPermissionController = null;
         }
         super.onDestroyInternal();
+        cleanUpBraveNewsController();
         cleanUpNativeServices();
     }
 
@@ -1037,6 +1052,23 @@ public abstract class BraveActivity<C extends ChromeActivityComponent> extends C
                                    BravePreferenceKeys.BRAVE_APP_OPEN_COUNT)
                                 >= 7)) {
             showAdFreeCalloutDialog();
+        }
+
+        initBraveNewsController();
+    }
+
+    public void initBraveNewsController() {
+        if (mBraveNewsController != null) {
+            return;
+        }
+
+        if (ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS_V2)
+                && BravePrefServiceBridge.getInstance().getShowNews()
+                && BravePrefServiceBridge.getInstance().getNewsOptIn()) {
+            mBraveNewsController =
+                    BraveNewsControllerFactory.getInstance().getBraveNewsController(this);
+
+            BraveNewsUtils.getBraveNewsSettingsData(mBraveNewsController);
         }
     }
 
