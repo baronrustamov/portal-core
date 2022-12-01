@@ -46,28 +46,48 @@ export function buildExplorerUrl (
 
 export default function useExplorer (network?: BraveWallet.NetworkInfo) {
   return React.useCallback(
-    (type: BlockExplorerUrlTypes, value?: string, id?: string) => () => {
-      if (!network) {
-        return
-      }
-      const explorerBaseURL = network.blockExplorerUrls[0]
-      if (!explorerBaseURL || !value) {
-        alert(getLocale('braveWalletTransactionExplorerMissing'))
-        return
-      }
-
-      const url = buildExplorerUrl(network, type, value, id)
-
-      if (!chrome.tabs) {
-        window.open(url, '_blank')
-      } else {
-        chrome.tabs.create({ url: url }, () => {
-          if (chrome.runtime.lastError) {
-            console.error('tabs.create failed: ' + chrome.runtime.lastError.message)
-          }
-        })
-      }
-    },
+    (type: BlockExplorerUrlTypes, value?: string, id?: string) => openBlockExplorerURL({
+      network,
+      value,
+      type,
+      id
+    }),
     [network]
   )
+}
+
+export function openBlockExplorerURL ({
+  id,
+  network,
+  type,
+  value
+}: {
+  id?: string | undefined
+  network?: BraveWallet.NetworkInfo
+  type: BlockExplorerUrlTypes
+  value?: string | undefined
+}): () => void {
+  return () => {
+    if (!network) {
+      return
+    }
+
+    const explorerBaseURL = network.blockExplorerUrls[0]
+    if (!explorerBaseURL || !value) {
+      alert(getLocale('braveWalletTransactionExplorerMissing'))
+      return
+    }
+
+    const url = buildExplorerUrl(network, type, value, id)
+
+    if (!chrome.tabs) {
+      window.open(url, '_blank')
+    } else {
+      chrome.tabs.create({ url: url }, () => {
+        if (chrome.runtime.lastError) {
+          console.error('tabs.create failed: ' + chrome.runtime.lastError.message)
+        }
+      })
+    }
+  }
 }

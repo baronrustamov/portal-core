@@ -5,16 +5,12 @@
 
 import * as React from 'react'
 import { Redirect, useParams, useLocation } from 'react-router'
-import {
-  useDispatch,
-  useSelector
-} from 'react-redux'
+import { useDispatch } from 'react-redux'
 import { create } from 'ethereum-blockies'
 
 import {
   BraveWallet,
   CoinTypesMap,
-  WalletState,
   WalletRoutes,
   AccountButtonOptionsObjectType
 } from '../../../../constants/types'
@@ -55,8 +51,11 @@ import { AccountButtonOptions } from '../../../../options/account-list-button-op
 import { useScrollIntoView } from '../../../../common/hooks/use-scroll-into-view'
 
 // Actions
-import { getFilecoinKeyringIdFromNetwork } from '../../../../utils/network-utils'
+import { getFilecoinKeyringIdFromNetwork, getNetworkFromTXDataUnion } from '../../../../utils/network-utils'
 import { AccountsTabActions } from '../../../../page/reducers/accounts-tab-reducer'
+import { parseTransactionWithoutPrices } from '../../../../common/hooks/transaction-parser'
+import { WalletSelectors } from '../../../../common/selectors'
+import { useUnsafeWalletSelector } from '../../../../common/hooks/use-safe-selector'
 
 export interface Props {
   goBack: () => void
@@ -71,10 +70,13 @@ export const Account = ({
 
   // redux
   const dispatch = useDispatch()
-  const accounts = useSelector(({ wallet }: { wallet: WalletState }) => wallet.accounts)
-  const transactions = useSelector(({ wallet }: { wallet: WalletState }) => wallet.transactions)
-  const userVisibleTokensInfo = useSelector(({ wallet }: { wallet: WalletState }) => wallet.userVisibleTokensInfo)
-  const networkList = useSelector(({ wallet }: { wallet: WalletState }) => wallet.networkList)
+  const accounts = useUnsafeWalletSelector(WalletSelectors.accounts)
+  const transactions = useUnsafeWalletSelector(WalletSelectors.transactions)
+  const userVisibleTokensInfo = useUnsafeWalletSelector(WalletSelectors.userVisibleTokensInfo)
+  const networkList = useUnsafeWalletSelector(WalletSelectors.networkList)
+  const fullTokenList = useUnsafeWalletSelector(WalletSelectors.fullTokenList)
+  const userVisibleTokensList = useUnsafeWalletSelector(WalletSelectors.userVisibleTokensInfo)
+  const solFeeEstimates = useUnsafeWalletSelector(WalletSelectors.solFeeEstimates)
 
   // custom hooks
   const scrollIntoView = useScrollIntoView()
@@ -94,11 +96,30 @@ export const Account = ({
 
   const transactionList = React.useMemo(() => {
     if (selectedAccount?.address && transactions[selectedAccount.address]) {
-      return sortTransactionByDate(transactions[selectedAccount.address], 'descending')
+      return sortTransactionByDate(
+        transactions[selectedAccount.address],
+        'descending'
+      ).map(tx => parseTransactionWithoutPrices({
+        tx,
+        accounts,
+        fullTokenList,
+        userVisibleTokensList,
+        solFeeEstimates,
+        transactionNetwork: getNetworkFromTXDataUnion(tx.txDataUnion, networkList)
+      }))
     } else {
       return []
     }
-  }, [selectedAccount, transactions])
+  }, [
+    accounts,
+    selectedAccount?.address,
+    transactions,
+    accounts,
+    fullTokenList,
+    userVisibleTokensList,
+    solFeeEstimates,
+    networkList
+  ])
 
   const accountsTokensList = React.useMemo(() => {
     if (!selectedAccount) {

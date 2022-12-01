@@ -12,7 +12,8 @@ import {
   SolFeeEstimates,
   SupportedTestNetworks,
   WalletAccountType,
-  SerializableTransactionInfo
+  SerializableTransactionInfo,
+  SerializableTimeDelta
 } from '../constants/types'
 import { SolanaTransactionTypes } from '../common/constants/solana'
 import { MAX_UINT256, NATIVE_ASSET_CONTRACT_ADDRESS_0X } from '../common/constants/magics'
@@ -51,7 +52,7 @@ export type SolanaTransactionInfo = TransactionInfo & {
   }
 }
 
-export const sortTransactionByDate = <T extends TransactionInfo>(
+export const sortTransactionByDate = <T extends { createdTime: SerializableTimeDelta }>(
   transactions: T[],
   order: Order = 'ascending'
 ): T[] => {
@@ -1170,5 +1171,18 @@ export const getTransactionFiatValues = ({
       .plus(sendAmountFiat),
     formattedNativeCurrencyTotal: sendAmountFiat.div(networkSpotPrice)
       .formatAsAsset(6, txNetwork?.symbol)
+  }
+}
+
+export const getLocaleKeyForTxStatus = (status: BraveWallet.TransactionStatus) => {
+  switch (status) {
+    case BraveWallet.TransactionStatus.Unapproved: return 'braveWalletTransactionStatusUnapproved'
+    case BraveWallet.TransactionStatus.Approved: return 'braveWalletTransactionStatusApproved'
+    case BraveWallet.TransactionStatus.Rejected: return 'braveWalletTransactionStatusRejected'
+    case BraveWallet.TransactionStatus.Submitted: return 'braveWalletTransactionStatusSubmitted'
+    case BraveWallet.TransactionStatus.Confirmed: return 'braveWalletTransactionStatusConfirmed'
+    case BraveWallet.TransactionStatus.Error: return 'braveWalletTransactionStatusError'
+    case BraveWallet.TransactionStatus.Dropped: return 'braveWalletTransactionStatusDropped'
+    default: return ''
   }
 }

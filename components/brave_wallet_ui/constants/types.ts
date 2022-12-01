@@ -128,6 +128,7 @@ export type TopTabNavTypes =
   | 'nfts'
   | 'accounts'
   | 'market'
+  | 'transactions'
 
 export type AddAccountNavTypes =
   | 'create'
@@ -779,7 +780,10 @@ export enum WalletRoutes {
   Swap = '/swap',
 
   // send
-  Send = '/send'
+  Send = '/send',
+
+  // Transactions
+  Transactions = '/crypto/transactions/:address?/:chainId?/:transactionId?',
 }
 
 export const WalletOrigin = 'chrome://wallet'
