@@ -9,6 +9,8 @@ import android.content.Context;
 import android.util.Pair;
 
 import org.chromium.base.Log;
+import org.chromium.base.task.PostTask;
+import org.chromium.base.task.TaskTraits;
 import org.chromium.brave_news.mojom.Article;
 import org.chromium.brave_news.mojom.BraveNewsController;
 import org.chromium.brave_news.mojom.CardType;
@@ -215,36 +217,19 @@ public class BraveNewsUtils {
 
     public static void setFollowingPublisherList() {
         List<Publisher> publisherList = new ArrayList<>();
-        // List<Publisher> rssList = new ArrayList<>();
         for (Publisher publisher : mGlobalPublisherList) {
             if (publisher.userEnabledStatus == UserEnabled.ENABLED
                     || (publisher.type == PublisherType.DIRECT_SOURCE
                             && publisher.userEnabledStatus != UserEnabled.DISABLED)) {
-                /*rssList.add(publisher);
-            } else if (publisher.userEnabledStatus == UserEnabled.ENABLED) {*/
                 publisherList.add(publisher);
             }
         }
         mFollowingPublisherList = publisherList;
-        // mFollowingRssList = rssList;
     }
-
-    /*public static void updateFollowingPublisher(Publisher publisher) {
-
-        if(publisher.userEnabledStatus == UserEnabled.ENABLED &&
-    !mFollowingPublisherList.contains(publisher)) { mFollowingPublisherList.add(publisher); } else
-    if(publisher.userEnabledStatus == UserEnabled.DISABLED &&
-    mFollowingPublisherList.contains(publisher)) { mFollowingPublisherList.remove(publisher);
-        }
-    }*/
 
     public static List<Publisher> getFollowingPublisherList() {
         return mFollowingPublisherList;
     }
-
-    /*public static List<Publisher> getFollowingRssList() {
-        return mFollowingRssList;
-    }*/
 
     public static void setFollowingChannelList() {
         List<Channel> channelList = new ArrayList<>();
@@ -257,15 +242,6 @@ public class BraveNewsUtils {
         }
         mFollowingChannelList = channelList;
     }
-
-    /*public static void updateFollowingChannel(Channel channel) {
-
-        if(publisher.userEnabledStatus == UserEnabled.ENABLED &&
-    !mFollowingChannelsList.contains(channel)) { mFollowingChannelsList.add(channel); } else
-    if(publisher.userEnabledStatus == UserEnabled.DISABLED &&
-    mFollowingChannelsList.contains(channel)) { mFollowingChannelsList.remove(channel);
-        }
-    }*/
 
     public static List<Channel> getFollowingChannelList() {
         return mFollowingChannelList;
@@ -281,24 +257,18 @@ public class BraveNewsUtils {
         return channelList;
     }
 
-    public static List<Publisher> /*Pair<List<Publisher>, List<Publisher>>*/ searchPublisher(
-            String search) {
+    public static List<Publisher> searchPublisher(String search) {
         List<Publisher> publisherList = new ArrayList<>();
-        // List<Publisher> rssList = new ArrayList<>();
         for (Publisher publisher : mGlobalPublisherList) {
             if (publisher.publisherName.toLowerCase(Locale.ROOT).contains(search)
                     || publisher.categoryName.toLowerCase(Locale.ROOT).contains(search)
                     || publisher.feedSource.url.toLowerCase(Locale.ROOT).contains(search)
                     || publisher.siteUrl.url.toLowerCase(Locale.ROOT).contains(search)) {
-                /*if (publisher.type == PublisherType.DIRECT_SOURCE) {
-                    rssList.add(publisher);
-                } else {*/
                 publisherList.add(publisher);
-                //}
             }
         }
 
-        return publisherList; // new Pair(publisherList, rssList);
+        return publisherList;
     }
 
     public static boolean searchPublisherForRss(String feedUrl) {
@@ -314,24 +284,20 @@ public class BraveNewsUtils {
     }
 
     public static void getBraveNewsSettingsData(BraveNewsController braveNewsController) {
-        ExecutorService executors = Executors.newFixedThreadPool(1);
-        Runnable runnable = new Runnable() {
-            @Override
-            public void run() {
-                if (braveNewsController != null) {
-                    Log.e("tapan", "before getLocale");
-                    braveNewsController.getLocale((locale) -> {
-                        Log.e("tapan", "after getLocale");
-                        setLocale(locale);
-                        getChannels(braveNewsController);
-                        getPublishers(braveNewsController);
-                        getSuggestedSources(braveNewsController);
-                    });
-                }
+        Log.e("tapan", "before getBraveNewsSettingsData");
+        PostTask.postTask(TaskTraits.THREAD_POOL_BEST_EFFORT, () -> {
+            if (braveNewsController != null) {
+                Log.e("tapan", "before getLocale");
+                braveNewsController.getLocale((locale) -> {
+                    Log.e("tapan", "after getLocale");
+                    setLocale(locale);
+                    getChannels(braveNewsController);
+                    getPublishers(braveNewsController);
+                    getSuggestedSources(braveNewsController);
+                });
             }
-        };
-
-        executors.submit(runnable);
+        });
+        Log.e("tapan", "after getBraveNewsSettingsData");
     }
 
     private static void getChannels(BraveNewsController braveNewsController) {

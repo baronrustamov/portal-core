@@ -11,7 +11,6 @@ import org.chromium.brave_news.mojom.Channel;
 import org.chromium.url.mojom.Url;
 
 public interface BraveNewsPreferencesListener {
-
     public void onChannelSubscribed(int position, Channel channel, boolean isSubscribed);
     public void onPublisherPref(String publisherId, int userEnabled);
     public void findFeeds(String url);
