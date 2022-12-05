@@ -2,7 +2,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-import { addWebUIListener } from 'chrome://resources/js/cr.m'
+import { addWebUiListener } from 'chrome://resources/js/cr.js'
 
 import { createStateManager } from '../../shared/lib/state_manager'
 
@@ -50,9 +50,9 @@ function getDialogArgs (): DialogArgs {
   }
 }
 
-function addWebUIListeners (listeners: Record<string, any>) {
+function addWebUiListeners (listeners: Record<string, any>) {
   for (const [name, listener] of Object.entries(listeners)) {
-    addWebUIListener(name, listener)
+    addWebUiListener(name, listener)
   }
 }
 
@@ -74,7 +74,7 @@ export function createHost (): Host {
     return false
   }
 
-  addWebUIListeners({
+  addWebUiListeners({
 
     rewardsInitialized () {
       const { publisherKey } = dialogArgs
