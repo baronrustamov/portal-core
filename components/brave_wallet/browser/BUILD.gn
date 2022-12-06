@@ -1,3 +1,8 @@
+# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this file,
+# You can obtain one at https://mozilla.org/MPL/2.0/.
+
 import("//brave/build/config.gni")
 import("//brave/components/ipfs/buildflags/buildflags.gni")
 import("//build/config/features.gni")
@@ -141,6 +146,8 @@ static_library("browser") {
     "tx_service.h",
     "tx_state_manager.cc",
     "tx_state_manager.h",
+    "tx_status_resolver.cc",
+    "tx_status_resolver.h",
     "unstoppable_domains_dns_resolve.cc",
     "unstoppable_domains_dns_resolve.h",
     "unstoppable_domains_multichain_calls.cc",
