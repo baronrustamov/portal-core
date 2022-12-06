@@ -33,4 +33,8 @@ void AdBlockSubscriptionFiltersProvider::LoadDATBuffer(
       base::BindOnce(std::move(cb), false));
 }
 
+void AdBlockSubscriptionFiltersProvider::OnNewListSaved() {
+  OnNewSourceAvailable();
+}
+
 }  // namespace brave_shields
