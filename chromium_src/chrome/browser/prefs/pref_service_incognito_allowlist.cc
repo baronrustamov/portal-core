@@ -6,9 +6,9 @@
 #include <vector>
 
 #include "base/no_destructor.h"
+#include "brave/components/constants/pref_names.h"
 #include "build/build_config.h"
 #include "chrome/common/pref_names.h"
-#include "brave/components/constants/pref_names.h"
 #include "components/bookmarks/common/bookmark_pref_names.h"
 
 namespace {
