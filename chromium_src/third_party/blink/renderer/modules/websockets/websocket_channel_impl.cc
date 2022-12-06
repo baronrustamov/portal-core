@@ -39,19 +39,17 @@ void WebSocketChannelImpl::TearDownFailedConnection() {
 
 bool WebSocketChannelImpl::ShouldDisallowConnection(const KURL& url) {
   if (base::FeatureList::IsEnabled(blink::features::kRestrictWebSocketsPool)) {
-    if (blink::WebContentSettingsClient* settings =
-            brave::GetContentSettingsClientFor(execution_context_)) {
-      const bool is_extension = CommonSchemeRegistry::IsExtensionScheme(
-          execution_context_->GetSecurityOrigin()->Protocol().Ascii());
-      if (!is_extension &&
-          settings->GetBraveFarblingLevel() != BraveFarblingLevel::OFF) {
-        websocket_in_use_tracker_ =
-            ResourcePoolLimiter::GetInstance().IssueResourceInUseTracker(
-                execution_context_,
-                ResourcePoolLimiter::ResourceType::kWebSocket);
-        if (!websocket_in_use_tracker_) {
-          return true;
-        }
+    const bool is_extension = CommonSchemeRegistry::IsExtensionScheme(
+        execution_context_->GetSecurityOrigin()->Protocol().Ascii());
+    if (!is_extension &&
+        brave::BraveSessionCache::From(*execution_context_)
+                .GetBraveFarblingLevel() != BraveFarblingLevel::OFF) {
+      websocket_in_use_tracker_ =
+          ResourcePoolLimiter::GetInstance().IssueResourceInUseTracker(
+              execution_context_,
+              ResourcePoolLimiter::ResourceType::kWebSocket);
+      if (!websocket_in_use_tracker_) {
+        return true;
       }
     }
   }
