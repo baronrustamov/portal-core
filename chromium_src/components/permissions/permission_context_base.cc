@@ -95,7 +95,7 @@ void PermissionContextBase::DecidePermission(
                  id.ToString(), std::make_unique<GroupedPermissionRequests>()))
              .first;
   }
-  it->second->AddRequest(std::move(pending_request->second));
+  it->second->AddRequest(std::move(pending_request->second.first));
 
   pending_requests_.erase(pending_request);
 }

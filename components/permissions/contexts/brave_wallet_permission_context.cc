@@ -86,7 +86,7 @@ void BraveWalletPermissionContext::RequestPermission(
     NotifyPermissionSet(id, requesting_origin.GetURL(), embedding_origin,
                         std::move(callback), /*persist=*/false,
                         CONTENT_SETTING_BLOCK, /*is_one_time=*/false,
-                        /*is_final_decision=*/true);
+                        /*is_final_decision=*/false);
     return;
   }
   if (is_new_id) {
