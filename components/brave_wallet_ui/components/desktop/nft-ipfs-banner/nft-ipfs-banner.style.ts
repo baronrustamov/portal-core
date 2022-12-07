@@ -120,3 +120,6 @@ export const CloseButton = styled(WalletButton)<{ status: BannerStatus }>`
   border: none;
   margin-left: auto
 `
+
+/* const DetailSection = styled.div`
+` */
