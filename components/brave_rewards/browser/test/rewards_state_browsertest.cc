@@ -1293,4 +1293,11 @@ IN_PROC_BROWSER_TEST_P_(V13, Paths) {
   }
 }
 
+IN_PROC_BROWSER_TEST_F(RewardsStateBrowserTest, v14) {
+  // testing migration from v13 to v14
+  profile_->GetPrefs()->SetInteger("brave.rewards.version", 13);
+  rewards_service_->SetLedgerStateTargetVersionForTesting(14);
+  rewards_browsertest_util::StartProcess(rewards_service_);
+}
+
 }  // namespace rewards_browsertest
