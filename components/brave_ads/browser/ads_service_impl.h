@@ -43,7 +43,6 @@
 class GURL;
 
 class NotificationDisplayService;
-class PrefService;
 class Profile;
 
 namespace ads {
@@ -82,7 +81,6 @@ class AdsServiceImpl : public AdsService,
                        public base::SupportsWeakPtr<AdsServiceImpl> {
  public:
   explicit AdsServiceImpl(
-      PrefService* local_state,
       Profile* profile,
 #if BUILDFLAG(BRAVE_ADAPTIVE_CAPTCHA_ENABLED)
       brave_adaptive_captcha::BraveAdaptiveCaptchaService*
@@ -147,8 +145,6 @@ class AdsServiceImpl : public AdsService,
   void MaybeShowOnboardingNotification();
 
   void CloseAdaptiveCaptcha();
-
-  void CopyEnabledPrefToLocalState();
 
   void InitializePrefChangeRegistrar();
   void OnEnabledPrefChanged();
@@ -463,7 +459,6 @@ class AdsServiceImpl : public AdsService,
 
   SimpleURLLoaderList url_loaders_;
 
-  const raw_ptr<PrefService> local_state_ = nullptr;  // NOT OWNED
   const raw_ptr<Profile> profile_ = nullptr;  // NOT OWNED
 
   const raw_ptr<history::HistoryService> history_service_ =
