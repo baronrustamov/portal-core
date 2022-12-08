@@ -1,8 +1,8 @@
 diff --git a/PRESUBMIT.py b/PRESUBMIT.py
-index 5b038f01706eb8e062946b79e019e3e33f25b9f4..6dd6de41e292504656e63b54363e0145b28a33c7 100644
+index 1a74ce29bb339a4dd84c33d7142c378581a275e5..b02c110aac6209b32c2f4ac4de67be1eae2e8fba 100644
 --- a/PRESUBMIT.py
 +++ b/PRESUBMIT.py
-@@ -6783,3 +6783,4 @@ def CheckNoJsInIos(input_api, output_api):
+@@ -6781,3 +6781,4 @@ def CheckNoJsInIos(input_api, output_api):
              'scripts on iOS.', error_paths))
  
      return results
