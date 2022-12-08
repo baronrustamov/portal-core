@@ -1,0 +1,67 @@
+diff --git a/content/browser/renderer_host/render_frame_host_impl.cc b/content/browser/renderer_host/render_frame_host_impl.cc
+index e4e16ccdcd2070e56d9572b7d4bc22d685cb34bc..40a5bc4e3bfcb78f622e18a00198e05b1791286d 100644
+--- a/content/browser/renderer_host/render_frame_host_impl.cc
++++ b/content/browser/renderer_host/render_frame_host_impl.cc
+@@ -34,6 +34,7 @@
+ #include "base/strings/strcat.h"
+ #include "base/strings/string_number_conversions.h"
+ #include "base/strings/string_piece.h"
++#include "base/strings/string_util.h"
+ #include "base/strings/stringprintf.h"
+ #include "base/syslog_logging.h"
+ #include "base/system/sys_info.h"
+@@ -7951,6 +7952,54 @@ void RenderFrameHostImpl::BeginNavigation(
+   if (!VerifyBeginNavigationCommonParams(GetSiteInstance(), &*validated_params))
+     return;
+ 
++  GURL url = validated_params->url;
++  auto request_initiator = validated_params->initiator_origin;
++  LOG(ERROR) << "[1] RENDER FRAME HOST IMPL URL=" << url;
++  if (url.DomainIs("twitter.com") &&
++      (!request_initiator ||
++       !request_initiator.value().DomainIs("twitter.com")) &&
++      url.has_query()) {
++    std::vector<std::string> query_params =
++        base::SplitString(url.query_piece(), "&", base::KEEP_WHITESPACE,
++                          base::SplitResult::SPLIT_WANT_ALL);
++    query_params.erase(std::remove_if(query_params.begin(), query_params.end(),
++                                      [](const auto& p) {
++                                        return base::StartsWith(
++                                            p,
++                                            "t=", base::CompareCase::SENSITIVE);
++                                      }),
++                       query_params.end());
++
++    GURL::Replacements replacements;
++    std::string new_query_str = base::JoinString(query_params, "&");
++    replacements.SetQueryStr(new_query_str);
++    validated_params->url = url.ReplaceComponents(replacements);
++    LOG(ERROR) << "[2] RENDER FRAME HOST IMPL NEW URL = "
++               << validated_params->url;
++  }
++  if (url.DomainIs("fmarier.org") &&
++      (!request_initiator ||
++       !request_initiator.value().DomainIs("fmarier.org")) &&
++      url.has_query()) {
++    std::vector<std::string> query_params =
++        base::SplitString(url.query_piece(), "&", base::KEEP_WHITESPACE,
++                          base::SplitResult::SPLIT_WANT_ALL);
++    query_params.erase(
++        std::remove_if(query_params.begin(), query_params.end(),
++                       [](const auto& p) {
++                         return base::StartsWith(
++                             p, "fbclid=", base::CompareCase::SENSITIVE);
++                       }),
++        query_params.end());
++
++    GURL::Replacements replacements;
++    std::string new_query_str = base::JoinString(query_params, "&");
++    replacements.SetQueryStr(new_query_str);
++    validated_params->url = url.ReplaceComponents(replacements);
++    LOG(ERROR) << "[2] RENDER FRAME HOST IMPL NEW URL = "
++               << validated_params->url;
++  }
++
+   // BeginNavigation() should only be triggered when the navigation is
+   // initiated by a frame in the same process.
+   int initiator_process_id = GetProcess()->GetID();
