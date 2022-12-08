@@ -4,6 +4,7 @@
 
 import { Notification } from '../../shared/components/notifications'
 import { GrantInfo } from '../../shared/lib/grant_info'
+import { UserType, userTypeFromString } from '../../shared/lib/user_type'
 import { ProviderPayoutStatus } from '../../shared/lib/provider_payout_status'
 import { RewardsSummaryData } from '../../shared/components/wallet_card'
 import { OnboardingResult } from '../../shared/components/onboarding'
@@ -206,9 +207,11 @@ export function getRewardsEnabled () {
   })
 }
 
-export function getUserVersion () {
-  return new Promise<string>((resolve) => {
-    chrome.braveRewards.getUserVersion(resolve)
+export function getUserType () {
+  return new Promise<UserType>((resolve) => {
+    chrome.braveRewards.getUserType((userType) => {
+      resolve(userTypeFromString(userType))
+    })
   })
 }
 

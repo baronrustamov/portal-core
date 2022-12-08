@@ -117,7 +117,7 @@ function createHost (): Host {
     ] && [],
     availableCountries: ['US'],
     declaredCountry: 'US',
-    userVersion: '2.5',
+    userType: 'unconnected',
     publishersVisitedCount: 4
   })
 

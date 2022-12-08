@@ -2,6 +2,8 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
+import { UserType } from '../../shared/lib/user_type'
+
 import * as mojom from '../../shared/lib/mojom'
 
 type EmptyMediaData = {
@@ -98,7 +100,7 @@ export interface HostState {
   publisherInfo?: PublisherInfo
   balanceInfo?: BalanceInfo
   externalWalletInfo?: ExternalWalletInfo
-  userVersion?: string
+  userType?: UserType
   rewardsParameters?: RewardsParameters
   hostError?: HostError
   nextReconcileDate?: Date

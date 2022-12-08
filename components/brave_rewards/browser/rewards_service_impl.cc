@@ -643,6 +643,48 @@ base::Version RewardsServiceImpl::GetUserVersion() const {
   return version;
 }
 
+void RewardsServiceImpl::GetUserType(
+    base::OnceCallback<void(ledger::mojom::UserType)> callback) {
+  using ledger::mojom::UserType;
+
+  if (!Connected()) {
+    return DeferCallback(FROM_HERE, std::move(callback),
+                         UserType::kUnconnected);
+  }
+
+  auto on_external_wallet = [](base::WeakPtr<RewardsServiceImpl> self,
+                               base::OnceCallback<void(UserType)> callback,
+                               GetExternalWalletResult result) {
+    if (!self) {
+      std::move(callback).Run(UserType::kUnconnected);
+      return;
+    }
+
+    auto wallet = std::move(result).value_or(nullptr);
+    if (!wallet ||
+        wallet->status != ledger::mojom::WalletStatus::kNotConnected) {
+      std::move(callback).Run(UserType::kConnected);
+      return;
+    }
+
+    auto* prefs = self->profile_->GetPrefs();
+    base::Version version(prefs->GetString(prefs::kUserVersion));
+    if (!version.IsValid()) {
+      version = base::Version({1});
+    }
+
+    if (version.CompareTo(base::Version({2, 5})) < 0) {
+      std::move(callback).Run(UserType::kLegacyUnconnected);
+      return;
+    }
+
+    std::move(callback).Run(UserType::kUnconnected);
+  };
+
+  GetExternalWallet(
+      base::BindOnce(on_external_wallet, AsWeakPtr(), std::move(callback)));
+}
+
 std::string RewardsServiceImpl::GetCountryCode() const {
   auto* prefs = profile_->GetPrefs();
   std::string country = prefs->GetString(prefs::kDeclaredGeo);

@@ -123,6 +123,9 @@ class RewardsServiceImpl : public RewardsService,
 
   base::Version GetUserVersion() const override;
 
+  void GetUserType(
+      base::OnceCallback<void(ledger::mojom::UserType)> callback) override;
+
   std::string GetCountryCode() const override;
 
   void GetAvailableCountries(
