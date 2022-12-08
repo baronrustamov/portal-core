@@ -32,12 +32,6 @@ class UpholdServer;
 
 namespace uphold {
 
-struct Transaction {
-  std::string address;
-  double amount;
-  std::string message;
-};
-
 class UpholdTransfer;
 class UpholdCard;
 
@@ -64,7 +58,7 @@ class Uphold {
 
   void TransferFunds(double amount,
                      const std::string& address,
-                     client::TransactionCallback);
+                     client::LegacyResultCallback);
 
   void ConnectWallet(const base::flat_map<std::string, std::string>& args,
                      ledger::ConnectExternalWalletCallback);
@@ -91,8 +85,12 @@ class Uphold {
   [[nodiscard]] bool LogOutWallet(const std::string& notification = "");
 
  private:
+  void OnCreateTransaction(ledger::LegacyResultCallback,
+                           std::string&& transaction_id);
+
+  void OnCommitTransaction(ledger::LegacyResultCallback, bool success);
+
   void ContributionCompleted(mojom::Result result,
-                             const std::string& transaction_id,
                              const std::string& contribution_id,
                              double fee,
                              const std::string& publisher_key,
@@ -104,13 +102,12 @@ class Uphold {
 
   void StartTransferFeeTimer(const std::string& fee_id, int attempts);
 
-  void OnTransferFeeCompleted(const mojom::Result result,
-                              const std::string& transaction_id,
+  void OnTransferFeeCompleted(mojom::Result result,
                               const std::string& contribution_id,
                               int attempts);
 
   void TransferFee(const std::string& contribution_id,
-                   const double amount,
+                   double amount,
                    int attempts);
 
   void OnTransferFeeTimerElapsed(const std::string& id, int attempts);

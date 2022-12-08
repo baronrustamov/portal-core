@@ -46,6 +46,10 @@ using ResultCallback = base::OnceCallback<void(mojom::Result)>;
 using GetPromotionListCallback =
     std::function<void(std::vector<mojom::PromotionPtr>)>;
 
+using CreateTransactionCallback = std::function<void(std::string&&)>;
+
+using CommitTransactionCallback = std::function<void(bool)>;
+
 using TransactionCallback =
     std::function<void(const mojom::Result, const std::string&)>;
 

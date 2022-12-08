@@ -40,7 +40,6 @@ class SKUTransaction {
                           ledger::LegacyResultCallback callback);
 
   void OnTransfer(mojom::Result result,
-                  const std::string& external_transaction_id,
                   const mojom::SKUTransaction& transaction,
                   ledger::LegacyResultCallback callback);
 

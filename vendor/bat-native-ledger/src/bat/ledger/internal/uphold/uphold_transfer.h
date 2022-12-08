@@ -6,44 +6,41 @@
 #ifndef BRAVE_VENDOR_BAT_NATIVE_LEDGER_SRC_BAT_LEDGER_INTERNAL_UPHOLD_UPHOLD_TRANSFER_H_
 #define BRAVE_VENDOR_BAT_NATIVE_LEDGER_SRC_BAT_LEDGER_INTERNAL_UPHOLD_UPHOLD_TRANSFER_H_
 
-#include <map>
-#include <memory>
 #include <string>
 
+#include "bat/ledger/internal/endpoints/uphold/post_commit_transaction/post_commit_transaction_uphold.h"
+#include "bat/ledger/internal/endpoints/uphold/post_create_transaction/post_create_transaction_uphold.h"
+#include "bat/ledger/internal/uphold/uphold.h"
 #include "bat/ledger/ledger.h"
 
 namespace ledger {
 class LedgerImpl;
 
-namespace endpoint {
-class UpholdServer;
-}
-
 namespace uphold {
 
-class UpholdTransfer {
+class UpholdTransfer final {
  public:
-  explicit UpholdTransfer(LedgerImpl* ledger);
+  explicit UpholdTransfer(LedgerImpl*);
 
   ~UpholdTransfer();
 
-  void Start(const Transaction&, client::TransactionCallback);
+  void CreateTransaction(const std::string& destination,
+                         double amount,
+                         client::CreateTransactionCallback) const;
+
+  void CommitTransaction(const std::string& transaction_id,
+                         client::CommitTransactionCallback) const;
 
  private:
-  void OnCreateTransaction(mojom::Result,
-                           const std::string& id,
-                           client::TransactionCallback);
+  void OnCreateTransaction(
+      client::CreateTransactionCallback,
+      endpoints::PostCreateTransactionUphold::Result&&) const;
 
-  void CommitTransaction(
-      const std::string& transaction_id,
-      client::TransactionCallback callback);
-
-  void OnCommitTransaction(mojom::Result,
-                           const std::string& transaction_id,
-                           client::TransactionCallback);
+  void OnCommitTransaction(
+      client::CommitTransactionCallback,
+      endpoints::PostCommitTransactionUphold::Result&&) const;
 
   LedgerImpl* ledger_;  // NOT OWNED
-  std::unique_ptr<endpoint::UpholdServer> uphold_server_;
 };
 
 }  // namespace uphold

@@ -46,6 +46,20 @@ enum PostConnectError {
   kFailedToParseBody
 };
 
+enum PostCommitTransactionUpholdError {
+  kFailedToCreateRequest,
+  kAccessTokenExpired,                  // HTTP 401
+  kUnexpectedStatusCode,                // HTTP xxx
+  kFailedToParseBody
+};
+
+enum PostCreateTransactionUpholdError {
+  kFailedToCreateRequest,
+  kAccessTokenExpired,                  // HTTP 401
+  kUnexpectedStatusCode,                // HTTP xxx
+  kFailedToParseBody
+};
+
 enum PostOAuthUpholdError {
   kFailedToCreateRequest,
   kUnexpectedStatusCode,                // HTTP xxx

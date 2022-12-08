@@ -93,7 +93,6 @@ void SKUTransaction::OnTransactionSaved(
   auto transfer_callback = std::bind(&SKUTransaction::OnTransfer,
       this,
       _1,
-      _2,
       transaction,
       callback);
 
@@ -105,7 +104,6 @@ void SKUTransaction::OnTransactionSaved(
 }
 
 void SKUTransaction::OnTransfer(mojom::Result result,
-                                const std::string& external_transaction_id,
                                 const mojom::SKUTransaction& transaction,
                                 ledger::LegacyResultCallback callback) {
   if (result != mojom::Result::LEDGER_OK) {
@@ -114,6 +112,9 @@ void SKUTransaction::OnTransfer(mojom::Result result,
     return;
   }
 
+  // TODO: do a transaction_id lookup in external_transactions based on
+  // contribution_id
+  std::string external_transaction_id;
   if (external_transaction_id.empty()) {
     callback(mojom::Result::LEDGER_OK);
     return;
