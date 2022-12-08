@@ -5,30 +5,63 @@
 import * as React from 'react'
 
 import { Button } from 'brave-ui/components'
-import { ButtonWrapper, DiagnosticsEntry } from '../style'
+import { ButtonWrapper, DiagnosticsEntry, Input, DiagnosticsHeader } from '../style'
 
 // Utils
 import { getLocale } from '../../../../common/locale'
 
 interface Props {
-  entries: RewardsInternals.AdDiagnosticsEntry[]
+  adDiagnostics: RewardsInternals.AdDiagnostics
   onGet: () => void
+  setAdDiagnosticId: (adDiagnosticId: string) => void
 }
 
 const getEntries = (entries: RewardsInternals.AdDiagnosticsEntry[]) => {
-  if (!entries || entries.length === 0) {
-    return (
-      <DiagnosticsEntry>
-        {getLocale('adsNotInitialized')}
-      </DiagnosticsEntry>
-    )
-  }
-
   return entries.map(entry => (
     <DiagnosticsEntry key={entry.name}>
       {entry.name}: {entry.value}
     </DiagnosticsEntry>
   ))
+}
+
+const adDiagnosticsInfo = (adDiagnostics: RewardsInternals.AdDiagnostics) => {
+  const { entries } = adDiagnostics
+
+  return (
+    <>
+      <DiagnosticsHeader>
+        {getLocale('adDiagnosticsInfo')}
+      </DiagnosticsHeader>
+      {
+        (!entries || entries.length === 0)
+          ? getLocale('adsNotInitialized')
+          : getEntries(entries)
+      }
+    </>
+  )
+}
+
+const adDiagnosticId = (props: Props) => {
+  const handleDiagnosticIdChanged =
+    React.useCallback((event: React.ChangeEvent<HTMLInputElement>) => {
+      props.setAdDiagnosticId(event.target.value)
+    }, [])
+
+  return (
+    <>
+      <DiagnosticsHeader>
+        {getLocale('adDiagnosticId')}
+      </DiagnosticsHeader>
+      <DiagnosticsEntry>
+        <Input
+          placeholder={getLocale('adDiagnosticId')}
+          defaultValue={props.adDiagnostics.diagnosticId}
+          onChange={handleDiagnosticIdChanged}
+          maxLength={256}
+        />
+      </DiagnosticsEntry>
+    </>
+  )
 }
 
 export const AdDiagnostics = (props: Props) => {
@@ -42,7 +75,10 @@ export const AdDiagnostics = (props: Props) => {
           onClick={props.onGet}
         />
       </ButtonWrapper>
-      {getEntries(props.entries)}
+
+      {adDiagnosticsInfo(props.adDiagnostics)}
+
+      {adDiagnosticId(props)}
     </>
   )
 }

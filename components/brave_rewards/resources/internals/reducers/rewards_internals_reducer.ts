@@ -89,6 +89,10 @@ const rewardsInternalsReducer: Reducer<RewardsInternals.State | undefined> = (st
       state = { ...state }
       state.adDiagnostics = action.payload.adDiagnostics
       break
+    case types.SET_AD_DIAGNOSTIC_ID:
+      console.log(action.payload)
+      chrome.send('brave_rewards_internals.setAdDiagnosticId', [action.payload.adDiagnosticId])
+      break
     default:
       break
   }

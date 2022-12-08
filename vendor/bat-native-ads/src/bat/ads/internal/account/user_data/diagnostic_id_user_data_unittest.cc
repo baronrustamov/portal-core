@@ -33,7 +33,8 @@ TEST_F(BatAdsDiagnosticIdUserDataTest, GetDiagnosticId) {
 
 TEST_F(BatAdsDiagnosticIdUserDataTest, DoNotGetInvalidDiagnosticId) {
   // Arrange
-  AdsClientHelper::GetInstance()->SetStringPref(prefs::kDiagnosticId, "INVALID");
+  AdsClientHelper::GetInstance()->SetStringPref(prefs::kDiagnosticId,
+                                                "INVALID");
 
   // Act
   const base::Value::Dict user_data = GetDiagnosticId();
