@@ -133,6 +133,10 @@ const PrefsUtil::TypedPrefMap& BravePrefsUtil::GetAllowlistedKeys() {
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
   (*s_brave_allowlist)[brave_rewards::prefs::kInlineTipGithubEnabled] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
+  (*s_brave_allowlist)[brave_rewards::prefs::kUserVersion] =
+      settings_api::PrefType::PREF_TYPE_STRING;
+  (*s_brave_allowlist)[brave_rewards::prefs::kExternalWalletType] =
+      settings_api::PrefType::PREF_TYPE_STRING;
 
   // Search engine prefs
   (*s_brave_allowlist)[prefs::kAddOpenSearchEngines] =
