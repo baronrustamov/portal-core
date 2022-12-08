@@ -12,15 +12,11 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.util.List;
-
 public class BraveNewsSettingsDividerItemDecoration extends RecyclerView.ItemDecoration {
     private Drawable mDivider;
-    private List<Integer> mAvoidItems;
 
-    public BraveNewsSettingsDividerItemDecoration(Drawable divider, List<Integer> avoidItems) {
+    public BraveNewsSettingsDividerItemDecoration(Drawable divider) {
         mDivider = divider;
-        mAvoidItems = avoidItems;
     }
 
     @Override
@@ -32,16 +28,13 @@ public class BraveNewsSettingsDividerItemDecoration extends RecyclerView.ItemDec
             View child = parent.getChildAt(i);
             int position = parent.getChildAdapterPosition(child);
 
-            if (!mAvoidItems.contains(position)) {
-                int left = parent.getPaddingLeft();
-                int right = parent.getWidth() - parent.getPaddingRight();
-                RecyclerView.LayoutParams params =
-                        (RecyclerView.LayoutParams) child.getLayoutParams();
-                int top = child.getBottom() + params.bottomMargin;
-                int bottom = top + mDivider.getIntrinsicHeight();
-                mDivider.setBounds(left, top, right, bottom);
-                mDivider.draw(canvas);
-            }
+            int left = parent.getPaddingLeft();
+            int right = parent.getWidth() - parent.getPaddingRight();
+            RecyclerView.LayoutParams params = (RecyclerView.LayoutParams) child.getLayoutParams();
+            int top = child.getBottom() + params.bottomMargin;
+            int bottom = top + mDivider.getIntrinsicHeight();
+            mDivider.setBounds(left, top, right, bottom);
+            mDivider.draw(canvas);
         }
     }
 }

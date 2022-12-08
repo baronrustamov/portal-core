@@ -50,7 +50,6 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import org.chromium.base.BraveFeatureList;
 import org.chromium.base.ContextUtils;
-import org.chromium.base.Log;
 import org.chromium.base.ThreadUtils;
 import org.chromium.base.supplier.Supplier;
 import org.chromium.base.task.AsyncTask;
@@ -648,7 +647,6 @@ public class BraveNewTabPageLayout
                             && lastVisibleItemPosition > mNtpAdapter.getStatsCount()
                                             + mNtpAdapter.getTopSitesCount()
                                             + mNtpAdapter.getNewContentCount()) {
-                        Log.e("tapan", "lastVisibleItemPosition:" + lastVisibleItemPosition);
                         if (mNewsSettingsBar.getVisibility() != View.VISIBLE) {
                             mNewsSettingsBar.setVisibility(View.VISIBLE);
                         }
@@ -873,24 +871,20 @@ public class BraveNewTabPageLayout
             public void run() {
                 mBraveNewsController.getFeed((feed) -> {
                     if (feed == null) {
-                        Log.e("tapan", "feed null");
                         processFeed(isNewContent);
                         return;
                     }
 
-                    Log.e("tapan", "feed not null:" + feed.hash);
-
                     mFeedHash = feed.hash;
-                    mNewsItemsFeedCard.clear();
-                    BraveNewsUtils.initCurrentAds();
                     mNtpAdapter.notifyItemRangeRemoved(
                             mNtpAdapter.getStatsCount() + mNtpAdapter.getTopSitesCount() + 1,
                             mNewsItemsFeedCard.size());
+                    mNewsItemsFeedCard.clear();
+                    BraveNewsUtils.initCurrentAds();
                     SharedPreferencesManager.getInstance().writeString(
                             BravePreferenceKeys.BRAVE_NEWS_FEED_HASH, feed.hash);
 
                     if (feed.featuredItem != null) {
-                        Log.e("tapan", "feed.featuredItem not null");
                         // process Featured item
                         FeedItem featuredItem = feed.featuredItem;
                         FeedItemsCard featuredItemsCard = new FeedItemsCard();
@@ -910,23 +904,23 @@ public class BraveNewTabPageLayout
 
                         featuredItemsCard.setFeedItems(featuredCardItems);
                         mNewsItemsFeedCard.add(featuredItemsCard);
-                    } else {
-                        Log.e("tapan", "feed.featuredItem null");
                     }
-                    // adds empty card to trigger Display ad call for the second card, when the
-                    // user starts scrolling
-                    FeedItemsCard displayAdCard = new FeedItemsCard();
-                    DisplayAd displayAd = new DisplayAd();
-                    displayAdCard.setCardType(CardType.DISPLAY_AD);
-                    displayAdCard.setDisplayAd(displayAd);
-                    displayAdCard.setUuid(UUID.randomUUID().toString());
-                    mNewsItemsFeedCard.add(displayAdCard);
+
+                    if (mNewsItemsFeedCard.size() > 0
+                            || (feed.pages != null && feed.pages.length > 0)) {
+                        //  adds empty card to trigger Display ad call for the second card, when the
+                        //  user starts scrolling
+                        FeedItemsCard displayAdCard = new FeedItemsCard();
+                        DisplayAd displayAd = new DisplayAd();
+                        displayAdCard.setCardType(CardType.DISPLAY_AD);
+                        displayAdCard.setDisplayAd(displayAd);
+                        displayAdCard.setUuid(UUID.randomUUID().toString());
+                        mNewsItemsFeedCard.add(displayAdCard);
+                    }
 
                     // start page loop
                     int noPages = 0;
                     int itemIndex = 0;
-                    int totalPages = feed.pages.length;
-                    Log.e("tapan", "totalPages:" + totalPages);
                     for (FeedPage page : feed.pages) {
                         for (FeedPageItem cardData : page.items) {
                             // if for any reason we get an empty object, unless it's a
@@ -956,7 +950,6 @@ public class BraveNewTabPageLayout
                     } // end page loop
 
                     processFeed(isNewContent);
-
                     BraveActivity.getBraveActivity().setNewsItemsFeedCards(mNewsItemsFeedCard);
                     BraveActivity.getBraveActivity().setLoadedFeed(true);
                 });
@@ -994,11 +987,8 @@ public class BraveNewTabPageLayout
     }
 
     private void processFeed(boolean isNewContent) {
-        Log.e("tapan", "processFeed");
         mNtpAdapter.setNewsLoading(false);
-
         if (mNewsItemsFeedCard != null && mNewsItemsFeedCard.size() > 0) {
-            Log.e("tapan", "notifyItemRangeChanged");
             mNtpAdapter.notifyItemRangeChanged(
                     mNtpAdapter.getStatsCount() + mNtpAdapter.getTopSitesCount(),
                     mNtpAdapter.getItemCount() - mNtpAdapter.getStatsCount()
@@ -1008,7 +998,6 @@ public class BraveNewTabPageLayout
         if (isNewContent) {
             mPrevVisibleNewsCardPosition = mPrevVisibleNewsCardPosition - 1;
             setNewContentChanges(false);
-
             RecyclerView.LayoutManager manager = mRecyclerView.getLayoutManager();
             if (manager instanceof LinearLayoutManager) {
                 LinearLayoutManager linearLayoutManager = (LinearLayoutManager) manager;
@@ -1027,7 +1016,6 @@ public class BraveNewTabPageLayout
         if (isNewContent) {
             if (mNtpAdapter != null) {
                 mNtpAdapter.setNewContent(true);
-
                 RecyclerView.LayoutManager manager = mRecyclerView.getLayoutManager();
                 if (manager instanceof LinearLayoutManager) {
                     LinearLayoutManager linearLayoutManager = (LinearLayoutManager) manager;

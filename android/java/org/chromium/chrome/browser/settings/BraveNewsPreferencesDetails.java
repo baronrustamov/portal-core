@@ -5,10 +5,8 @@
 
 package org.chromium.chrome.browser.settings;
 
-import android.app.Activity;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.util.Pair;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -16,15 +14,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.URLUtil;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
 
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.content.ContextCompat;
-import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -35,7 +28,6 @@ import org.chromium.base.task.TaskTraits;
 import org.chromium.brave_news.mojom.BraveNewsController;
 import org.chromium.brave_news.mojom.Channel;
 import org.chromium.brave_news.mojom.FeedSearchResultItem;
-import org.chromium.brave_news.mojom.LocaleInfo;
 import org.chromium.brave_news.mojom.Publisher;
 import org.chromium.brave_news.mojom.UserEnabled;
 import org.chromium.chrome.R;
@@ -50,21 +42,9 @@ import org.chromium.mojo.bindings.ConnectionErrorHandler;
 import org.chromium.mojo.system.MojoException;
 import org.chromium.url.mojom.Url;
 
-import java.net.MalformedURLException;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Locale;
 import java.util.Map;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class BraveNewsPreferencesDetails extends BravePreferenceFragment
         implements BraveNewsPreferencesListener, ConnectionErrorHandler {
@@ -98,14 +78,13 @@ public class BraveNewsPreferencesDetails extends BravePreferenceFragment
     private void setData() {
         List<Publisher> publisherList = new ArrayList<>();
         List<Channel> channelsList = new ArrayList<>();
-        List avoidItemDivider = new ArrayList<Integer>();
         if (mBraveNewsPreferencesType.equalsIgnoreCase(
                     BraveNewsPreferencesType.PopularSources.toString())) {
             publisherList = BraveNewsUtils.getPopularSources();
             getActivity().setTitle(R.string.popular);
         } else if (mBraveNewsPreferencesType.equalsIgnoreCase(
                            BraveNewsPreferencesType.Suggested.toString())) {
-            publisherList = BraveNewsUtils.getSuggestedSources();
+            publisherList = BraveNewsUtils.getSuggestedPublisherList();
             getActivity().setTitle(R.string.suggested);
         } else if (mBraveNewsPreferencesType.equalsIgnoreCase(
                            BraveNewsPreferencesType.Channels.toString())) {
@@ -116,13 +95,10 @@ public class BraveNewsPreferencesDetails extends BravePreferenceFragment
             getActivity().setTitle(R.string.following);
             publisherList = BraveNewsUtils.getFollowingPublisherList();
             channelsList = BraveNewsUtils.getFollowingChannelList();
-            avoidItemDivider.add(0);
-            if (publisherList.size() > 0 && channelsList.size() > 0) {
-                avoidItemDivider.add(publisherList.size() + 1);
-            }
         } else if (mBraveNewsPreferencesType.equalsIgnoreCase(
                            BraveNewsPreferencesType.Search.toString())) {
             getView().findViewById(R.id.search_divider).setVisibility(View.VISIBLE);
+
             Toolbar actionBar = getActivity().findViewById(R.id.action_bar);
             actionBar.setContentInsetsAbsolute(0, 0);
             actionBar.setContentInsetStartWithNavigation(0);
@@ -139,7 +115,7 @@ public class BraveNewsPreferencesDetails extends BravePreferenceFragment
         Drawable horizontalDivider = ContextCompat.getDrawable(
                 getActivity(), R.drawable.brave_news_settings_list_divider);
         mRecyclerView.addItemDecoration(
-                new BraveNewsSettingsDividerItemDecoration(horizontalDivider, avoidItemDivider));
+                new BraveNewsSettingsDividerItemDecoration(horizontalDivider));
     }
 
     private void initBraveNewsController() {
@@ -241,17 +217,17 @@ public class BraveNewsPreferencesDetails extends BravePreferenceFragment
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        MenuItem homeItem = menu.findItem(R.id.close_menu_id);
-        if (homeItem != null) {
-            homeItem.setVisible(false);
+        MenuItem closeItem = menu.findItem(R.id.close_menu_id);
+        if (closeItem != null) {
+            closeItem.setVisible(false);
         }
-
         if (mBraveNewsPreferencesType.equalsIgnoreCase(
                     BraveNewsPreferencesType.Search.toString())) {
             inflater.inflate(R.menu.menu_brave_news_settings_search, menu);
 
             MenuItem searchItem = menu.findItem(R.id.menu_id_search);
             SearchView searchView = (SearchView) searchItem.getActionView();
+            searchView.setMaxWidth(Integer.MAX_VALUE);
             searchView.setQueryHint(getActivity().getString(R.string.brave_news_settings_search));
             SearchUtils.initializeSearchView(searchItem, mSearch, getActivity(), (query) -> {
                 boolean queryHasChanged = mSearch == null ? query != null && !query.isEmpty()

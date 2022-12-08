@@ -5,7 +5,6 @@
 
 package org.chromium.chrome.browser.settings;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,10 +14,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.widget.SwitchCompat;
 
-import org.chromium.base.Log;
 import org.chromium.brave_news.mojom.BraveNewsController;
 import org.chromium.brave_news.mojom.Channel;
-import org.chromium.brave_news.mojom.LocaleInfo;
 import org.chromium.brave_news.mojom.Publisher;
 import org.chromium.chrome.R;
 import org.chromium.chrome.browser.brave_news.BraveNewsControllerFactory;
@@ -33,16 +30,7 @@ import org.chromium.components.browser_ui.settings.SettingsLauncher;
 import org.chromium.mojo.bindings.ConnectionErrorHandler;
 import org.chromium.mojo.system.MojoException;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Locale;
-import java.util.Map;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 public class BraveNewsPreferencesV2 extends BravePreferenceFragment
         implements ConnectionErrorHandler, FragmentSettingsLauncher {
@@ -55,6 +43,7 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
     private View mLayoutChannels;
     private View mLayoutFollowing;
 
+    private boolean mIsSuggestionAvailable;
     private BraveNewsController mBraveNewsController;
 
     // SettingsLauncher injected from main Settings Activity.
@@ -73,7 +62,6 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
         super.onActivityCreated(savedInstanceState);
 
         initBraveNewsController();
-        // getBraveNewsData();
 
         mSwitchShowNews = (SwitchCompat) getView().findViewById(R.id.switch_show_news);
         mDivider = getView().findViewById(R.id.divider);
@@ -87,6 +75,9 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
         if (BraveNewsUtils.getChannelIcons().size() == 0) {
             BraveNewsUtils.setChannelIcons();
         }
+        if (BraveNewsUtils.getSuggestedPublisherList().size() > 0) {
+            mIsSuggestionAvailable = true;
+        }
         onClickViews();
 
         boolean isShowNewsOn = BravePrefServiceBridge.getInstance().getShowNews();
@@ -99,11 +90,11 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
 
         if (BraveNewsUtils.getLocale() != null) {
             List<Publisher> followingPublisherList = BraveNewsUtils.getFollowingPublisherList();
-            // List<Publisher> followingRssList = BraveNewsUtils.getFollowingRssList();
             List<Channel> followingChannelList = BraveNewsUtils.getFollowingChannelList();
-            int followingCount = followingChannelList.size() + followingPublisherList.size()
-                    /*+ followingRssList.size()*/;
-            mTvFollowingCount.setText(String.valueOf(followingCount));
+            int followingCount = followingChannelList.size() + followingPublisherList.size();
+            if (mTvFollowingCount != null) {
+                mTvFollowingCount.setText(String.valueOf(followingCount));
+            }
         }
     }
 
@@ -132,7 +123,6 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
     }
 
     private void onShowNewsToggle(boolean isEnable) {
-        Log.e("tapan", "onShowNewsToggle:" + isEnable);
         BravePrefServiceBridge.getInstance().setShowNews(isEnable);
 
         SharedPreferencesManager.getInstance().writeBoolean(
@@ -147,7 +137,9 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
 
             mTvSearch.setVisibility(View.VISIBLE);
             mLayoutPopularSources.setVisibility(View.VISIBLE);
-            mLayoutSuggested.setVisibility(View.VISIBLE);
+            if (mIsSuggestionAvailable) {
+                mLayoutSuggested.setVisibility(View.VISIBLE);
+            }
             mLayoutChannels.setVisibility(View.VISIBLE);
             mLayoutFollowing.setVisibility(View.VISIBLE);
 
@@ -165,9 +157,8 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
         Bundle fragmentArgs = new Bundle();
         fragmentArgs.putString(
                 BraveConstants.BRAVE_NEWS_PREFERENCES_TYPE, braveNewsPreferencesType.toString());
-        Intent intent = mSettingsLauncher.createSettingsActivityIntent(
-                getActivity(), BraveNewsPreferencesDetails.class.getName(), fragmentArgs);
-        startActivity(intent);
+        mSettingsLauncher.launchSettingsActivity(
+                getActivity(), BraveNewsPreferencesDetails.class, fragmentArgs);
     }
 
     private void initBraveNewsController() {
@@ -181,7 +172,6 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
 
     @Override
     public void setSettingsLauncher(SettingsLauncher settingsLauncher) {
-        Log.e("tapan", "settingsLauncher");
         mSettingsLauncher = settingsLauncher;
     }
 

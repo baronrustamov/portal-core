@@ -5,9 +5,6 @@
 
 package org.chromium.chrome.browser.brave_news;
 
-import android.content.Context;
-import android.util.Pair;
-
 import org.chromium.base.Log;
 import org.chromium.base.task.PostTask;
 import org.chromium.base.task.TaskTraits;
@@ -36,8 +33,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 public class BraveNewsUtils {
     public static final int BRAVE_NEWS_VIEWD_CARD_TIME = 1000; // milliseconds
@@ -48,7 +43,6 @@ public class BraveNewsUtils {
     private static List<Publisher> mPublisherList;
     private static List<Channel> mFollowingChannelList;
     private static List<Publisher> mFollowingPublisherList;
-    // private static List<Publisher> mFollowingRssList;
     private static List<String> mSuggestedList;
     private static HashMap<String, Integer> mChannelIcons = new HashMap<>();
 
@@ -137,6 +131,7 @@ public class BraveNewsUtils {
         mChannelIcons.put("Crypto", R.drawable.ic_channel_crypto);
         mChannelIcons.put("Culture", R.drawable.ic_channel_culture);
         mChannelIcons.put("Entertainment", R.drawable.ic_channel_entertainment);
+        mChannelIcons.put("Entertainment News", R.drawable.ic_channel_entertainment);
         mChannelIcons.put("Fashion", R.drawable.ic_channel_fashion);
         mChannelIcons.put("Film and TV", R.drawable.ic_channel_filmtv);
         mChannelIcons.put("Food", R.drawable.ic_channel_food);
@@ -146,14 +141,16 @@ public class BraveNewsUtils {
         mChannelIcons.put("Home", R.drawable.ic_channel_home);
         mChannelIcons.put("Music", R.drawable.ic_channel_music);
         mChannelIcons.put("Politics", R.drawable.ic_channel_politics);
+        mChannelIcons.put("Regional News", R.drawable.ic_channel_us_news);
         mChannelIcons.put("Science", R.drawable.ic_channel_science);
         mChannelIcons.put("Sports", R.drawable.ic_channel_sports);
         mChannelIcons.put("Technology", R.drawable.ic_channel_technology);
         mChannelIcons.put("Tech News", R.drawable.ic_channel_technology);
-        mChannelIcons.put("Tech Reviews", R.drawable.ic_channel_technology);
+        mChannelIcons.put("Tech Reviews", R.drawable.ic_channel_tech_reviews);
         mChannelIcons.put("Top News", R.drawable.ic_channel_top_news);
         mChannelIcons.put("Travel", R.drawable.ic_channel_travel);
-        mChannelIcons.put("US News", R.drawable.ic_channel_usnews);
+        mChannelIcons.put("UK News", R.drawable.ic_channel_us_news);
+        mChannelIcons.put("US News", R.drawable.ic_channel_us_news);
         mChannelIcons.put("Weather", R.drawable.ic_channel_weather);
         mChannelIcons.put("World News", R.drawable.ic_channel_world_news);
     }
@@ -162,7 +159,7 @@ public class BraveNewsUtils {
         return mChannelIcons;
     }
 
-    public static void setLocale(String locale) {
+    private static void setLocale(String locale) {
         mLocale = locale;
     }
 
@@ -170,7 +167,7 @@ public class BraveNewsUtils {
         return mLocale;
     }
 
-    public static void setChannelList(List<Channel> channelList) {
+    private static void setChannelList(List<Channel> channelList) {
         mChannelList = channelList;
         setFollowingChannelList();
     }
@@ -179,7 +176,7 @@ public class BraveNewsUtils {
         return mChannelList;
     }
 
-    public static void setPopularSources(List<Publisher> publisherList) {
+    private static void setPopularSources(List<Publisher> publisherList) {
         mPublisherList = publisherList;
         setFollowingPublisherList();
     }
@@ -188,19 +185,21 @@ public class BraveNewsUtils {
         return mPublisherList;
     }
 
-    public static List<Publisher> getGlobalSources() {
+    /*public static List<Publisher> getGlobalSources() {
         return mGlobalPublisherList;
-    }
+    }*/
 
-    public static void setSuggestedIds(List<String> suggestedList) {
+    private static void setSuggestedIds(List<String> suggestedList) {
         mSuggestedList = suggestedList;
     }
 
-    public static List<Publisher> getSuggestedSources() {
+    public static List<Publisher> getSuggestedPublisherList() {
         List<Publisher> suggestedPublisherList = new ArrayList<>();
-        for (Publisher publisher : mPublisherList) {
-            if (mSuggestedList.contains(publisher.publisherId)) {
-                suggestedPublisherList.add(publisher);
+        if (mSuggestedList != null && mSuggestedList.size() > 0) {
+            for (Publisher publisher : mPublisherList) {
+                if (mSuggestedList.contains(publisher.publisherId)) {
+                    suggestedPublisherList.add(publisher);
+                }
             }
         }
         return suggestedPublisherList;
@@ -284,12 +283,9 @@ public class BraveNewsUtils {
     }
 
     public static void getBraveNewsSettingsData(BraveNewsController braveNewsController) {
-        Log.e("tapan", "before getBraveNewsSettingsData");
         PostTask.postTask(TaskTraits.THREAD_POOL_BEST_EFFORT, () -> {
             if (braveNewsController != null) {
-                Log.e("tapan", "before getLocale");
                 braveNewsController.getLocale((locale) -> {
-                    Log.e("tapan", "after getLocale");
                     setLocale(locale);
                     getChannels(braveNewsController);
                     getPublishers(braveNewsController);
@@ -297,13 +293,10 @@ public class BraveNewsUtils {
                 });
             }
         });
-        Log.e("tapan", "after getBraveNewsSettingsData");
     }
 
     private static void getChannels(BraveNewsController braveNewsController) {
-        Log.e("tapan", "before getChannels");
         braveNewsController.getChannels((channels) -> {
-            Log.e("tapan", "after getChannels");
             List<Channel> channelList = new ArrayList<>();
             for (Map.Entry<String, Channel> entry : channels.entrySet()) {
                 Channel channel = entry.getValue();
@@ -320,11 +313,7 @@ public class BraveNewsUtils {
     }
 
     private static void getPublishers(BraveNewsController braveNewsController) {
-        Log.e("tapan", "before getPublishers");
-        braveNewsController.getPublishers((publishers) -> {
-            Log.e("tapan", "after getPublishers");
-            setPublishers(publishers);
-        });
+        braveNewsController.getPublishers((publishers) -> { setPublishers(publishers); });
     }
 
     public static void setPublishers(Map<String, Publisher> publishers) {
@@ -363,9 +352,8 @@ public class BraveNewsUtils {
     }
 
     private static void getSuggestedSources(BraveNewsController braveNewsController) {
-        Log.e("tapan", "before getSuggestedPublisherIds");
         braveNewsController.getSuggestedPublisherIds((publisherIds) -> {
-            Log.e("tapan", "after getSuggestedPublisherIds");
+            Log.e("tapan", "suggestions:" + publisherIds.length);
             setSuggestedIds(Arrays.asList(publisherIds));
         });
     }
