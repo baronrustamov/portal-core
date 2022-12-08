@@ -131,7 +131,6 @@ class AdBlockService {
   AdBlockRegionalServiceManager* regional_service_manager();
   AdBlockEngine* custom_filters_service();
   AdBlockEngine* default_service();
-  AdBlockEngine* subscription_filters_service();
   AdBlockSubscriptionServiceManager* subscription_service_manager();
 
   AdBlockCustomFiltersProvider* custom_filters_provider();
@@ -180,25 +179,21 @@ class AdBlockService {
       default_filters_provider_;
   std::unique_ptr<brave_shields::AdBlockFilterListCatalogProvider>
       filter_list_catalog_provider_;
-
+  std::unique_ptr<brave_shields::AdBlockSubscriptionServiceManager>
+      subscription_service_manager_;
   std::unique_ptr<brave_shields::AdBlockRegionalServiceManager>
       regional_service_manager_;
 
   std::unique_ptr<brave_shields::AdBlockCombinatorFiltersProvider>
-      subscription_filters_combinator_;
+      custom_filters_combinator_;
 
   std::unique_ptr<brave_shields::AdBlockEngine, base::OnTaskRunnerDeleter>
       custom_filters_service_;
   std::unique_ptr<brave_shields::AdBlockEngine, base::OnTaskRunnerDeleter>
       default_service_;
-  std::unique_ptr<brave_shields::AdBlockEngine, base::OnTaskRunnerDeleter>
-      subscription_filters_service_;
-  std::unique_ptr<brave_shields::AdBlockSubscriptionServiceManager>
-      subscription_service_manager_;
 
   std::unique_ptr<SourceProviderObserver> default_service_observer_;
   std::unique_ptr<SourceProviderObserver> custom_filters_service_observer_;
-  std::unique_ptr<SourceProviderObserver> subscription_service_observer_;
 
   SEQUENCE_CHECKER(sequence_checker_);
 
