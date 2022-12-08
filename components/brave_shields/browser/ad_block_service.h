@@ -129,7 +129,6 @@ class AdBlockService {
       const std::vector<std::string>& exceptions);
 
   AdBlockRegionalServiceManager* regional_service_manager();
-  AdBlockEngine* regional_filters_service();
   AdBlockEngine* custom_filters_service();
   AdBlockEngine* default_service();
   AdBlockEngine* subscription_filters_service();
@@ -186,12 +185,8 @@ class AdBlockService {
       regional_service_manager_;
 
   std::unique_ptr<brave_shields::AdBlockCombinatorFiltersProvider>
-      regional_filters_combinator_;
-  std::unique_ptr<brave_shields::AdBlockCombinatorFiltersProvider>
       subscription_filters_combinator_;
 
-  std::unique_ptr<brave_shields::AdBlockEngine, base::OnTaskRunnerDeleter>
-      regional_filters_service_;
   std::unique_ptr<brave_shields::AdBlockEngine, base::OnTaskRunnerDeleter>
       custom_filters_service_;
   std::unique_ptr<brave_shields::AdBlockEngine, base::OnTaskRunnerDeleter>
@@ -201,7 +196,6 @@ class AdBlockService {
   std::unique_ptr<brave_shields::AdBlockSubscriptionServiceManager>
       subscription_service_manager_;
 
-  std::unique_ptr<SourceProviderObserver> regional_service_observer_;
   std::unique_ptr<SourceProviderObserver> default_service_observer_;
   std::unique_ptr<SourceProviderObserver> custom_filters_service_observer_;
   std::unique_ptr<SourceProviderObserver> subscription_service_observer_;
