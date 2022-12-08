@@ -8,26 +8,18 @@ import { useActions, useRewardsData } from '../lib/redux_hooks'
 import { PlatformContext } from '../lib/platform_context'
 import { LocaleContext } from '../../shared/lib/locale_context'
 import { LayoutContext } from '../lib/layout_context'
-import { getUserType } from '../../shared/lib/user_type'
-
-import {
-  externalWalletFromExtensionData,
-  isExternalWalletProviderAllowed
-} from '../../shared/lib/external_wallet'
 
 import PageWallet from './pageWallet'
-
-import { AdsPanel } from './ads_panel'
-import { AutoContributePanel } from './auto_contribute_panel'
-import { TipsPanel } from './tips_panel'
-import { MonthlyTipsPanel } from './monthly_tips_panel'
+import AdsBox from './adsBox'
+import ContributeBox from './contributeBox'
+import TipBox from './tipsBox'
+import MonthlyTipsBox from './monthlyTipsBox'
 import { SettingsOptInForm, RewardsTourModal } from '../../shared/components/onboarding'
 import { ProviderRedirectModal } from './provider_redirect_modal'
 import { GrantList } from './grant_list'
 import { SidebarPromotionPanel } from './sidebar_promotion_panel'
-import { UnsupportedRegionNotice } from './unsupported_region_notice'
 import { BatIcon } from '../../shared/components/icons/bat_icon'
-import { SettingsIcon } from '../../shared/components/icons/settings_icon'
+import { UnsupportedRegionNotice } from './unsupported_region_notice'
 
 import * as style from './settings.style'
 
@@ -40,11 +32,13 @@ export function Settings () {
 
   const [showRewardsTour, setShowRewardsTour] = React.useState(false)
 
-  const userType = getUserType(
-    rewardsData.userVersion,
-    externalWalletFromExtensionData(rewardsData.externalWallet))
-
   const handleURL = () => {
+    // Used by Android to disconnect the user's external wallet.
+    if (location.hash === '#disconnect-wallet') {
+      actions.disconnectWallet()
+      return true
+    }
+
     const { pathname } = location
 
     // Used to enable Rewards directly from the Welcome UI.
@@ -62,7 +56,6 @@ export function Settings () {
   }
 
   React.useEffect(() => {
-    actions.getUserVersion()
     actions.getIsUnsupportedRegion()
     const date = new Date()
     actions.getBalanceReport(date.getMonth() + 1, date.getFullYear())
@@ -105,9 +98,8 @@ export function Settings () {
 
     const {
       adsData,
-      currentCountryCode,
+      contributionMonthly,
       externalWallet,
-      externalWalletProviderList,
       parameters
     } = rewardsData
 
@@ -119,46 +111,41 @@ export function Settings () {
       actions.onAdsSettingSave('adsPerHour', adsPerHour)
     }
 
-    const onConnectAccount = () => {
+    const onAcAmountChanged = (amount: number) => {
+      actions.onSettingSave('contributionMonthly', amount)
+    }
+
+    const onVerifyClick = () => {
       if (externalWallet && externalWallet.loginUrl) {
         window.open(externalWallet.loginUrl, '_self')
       }
     }
-
-    const canAutoContribute =
-      !(externalWallet && externalWallet.type === 'bitflyer')
-
-    const canConnectAccount = externalWalletProviderList.some((provider) => {
-      const regionInfo = parameters.walletProviderRegions[provider] || null
-      return isExternalWalletProviderAllowed(currentCountryCode, regionInfo)
-    })
 
     return (
       <RewardsTourModal
         layout={layoutKind}
         firstTimeSetup={false}
         adsPerHour={adsData.adsPerHour}
-        canAutoContribute={canAutoContribute}
-        canConnectAccount={canConnectAccount}
+        autoContributeAmount={contributionMonthly}
+        autoContributeAmountOptions={parameters.autoContributeChoices}
+        externalWalletProvider={externalWallet ? externalWallet.type : ''}
         onAdsPerHourChanged={onAdsPerHourChanged}
-        onConnectAccount={onConnectAccount}
+        onAutoContributeAmountChanged={onAcAmountChanged}
+        onVerifyWalletClick={onVerifyClick}
         onDone={onDone}
         onClose={onDone}
       />
     )
   }
 
-  const onManageClick = () => { actions.onModalBackupOpen() }
-
-  function renderUnsupportedRegionNotice () {
+  const renderUnsupportedRegionNotice = () => {
     return (
       <div>
         <style.unsupportedRegionNoticeTitle>
-          <style.header>
-            <style.title>
-              <BatIcon />{getString('braveRewards')}
-            </style.title>
-          </style.header>
+          <style.title>
+            <BatIcon />
+            {getString('braveRewards')}
+          </style.title>
         </style.unsupportedRegionNoticeTitle>
         <style.unsupportedRegionNotice>
           <UnsupportedRegionNotice />
@@ -167,7 +154,7 @@ export function Settings () {
     )
   }
 
-  function renderOnboarding () {
+  const renderOnboarding = () => {
     const onEnable = () => {
       actions.enableRewards()
     }
@@ -179,7 +166,7 @@ export function Settings () {
     )
   }
 
-  function renderContent () {
+  const renderContent = () => {
     // Do not display content until the user's onboarding status has been
     // determined.
     if (rewardsData.showOnboarding === null) {
@@ -205,47 +192,33 @@ export function Settings () {
     return (
       <style.content>
         <style.main>
-          <style.header>
-            <style.title>
-              <BatIcon />{getString('braveRewards')}
-            </style.title>
-            {
-              !isAndroid &&
-                <style.manageAction>
-                  <button
-                    onClick={onManageClick}
-                    data-test-id='manage-wallet-button'
-                  >
-                    <SettingsIcon />{getString('manage')}
-                  </button>
-                </style.manageAction>
-            }
-          </style.header>
+          <style.title>
+            <BatIcon />
+            {getString('braveRewards')}
+          </style.title>
           <style.settingGroup>
-            <AdsPanel />
+            <AdsBox layout={layoutKind} />
           </style.settingGroup>
-          {
-            userType !== 'unconnected' &&
-              <style.settingGroup data-test-id='auto-contribute-settings'>
-                <AutoContributePanel />
-              </style.settingGroup>
-          }
-          {
-            userType !== 'unconnected' &&
-              <>
-                <style.settingGroup>
-                  <TipsPanel />
-                </style.settingGroup>
-                <style.settingGroup>
-                  <MonthlyTipsPanel />
-                </style.settingGroup>
-              </>
-          }
+          <style.settingGroup data-test-id='auto-contribute-settings'>
+            <ContributeBox />
+          </style.settingGroup>
+          <style.settingGroup>
+            <TipBox showSettings={!isAndroid} />
+          </style.settingGroup>
+          <style.settingGroup>
+            <MonthlyTipsBox />
+          </style.settingGroup>
         </style.main>
         <style.sidebar>
-          {userType !== 'unconnected' && <GrantList />}
-          <PageWallet layout={layoutKind} />
-          <SidebarPromotionPanel onTakeRewardsTour={onTakeTour} />
+          <style.grants>
+            <GrantList />
+          </style.grants>
+          <style.rewardsCard>
+            <PageWallet layout={layoutKind} />
+          </style.rewardsCard>
+          <style.promotions>
+            <SidebarPromotionPanel onTakeRewardsTour={onTakeTour} />
+          </style.promotions>
         </style.sidebar>
       </style.content>
     )

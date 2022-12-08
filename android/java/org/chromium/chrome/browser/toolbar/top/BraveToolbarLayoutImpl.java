@@ -486,6 +486,7 @@ public abstract class BraveToolbarLayoutImpl extends ToolbarLayout
                         && mBraveRewardsNativeWorker != null
                         && mBraveRewardsNativeWorker.IsSupported()) {
                     showBraveRewardsOnboardingModal();
+                    BraveRewardsHelper.updateBraveRewardsAppOpenCount();
                 }
             }
 

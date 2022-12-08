@@ -9,8 +9,6 @@ namespace brave_rewards {
 namespace prefs {
 
 const char kDisabledByPolicy[] = "brave.rewards.disabled_by_policy";
-const char kUserVersion[] = "brave.rewards.user_version";
-const char kCurrentUserVersion[] = "2.5";
 const char kHideButton[] = "brave.hide_brave_rewards_button";
 const char kShowButton[] = "brave.show_brave_rewards_button";
 const char kEnabled[] = "brave.rewards.enabled";

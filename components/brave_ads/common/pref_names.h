@@ -72,7 +72,6 @@ extern const char kHasMigratedConfirmationState[];
 extern const char kHasMigratedConversionState[];
 extern const char kHasMigratedNotificationState[];
 extern const char kHasMigratedRewardsState[];
-extern const char kShouldMigrateVerifiedRewardsUser[];
 
 // Confirmations prefs
 extern const char kConfirmationsHash[];

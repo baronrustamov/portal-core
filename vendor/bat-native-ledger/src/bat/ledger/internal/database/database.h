@@ -67,8 +67,6 @@ class Database {
   void DeleteActivityInfo(const std::string& publisher_key,
                           ledger::LegacyResultCallback callback);
 
-  void GetPublishersVisitedCount(base::OnceCallback<void(int)> callback);
-
   /**
    * BALANCE REPORT
    */

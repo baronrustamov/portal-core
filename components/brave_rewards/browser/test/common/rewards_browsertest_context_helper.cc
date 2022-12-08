@@ -163,11 +163,11 @@ void RewardsBrowserTestContextHelper::VisitPublisher(
 
   // Ensure that the AC box is displayed.
   rewards_browsertest_util::WaitForElementToAppear(
-      contents, "[data-test-id=auto-contribute-panel]");
+      contents, "[data-test-id=auto-contribute-settings]");
 
   // Ensure that the AC sites table is displayed.
   rewards_browsertest_util::WaitForElementToAppear(
-      contents, "[data-test-id=auto-contribute-table]");
+      contents, "[data-test-id=autoContribute]");
 
   // Make sure site appears in auto-contribute table
   rewards_browsertest_util::WaitForElementToEqual(

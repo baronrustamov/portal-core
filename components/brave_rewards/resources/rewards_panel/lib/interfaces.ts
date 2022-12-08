@@ -2,12 +2,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-import {
-  ExternalWallet,
-  ExternalWalletProvider,
-  ExternalWalletProviderRegionInfo
-} from '../../shared/lib/external_wallet'
-
+import { ExternalWallet, ExternalWalletProvider } from '../../shared/lib/external_wallet'
 import { GrantInfo } from '../../shared/lib/grant_info'
 import { ProviderPayoutStatus } from '../../shared/lib/provider_payout_status'
 import { PublisherPlatform } from '../../shared/lib/publisher_platform'
@@ -62,7 +57,6 @@ export interface AdaptiveCaptchaInfo {
 }
 
 export interface Settings {
-  adsEnabled: boolean
   adsPerHour: number
   autoContributeEnabled: boolean
   autoContributeAmount: number
@@ -70,7 +64,6 @@ export interface Settings {
 
 export interface Options {
   autoContributeAmounts: number[]
-  externalWalletRegions: Map<string, ExternalWalletProviderRegionInfo>
 }
 
 type RequestedView = 'rewards-tour'
@@ -96,8 +89,6 @@ export interface HostState {
   notifications: Notification[]
   availableCountries: string[]
   declaredCountry: string
-  userVersion: string
-  publishersVisitedCount: number
 }
 
 export type HostListener = (state: HostState) => void
@@ -107,12 +98,13 @@ export type MonthlyTipAction = 'update' | 'cancel'
 export interface Host {
   state: HostState
   addListener: (callback: HostListener) => () => void
+  getString: (key: string) => string
   enableRewards: (country: string) => Promise<OnboardingResult>
   openAdaptiveCaptchaSupport: () => void
   openRewardsSettings: () => void
   refreshPublisherStatus: () => void
   setIncludeInAutoContribute: (include: boolean) => void
-  setAdsEnabled: (adsEnabled: boolean) => void
+  setAutoContributeAmount: (amount: number) => void
   setAdsPerHour: (adsPerHour: number) => void
   sendTip: () => void
   handleMonthlyTipAction: (action: MonthlyTipAction) => void

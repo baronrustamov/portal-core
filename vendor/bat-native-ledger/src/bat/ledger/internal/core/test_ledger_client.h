@@ -156,11 +156,7 @@ class TestLedgerClient : public LedgerClient {
 
   void ClearAllNotifications() override;
 
-  void ExternalWalletConnected() const override;
-
-  void ExternalWalletLoggedOut() const override;
-
-  void ExternalWalletReconnected() const override;
+  void WalletDisconnected(const std::string& wallet_type) override;
 
   void DeleteLog(client::LegacyResultCallback callback) override;
 

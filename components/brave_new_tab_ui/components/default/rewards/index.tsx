@@ -4,19 +4,15 @@
 
 import * as React from 'react'
 
+import { getLocale } from '../../../../common/locale'
 import createWidget from '../widget/index'
 import { StyledTitleTab } from '../widgetTitleTab'
 
 import { LocaleContext } from '../../../../brave_rewards/resources/shared/lib/locale_context'
-import { createLocaleContextForWebUI } from '../../../../brave_rewards/resources/shared/lib/webui_locale_context'
 import { getProviderPayoutStatus } from '../../../../brave_rewards/resources/shared/lib/provider_payout_status'
 import { WithThemeVariables } from '../../../../brave_rewards/resources/shared/components/with_theme_variables'
 import { GrantInfo } from '../../../../brave_rewards/resources/shared/lib/grant_info'
-
-import {
-  externalWalletFromExtensionData,
-  isExternalWalletProviderAllowed
-} from '../../../../brave_rewards/resources/shared/lib/external_wallet'
+import { externalWalletFromExtensionData } from '../../../../brave_rewards/resources/shared/lib/external_wallet'
 
 import {
   RewardsCard,
@@ -26,7 +22,7 @@ import {
 
 export { SponsoredImageTooltip }
 
-const locale = createLocaleContextForWebUI()
+const locale = { getString: (key: string) => getLocale(key) }
 
 export function RewardsContextAdapter (props: { children: React.ReactNode }) {
   return (
@@ -40,20 +36,17 @@ export function RewardsContextAdapter (props: { children: React.ReactNode }) {
 
 export interface RewardsProps {
   rewardsEnabled: boolean
-  userVersion: string
   isUnsupportedRegion: boolean
   declaredCountry: string
   enabledAds: boolean
   needsBrowserUpgradeToServeAds: boolean
   balance: NewTab.RewardsBalance
   externalWallet?: RewardsExtension.ExternalWallet
-  externalWalletProviders?: string[]
   report?: NewTab.RewardsBalanceReport
   adsAccountStatement: NewTab.AdsAccountStatement
   parameters: NewTab.RewardsParameters
   promotions?: NewTab.Promotion[]
   totalContribution: number
-  publishersVisitedCount: number
   adsSupported?: boolean
   showContent: boolean
   stackPosition: number
@@ -90,31 +83,12 @@ export const RewardsWidget = createWidget((props: RewardsProps) => {
 
   const adsInfo = props.adsAccountStatement || null
   const grantInfo = getVisibleGrant(props.promotions || [])
+
   const externalWallet = externalWalletFromExtensionData(props.externalWallet)
-
-  const providerPayoutStatus = () => {
-    const { payoutStatus } = props.parameters
-    if (!payoutStatus) {
-      return 'off'
-    }
-    const walletProvider = externalWallet ? externalWallet.provider : null
-    return getProviderPayoutStatus(payoutStatus, walletProvider)
-  }
-
-  const canConnectAccount = () => {
-    const providers = props.externalWalletProviders || []
-    const { walletProviderRegions } = props.parameters
-    if (providers.length === 0 || !walletProviderRegions) {
-      return true
-    }
-    for (const provider of providers) {
-      const regions = walletProviderRegions[provider] || null
-      if (isExternalWalletProviderAllowed(props.declaredCountry, regions)) {
-        return true
-      }
-    }
-    return false
-  }
+  const walletProvider = externalWallet ? externalWallet.provider : null
+  const providerPayoutStatus = props.parameters.payoutStatus
+    ? getProviderPayoutStatus(props.parameters.payoutStatus, walletProvider)
+    : 'off'
 
   const onClaimGrant = () => {
     if (grantInfo) {
@@ -133,7 +107,6 @@ export const RewardsWidget = createWidget((props: RewardsProps) => {
   return (
     <RewardsCard
       rewardsEnabled={props.rewardsEnabled}
-      userVersion={props.userVersion || ''}
       isUnsupportedRegion={props.isUnsupportedRegion}
       declaredCountry={props.declaredCountry}
       adsEnabled={props.enabledAds}
@@ -142,15 +115,13 @@ export const RewardsWidget = createWidget((props: RewardsProps) => {
       rewardsBalance={props.balance.total}
       exchangeCurrency='USD'
       exchangeRate={props.parameters.rate}
-      providerPayoutStatus={providerPayoutStatus()}
+      providerPayoutStatus={providerPayoutStatus}
       grantInfo={grantInfo}
       externalWallet={externalWallet}
       nextPaymentDate={adsInfo ? adsInfo.nextPaymentDate : 0}
       earningsThisMonth={adsInfo ? adsInfo.earningsThisMonth : 0}
       earningsLastMonth={adsInfo ? adsInfo.earningsLastMonth : 0}
       contributionsThisMonth={props.totalContribution}
-      canConnectAccount={canConnectAccount()}
-      publishersVisited={props.publishersVisitedCount || 0}
       onEnableRewards={openRewardsPanel}
       onEnableAds={enableAds}
       onSelectCountry={openRewardsPanel}

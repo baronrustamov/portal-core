@@ -81,11 +81,10 @@ class RewardsServiceObserver : public base::CheckedObserver {
       brave_rewards::RewardsService* rewards_service,
       const ledger::mojom::Result result) {}
 
-  virtual void OnExternalWalletConnected() {}
-
-  virtual void OnExternalWalletLoggedOut() {}
-
-  virtual void OnExternalWalletReconnected() {}
+  virtual void OnDisconnectWallet(
+      brave_rewards::RewardsService* rewards_service,
+      const ledger::mojom::Result result,
+      const std::string& wallet_type) {}
 
   virtual void OnUnblindedTokensReady(
       brave_rewards::RewardsService* rewards_service) {}

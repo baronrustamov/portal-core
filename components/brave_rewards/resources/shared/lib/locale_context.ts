@@ -6,26 +6,11 @@ import * as React from 'react'
 
 export interface Locale {
   getString: (key: string) => string
-  getPluralString: (key: string, count: number) => Promise<string>
 }
 
 export const LocaleContext = React.createContext<Locale>({
-  getString: () => '',
-  getPluralString: async () => ''
+  getString: () => ''
 })
-
-// Creates a LocaleContext for testing in storybook, using a dictionary of
-// strings.
-export function createLocaleContextForTesting (strings: any) {
-  const getString =
-    (key: string) => String(strings && strings[key] || 'MISSING')
-  return {
-    getString,
-    async getPluralString (key: string, count: number) {
-      return getString(key).replace('$1', String(count))
-    }
-  }
-}
 
 function splitMessage (message: string) {
   const parts: any[] = []

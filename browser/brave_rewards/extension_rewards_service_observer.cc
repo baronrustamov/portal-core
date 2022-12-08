@@ -283,13 +283,24 @@ void ExtensionRewardsServiceObserver::OnReconcileComplete(
   event_router->BroadcastEvent(std::move(event));
 }
 
-void ExtensionRewardsServiceObserver::OnExternalWalletLoggedOut() {
-  if (auto* event_router = extensions::EventRouter::Get(profile_)) {
-    event_router->BroadcastEvent(std::make_unique<extensions::Event>(
-        extensions::events::BRAVE_START,
-        extensions::api::brave_rewards::OnExternalWalletLoggedOut::kEventName,
-        base::Value::List()));
+void ExtensionRewardsServiceObserver::OnDisconnectWallet(
+    brave_rewards::RewardsService* rewards_service,
+    const ledger::mojom::Result result,
+    const std::string& wallet_type) {
+  auto* event_router = extensions::EventRouter::Get(profile_);
+  if (!event_router) {
+    return;
   }
+
+  extensions::api::brave_rewards::OnDisconnectWallet::Properties properties;
+  properties.result = static_cast<int>(result);
+  properties.wallet_type = wallet_type;
+
+  std::unique_ptr<extensions::Event> event(new extensions::Event(
+      extensions::events::BRAVE_START,
+      extensions::api::brave_rewards::OnDisconnectWallet::kEventName,
+      extensions::api::brave_rewards::OnDisconnectWallet::Create(properties)));
+  event_router->BroadcastEvent(std::move(event));
 }
 
 void ExtensionRewardsServiceObserver::OnUnblindedTokensReady(

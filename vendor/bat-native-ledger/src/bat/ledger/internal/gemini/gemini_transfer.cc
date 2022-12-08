@@ -49,7 +49,7 @@ void GeminiTransfer::OnCreateTransaction(const mojom::Result result,
   }
 
   if (result == mojom::Result::EXPIRED_TOKEN) {
-    if (!ledger_->gemini()->LogOutWallet()) {
+    if (!ledger_->gemini()->DisconnectWallet()) {
       BLOG(0, "Failed to disconnect " << constant::kWalletGemini << " wallet!");
       return callback(mojom::Result::LEDGER_ERROR, "");
     }

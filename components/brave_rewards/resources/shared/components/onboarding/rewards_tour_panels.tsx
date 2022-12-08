@@ -4,12 +4,14 @@
 
 import * as React from 'react'
 
-import { Locale } from '../../lib/locale_context'
+import { Locale, formatMessage } from '../../lib/locale_context'
+import { NewTabLink } from '../new_tab_link'
 import { RewardsTourProps } from './rewards_tour_props'
 import { SetupForm } from './setup_form'
-import { ArrowNextIcon } from '../icons/arrow_next_icon'
 
 import * as style from './rewards_tour_panels.style'
+
+import bitflyerPromoImage from './assets/bitflyer_promo.png'
 
 interface TourPanel {
   id: string
@@ -39,6 +41,15 @@ function panelAds (locale: Locale) {
   }
 }
 
+function panelSchedule (locale: Locale) {
+  const { getString } = locale
+  return {
+    id: 'schedule',
+    heading: getString('onboardingPanelScheduleHeader'),
+    text: getString('onboardingPanelScheduleText')
+  }
+}
+
 function panelAC (locale: Locale) {
   const { getString } = locale
   return {
@@ -57,12 +68,23 @@ function panelTipping (locale: Locale) {
   }
 }
 
+function panelRedeem (locale: Locale) {
+  const { getString } = locale
+  return {
+    id: 'redeem',
+    heading: getString('onboardingPanelRedeemHeader'),
+    text: getString('onboardingPanelRedeemText')
+  }
+}
+
 function panelSetup (locale: Locale, props: RewardsTourProps) {
   const { getString } = locale
   return {
     id: 'setup',
     heading: getString('onboardingPanelSetupHeader'),
-    text: null,
+    text: (
+      <style.formText>{getString('onboardingPanelSetupText')}</style.formText>
+    ),
     content: <SetupForm {...props} />
   }
 }
@@ -77,38 +99,98 @@ function panelComplete (locale: Locale) {
 }
 
 export function getTourPanels (props: RewardsTourProps): TourPanelFunction[] {
-  const showConnect = props.firstTimeSetup && props.canConnectAccount
+  const canAutoContribute = (
+    props.autoContributeAmountOptions.length > 0 &&
+    props.externalWalletProvider !== 'bitflyer')
+
   return [
     panelWelcome,
     panelAds,
-    ...(props.canAutoContribute ? [panelAC] : []),
+    panelSchedule,
+    ...(canAutoContribute ? [panelAC] : []),
     panelTipping,
-    ...(props.firstTimeSetup ? [panelSetup] : []),
-    ...(showConnect ? [] : [panelComplete])
+    panelRedeem,
+    ...(props.firstTimeSetup && canAutoContribute ? [panelSetup] : []),
+    panelComplete
   ]
 }
 
-export function getConnectWalletPanel (
+export function getVerifyWalletPanel (
   locale: Locale,
   props: RewardsTourProps
 ): TourPanel | null {
-  if (!props.firstTimeSetup || !props.canConnectAccount) {
+  if (!props.firstTimeSetup || !props.onVerifyWalletClick) {
     return null
   }
 
   const { getString } = locale
 
+  let providerText: React.ReactNode = null
+  let providerNote: React.ReactNode = null
+  let learnMore: React.ReactNode = null
+  let content: React.ReactNode = null
+
+  switch (props.externalWalletProvider) {
+    case 'bitflyer': {
+      providerText = getString('onboardingPanelBitflyerText')
+
+      providerNote = (
+        <style.verifyNote>
+          {getString('onboardingPanelBitflyerNote')}
+        </style.verifyNote>
+      )
+
+      learnMore = (
+        <style.verifyLearnMore>
+          {
+            formatMessage(getString('onboardingPanelBitflyerLearnMore'), {
+              tags: {
+                $1: (content) => (
+                  <NewTabLink
+                    key='learn-more'
+                    href='https://brave.com/ja/users-bitflyer/'>
+                    {content}
+                  </NewTabLink>
+                )
+              }
+            })
+          }
+        </style.verifyLearnMore>
+      )
+
+      content = (
+        <NewTabLink href='https://twitter.com/bravesoftwarejp'>
+          <img src={bitflyerPromoImage} />
+        </NewTabLink>
+      )
+
+      break
+    }
+    default:
+      return null
+  }
+
   return {
-    id: 'connect',
-    heading: getString('onboardingPanelCompleteHeader'),
-    text: getString('onboardingPanelVerifySubtext'),
+    id: props.externalWalletProvider,
+    heading: getString('onboardingPanelVerifyHeader'),
+    text: (
+      <>
+        {providerText}
+        <style.verifySubtext>
+          {getString('onboardingPanelVerifySubtext')}
+          {providerNote}
+        </style.verifySubtext>
+        {learnMore}
+      </>
+    ),
+    content,
     actions: (
       <style.verifyActions>
-        <button className='verify-now' onClick={props.onConnectAccount}>
-          {getString('onboardingPanelVerifyNow')}<ArrowNextIcon />
-        </button>
         <button className='verify-later' onClick={props.onDone}>
           {getString('onboardingPanelVerifyLater')}
+        </button>
+        <button className='verify-now' onClick={props.onVerifyWalletClick}>
+          {getString('onboardingPanelVerifyNow')}
         </button>
       </style.verifyActions>
     )

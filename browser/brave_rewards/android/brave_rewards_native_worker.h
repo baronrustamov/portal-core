@@ -54,8 +54,6 @@ class BraveRewardsNativeWorker
 
   void GetRewardsParameters(JNIEnv* env);
 
-  void FetchBalance(JNIEnv* env);
-
   void GetPublisherInfo(JNIEnv* env,
                         int tabId,
                         const base::android::JavaParamRef<jstring>& host);
@@ -65,8 +63,6 @@ class BraveRewardsNativeWorker
   base::android::ScopedJavaLocalRef<jstring> GetExternalWalletType(JNIEnv* env);
 
   void GetAdsAccountStatement(JNIEnv* env);
-
-  bool CanConnectAccount(JNIEnv* env);
 
   base::android::ScopedJavaLocalRef<jdoubleArray> GetTipChoices(JNIEnv* env);
 
@@ -161,10 +157,6 @@ class BraveRewardsNativeWorker
       JNIEnv* env,
       const base::android::JavaParamRef<jstring>& publisher_key);
 
-  void GetPublishersVisitedCount(JNIEnv* env);
-
-  void OnGetPublishersVisitedCount(int count);
-
   void DisconnectWallet(JNIEnv* env);
 
   void RefreshPublisher(
@@ -245,11 +237,9 @@ class BraveRewardsNativeWorker
 
   void OnOneTimeTip(ledger::mojom::Result result);
 
-  void OnExternalWalletConnected() override;
-
-  void OnExternalWalletLoggedOut() override;
-
-  void OnExternalWalletReconnected() override;
+  void OnDisconnectWallet(brave_rewards::RewardsService* rewards_service,
+                          const ledger::mojom::Result result,
+                          const std::string& wallet_type) override;
 
   void OnRefreshPublisher(const ledger::mojom::PublisherStatus status,
                           const std::string& publisher_key);

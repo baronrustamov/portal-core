@@ -6,15 +6,15 @@ import styled from 'styled-components'
 
 import batEcosystemImage from './assets/tour_bat_ecosystem.svg'
 import braveAdsImage from './assets/tour_brave_ads.svg'
+import batScheduleImage from './assets/tour_bat_schedule.svg'
 import acImage from './assets/tour_ac.svg'
 import tippingImage from './assets/tour_tipping.svg'
+import redeemImage from './assets/tour_redeem.svg'
 import completedImage from './assets/tour_completed.svg'
-import connectImage from './assets/tour_connect.svg'
 
 export const root = styled.div`
   font-family: var(--brave-font-heading);
   min-height: 388px;
-  width: 335px;
   text-align: center;
   display: grid;
   grid-template-columns: 1fr;
@@ -28,7 +28,6 @@ export const root = styled.div`
 
   &.tour-wide {
     min-height: 300px;
-    width: 710px;
     padding: 0 20px;
     text-align: left;
     column-gap: 60px;
@@ -46,7 +45,7 @@ export const stepHeader = styled.div`
   font-weight: 600;
   font-size: 18px;
   line-height: 28px;
-  color: var(--brave-palette-neutral900);
+  color: var(--brave-palette-black);
 `
 
 export const stepText = styled.div`
@@ -71,35 +70,54 @@ export const stepGraphic = styled.div`
   margin-right: auto;
 
   &.tour-graphic-welcome {
-    background-image: url('/${batEcosystemImage}');
+    background-image: url('${batEcosystemImage}');
     max-width: 275px;
   }
 
   &.tour-graphic-ads {
-    background-image: url('/${braveAdsImage}');
+    background-image: url('${braveAdsImage}');
     max-width: 275px;
   }
 
+  &.tour-graphic-schedule {
+    background-image: url('${batScheduleImage}');
+    max-width: 250px;
+  }
+
   &.tour-graphic-ac {
-    background-image: url('/${acImage}');
+    background-image: url('${acImage}');
     max-width: 230px;
   }
 
   &.tour-graphic-tipping {
-    background-image: url('/${tippingImage}');
+    background-image: url('${tippingImage}');
     max-width: 230px;
+  }
+
+  &.tour-graphic-redeem {
+    background-image: url('${redeemImage}');
+    max-width: 200px;
   }
 
   &.tour-graphic-setup {}
 
   &.tour-graphic-complete {
-    background-image: url('/${completedImage}');
+    background-image: url('${completedImage}');
     background-size: 89px 89px;
   }
 
-  &.tour-graphic-connect {
-    background-image: url('/${connectImage}');
-    background-size: 164px auto;
+  &.tour-graphic-bitflyer {
+    padding-top: 40px;
+
+    img {
+      width: 100%;
+    }
+
+    /* The narrow view does not have space to accomodate the promo image. */
+    .tour-narrow & {
+      padding-top: 0;
+      > * { display: none; }
+    }
   }
 `
 

@@ -10,7 +10,7 @@ export const reduxState: Rewards.ApplicationState = {
 
     enabledAds: false,
     enabledAdsMigrated: false,
-    enabledContribute: true,
+    enabledContribute: false,
     contributionMinTime: 8,
     contributionMinVisits: 1,
     contributionMonthly: 5,
@@ -18,90 +18,14 @@ export const reduxState: Rewards.ApplicationState = {
     contributionVideos: true,
     reconcileStamp: 0,
     ui: {
+      disconnectWalletError: false,
       modalBackup: false,
-      modalConnect: false,
       modalRedirect: 'hide',
       promosDismissed: {}
     },
-    autoContributeList: [
-      {
-        id: '1',
-        name: 'brave.com',
-        url: 'https://brave.com',
-        publisherKey: 'brave.com',
-        percentage: 1,
-        status: 2,
-        excluded: false,
-        provider: '',
-        favIcon: '',
-        weight: 1
-      },
-      {
-        id: '2',
-        name: 'brave.com',
-        url: 'https://brave.com',
-        publisherKey: 'brave.com',
-        percentage: 1,
-        status: 2,
-        excluded: false,
-        provider: '',
-        favIcon: '',
-        weight: 1
-      }
-    ],
-    recurringList: [
-      {
-        id: '1',
-        name: 'brave.com',
-        url: 'https://brave.com',
-        publisherKey: 'brave.com',
-        percentage: 1,
-        status: 2,
-        excluded: false,
-        provider: '',
-        favIcon: '',
-        weight: 1
-      },
-      {
-        id: '2',
-        name: 'brave.com',
-        url: 'https://brave.com',
-        publisherKey: 'brave.com',
-        percentage: 1,
-        status: 2,
-        excluded: false,
-        provider: '',
-        favIcon: '',
-        weight: 1
-      }
-    ],
-    tipsList: [
-      {
-        id: '1',
-        name: 'brave.com',
-        url: 'https://brave.com',
-        publisherKey: 'brave.com',
-        percentage: 1,
-        status: 2,
-        excluded: false,
-        provider: '',
-        favIcon: '',
-        tipDate: new Date().getTime() / 1000,
-        weight: 1
-      },
-      {
-        id: '2',
-        name: 'reallylongdomainname.com',
-        url: 'https://brave.com',
-        publisherKey: 'brave.com',
-        percentage: 1,
-        status: 2,
-        excluded: false,
-        provider: '',
-        favIcon: '',
-        weight: 1
-      }
-    ],
+    autoContributeList: [],
+    recurringList: [],
+    tipsList: [],
     adsData: {
       adsEnabled: true,
       adsPerHour: 0,
@@ -183,7 +107,7 @@ export const reduxState: Rewards.ApplicationState = {
       expirationDate: String(Date.now() / 1000)
     }],
     excludedList: [],
-    externalWalletProviderList: ['uphold'],
+    externalWalletProviderList: [],
     balance: {
       total: 0,
       wallets: {}
@@ -206,7 +130,6 @@ export const reduxState: Rewards.ApplicationState = {
       }
     },
     initializing: false,
-    showOnboarding: false,
-    userVersion: '2.0'
+    showOnboarding: false
   }
 }

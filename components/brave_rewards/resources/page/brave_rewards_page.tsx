@@ -12,7 +12,6 @@ import { createStore, bindActionCreators } from 'redux'
 
 import { loadTimeData } from '../../../common/loadTimeData'
 import { LocaleContext } from '../shared/lib/locale_context'
-import { createLocaleContextForWebUI } from '../shared/lib/webui_locale_context'
 import { PlatformContext } from './lib/platform_context'
 import { WithThemeVariables } from '../shared/components/with_theme_variables'
 import { createReducer } from './reducers'
@@ -28,6 +27,10 @@ const actions = bindActionCreators(rewardsActions, store.dispatch.bind(store))
 function initialize () {
   initLocale(loadTimeData.data_)
 
+  const localeContext = {
+    getString: (key: string) => loadTimeData.getString(key)
+  }
+
   const platformInfo = {
     isAndroid: loadTimeData.getBoolean('isAndroid')
   }
@@ -35,7 +38,7 @@ function initialize () {
   render(
     <Provider store={store}>
       <ThemeProvider theme={Theme}>
-        <LocaleContext.Provider value={createLocaleContextForWebUI()}>
+        <LocaleContext.Provider value={localeContext}>
           <PlatformContext.Provider value={platformInfo}>
             <WithThemeVariables>
               <App />
@@ -45,10 +48,6 @@ function initialize () {
       </ThemeProvider>
     </Provider>,
     document.getElementById('root'))
-}
-
-function userVersion (version: string) {
-  actions.onUserVersion(version)
 }
 
 function rewardsParameters (properties: Rewards.RewardsParameters) {
@@ -205,9 +204,13 @@ function onConnectExternalWallet (result: mojom.ConnectExternalWalletResult) {
   actions.onConnectExternalWallet(result)
 }
 
-function onExternalWalletLoggedOut () {
-  actions.getExternalWallet()
-  actions.getBalance()
+function disconnectWallet (properties: {result: number}) {
+  if (properties.result === 0) {
+    actions.getExternalWallet()
+    actions.getBalance()
+    return
+  }
+  actions.disconnectWalletError()
 }
 
 function unblindedTokensReady () {
@@ -262,7 +265,6 @@ function onIsUnsupportedRegion (isUnsupportedRegion: boolean) {
 Object.defineProperty(window, 'brave_rewards', {
   configurable: true,
   value: {
-    userVersion,
     rewardsParameters,
     promotions,
     promotionClaimStarted,
@@ -296,7 +298,7 @@ Object.defineProperty(window, 'brave_rewards', {
     reconcileComplete,
     onGetExternalWallet,
     onConnectExternalWallet,
-    onExternalWalletLoggedOut,
+    disconnectWallet,
     unblindedTokensReady,
     monthlyReport,
     reconcileStampReset,

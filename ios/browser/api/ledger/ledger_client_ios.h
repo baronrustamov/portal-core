@@ -83,9 +83,7 @@ class LedgerClientIOS : public ledger::LedgerClient {
       ledger::client::GetCreateScriptCallback callback) override;
   void PendingContributionSaved(const ledger::mojom::Result result) override;
   void ClearAllNotifications() override;
-  void ExternalWalletConnected() const override;
-  void ExternalWalletLoggedOut() const override;
-  void ExternalWalletReconnected() const override;
+  void WalletDisconnected(const std::string& wallet_type) override;
   void DeleteLog(ledger::client::LegacyResultCallback callback) override;
   absl::optional<std::string> EncryptString(const std::string& value) override;
   absl::optional<std::string> DecryptString(const std::string& value) override;

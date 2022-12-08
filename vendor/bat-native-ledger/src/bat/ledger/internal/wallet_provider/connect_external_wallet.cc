@@ -145,10 +145,19 @@ void ConnectExternalWallet::OnConnect(
           key, WalletType() + std::string("/") + abbreviated_address);
     }
 
+    if (wallet->status == mojom::WalletStatus::kLoggedOut) {
+      // kLoggedOut ==> kNotConnected
+      if (!ledger::wallet::TransitionWallet(
+              ledger_, std::move(wallet), mojom::WalletStatus::kNotConnected)) {
+        BLOG(0, "Failed to transition " << WalletType() << " wallet state!");
+        return std::move(callback).Run(
+            base::unexpected(mojom::ConnectExternalWalletError::kUnexpected));
+      }
+    }
+
     return std::move(callback).Run(connect_external_wallet_result);
   }
 
-  const auto from_status = wallet->status;
   wallet->token = std::move(token);
   wallet->address = std::move(address);
   // {kNotConnected, kLoggedOut} ==> kConnected
@@ -159,9 +168,6 @@ void ConnectExternalWallet::OnConnect(
         base::unexpected(mojom::ConnectExternalWalletError::kUnexpected));
   }
 
-  from_status == mojom::WalletStatus::kNotConnected
-      ? ledger_->ledger_client()->ExternalWalletConnected()
-      : ledger_->ledger_client()->ExternalWalletReconnected();
   ledger_->database()->SaveEventLog(
       log::kWalletVerified,
       WalletType() + std::string("/") + abbreviated_address);

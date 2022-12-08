@@ -33,6 +33,11 @@ class Wallet {
 
   void FetchBalance(ledger::FetchBalanceCallback callback);
 
+  void DisconnectWallet(const std::string& wallet_type,
+                        ledger::LegacyResultCallback);
+
+  void DisconnectAllWallets(ledger::LegacyResultCallback callback);
+
   mojom::RewardsWalletPtr GetWallet();
   mojom::RewardsWalletPtr GetWallet(bool* corrupted);
 

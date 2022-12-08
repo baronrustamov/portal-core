@@ -5,17 +5,15 @@
 import * as React from 'react'
 
 import { LocaleContext, formatMessage } from '../../shared/lib/locale_context'
-import { LayoutContext } from '../lib/layout_context'
 import { Modal, ModalCloseButton } from '../../shared/components/modal'
 import { SelectProviderCaretIcon } from '../components/icons/select_provider_caret_icon'
-import { ArrowNextIcon } from '../../shared/components/icons/arrow_next_icon'
+import { CaretIcon } from '../../shared/components/icons/caret_icon'
 import { NewTabLink } from '../../shared/components/new_tab_link'
 import { GeminiIcon } from '../../shared/components/icons/gemini_icon'
 import { UpholdIcon } from '../../shared/components/icons/uphold_icon'
 import { BitflyerIcon } from '../../shared/components/icons/bitflyer_icon'
-import { supportedWalletRegionsURL } from '../../shared/lib/rewards_urls'
 
-import * as urls from '../../shared/lib/rewards_urls'
+import connectWalletGraphic from '../assets/connect_wallet.svg'
 
 import * as style from './connect_wallet_modal.style'
 
@@ -45,7 +43,6 @@ interface Props {
 
 export function ConnectWalletModal (props: Props) {
   const { getString } = React.useContext(LocaleContext)
-  const layoutKind = React.useContext(LayoutContext)
 
   const [modalState, setModalState] = React.useState<ModalState>('info')
   const [selectedProvider, setSelectedProvider] =
@@ -74,35 +71,34 @@ export function ConnectWalletModal (props: Props) {
             <style.infoListItem>
               {getString('connectWalletInfoListItem2')}
             </style.infoListItem>
-            <style.infoListItem>
-              {getString('connectWalletInfoListItem3')}
-            </style.infoListItem>
           </style.panelText>
-          {layoutKind === 'narrow' && <style.connectGraphic />}
+          <style.infoNote>
+            {getString('connectWalletInfoNote')}
+          </style.infoNote>
           <style.continueButton>
             <button
               data-test-id='connect-continue-button'
               onClick={onContinueClick}
             >
-              {getString('connectAccount')}<ArrowNextIcon />
+              {getString('continue')}<CaretIcon direction='right' />
             </button>
           </style.continueButton>
-          <style.infoNote>
+          <style.infoTerms>
             {
-              formatMessage(getString('connectWalletInfoNote'), {
+              formatMessage(getString('connectWalletInfoBraveNote'), {
                 tags: {
-                  $1: (content) => (
-                    <NewTabLink key='link' href={urls.privacyPolicyURL}>
-                      {content}
-                    </NewTabLink>
-                  )
+                  $1: (content) => <strong key='1'>{content}</strong>
                 }
               })
             }
-          </style.infoNote>
+          </style.infoTerms>
         </style.infoPanel>
       ),
-      right: layoutKind === 'wide' && <style.connectGraphic/>
+      right: (
+        <style.connectGraphic>
+          <img src={connectWalletGraphic} />
+        </style.connectGraphic>
+      )
     }
   }
 
@@ -118,12 +114,9 @@ export function ConnectWalletModal (props: Props) {
               {getString('connectWalletChooseText')}
             </style.panelText>
           </style.selectWalletContent>
-          {
-            layoutKind === 'wide' &&
-              <style.selectWalletNote>
-                {getString('connectWalletChooseNote')}
-              </style.selectWalletNote>
-          }
+          <style.selectWalletNote>
+            {getString('connectWalletChooseNote')}
+          </style.selectWalletNote>
         </style.selectWalletLeftPanel>
       ),
       right: (
@@ -148,7 +141,7 @@ export function ConnectWalletModal (props: Props) {
                   onClick={onClick}
                   className={!provider.enabled ? 'disabled' : selected ? 'selected' : ''}
                 >
-                  <style.providerButtonGrid>
+                  <style.grid>
                     <style.providerButtonIcon>
                       {renderProviderIcon(provider.type)}
                     </style.providerButtonIcon>
@@ -163,22 +156,18 @@ export function ConnectWalletModal (props: Props) {
                       <style.providerButtonCaret>
                         <SelectProviderCaretIcon />
                       </style.providerButtonCaret>}
-                  </style.providerButtonGrid>
+                  </style.grid>
                 </button>
               )
             })
           }
           <style.learnMoreLink>
-            <NewTabLink href={supportedWalletRegionsURL}>
+            <NewTabLink
+              href={'https://support.brave.com/hc/en-us/articles/6539887971469'}
+            >
               {getString('connectWalletLearnMore')}
             </NewTabLink>
           </style.learnMoreLink>
-          {
-            layoutKind === 'narrow' &&
-              <style.selectWalletNote>
-                {getString('connectWalletChooseNote')}
-              </style.selectWalletNote>
-          }
         </style.providerButtons>
       )
     }

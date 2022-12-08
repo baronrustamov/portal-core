@@ -84,8 +84,6 @@ class Account : public AdsClientObserver,
 
   void WalletDidChange(const WalletInfo& wallet) const;
 
-  void MaybeResetConfirmations() const;
-
   void TopUpUnblindedTokens() const;
 
   void NotifyWalletDidUpdate(const WalletInfo& wallet) const;

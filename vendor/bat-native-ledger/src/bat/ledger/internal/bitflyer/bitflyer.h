@@ -69,7 +69,7 @@ class Bitflyer {
 
   [[nodiscard]] bool SetWallet(mojom::ExternalWalletPtr);
 
-  [[nodiscard]] bool LogOutWallet();
+  [[nodiscard]] bool DisconnectWallet(bool manual = false);
 
  private:
   void ContributionCompleted(mojom::Result result,

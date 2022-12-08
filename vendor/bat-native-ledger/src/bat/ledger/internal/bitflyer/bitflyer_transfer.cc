@@ -48,7 +48,7 @@ void BitflyerTransfer::OnCreateTransaction(
   }
 
   if (result == mojom::Result::EXPIRED_TOKEN) {
-    if (!ledger_->bitflyer()->LogOutWallet()) {
+    if (!ledger_->bitflyer()->DisconnectWallet()) {
       BLOG(0,
            "Failed to disconnect " << constant::kWalletBitflyer << " wallet!");
       return callback(mojom::Result::LEDGER_ERROR, "");

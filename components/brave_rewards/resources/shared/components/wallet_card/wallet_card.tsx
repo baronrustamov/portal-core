@@ -10,7 +10,6 @@ import { ProviderPayoutStatus } from '../../lib/provider_payout_status'
 
 import { TokenAmount } from '../token_amount'
 import { ExchangeAmount } from '../exchange_amount'
-import { NewTabLink } from '../new_tab_link'
 import { ExternalWalletView } from './external_wallet_view'
 import { ExternalWalletAction } from './external_wallet_action'
 import { RewardsSummary, RewardsSummaryData } from './rewards_summary'
@@ -18,8 +17,6 @@ import { PendingRewardsView } from './pending_rewards_view'
 import { PlusIcon } from './icons/plus_icon'
 import { WalletInfoIcon } from './icons/wallet_info_icon'
 import { ArrowCircleIcon } from '../icons/arrow_circle_icon'
-
-import * as urls from '../../lib/rewards_urls'
 
 import * as style from './wallet_card.style'
 
@@ -60,9 +57,6 @@ export function WalletCard (props: Props) {
 
   const walletDisconnected =
     externalWallet && externalWallet.status === mojom.WalletStatus.kLoggedOut
-
-  const providerPayoutStatus =
-    externalWallet ? props.providerPayoutStatus : 'off'
 
   function onAddFundsClick () {
     props.onExternalWalletAction('add-funds')
@@ -111,35 +105,6 @@ export function WalletCard (props: Props) {
     )
   }
 
-  function renderEstimatedEarnings () {
-    if (!props.externalWallet) {
-      return (
-        <style.hiddenEarnings>
-          -&nbsp;-
-          <NewTabLink href={urls.rewardsChangesURL}>
-            {getString('rewardsLearnMore')}
-          </NewTabLink>
-        </style.hiddenEarnings>
-      )
-    }
-
-    return (
-      <>
-        <style.batAmount>
-          <TokenAmount amount={props.earningsThisMonth} />
-        </style.batAmount>
-        <style.exchangeAmount>
-          ≈ &nbsp;
-          <ExchangeAmount
-            amount={props.earningsThisMonth}
-            rate={props.exchangeRate}
-            currency={props.exchangeCurrency}
-          />
-        </style.exchangeAmount>
-      </>
-    )
-  }
-
   return (
     <style.root className={props.showSummary ? 'show-summary' : ''}>
       <style.grid>
@@ -157,7 +122,17 @@ export function WalletCard (props: Props) {
           <style.earningsHeader>
             {getString('walletEstimatedEarnings')}
           </style.earningsHeader>
-          {renderEstimatedEarnings()}
+          <style.batAmount>
+            <TokenAmount amount={props.earningsThisMonth} />
+          </style.batAmount>
+          <style.exchangeAmount>
+            ≈ &nbsp;
+            <ExchangeAmount
+              amount={props.earningsThisMonth}
+              rate={props.exchangeRate}
+              currency={props.exchangeCurrency}
+            />
+          </style.exchangeAmount>
         </style.earningsPanel>
         {
           props.showSummary && !walletDisconnected &&
@@ -184,7 +159,7 @@ export function WalletCard (props: Props) {
           ? <style.summaryBox>
               <RewardsSummary
                 data={props.summaryData}
-                providerPayoutStatus={providerPayoutStatus}
+                providerPayoutStatus={props.providerPayoutStatus}
                 autoContributeEnabled={props.autoContributeEnabled}
                 hideAdEarnings={Boolean(props.externalWallet)}
                 earningsLastMonth={props.earningsLastMonth}
@@ -198,7 +173,7 @@ export function WalletCard (props: Props) {
               <PendingRewardsView
                 earningsLastMonth={props.earningsLastMonth}
                 nextPaymentDate={props.nextPaymentDate}
-                providerPayoutStatus={providerPayoutStatus}
+                providerPayoutStatus={props.providerPayoutStatus}
               />
             </style.pendingBox>
       }

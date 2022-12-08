@@ -45,7 +45,8 @@ import java.math.BigDecimal;
 import java.util.Calendar;
 import java.util.Locale;
 
-public class BraveRewardsHelper implements LargeIconBridge.LargeIconCallback {
+public class BraveRewardsHelper implements LargeIconBridge.LargeIconCallback{
+    private static final String PREF_BRAVE_REWARDS_APP_OPEN_COUNT = "brave_rewards_app_open_count";
     private static final String PREF_SHOW_BRAVE_REWARDS_ONBOARDING_MODAL =
             "show_brave_rewards_onboarding_modal";
     private static final String PREF_SHOW_BRAVE_REWARDS_ONBOARDING_ONCE =
@@ -131,6 +132,18 @@ public class BraveRewardsHelper implements LargeIconBridge.LargeIconCallback {
             }
         }
         return false;
+    }
+
+    public static int getBraveRewardsAppOpenCount() {
+        return ContextUtils.getAppSharedPreferences().getInt(PREF_BRAVE_REWARDS_APP_OPEN_COUNT, 0);
+    }
+
+    public static void updateBraveRewardsAppOpenCount() {
+        SharedPreferences.Editor sharedPreferencesEditor = ContextUtils.getAppSharedPreferences().edit();
+        sharedPreferencesEditor.putInt(PREF_BRAVE_REWARDS_APP_OPEN_COUNT,
+                SharedPreferencesManager.getInstance().readInt(
+                        BravePreferenceKeys.BRAVE_APP_OPEN_COUNT));
+        sharedPreferencesEditor.apply();
     }
 
     public static boolean shouldShowMiniOnboardingModal() {

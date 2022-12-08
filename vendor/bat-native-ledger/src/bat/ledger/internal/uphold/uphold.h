@@ -88,7 +88,7 @@ class Uphold {
       mojom::ExternalWalletPtr,
       mojom::WalletStatus to);
 
-  [[nodiscard]] bool LogOutWallet(const std::string& notification = "");
+  [[nodiscard]] bool DisconnectWallet(bool manual = false);
 
  private:
   void ContributionCompleted(mojom::Result result,

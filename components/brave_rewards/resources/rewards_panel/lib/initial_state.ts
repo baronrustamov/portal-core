@@ -12,14 +12,12 @@ export function getInitialState (): HostState {
     rewardsEnabled: false,
     balance: 0,
     settings: {
-      adsEnabled: false,
       adsPerHour: 0,
       autoContributeEnabled: false,
       autoContributeAmount: 0
     },
     options: {
-      autoContributeAmounts: [],
-      externalWalletRegions: new Map()
+      autoContributeAmounts: []
     },
     grantCaptchaInfo: null,
     adaptiveCaptchaInfo: null,
@@ -46,8 +44,6 @@ export function getInitialState (): HostState {
     },
     notifications: [],
     availableCountries: [],
-    declaredCountry: '',
-    userVersion: '',
-    publishersVisitedCount: 0
+    declaredCountry: ''
   }
 }

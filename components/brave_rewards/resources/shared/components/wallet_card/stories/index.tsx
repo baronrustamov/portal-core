@@ -5,7 +5,7 @@
 import * as React from 'react'
 import * as knobs from '@storybook/addon-knobs'
 
-import { LocaleContext, createLocaleContextForTesting } from '../../../lib/locale_context'
+import { LocaleContext } from '../../../lib/locale_context'
 import { ExternalWallet } from '../../../lib/external_wallet'
 import { WithThemeVariables } from '../../with_theme_variables'
 import { WalletCard } from '../'
@@ -13,7 +13,11 @@ import { WalletCard } from '../'
 import { localeStrings } from './locale_strings'
 import * as mojom from '../../../../shared/lib/mojom'
 
-const locale = createLocaleContextForTesting(localeStrings)
+const locale = {
+  getString (key: string) {
+    return localeStrings[key] || 'MISSING'
+  }
+}
 
 export default {
   title: 'Rewards'

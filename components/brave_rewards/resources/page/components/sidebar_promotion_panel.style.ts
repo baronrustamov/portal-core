@@ -24,9 +24,12 @@ function getBackgroundImage (key: PromotionKey) {
   }
 }
 
-export const rewardsTourPromo = styled.div``
+export const rewardsTourPromo = styled.div`
+  margin-top: 30px;
+`
 
 export const promotion = styled.div`
+  margin-top: 30px;
   color: #000;
   background: #fff;
   border-radius: 8px;

@@ -233,7 +233,9 @@ void RewardsBrowserTestContribution::VerifyTip(
   IsPendingBalanceCorrect();
 
   rewards_browsertest_util::WaitForElementToEqual(
-      contents(), "[data-test-id=tip-total]", "0.000 BAT0.00 USD");
+      contents(),
+      "#tip-box-total",
+      "0.000BAT0.00 USD");
 }
 
 void RewardsBrowserTestContribution::IsBalanceCorrect() {

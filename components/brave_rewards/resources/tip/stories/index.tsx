@@ -7,13 +7,11 @@ import * as React from 'react'
 import { App } from '../components/app'
 import { DialogArgs, Host, HostState, MediaMetaData } from '../lib/interfaces'
 import { HostContext } from '../lib/host_context'
-import { LocaleContext, createLocaleContextForTesting } from '../../shared/lib/locale_context'
+import { LocaleContext } from '../../shared/lib/locale_context'
 
 import { localeStrings } from './locale_strings'
 
 type MediaType = 'none' | 'twitter' | 'reddit' | 'github'
-
-const localeContext = createLocaleContextForTesting(localeStrings)
 
 function getMediaMetaData (type: MediaType): MediaMetaData {
   switch (type) {
@@ -101,6 +99,9 @@ function createHost (): Host {
     get state () {
       return hostState
     },
+    getString (key) {
+      return localeStrings[key] || 'MISSING'
+    },
     getDialogArgs () {
       return dialogArgs
     },
@@ -130,7 +131,7 @@ export function TipDialog () {
   const host = createHost()
   return (
     <HostContext.Provider value={host}>
-      <LocaleContext.Provider value={localeContext}>
+      <LocaleContext.Provider value={host}>
         <App />
       </LocaleContext.Provider>
     </HostContext.Provider>

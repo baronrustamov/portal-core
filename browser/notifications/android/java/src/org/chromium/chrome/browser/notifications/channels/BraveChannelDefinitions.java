@@ -32,7 +32,8 @@ public class BraveChannelDefinitions {
     static protected void addBraveChannels(
             Map<String, PredefinedChannel> map, Set<String> startup) {
         map.put(ChannelId.BRAVE_ADS,
-                PredefinedChannel.create(ChannelId.BRAVE_ADS, R.string.brave_ads_text,
+                PredefinedChannel.create(ChannelId.BRAVE_ADS,
+                        R.string.notification_category_brave_ads,
                         NotificationManager.IMPORTANCE_HIGH, ChannelGroupId.BRAVE_ADS));
         startup.add(ChannelId.BRAVE_ADS);
 
@@ -48,6 +49,6 @@ public class BraveChannelDefinitions {
             Map<String, ChannelDefinitions.PredefinedChannelGroup> map) {
         map.put(ChannelGroupId.BRAVE_ADS,
                 new ChannelDefinitions.PredefinedChannelGroup(
-                        ChannelGroupId.BRAVE_ADS, R.string.brave_ads_text));
+                        ChannelGroupId.BRAVE_ADS, R.string.notification_category_group_brave_ads));
     }
 }

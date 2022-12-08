@@ -86,7 +86,6 @@ const rewardsReducer: Reducer<NewTab.State | undefined> = (state: NewTab.State, 
         rewardsState: {
           ...state.rewardsState,
           rewardsEnabled: preInitialRewardsDataPayload.rewardsEnabled,
-          userVersion: preInitialRewardsDataPayload.userVersion,
           isUnsupportedRegion: preInitialRewardsDataPayload.isUnsupportedRegion,
           declaredCountry: preInitialRewardsDataPayload.declaredCountry,
           enabledAds: preInitialRewardsDataPayload.enabledAds,
@@ -103,9 +102,7 @@ const rewardsReducer: Reducer<NewTab.State | undefined> = (state: NewTab.State, 
         externalWallet: initialRewardsDataPayload.externalWallet,
         report: initialRewardsDataPayload.report,
         totalContribution: getTotalContributions(initialRewardsDataPayload.report),
-        parameters: initialRewardsDataPayload.parameters,
-        externalWalletProviders: initialRewardsDataPayload.externalWalletProviders,
-        publishersVisitedCount: initialRewardsDataPayload.publishersVisitedCount
+        parameters: initialRewardsDataPayload.parameters
       } as any
 
       if (payload.adsAccountStatement) {

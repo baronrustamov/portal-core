@@ -30,15 +30,14 @@ jboolean JNI_BraveAdsNativeHelper_IsBraveAdsEnabled(
 // static
 void JNI_BraveAdsNativeHelper_SetAdsEnabled(
     JNIEnv* env,
-    const base::android::JavaParamRef<jobject>& j_profile_android,
-    jboolean should_enable_ads) {
+    const base::android::JavaParamRef<jobject>& j_profile_android) {
   Profile* profile = ProfileAndroid::FromProfileAndroid(j_profile_android);
   AdsService* ads_service = AdsServiceFactory::GetForProfile(profile);
   if (!ads_service) {
     return;
   }
 
-  ads_service->SetEnabled(should_enable_ads);
+  ads_service->SetEnabled(true);
 }
 
 // static

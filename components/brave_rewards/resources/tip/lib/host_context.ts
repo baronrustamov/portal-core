@@ -4,11 +4,6 @@
 
 import * as React from 'react'
 
-import { Host, HostListener } from './interfaces'
+import { Host } from './interfaces'
 
 export const HostContext = React.createContext({} as Host)
-
-// A helper hook for listening to host state changes
-export function useHostListener (host: Host, listener: HostListener) {
-  React.useEffect(() => host.addListener(listener), [host])
-}

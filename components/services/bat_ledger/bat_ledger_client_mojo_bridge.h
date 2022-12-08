@@ -120,11 +120,7 @@ class BatLedgerClientMojoBridge :
 
   void ClearAllNotifications() override;
 
-  void ExternalWalletConnected() const override;
-
-  void ExternalWalletLoggedOut() const override;
-
-  void ExternalWalletReconnected() const override;
+  void WalletDisconnected(const std::string& wallet_type) override;
 
   void DeleteLog(ledger::client::LegacyResultCallback callback) override;
 
