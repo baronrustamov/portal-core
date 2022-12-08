@@ -88,6 +88,15 @@ void AdBlockCombinatorFiltersProvider::OnDATLoaded(
 void AdBlockCombinatorFiltersProvider::FinishCombinating() {
   CHECK_EQ(dats_to_load_, 0);
   CHECK(cb_);
+  if (combined_list_.size() == 0) {
+    // Small workaround for code in
+    // AdBlockService::SourceProviderObserver::OnResourcesLoaded that encodes a
+    // state using an entirely empty DAT.
+    //
+    // This is only relevant in tests, since the default engine will generally
+    // not be empty.
+    combined_list_.push_back('\n');
+  }
   std::move(cb_).Run(false, combined_list_);
   combined_list_.clear();
 }
