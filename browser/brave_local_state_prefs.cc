@@ -6,7 +6,7 @@
 #include "brave/browser/brave_local_state_prefs.h"
 
 #include "base/values.h"
-#include "brave/browser/brave_ads/stats_updater_helper.h"
+#include "brave/browser/brave_ads/brave_stats_updater_helper.h"
 #include "brave/browser/brave_stats/brave_stats_updater.h"
 #include "brave/browser/metrics/buildflags/buildflags.h"
 #include "brave/browser/metrics/metrics_reporting_util.h"
@@ -134,7 +134,7 @@ void RegisterLocalStatePrefs(PrefRegistrySimple* registry) {
   core_metrics::CoreMetricsService::RegisterPrefs(registry);
 
   brave_wallet::RegisterLocalStatePrefs(registry);
-  brave_ads::StatsUpdaterHelper::RegisterLocalStatePrefs(registry);
+  brave_ads::BraveStatsUpdaterHelper::RegisterLocalStatePrefs(registry);
 }
 
 }  // namespace brave

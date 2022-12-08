@@ -72,7 +72,7 @@ class SpeedreaderRewriterService;
 }
 
 namespace brave_ads {
-class StatsUpdaterHelper;
+class BraveStatsUpdaterHelper;
 class ResourceComponent;
 }
 
@@ -125,7 +125,6 @@ class BraveBrowserProcessImpl : public BraveBrowserProcess,
       override;
 #endif
   brave::BraveFarblingService* brave_farbling_service() override;
-  brave_ads::StatsUpdaterHelper* ads_stats_updater_helper() override;
 
  private:
   // BrowserProcessImpl overrides:
@@ -142,6 +141,8 @@ class BraveBrowserProcessImpl : public BraveBrowserProcess,
 
   void UpdateBraveDarkMode();
   void OnBraveDarkModeChanged();
+
+  void InitBraveStatsUpdaterHelper();
 
   brave_component_updater::BraveComponent::Delegate*
   brave_component_updater_delegate();
@@ -192,7 +193,8 @@ class BraveBrowserProcessImpl : public BraveBrowserProcess,
 #endif
 
   std::unique_ptr<brave::BraveFarblingService> brave_farbling_service_;
-  std::unique_ptr<brave_ads::StatsUpdaterHelper> ads_stats_updater_helper_;
+  std::unique_ptr<brave_ads::BraveStatsUpdaterHelper>
+      brave_stats_updater_helper_;
 
   SEQUENCE_CHECKER(sequence_checker_);
 };
