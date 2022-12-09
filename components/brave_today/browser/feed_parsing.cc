@@ -5,13 +5,13 @@
 
 #include "brave/components/brave_today/browser/feed_parsing.h"
 
-#include <codecvt>
 #include <string>
 #include <utility>
 #include <vector>
 
 #include "base/json/json_reader.h"
 #include "base/logging.h"
+#include "base/strings/utf_string_conversions.h"
 #include "base/time/time.h"
 #include "brave/components/brave_today/common/brave_news.mojom-forward.h"
 #include "brave/components/brave_today/common/brave_news.mojom-shared.h"
@@ -78,9 +78,8 @@ bool ParseFeedItem(const base::Value& feed_item_raw,
     // Successful, get language-specific relative time
     base::TimeDelta relative_time_delta =
         base::Time::Now() - metadata->publish_time;
-    std::wstring_convert<std::codecvt_utf8_utf16<char16_t>, char16_t> converter;
     metadata->relative_time_description =
-        converter.to_bytes(ui::TimeFormat::Simple(
+        base::UTF16ToUTF8(ui::TimeFormat::Simple(
             ui::TimeFormat::Format::FORMAT_ELAPSED,
             ui::TimeFormat::Length::LENGTH_LONG, relative_time_delta));
   }
