@@ -145,7 +145,7 @@ void BraveTabContainer::StartInsertTabAnimation(int model_index) {
   GetTabAtModelIndex(model_index)->SetBoundsRect(bounds);
 
   // Animate in to the full width.
-  StartBasicAnimation();
+  AnimateToIdealBounds();
 }
 
 void BraveTabContainer::RemoveTab(int index, bool was_active) {
