@@ -24,6 +24,8 @@ import org.chromium.brave_news.mojom.UserEnabled;
 import org.chromium.chrome.R;
 import org.chromium.chrome.browser.brave_news.models.FeedItemCard;
 import org.chromium.chrome.browser.brave_news.models.FeedItemsCard;
+import org.chromium.chrome.browser.preferences.BravePrefServiceBridge;
+import org.chromium.chrome.browser.settings.BraveNewsPreferencesDataListener;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -124,6 +126,11 @@ public class BraveNewsUtils {
         }
     }
 
+    public static boolean shouldDisplayNews() {
+        return BravePrefServiceBridge.getInstance().getShowNews()
+                && BravePrefServiceBridge.getInstance().getNewsOptIn();
+    }
+
     public static void setChannelIcons() {
         mChannelIcons.put("Brave", R.drawable.ic_channel_brave);
         mChannelIcons.put("Business", R.drawable.ic_channel_business);
@@ -184,10 +191,6 @@ public class BraveNewsUtils {
     public static List<Publisher> getPopularSources() {
         return mPublisherList;
     }
-
-    /*public static List<Publisher> getGlobalSources() {
-        return mGlobalPublisherList;
-    }*/
 
     private static void setSuggestedIds(List<String> suggestedList) {
         mSuggestedList = suggestedList;
@@ -282,20 +285,22 @@ public class BraveNewsUtils {
         return isFound;
     }
 
-    public static void getBraveNewsSettingsData(BraveNewsController braveNewsController) {
+    public static void getBraveNewsSettingsData(BraveNewsController braveNewsController,
+            BraveNewsPreferencesDataListener braveNewsPreferencesDataListener) {
         PostTask.postTask(TaskTraits.THREAD_POOL_BEST_EFFORT, () -> {
             if (braveNewsController != null) {
                 braveNewsController.getLocale((locale) -> {
                     setLocale(locale);
-                    getChannels(braveNewsController);
-                    getPublishers(braveNewsController);
-                    getSuggestedSources(braveNewsController);
+                    getChannels(braveNewsController, braveNewsPreferencesDataListener);
+                    getPublishers(braveNewsController, braveNewsPreferencesDataListener);
+                    getSuggestedSources(braveNewsController, braveNewsPreferencesDataListener);
                 });
             }
         });
     }
 
-    private static void getChannels(BraveNewsController braveNewsController) {
+    private static void getChannels(BraveNewsController braveNewsController,
+            BraveNewsPreferencesDataListener braveNewsPreferencesDataListener) {
         braveNewsController.getChannels((channels) -> {
             List<Channel> channelList = new ArrayList<>();
             for (Map.Entry<String, Channel> entry : channels.entrySet()) {
@@ -309,11 +314,20 @@ public class BraveNewsUtils {
             Collections.sort(channelList, compareByName);
 
             setChannelList(channelList);
+            if (braveNewsPreferencesDataListener != null) {
+                braveNewsPreferencesDataListener.onChannelReceived();
+            }
         });
     }
 
-    private static void getPublishers(BraveNewsController braveNewsController) {
-        braveNewsController.getPublishers((publishers) -> { setPublishers(publishers); });
+    private static void getPublishers(BraveNewsController braveNewsController,
+            BraveNewsPreferencesDataListener braveNewsPreferencesDataListener) {
+        braveNewsController.getPublishers((publishers) -> {
+            setPublishers(publishers);
+            if (braveNewsPreferencesDataListener != null) {
+                braveNewsPreferencesDataListener.onPublisherReceived();
+            }
+        });
     }
 
     public static void setPublishers(Map<String, Publisher> publishers) {
@@ -351,10 +365,13 @@ public class BraveNewsUtils {
         setPopularSources(publisherList);
     }
 
-    private static void getSuggestedSources(BraveNewsController braveNewsController) {
+    public static void getSuggestedSources(BraveNewsController braveNewsController,
+            BraveNewsPreferencesDataListener braveNewsPreferencesDataListener) {
         braveNewsController.getSuggestedPublisherIds((publisherIds) -> {
-            Log.e("tapan", "suggestions:" + publisherIds.length);
             setSuggestedIds(Arrays.asList(publisherIds));
+            if (braveNewsPreferencesDataListener != null) {
+                braveNewsPreferencesDataListener.onSuggestionsReceived();
+            }
         });
     }
 }

@@ -1068,7 +1068,7 @@ public abstract class BraveActivity<C extends ChromeActivityComponent> extends C
             mBraveNewsController =
                     BraveNewsControllerFactory.getInstance().getBraveNewsController(this);
 
-            BraveNewsUtils.getBraveNewsSettingsData(mBraveNewsController);
+            BraveNewsUtils.getBraveNewsSettingsData(mBraveNewsController, null);
         }
     }
 

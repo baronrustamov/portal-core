@@ -208,7 +208,7 @@ public class BraveNewTabPageLayout
         if (ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS)) {
             mFeedHash = "";
             initBraveNewsController();
-            if (shouldDisplayNews() && BraveActivity.getBraveActivity() != null
+            if (BraveNewsUtils.shouldDisplayNews() && BraveActivity.getBraveActivity() != null
                     && BraveActivity.getBraveActivity().isLoadedFeed()) {
                 CopyOnWriteArrayList<FeedItemsCard> existingNewsFeedObject =
                         BraveActivity.getBraveActivity().getNewsItemsFeedCards();
@@ -310,7 +310,7 @@ public class BraveNewTabPageLayout
             }
 
             mIsDisplayNewsOptin = shouldDisplayNewsOptin();
-            mIsDisplayNews = shouldDisplayNews();
+            mIsDisplayNews = BraveNewsUtils.shouldDisplayNews();
 
             initPreferenceObserver();
             if (mPreferenceObserver != null) {
@@ -725,11 +725,6 @@ public class BraveNewTabPageLayout
         return 0;
     }
 
-    private boolean shouldDisplayNews() {
-        return BravePrefServiceBridge.getInstance().getShowNews()
-                && BravePrefServiceBridge.getInstance().getNewsOptIn();
-    }
-
     @Override
     public void updateNewsOptin(boolean isOptin) {
         SharedPreferences sharedPreferences = ContextUtils.getAppSharedPreferences();
@@ -745,9 +740,10 @@ public class BraveNewTabPageLayout
         mNtpAdapter.setImageCreditAlpha(1f);
         mNtpAdapter.setDisplayNews(mIsDisplayNews);
 
-        if (isOptin && BraveActivity.getBraveActivity() != null
+        if (isOptin && mBraveNewsController != null
+                && ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS_V2)
                 && BraveNewsUtils.getLocale() == null) {
-            BraveActivity.getBraveActivity().initBraveNewsController();
+            BraveNewsUtils.getBraveNewsSettingsData(mBraveNewsController, null);
         }
     }
 
@@ -961,7 +957,7 @@ public class BraveNewTabPageLayout
 
     private void refreshFeed() {
         boolean isShowNewsOn = BravePrefServiceBridge.getInstance().getShowNews();
-        mIsDisplayNews = shouldDisplayNews();
+        mIsDisplayNews = BraveNewsUtils.shouldDisplayNews();
         if (!isShowNewsOn) {
             mNtpAdapter.setDisplayNews(mIsDisplayNews);
 

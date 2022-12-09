@@ -14,6 +14,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.widget.SwitchCompat;
 
+import org.chromium.base.task.PostTask;
+import org.chromium.base.task.TaskTraits;
 import org.chromium.brave_news.mojom.BraveNewsController;
 import org.chromium.brave_news.mojom.Channel;
 import org.chromium.brave_news.mojom.Publisher;
@@ -33,7 +35,8 @@ import org.chromium.mojo.system.MojoException;
 import java.util.List;
 
 public class BraveNewsPreferencesV2 extends BravePreferenceFragment
-        implements ConnectionErrorHandler, FragmentSettingsLauncher {
+        implements BraveNewsPreferencesDataListener, ConnectionErrorHandler,
+                   FragmentSettingsLauncher {
     private SwitchCompat mSwitchShowNews;
     private View mDivider;
     private TextView mTvSearch;
@@ -44,6 +47,8 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
     private View mLayoutFollowing;
 
     private boolean mIsSuggestionAvailable;
+    private boolean mIsChannelAvailable;
+    private boolean mIsPublisherAvailable;
     private BraveNewsController mBraveNewsController;
 
     // SettingsLauncher injected from main Settings Activity.
@@ -72,28 +77,28 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
         mLayoutChannels = (View) getView().findViewById(R.id.layout_channels);
         mLayoutFollowing = (View) getView().findViewById(R.id.layout_following);
 
-        if (BraveNewsUtils.getChannelIcons().size() == 0) {
-            BraveNewsUtils.setChannelIcons();
-        }
-        if (BraveNewsUtils.getSuggestedPublisherList().size() > 0) {
+        if (BraveNewsUtils.getLocale() != null
+                && BraveNewsUtils.getSuggestedPublisherList().size() > 0) {
             mIsSuggestionAvailable = true;
         }
         onClickViews();
 
-        boolean isShowNewsOn = BravePrefServiceBridge.getInstance().getShowNews();
-        mSwitchShowNews.setChecked(isShowNewsOn);
+        mSwitchShowNews.setChecked(BraveNewsUtils.shouldDisplayNews());
     }
 
     @Override
     public void onResume() {
         super.onResume();
 
-        if (BraveNewsUtils.getLocale() != null) {
-            List<Publisher> followingPublisherList = BraveNewsUtils.getFollowingPublisherList();
-            List<Channel> followingChannelList = BraveNewsUtils.getFollowingChannelList();
-            int followingCount = followingChannelList.size() + followingPublisherList.size();
-            if (mTvFollowingCount != null) {
-                mTvFollowingCount.setText(String.valueOf(followingCount));
+        if (BraveNewsUtils.getLocale() != null && mSwitchShowNews.isChecked()) {
+            updateFollowerCount();
+
+            if (!mIsSuggestionAvailable) {
+                PostTask.postTask(TaskTraits.THREAD_POOL_BEST_EFFORT, () -> {
+                    if (mBraveNewsController != null) {
+                        BraveNewsUtils.getSuggestedSources(mBraveNewsController, this);
+                    }
+                });
             }
         }
     }
@@ -129,19 +134,23 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
                 BravePreferenceKeys.BRAVE_NEWS_PREF_SHOW_NEWS, isEnable);
 
         if (isEnable) {
-            if (BraveNewsUtils.getLocale() == null) {
-                BraveNewsUtils.getBraveNewsSettingsData(mBraveNewsController);
+            if (BraveNewsUtils.getChannelIcons().size() == 0) {
+                BraveNewsUtils.setChannelIcons();
+            }
+            if (BraveNewsUtils.getLocale() == null && mBraveNewsController != null) {
+                BraveNewsUtils.getBraveNewsSettingsData(mBraveNewsController, this);
+            } else {
+                mTvSearch.setVisibility(View.VISIBLE);
+                mLayoutPopularSources.setVisibility(View.VISIBLE);
+                mLayoutChannels.setVisibility(View.VISIBLE);
+                mLayoutFollowing.setVisibility(View.VISIBLE);
             }
 
             BravePrefServiceBridge.getInstance().setNewsOptIn(true);
 
-            mTvSearch.setVisibility(View.VISIBLE);
-            mLayoutPopularSources.setVisibility(View.VISIBLE);
             if (mIsSuggestionAvailable) {
                 mLayoutSuggested.setVisibility(View.VISIBLE);
             }
-            mLayoutChannels.setVisibility(View.VISIBLE);
-            mLayoutFollowing.setVisibility(View.VISIBLE);
 
         } else {
             mTvSearch.setVisibility(View.GONE);
@@ -168,6 +177,59 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
 
         mBraveNewsController =
                 BraveNewsControllerFactory.getInstance().getBraveNewsController(this);
+    }
+
+    private void updateFollowerCount() {
+        List<Publisher> followingPublisherList = BraveNewsUtils.getFollowingPublisherList();
+        List<Channel> followingChannelList = BraveNewsUtils.getFollowingChannelList();
+        int followingCount = followingChannelList.size() + followingPublisherList.size();
+        if (mLayoutFollowing != null && mTvFollowingCount != null) {
+            mTvFollowingCount.setText(String.valueOf(followingCount));
+            mLayoutFollowing.setVisibility(View.VISIBLE);
+        }
+    }
+
+    @Override
+    public void onChannelReceived() {
+        if (mSwitchShowNews != null && mSwitchShowNews.isChecked()) {
+            if (mLayoutChannels != null) {
+                mLayoutChannels.setVisibility(View.VISIBLE);
+            }
+
+            mIsChannelAvailable = true;
+            if (mIsPublisherAvailable) {
+                if (mTvSearch != null) {
+                    mTvSearch.setVisibility(View.VISIBLE);
+                }
+                updateFollowerCount();
+            }
+        }
+    }
+
+    @Override
+    public void onPublisherReceived() {
+        if (mSwitchShowNews != null && mSwitchShowNews.isChecked()) {
+            if (mLayoutPopularSources != null) {
+                mLayoutPopularSources.setVisibility(View.VISIBLE);
+            }
+            mIsPublisherAvailable = true;
+            if (mIsChannelAvailable) {
+                if (mTvSearch != null) {
+                    mTvSearch.setVisibility(View.VISIBLE);
+                }
+                updateFollowerCount();
+            }
+        }
+    }
+
+    @Override
+    public void onSuggestionsReceived() {
+        if (mSwitchShowNews != null && mSwitchShowNews.isChecked()
+                && BraveNewsUtils.getSuggestedPublisherList().size() > 0) {
+            if (mLayoutSuggested != null) {
+                mLayoutSuggested.setVisibility(View.VISIBLE);
+            }
+        }
     }
 
     @Override
