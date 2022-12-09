@@ -231,7 +231,7 @@ void MediaDetectorComponentManager::SetUseLocalScriptForTesting() {
 
   function getOGTagImage() {
     const url = document.querySelector('meta[property="og:image"]')?.content;
-    if (url && !url.startsWith('http://' && !url.startsWith('https://'))) {
+    if (url && !url.startsWith('http://') && !url.startsWith('https://')) {
       return new URL(url, location.origin).href;
     }
 

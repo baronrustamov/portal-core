@@ -26,6 +26,7 @@
 MATCHER_P(IsSamePlaylistItems, expected, "") {
   auto equal = [](const auto& a, const auto& b) {
     // id is not compared because it is generated for actual items.
+    LOG(ERROR) << a.media_file_path << " vs " << b.media_file_path;
     return a.media_file_path == b.media_file_path && a.title == b.title &&
            a.thumbnail_path == b.thumbnail_path;
   };
@@ -101,9 +102,11 @@ class PlaylistDownloadRequestManagerBrowserTest : public PlatformBrowserTest {
   std::unique_ptr<net::test_server::HttpResponse> Serve(
       const std::string& html,
       const net::test_server::HttpRequest& request) {
-    GURL absolute_url = embedded_test_server()->GetURL(request.relative_url);
-    if (absolute_url.path() != "/test")
-      return {};
+    if (base::StartsWith(request.relative_url, "/")) {
+      GURL absolute_url = embedded_test_server()->GetURL(request.relative_url);
+      if (absolute_url.path() != "/test")
+        return {};
+    }
 
     auto response = std::make_unique<net::test_server::BasicHttpResponse>();
     response->set_code(net::HTTP_OK);
@@ -125,7 +128,8 @@ class PlaylistDownloadRequestManagerBrowserTest : public PlatformBrowserTest {
             embedded_test_server()->GetURL(item.media_file_path).spec();
       }
 
-      if (!item.thumbnail_path.empty()) {
+      if (!item.thumbnail_path.empty() &&
+          base::StartsWith(item.thumbnail_path, "/")) {
         item.thumbnail_path =
             embedded_test_server()->GetURL(item.thumbnail_path).spec();
       }
@@ -193,5 +197,45 @@ IN_PROC_BROWSER_TEST_F(PlaylistDownloadRequestManagerBrowserTest,
            PlaylistItemInfo::MediaFilePath("/test1.mp4")},
           {PlaylistItemInfo::Title(""), PlaylistItemInfo::ThumbnailPath(""),
            PlaylistItemInfo::MediaFilePath("/test2.mp4")},
+      });
+}
+
+IN_PROC_BROWSER_TEST_F(PlaylistDownloadRequestManagerBrowserTest,
+                       OGTagImageWithAbsolutePath) {
+  using playlist::PlaylistItemInfo;
+  LoadHTMLAndCheckResult(
+      R"html(
+        <html>
+        <meta property="og:image" content="http://foo.com/img.jpg"> 
+        <body>
+          <video>
+            <source src="test1.mp4"/>
+          </video>
+        </body></html>
+      )html",
+      {
+          {PlaylistItemInfo::Title(""),
+           PlaylistItemInfo::ThumbnailPath("http://foo.com/img.jpg"),
+           PlaylistItemInfo::MediaFilePath("/test1.mp4")},
+      });
+}
+
+IN_PROC_BROWSER_TEST_F(PlaylistDownloadRequestManagerBrowserTest,
+                       OGTagImageWithRelativePath) {
+  using playlist::PlaylistItemInfo;
+  LoadHTMLAndCheckResult(
+      R"html(
+        <html>
+        <meta property="og:image" content="/img.jpg"> 
+        <body>
+          <video>
+            <source src="test1.mp4"/>
+          </video>
+        </body></html>
+      )html",
+      {
+          {PlaylistItemInfo::Title(""),
+           PlaylistItemInfo::ThumbnailPath("/img.jpg"),
+           PlaylistItemInfo::MediaFilePath("/test1.mp4")},
       });
 }
