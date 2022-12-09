@@ -94,6 +94,7 @@ const WalletInfo& Account::GetWallet() const {
 }
 
 void Account::Process() const {
+  VLOG(0) << "FOOBAR.Process.NotifyStatementOfAccountsDidChange";
   NotifyStatementOfAccountsDidChange();
 
   MaybeGetIssuers();

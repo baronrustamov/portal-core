@@ -85,6 +85,7 @@ void SuccessfullyInitializedAds(InitializeCallback callback) {
 
   AdsClientHelper::GetInstance()->BindObservers();
 
+  VLOG(0) << "FOOBAR.SuccessfullyInitializedAds.NotifyDidInitializeAds";
   AdsObserverManager::GetInstance()->NotifyDidInitializeAds();
 }
 

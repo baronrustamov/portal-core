@@ -1485,7 +1485,9 @@ void AdsServiceImpl::AddBatAdsObserver(ads::AdsObserver* observer) {
   DCHECK(observer);
   DCHECK(!observer->IsBound());
 
+  VLOG(0) << "FOOBAR.AddBatAdsObserver.AddingObserver";
   if (bat_ads_remote_.is_bound()) {
+    VLOG(0) << "FOOBAR.AddBatAdsObserver.AddedObserver";
     bat_ads_remote_->AddBatAdsObserver(observer->Bind());
   }
 }
@@ -1493,6 +1495,7 @@ void AdsServiceImpl::AddBatAdsObserver(ads::AdsObserver* observer) {
 void AdsServiceImpl::RemoveBatAdsObserver(ads::AdsObserver* observer) {
   DCHECK(observer);
 
+  VLOG(0) << "FOOBAR.RemoveBatAdsObserver.RemovedObserver";
   observer->Reset();
 }
 

@@ -607,6 +607,7 @@ void RewardsDOMHandler::OnJavascriptAllowed() {
     ads_service_observation_.Reset();
     ads_service_observation_.Observe(ads_service_);
 
+    VLOG(0) << "FOOBAR.OnJavascriptAllowed.AddBatAdsObserver";
     ads_service_->RemoveBatAdsObserver(this);
     ads_service_->AddBatAdsObserver(this);
   }
@@ -1500,6 +1501,9 @@ void RewardsDOMHandler::OnGetStatement(ads::mojom::StatementInfoPtr statement) {
     return;
   }
 
+  VLOG(0) << "FOOBAR.statement.next_payment_date: "
+          << statement->next_payment_date;
+
   base::Value::Dict dict;
   dict.Set("adsNextPaymentDate",
            statement->next_payment_date.ToDoubleT() * 1000);
@@ -1523,14 +1527,22 @@ void RewardsDOMHandler::OnNeedsBrowserUpgradeToServeAds() {
 }
 
 void RewardsDOMHandler::OnDidInitializeAds() {
+  VLOG(0) << "FOOBAR.OnDidInitializeAds.1";
+
   if (ads_service_) {
+    VLOG(0) << "FOOBAR.OnDidInitializeAds.2";
+
     ads_service_->RemoveBatAdsObserver(this);
     ads_service_->AddBatAdsObserver(this);
   }
 }
 
 void RewardsDOMHandler::OnStatementOfAccountsDidChange() {
+  VLOG(0) << "FOOBAR.OnStatementOfAccountsDidChange.1";
+
   if (ads_service_) {
+    VLOG(0) << "FOOBAR.OnStatementOfAccountsDidChange.2";
+
     ads_service_->GetStatementOfAccounts(base::BindOnce(
         &RewardsDOMHandler::OnGetStatement, weak_factory_.GetWeakPtr()));
   }
