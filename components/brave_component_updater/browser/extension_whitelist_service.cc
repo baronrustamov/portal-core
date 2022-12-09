@@ -10,7 +10,6 @@
 #include "base/bind.h"
 #include "base/containers/contains.h"
 #include "base/logging.h"
-#include "base/task/task_runner_util.h"
 #include "brave/components/brave_component_updater/browser/local_data_files_service.h"
 #include "brave/vendor/extension-whitelist/extension_whitelist_parser.h"
 
@@ -58,8 +57,8 @@ void ExtensionWhitelistService::OnComponentReady(
       install_dir.AppendASCII(EXTENSION_DAT_FILE_VERSION)
           .AppendASCII(EXTENSION_DAT_FILE);
 
-  base::PostTaskAndReplyWithResult(
-      local_data_files_service()->GetTaskRunner().get(), FROM_HERE,
+  local_data_files_service()->GetTaskRunner()->PostTaskAndReplyWithResult(
+      FROM_HERE,
       base::BindOnce(
           &brave_component_updater::LoadDATFileData<ExtensionWhitelistParser>,
           dat_file_path),
