@@ -11,6 +11,7 @@ import {
 import { GrantInfo } from '../../shared/lib/grant_info'
 import { ProviderPayoutStatus } from '../../shared/lib/provider_payout_status'
 import { PublisherPlatform } from '../../shared/lib/publisher_platform'
+import { PublisherStatus } from '../../shared/lib/publisher_status'
 import { OnboardingResult } from '../../shared/components/onboarding'
 import { ExternalWalletAction, RewardsSummaryData } from '../../shared/components/wallet_card'
 import { Notification, NotificationAction } from '../../shared/components/notifications'
@@ -31,7 +32,7 @@ export interface PublisherInfo {
   name: string
   icon: string
   platform: PublisherPlatform | null
-  registered: boolean
+  publisherStatus: PublisherStatus
   attentionScore: number
   autoContributeEnabled: boolean
   monthlyTip: number

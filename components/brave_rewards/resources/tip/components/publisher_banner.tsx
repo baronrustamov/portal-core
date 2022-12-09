@@ -16,7 +16,6 @@ import {
 
 import {
   PublisherInfo,
-  PublisherStatus,
   ExternalWalletInfo,
   MediaMetaData
 } from '../lib/interfaces'
@@ -28,6 +27,11 @@ import {
   LocaleContext,
   formatMessage
 } from '../../shared/lib/locale_context'
+import { getExternalWalletProviderName } from '../../shared/lib/external_wallet'
+import {
+  PublisherStatus,
+  publisherStatusToWalletProviderName
+} from '../../shared/lib/publisher_status'
 
 import { MediaCard } from './media_card'
 import { NewTabLink } from '../../shared/components/new_tab_link'
@@ -190,8 +194,6 @@ function showUnverifiedNotice (
     case PublisherStatus.GEMINI_VERIFIED:
       return externalWalletInfo.type !== 'gemini'
   }
-
-  return true
 }
 
 function getUnverifiedNotice (
@@ -205,9 +207,12 @@ function getUnverifiedNotice (
 
   const { getString } = locale
 
-  const text = getString(publisherInfo.status === PublisherStatus.NOT_VERIFIED
-    ? 'siteBannerNoticeNotRegistered'
-    : 'siteBannerNoticeText')
+  const text =
+    publisherInfo.status === PublisherStatus.NOT_VERIFIED ?
+    getString('siteBannerNoticeNotRegistered') :
+    getString('siteBannerNoticeText')
+      .replace('$1', getExternalWalletProviderName(walletInfo!.type))
+      .replace('$2', publisherStatusToWalletProviderName(publisherInfo.status))
 
   return (
     <style.unverifiedNotice>

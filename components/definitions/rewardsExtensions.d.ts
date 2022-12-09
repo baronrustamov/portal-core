@@ -31,13 +31,7 @@ declare namespace RewardsExtension {
     maxAttemptsExceeded: boolean
   }
 
-  export enum PublisherStatus {
-    NOT_VERIFIED = 0,
-    CONNECTED = 1,
-    UPHOLD_VERIFIED = 2,
-    BITFLYER_VERIFIED = 3,
-    GEMINI_VERIFIED = 4
-  }
+  type PublisherStatus = import('../../components/brave_rewards/resources/shared/lib/publisher_status').PublisherStatus
 
   interface Publisher {
     excluded?: boolean

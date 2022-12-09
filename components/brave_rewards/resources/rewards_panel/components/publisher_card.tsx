@@ -14,6 +14,11 @@ import { MonthlyTipView } from './monthly_tip_view'
 import { VerifiedIcon } from './icons/verified_icon'
 import { LoadingIcon } from '../../shared/components/icons/loading_icon'
 import { RefreshStatusIcon } from './icons/refresh_status_icon'
+import { getExternalWalletProviderName } from '../../shared/lib/external_wallet'
+import {
+  isPublisherVerified,
+  publisherStatusToWalletProviderName
+} from '../../shared/lib/publisher_status'
 
 import * as style from './publisher_card.style'
 
@@ -49,10 +54,10 @@ export function PublisherCard () {
       return false
     }
 
-    const { registered, supportedWalletProviders } = publisherInfo
+    const { publisherStatus, supportedWalletProviders } = publisherInfo
 
     // Show the bubble if the publisher is not registered.
-    if (!registered) {
+    if (!isPublisherVerified(publisherStatus)) {
       return true
     }
 
@@ -76,13 +81,17 @@ export function PublisherCard () {
       return null
     }
 
+    const { publisherStatus } = publisherInfo
+
     return (
       <style.pendingBubble>
         <style.pendingBubbleHeader>
           {
-            getString(publisherInfo.registered
-              ? 'pendingTipTitleRegistered'
-              : 'pendingTipTitle')
+            !isPublisherVerified(publisherStatus) ? 
+            getString('pendingTipTitle') :
+            getString('pendingTipTitleRegistered')
+              .replace('$1', getExternalWalletProviderName(externalWallet!.provider))
+              .replace('$2', publisherStatusToWalletProviderName(publisherStatus))
           }
         </style.pendingBubbleHeader>
         <style.pendingBubbleText>
@@ -107,13 +116,13 @@ export function PublisherCard () {
       return null
     }
 
-    const { registered } = publisherInfo
+    const verified = isPublisherVerified(publisherInfo.publisherStatus)
 
     return (
-      <style.statusIndicator className={registered ? 'registered' : ''}>
+      <style.statusIndicator className={verified ? 'registered' : ''}>
         <div><VerifiedIcon /></div>
         <div>
-          {getString(registered ? 'verifiedCreator' : 'unverifiedCreator')}
+          {getString(verified ? 'verifiedCreator' : 'unverifiedCreator')}
           <div className='pending-bubble'>
             {renderPendingBubble()}
           </div>

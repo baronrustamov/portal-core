@@ -15,7 +15,3 @@ export function convertBalance (tokens: number, rate: number): string {
 
   return converted.toFixed(2)
 }
-
-export function isPublisherConnectedOrVerified (status: Rewards.PublisherStatus) {
-  return status > 0
-}

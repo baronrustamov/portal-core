@@ -5,6 +5,7 @@
 import { Notification } from '../../shared/components/notifications'
 import { GrantInfo } from '../../shared/lib/grant_info'
 import { ProviderPayoutStatus } from '../../shared/lib/provider_payout_status'
+import { PublisherStatus } from '../../shared/lib/publisher_status'
 import { RewardsSummaryData } from '../../shared/components/wallet_card'
 import { OnboardingResult } from '../../shared/components/onboarding'
 import { mapNotification } from './notification_adapter'
@@ -292,7 +293,7 @@ function defaultPublisherInfo (url: string) {
     name: parsedURL.hostname,
     icon: origin ? `chrome://favicon/size/64@1x/${parsedURL.origin}` : '',
     platform: null,
-    registered: false,
+    publisherStatus: PublisherStatus.NOT_VERIFIED,
     attentionScore: 0,
     autoContributeEnabled: true,
     monthlyTip: 0,
@@ -338,11 +339,9 @@ export async function getPublisherInfo (tabId: number) {
   }
 
   const supportedWalletProviders: ExternalWalletProvider[] = []
-  let registered = true
 
   switch (Number(publisher.status) || 0) {
     case 0: // NOT_VERIFIED
-      registered = false
       break
     case 2: // UPHOLD_VERIFIED
       supportedWalletProviders.push('uphold')
@@ -362,7 +361,7 @@ export async function getPublisherInfo (tabId: number) {
     name: String(publisher.name || ''),
     icon: iconPath ? `chrome://favicon/size/64@1x/${iconPath}` : '',
     platform: getPublisherPlatform(String(publisher.provider || '')),
-    registered,
+    publisherStatus: Number(publisher.status) || 0,
     attentionScore: Number(publisher.percentage) / 100 || 0,
     autoContributeEnabled: !publisher.excluded,
     monthlyTip: await getMonthlyTipAmount(publisherKey),
