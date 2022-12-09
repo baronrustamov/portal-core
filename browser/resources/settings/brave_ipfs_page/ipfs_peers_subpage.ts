@@ -90,7 +90,7 @@ export class SettingsBraveIpfsPeersSubpageElement extends SettingsBraveIpfsPeers
 
   override ready() {
     super.ready()
-    this.addWebUIListener('brave-ipfs-node-status-changed', (launched: boolean) => {
+    this.addWebUiListener('brave-ipfs-node-status-changed', (launched: boolean) => {
       this.onServiceLaunched(launched)
     })
     this.onServiceLaunched(this.localNodeLaunched)

@@ -50,7 +50,7 @@ export class SettingsBraveNewTabPageElement extends SettingsBraveNewTabPageEleme
     this.browserProxy_.shouldShowNewTabDashboardSettings().then((show: boolean) => {
       this.showNewTabDashboardSettings_ = show
     })
-    this.addWebUIListener('show-new-tab-dashboard-settings-changed', (show: boolean) => {
+    this.addWebUiListener('show-new-tab-dashboard-settings-changed', (show: boolean) => {
       this.showNewTabDashboardSettings_ = show
     })
   }

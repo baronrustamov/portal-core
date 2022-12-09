@@ -106,13 +106,13 @@ export class SettingsBraveP2pKeysSubpageElement extends SettingsBraveP2pKeysSubp
 
   override ready() {
     super.ready()
-    this.addWebUIListener('brave-ipfs-node-status-changed', (launched: boolean) => {
+    this.addWebUiListener('brave-ipfs-node-status-changed', (launched: boolean) => {
       this.onServiceLaunched(launched)
     })
-    this.addWebUIListener('brave-ipfs-keys-loaded', () => {
+    this.addWebUiListener('brave-ipfs-keys-loaded', () => {
       this.updateKeys()
     })
-    this.addWebUIListener('brave-ipfs-key-exported', (key: string, success: boolean) => {
+    this.addWebUiListener('brave-ipfs-key-exported', (key: string, success: boolean) => {
       this.actionKeysError_ = !success
       if (this.actionKeysError_) {
         const errorLabel = (this.$.keyError);
@@ -120,7 +120,7 @@ export class SettingsBraveP2pKeysSubpageElement extends SettingsBraveP2pKeysSubp
         return;
       }
     })
-    this.addWebUIListener('brave-ipfs-key-imported', (key: string, success: boolean) => {
+    this.addWebUiListener('brave-ipfs-key-imported', (key: string, success: boolean) => {
       this.actionKeysError_ = !success
       if (this.actionKeysError_ ) {
         const errorLabel = (this.$.keyError);

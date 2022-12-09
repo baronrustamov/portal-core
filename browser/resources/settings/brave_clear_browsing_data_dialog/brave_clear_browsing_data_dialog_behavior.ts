@@ -17,7 +17,7 @@ export class BraveSettingsClearBrowsingDataDialogElement extends BaseElement {
   override ready() {
     super.ready()
     this.addOnExitElements_();
-    this.addWebUIListener(
+    this.addWebUiListener(
       'update-counter-text', this.updateOnExitCountersText.bind(this));
   }
 
