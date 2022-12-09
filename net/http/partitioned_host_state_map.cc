@@ -7,7 +7,7 @@
 
 #include <utility>
 
-#include "base/strings/strcat.h"
+#include "base/ranges/algorithm.h"
 #include "crypto/sha2.h"
 #include "net/base/network_isolation_key.h"
 
@@ -16,13 +16,11 @@ namespace net {
 PartitionedHostStateMapBase::PartitionedHostStateMapBase() = default;
 PartitionedHostStateMapBase::~PartitionedHostStateMapBase() = default;
 
-base::AutoReset<absl::optional<std::string>>
+base::AutoReset<absl::optional<PartitionedHostStateMapBase::HashedHost>>
 PartitionedHostStateMapBase::SetScopedPartitionHash(
-    absl::optional<std::string> partition_hash) {
-  CHECK(!partition_hash || partition_hash->empty() ||
-        partition_hash->size() == crypto::kSHA256Length);
-  return base::AutoReset<absl::optional<std::string>>(
-      &partition_hash_, std::move(partition_hash));
+    absl::optional<HashedHost> partition_hash) {
+  return base::AutoReset<absl::optional<HashedHost>>(&partition_hash_,
+                                                     std::move(partition_hash));
 }
 
 bool PartitionedHostStateMapBase::HasPartitionHash() const {
@@ -33,20 +31,23 @@ bool PartitionedHostStateMapBase::IsPartitionHashValid() const {
   return partition_hash_ && !partition_hash_->empty();
 }
 
-std::string PartitionedHostStateMapBase::GetKeyWithPartitionHash(
-    const std::string& k) const {
+PartitionedHostStateMapBase::HashedHost
+PartitionedHostStateMapBase::GetKeyWithPartitionHash(
+    const HashedHost& k) const {
   CHECK(IsPartitionHashValid());
   if (k == *partition_hash_) {
     return k;
   }
-  return base::StrCat({GetHalfKey(k), GetHalfKey(*partition_hash_)});
+
+  std::array<uint8_t, crypto::kSHA256Length> result;
+  base::ranges::copy(GetHalfKey(k), result.begin());
+  base::ranges::copy(GetHalfKey(*partition_hash_),
+                     std::next(result.begin(), crypto::kSHA256Length / 2));
+  return result;
 }
 
-// static
-base::StringPiece PartitionedHostStateMapBase::GetHalfKey(base::StringPiece k) {
-  CHECK_EQ(k.size(), crypto::kSHA256Length);
-  const size_t kHalfSHA256HashLength = crypto::kSHA256Length / 2;
-  return k.substr(0, kHalfSHA256HashLength);
+base::span<uint8_t> PartitionedHostStateMapBase::GetHalfKey(HashedHost k) {
+  return base::make_span(k.data(), crypto::kSHA256Length / 2);
 }
 
 }  // namespace net
