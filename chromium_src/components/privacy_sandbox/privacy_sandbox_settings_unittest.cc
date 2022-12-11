@@ -61,8 +61,7 @@ class PrivacySandboxSettingsTest : public testing::Test {
 
     privacy_sandbox_settings_ = std::make_unique<BravePrivacySandboxSettings>(
         std::move(mock_delegate), host_content_settings_map(),
-        cookie_settings(), prefs(),
-        /*incognito_profile=*/false);
+        cookie_settings(), prefs());
   }
 
   virtual void InitializePrefsBeforeStart() {}
