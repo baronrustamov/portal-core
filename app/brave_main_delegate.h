@@ -29,6 +29,8 @@ class BraveMainDelegate : public ChromeMainDelegate {
   content::ContentRendererClient* CreateContentRendererClient() override;
   content::ContentUtilityClient* CreateContentUtilityClient() override;
   void PreSandboxStartup() override;
+  absl::optional<int> PostEarlyInitialization(
+      ChromeMainDelegate::InvokedIn invoked_in) override;
 };
 
 #endif  // BRAVE_APP_BRAVE_MAIN_DELEGATE_H_
