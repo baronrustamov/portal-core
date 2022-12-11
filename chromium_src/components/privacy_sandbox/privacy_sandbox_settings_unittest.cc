@@ -30,7 +30,8 @@ class MockPrivacySandboxDelegate : public PrivacySandboxSettings::Delegate {
       return false;
     });
   }
-  MOCK_METHOD(bool, IsPrivacySandboxRestricted, (), (override));
+  MOCK_METHOD(bool, IsPrivacySandboxRestricted, (), (const, override));
+  MOCK_METHOD(bool, IsIncognitoProfile, (), (const, override));
 };
 
 class PrivacySandboxSettingsTest : public testing::Test {
