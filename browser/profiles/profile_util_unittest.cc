@@ -29,11 +29,9 @@ class BraveProfileUtilTest : public testing::Test {
     ASSERT_TRUE(testing_profile_manager_.SetUp(temp_dir_.GetPath()));
   }
 
-  Profile* GetProfile() { return ProfileManager::GetActiveUserProfile(); }
+  Profile* GetProfile() { return ProfileManager::GetLastUsedProfile(); }
 
-  PrefService* GetPrefs() {
-    return ProfileManager::GetActiveUserProfile()->GetPrefs();
-  }
+  PrefService* GetPrefs() { return GetProfile()->GetPrefs(); }
 
   content::BrowserTaskEnvironment task_environment_;
   TestingProfileManager testing_profile_manager_;

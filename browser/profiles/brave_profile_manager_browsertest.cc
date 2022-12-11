@@ -140,7 +140,7 @@ IN_PROC_BROWSER_TEST_F(BraveProfileManagerTest,
                        ExcludeServicesInOTRAndGuestProfiles) {
   ProfileManager* profile_manager = g_browser_process->profile_manager();
   ASSERT_TRUE(profile_manager);
-  Profile* profile = ProfileManager::GetActiveUserProfile();
+  Profile* profile = ProfileManager::GetLastUsedProfile();
   Profile* otr_profile =
       profile->GetPrimaryOTRProfile(/*create_if_needed=*/true);
 
