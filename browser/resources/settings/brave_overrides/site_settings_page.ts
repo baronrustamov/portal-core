@@ -6,6 +6,7 @@
 // @ts-nocheck TODO(petemill): Define types and remove ts-nocheck
 
 import {RegisterPolymerComponentReplacement, RegisterPolymerTemplateModifications} from 'chrome://resources/polymer_overriding.js'
+import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {ContentSettingsTypes} from '../site_settings/constants.js'
 import {loadTimeData} from 'chrome://resources/js/load_time_data.m.js';
 import {I18nBehavior} from 'chrome://resources/i18n_behavior.js';
@@ -27,8 +28,8 @@ RegisterPolymerTemplateModifications({
       console.error('[Brave Settings Overrides] Could not find all sites list')
       return
     }
-    allSites.insertAdjacentHTML('afterend', `
-      <div class="cr-row first line-only"><h2>${I18nBehavior.i18n('siteSettingsShields')}</h2></div>
+    allSites.insertAdjacentHTML('afterend', getTrustedHTML`
+      <div class="cr-row first line-only"><h2>siteSettingsShields</h2></div>
       <settings-site-settings-list id="basicShieldsList"
           category-list="[[lists_.shieldsBasic]]"
           focus-config="[[focusConfig]]">

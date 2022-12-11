@@ -6,6 +6,7 @@
 // @ts-nocheck TODO(petemill): Define types and remove ts-nocheck
 
 import {RegisterPolymerTemplateModifications} from 'chrome://resources/polymer_overriding.js'
+import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {I18nBehavior} from 'chrome://resources/i18n_behavior.js'
 import {loadTimeData} from 'chrome://resources/js/load_time_data.m.js';
 
@@ -23,88 +24,99 @@ RegisterPolymerTemplateModifications({
           idleDetection.content.firstElementChild.hidden = true
         }
       }
-      pages.insertAdjacentHTML('beforeend', `
+      pages.insertAdjacentHTML('beforeend', getTrustedHTML`
         <template is="dom-if" route-path="/content/autoplay" no-search>
-          <settings-subpage page-title="${I18nBehavior.i18n('siteSettingsCategoryAutoplay')}">
+          <settings-subpage page-title="siteSettingsCategoryAutoplay">
             <category-default-setting
-                toggle-off-label="${I18nBehavior.i18n('siteSettingsAutoplayBlock')}"
-                toggle-on-label="${I18nBehavior.i18n('siteSettingsAutoplayAllow')}"
+                toggle-off-label="siteSettingsAutoplayBlock"
+                toggle-on-label="siteSettingsAutoplayAllow"
                 category="[[contentSettingsTypesEnum_.AUTOPLAY}}">
             </category-default-setting>
             <category-setting-exceptions
                 category="[[contentSettingsTypesEnum_.AUTOPLAY]]"
-                block-header="${I18nBehavior.i18n('siteSettingsBlock')}"
-                allow-header="${I18nBehavior.i18n('siteSettingsAllow')}">
+                block-header="siteSettingsBlock"
+                allow-header="siteSettingsAllow">
             </category-setting-exceptions>
           </settings-subpage>
         </template>
       `)
       const isNativeBraveWalletEnabled = loadTimeData.getBoolean('isNativeBraveWalletFeatureEnabled')
       if (isNativeBraveWalletEnabled) {
-        pages.insertAdjacentHTML('beforeend', `
+        pages.insertAdjacentHTML('beforeend', getTrustedHTML`
           <template is="dom-if" route-path="/content/ethereum" no-search>
-          <settings-subpage page-title="${I18nBehavior.i18n('siteSettingsCategoryEthereum')}">
-          <category-default-setting
-          category="[[contentSettingsTypesEnum_.ETHEREUM]]"
-          toggle-off-label="${I18nBehavior.i18n('siteSettingsEthereumBlock')}"
-          toggle-on-label="${I18nBehavior.i18n('siteSettingsEthereumAsk')}">
-          </category-default-setting>
-          <category-setting-exceptions
-          category="[[contentSettingsTypesEnum_.ETHEREUM]]"
-          read-only-list
-          block-header="${I18nBehavior.i18n('siteSettingsBlock')}"
-          allow-header="${I18nBehavior.i18n('siteSettingsAllow')}">
-          </category-setting-exceptions>
-          </settings-subpage>
+            <settings-subpage page-title="siteSettingsCategoryEthereum">
+              <category-default-setting
+                  category="[[contentSettingsTypesEnum_.ETHEREUM]]"
+                  toggle-off-label="siteSettingsEthereumBlock"
+                  toggle-on-label="siteSettingsEthereumAsk">
+              </category-default-setting>
+              <category-setting-exceptions
+                  category="[[contentSettingsTypesEnum_.ETHEREUM]]"
+                  read-only-list
+                  block-header="siteSettingsBlock"
+                  allow-header="siteSettingsAllow">
+              </category-setting-exceptions>
+            </settings-subpage>
           </template>
         `)
-        pages.insertAdjacentHTML('beforeend', `
+        pages.insertAdjacentHTML('beforeend', getTrustedHTML`
           <template is="dom-if" route-path="/content/solana" no-search>
-          <settings-subpage page-title="${I18nBehavior.i18n('siteSettingsCategorySolana')}">
-          <category-default-setting
-          category="[[contentSettingsTypesEnum_.SOLANA]]"
-          toggle-off-label="${I18nBehavior.i18n('siteSettingsSolanaBlock')}"
-          toggle-on-label="${I18nBehavior.i18n('siteSettingsSolanaAsk')}">
-          </category-default-setting>
-          <category-setting-exceptions
-          category="[[contentSettingsTypesEnum_.SOLANA]]"
-          read-only-list
-          block-header="${I18nBehavior.i18n('siteSettingsBlock')}"
-          allow-header="${I18nBehavior.i18n('siteSettingsAllow')}">
-          </category-setting-exceptions>
-          </settings-subpage>
+            <settings-subpage page-title="siteSettingsCategorySolana">
+              <category-default-setting
+                  category="[[contentSettingsTypesEnum_.SOLANA]]"
+                  toggle-off-label="siteSettingsSolanaBlock"
+                  toggle-on-label="siteSettingsSolanaAsk">
+              </category-default-setting>
+              <category-setting-exceptions
+                  category="[[contentSettingsTypesEnum_.SOLANA]]"
+                  read-only-list
+                  block-header="siteSettingsBlock"
+                  allow-header="siteSettingsAllow">
+              </category-setting-exceptions>
+            </settings-subpage>
           </template>
         `)
       }
-      pages.insertAdjacentHTML('beforeend', `
+      pages.insertAdjacentHTML('beforeend', getTrustedHTML`
         <template is="dom-if" route-path="/content/braveShields" no-search>
-        <settings-subpage page-title="${I18nBehavior.i18n('siteSettingsShieldsStatus')}">
-        <category-setting-exceptions
-        category="[[contentSettingsTypesEnum_.BRAVE_SHIELDS]]"
-        block-header="${I18nBehavior.i18n('siteSettingsShieldsDown')}"
-        allow-header="${I18nBehavior.i18n('siteSettingsShieldsUp')}">
-        </category-setting-exceptions>
-        </settings-subpage>
+          <settings-subpage page-title="siteSettingsShieldsStatus">
+            <category-setting-exceptions
+                category="[[contentSettingsTypesEnum_.BRAVE_SHIELDS]]"
+                block-header="siteSettingsShieldsDown"
+                allow-header="iteSettingsShieldsUp">
+            </category-setting-exceptions>
+          </settings-subpage>
         </template>
       `)
     }
 
     if (!loadTimeData.getBoolean('isPrivacySandboxRestricted')) {
-      const privacySandboxTemplate = templateContent.querySelector(`template[if*='isPrivacySandboxRestricted_']`)
-      if (!privacySandboxTemplate) {
-        console.error('[Brave Settings Overrides] Could not find template with if*=isPrivacySandboxRestricted_ on privacy page.')
+      const privacySandboxSettings3Template = templateContent.querySelector(`template[if*='isPrivacySandboxSettings3Enabled_']`)
+      if (!privacySandboxSettings3Template) {
+        console.error('[Brave Settings Overrides] Could not find template with if*=isPrivacySandboxSettings3Enabled_ on privacy page.')
       } else {
-        const privacySandboxLinkRow = privacySandboxTemplate.content.getElementById('privacySandboxLinkRow')
+        const privacySandboxLinkRow = privacySandboxSettings3Template.content.getElementById('privacySandboxLinkRow')
         if (!privacySandboxLinkRow) {
           console.error('[Brave Settings Overrides] Could not find privacySandboxLinkRow id on privacy page.')
         } else {
           privacySandboxLinkRow.setAttribute('hidden', 'true')
         }
-        const privacySandboxLink = privacySandboxTemplate.content.getElementById('privacySandboxLink')
+        const privacySandboxLink = privacySandboxSettings3Template.content.getElementById('privacySandboxLink')
         if (!privacySandboxLink) {
           console.error('[Brave Settings Overrides] Could not find privacySandboxLink id on privacy page.')
         } else {
-          privacySandboxTemplate.setAttribute('hidden', 'true')
+          privacySandboxSettings3Template.setAttribute('hidden', 'true')
+        }
+      }
+      const privacySandboxSettings4Template = templateContent.querySelector(`template[if*='isPrivacySandboxSettings4Enabled_']`)
+      if (!privacySandboxSettings4Template) {
+        console.error('[Brave Settings Overrides] Could not find template with if*=isPrivacySandboxSettings4Enabled_ on privacy page.')
+      } else {
+        const privacySandboxLinkRow = privacySandboxSettings4Template.content.getElementById('privacySandboxLinkRow')
+        if (!privacySandboxLinkRow) {
+          console.error('[Brave Settings Overrides] Could not find privacySandboxLinkRow id on privacy page.')
+        } else {
+          privacySandboxLinkRow.setAttribute('hidden', 'true')
         }
       }
     }

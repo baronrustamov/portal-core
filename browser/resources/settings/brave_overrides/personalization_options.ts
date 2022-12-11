@@ -6,6 +6,7 @@
 // @ts-nocheck TODO(petemill): Define types and remove ts-nocheck
 
 import {RegisterPolymerTemplateModifications} from 'chrome://resources/polymer_overriding.js'
+import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 
 import '../brave_privacy_page/brave_personalization_options.js'
 
@@ -15,7 +16,7 @@ RegisterPolymerTemplateModifications({
     if (!metricsReportingControl) {
       console.error(`[Brave Settings Overrides] Couldn't find metricsReportingControl`)
     } else {
-      metricsReportingControl.insertAdjacentHTML('beforebegin', `
+      metricsReportingControl.insertAdjacentHTML('beforebegin', getTrustedHTML`
         <settings-brave-personalization-options prefs="{{prefs}}"></settings-brave-personalization-options>
       `)
     }

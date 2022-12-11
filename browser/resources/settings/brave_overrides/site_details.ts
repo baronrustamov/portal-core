@@ -6,6 +6,7 @@
 // @ts-nocheck TODO(petemill): Define types and remove ts-nocheck
 
 import {RegisterPolymerTemplateModifications} from 'chrome://resources/polymer_overriding.js'
+import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {I18nBehavior} from 'chrome://resources/i18n_behavior.js'
 import {loadTimeData} from 'chrome://resources/js/load_time_data.m.js';
 
@@ -29,24 +30,24 @@ RegisterPolymerTemplateModifications({
     if (!firstPermissionItem) {
       console.error(`[Brave Settings Overrides] Couldn't find first permission item`)
     } else {
-      firstPermissionItem.insertAdjacentHTML('beforebegin', `
+      firstPermissionItem.insertAdjacentHTML('beforebegin', getTrustedHTML`
         <site-details-permission
             category="[[contentSettingsTypesEnum_.AUTOPLAY]]"
-            icon="cr:extension" label="${I18nBehavior.i18n('siteSettingsAutoplay')}">
+            icon="cr:extension" label="siteSettingsAutoplay">
         </site-details-permission>
       `)
       const isNativeBraveWalletEnabled = loadTimeData.getBoolean('isNativeBraveWalletFeatureEnabled')
       if (isNativeBraveWalletEnabled) {
-          firstPermissionItem.insertAdjacentHTML('beforebegin', `
+          firstPermissionItem.insertAdjacentHTML('beforebegin', getTrustedHTML`
           <site-details-permission
               category="[[contentSettingsTypesEnum_.ETHEREUM]]"
-              icon="cr:extension" label="${I18nBehavior.i18n('siteSettingsEthereum')}">
+              icon="cr:extension" label="siteSettingsEthereum">
           </site-details-permission>
         `)
-          firstPermissionItem.insertAdjacentHTML('beforebegin', `
+          firstPermissionItem.insertAdjacentHTML('beforebegin', getTrustedHTML`
           <site-details-permission
               category="[[contentSettingsTypesEnum_.SOLANA]]"
-              icon="cr:extension" label="${I18nBehavior.i18n('siteSettingsSolana')}">
+              icon="cr:extension" label="siteSettingsSolana">
           </site-details-permission>
         `)
       }
@@ -55,15 +56,15 @@ RegisterPolymerTemplateModifications({
     if (!usageSection) {
       console.error(`[Brave Settings Overrides] Couldn't find usageSection item`)
     } else {
-      usageSection.insertAdjacentHTML('afterend', `
+      usageSection.insertAdjacentHTML('afterend', getTrustedHTML`
         <div id="shields">
           <div id="shieldsHeader" style="padding: 0 var(--cr-section-padding);">
-            <h2 class="first">${I18nBehavior.i18n('siteSettingsShields')}</h2>
+            <h2 class="first">siteSettingsShields</h2>
           </div>
           <div class="list-frame">
             <site-details-permission
                 category="[[contentSettingsTypesEnum_.BRAVE_SHIELDS]]"
-                icon="brave_settings:shields" label="${I18nBehavior.i18n('siteSettingsShieldsStatus')}">
+                icon="brave_settings:shields" label="siteSettingsShieldsStatus">
             </site-details-permission>
           </div>
         </div>
