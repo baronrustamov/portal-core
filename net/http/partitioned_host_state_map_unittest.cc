@@ -8,6 +8,7 @@
 #include <map>
 #include <string>
 
+#include "base/containers/span.h"
 #include "crypto/sha2.h"
 #include "testing/gtest/include/gtest/gtest.h"
 
@@ -18,10 +19,10 @@ namespace {
 using PartitionedMap =
     PartitionedHostStateMap<std::map<std::array<uint8_t, crypto::kSHA256Length>, std::string>>;
 
-std::string HashHost(base::StringPiece canonicalized_host) {
-  char hashed[crypto::kSHA256Length];
-  crypto::SHA256HashString(canonicalized_host, hashed, sizeof(hashed));
-  return std::string(hashed, sizeof(hashed));
+std::array<uint8_t, crypto::kSHA256Length> HashHost(
+    base::StringPiece canonicalized_host) {
+  return crypto::SHA256Hash(
+      base::as_bytes(base::make_span(canonicalized_host)));
 }
 
 }  // namespace
@@ -51,7 +52,7 @@ TEST(PartitionedHostStateMapTest, WithoutPartitionHash) {
 TEST(PartitionedHostStateMapTest, InvalidPartitionHash) {
   PartitionedMap map;
   // Empty string is an invalid partition. It means it should not be persisted.
-  auto auto_reset_partition_hash = map.SetScopedPartitionHash("");
+  auto auto_reset_partition_hash = map.SetScopedPartitionHash(HashHost(""));
   EXPECT_TRUE(map.HasPartitionHash());
   EXPECT_FALSE(map.IsPartitionHashValid());
 
