@@ -57,7 +57,7 @@ class AdBlockSubpage extends AdBlockSubpageBase {
       this.customFilters_ = value
     })
 
-    this.browserProxy_.addWebUIListener(
+    this.browserProxy_.addWebUiListener(
       'brave_adblock.onGetListSubscriptions', (value) => {
         this.subscriptionList_ = value
     })
