@@ -5,15 +5,22 @@
 
 package org.chromium.chrome.browser.settings;
 
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.CompoundButton;
+import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.appcompat.widget.SwitchCompat;
 
+import org.chromium.base.ContextUtils;
+import org.chromium.base.Log;
 import org.chromium.base.task.PostTask;
 import org.chromium.base.task.TaskTraits;
 import org.chromium.brave_news.mojom.BraveNewsController;
@@ -37,10 +44,15 @@ import java.util.List;
 public class BraveNewsPreferencesV2 extends BravePreferenceFragment
         implements BraveNewsPreferencesDataListener, ConnectionErrorHandler,
                    FragmentSettingsLauncher {
+    private LinearLayout mParentLayout;
+    private LinearLayout mOptinLayout;
     private SwitchCompat mSwitchShowNews;
-    private View mDivider;
     private TextView mTvSearch;
     private TextView mTvFollowingCount;
+    private Button mBtnTurnOnNews;
+    private Button mBtnLearnMore;
+    private View mLayoutSwitch;
+    private View mDivider;
     private View mLayoutPopularSources;
     private View mLayoutSuggested;
     private View mLayoutChannels;
@@ -68,8 +80,13 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
 
         initBraveNewsController();
 
+        mParentLayout = (LinearLayout) getView().findViewById(R.id.layout_parent);
+        mOptinLayout = (LinearLayout) getView().findViewById(R.id.layout_optin_card);
         mSwitchShowNews = (SwitchCompat) getView().findViewById(R.id.switch_show_news);
         mDivider = getView().findViewById(R.id.divider);
+        mLayoutSwitch = getView().findViewById(R.id.layout_switch);
+        mBtnTurnOnNews = (Button) getView().findViewById(R.id.btn_turn_on_news);
+        mBtnLearnMore = (Button) getView().findViewById(R.id.btn_learn_more);
         mTvSearch = (TextView) getView().findViewById(R.id.tv_search);
         mTvFollowingCount = (TextView) getView().findViewById(R.id.tv_following_count);
         mLayoutPopularSources = (View) getView().findViewById(R.id.layout_popular_sources);
@@ -81,9 +98,11 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
                 && BraveNewsUtils.getSuggestedPublisherList().size() > 0) {
             mIsSuggestionAvailable = true;
         }
-        onClickViews();
 
-        mSwitchShowNews.setChecked(BraveNewsUtils.shouldDisplayNews());
+        boolean isNewsEnable = BraveNewsUtils.shouldDisplayNews();
+        mSwitchShowNews.setChecked(isNewsEnable);
+        onShowNewsToggle(isNewsEnable);
+        onClickViews();
     }
 
     @Override
@@ -104,6 +123,7 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
     }
 
     private void onClickViews() {
+        mBtnTurnOnNews.setOnClickListener(view -> { mSwitchShowNews.setChecked(true); });
         mSwitchShowNews.setOnCheckedChangeListener((compoundButton, b) -> { onShowNewsToggle(b); });
 
         mTvSearch.setOnClickListener(
@@ -128,12 +148,21 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
     }
 
     private void onShowNewsToggle(boolean isEnable) {
+        Log.e("tapan", "onShowNewsToggle:" + isEnable);
         BravePrefServiceBridge.getInstance().setShowNews(isEnable);
 
         SharedPreferencesManager.getInstance().writeBoolean(
                 BravePreferenceKeys.BRAVE_NEWS_PREF_SHOW_NEWS, isEnable);
 
+        FrameLayout.LayoutParams parentLayoutParams = new FrameLayout.LayoutParams(
+                FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.WRAP_CONTENT);
+
         if (isEnable) {
+            parentLayoutParams.gravity = Gravity.NO_GRAVITY;
+            mParentLayout.setLayoutParams(parentLayoutParams);
+            mOptinLayout.setVisibility(View.GONE);
+            mLayoutSwitch.setVisibility(View.VISIBLE);
+            mDivider.setVisibility(View.VISIBLE);
             if (BraveNewsUtils.getChannelIcons().size() == 0) {
                 BraveNewsUtils.setChannelIcons();
             }
@@ -144,15 +173,25 @@ public class BraveNewsPreferencesV2 extends BravePreferenceFragment
                 mLayoutPopularSources.setVisibility(View.VISIBLE);
                 mLayoutChannels.setVisibility(View.VISIBLE);
                 mLayoutFollowing.setVisibility(View.VISIBLE);
+                updateFollowerCount();
             }
 
             BravePrefServiceBridge.getInstance().setNewsOptIn(true);
+            SharedPreferences.Editor sharedPreferencesEditor =
+                    ContextUtils.getAppSharedPreferences().edit();
+            sharedPreferencesEditor.putBoolean(BraveNewsPreferences.PREF_SHOW_OPTIN, false);
+            sharedPreferencesEditor.apply();
 
             if (mIsSuggestionAvailable) {
                 mLayoutSuggested.setVisibility(View.VISIBLE);
             }
 
         } else {
+            parentLayoutParams.gravity = Gravity.CENTER_VERTICAL;
+            mParentLayout.setLayoutParams(parentLayoutParams);
+            mOptinLayout.setVisibility(View.VISIBLE);
+            mLayoutSwitch.setVisibility(View.GONE);
+            mDivider.setVisibility(View.GONE);
             mTvSearch.setVisibility(View.GONE);
             mLayoutPopularSources.setVisibility(View.GONE);
             mLayoutSuggested.setVisibility(View.GONE);

@@ -99,6 +99,7 @@ import org.chromium.chrome.browser.preferences.SharedPreferencesManager;
 import org.chromium.chrome.browser.profiles.Profile;
 import org.chromium.chrome.browser.settings.BackgroundImagesPreferences;
 import org.chromium.chrome.browser.settings.BraveNewsPreferences;
+import org.chromium.chrome.browser.settings.BraveNewsPreferencesV2;
 import org.chromium.chrome.browser.settings.SettingsLauncherImpl;
 import org.chromium.chrome.browser.suggestions.tile.TileGroup;
 import org.chromium.chrome.browser.tab.Tab;
@@ -351,7 +352,11 @@ public class BraveNewTabPageLayout
         ImageView ivNewsSettings = findViewById(R.id.news_settings_button);
         ivNewsSettings.setOnClickListener(view -> {
             SettingsLauncher settingsLauncher = new SettingsLauncherImpl();
-            settingsLauncher.launchSettingsActivity(getContext(), BraveNewsPreferences.class);
+            if (ChromeFeatureList.isEnabled(BraveFeatureList.BRAVE_NEWS_V2)) {
+                settingsLauncher.launchSettingsActivity(getContext(), BraveNewsPreferencesV2.class);
+            } else {
+                settingsLauncher.launchSettingsActivity(getContext(), BraveNewsPreferences.class);
+            }
         });
 
         mRecyclerView = findViewById(R.id.recyclerview);
@@ -965,8 +970,9 @@ public class BraveNewTabPageLayout
                 mPrevVisibleNewsCardPosition = mPrevVisibleNewsCardPosition - 1;
                 setNewContentChanges(false);
             }
-            mNtpAdapter.notifyItemChanged(
-                    mNtpAdapter.getStatsCount() + mNtpAdapter.getTopSitesCount());
+            mNtpAdapter.setImageCreditAlpha(1f);
+            /*mNtpAdapter.notifyItemChanged(
+                    mNtpAdapter.getStatsCount() + mNtpAdapter.getTopSitesCount());*/
             mNewsSettingsBar.setVisibility(View.GONE);
             return;
         }
