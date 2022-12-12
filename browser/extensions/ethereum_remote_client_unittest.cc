@@ -131,8 +131,7 @@ TEST_F(BraveWalletUnitTest, TestLoadFromPrefs) {
   std::string cipher_seed;
   std::string nonce;
   ASSERT_TRUE(EthereumRemoteClientService::LoadFromPrefs(
-      ProfileManager::GetLastUsedProfile()->GetPrefs(), &cipher_seed,
-      &nonce));
+      ProfileManager::GetLastUsedProfile()->GetPrefs(), &cipher_seed, &nonce));
 
   constexpr std::array<uint8_t, 12> expected_nonce = {
       200, 153, 224, 40, 58, 249, 156, 33, 152, 207, 177, 12};
