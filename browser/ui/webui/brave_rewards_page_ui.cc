@@ -1543,6 +1543,7 @@ void RewardsDOMHandler::OnStatementOfAccountsDidChange() {
   if (ads_service_) {
     VLOG(0) << "FOOBAR.OnStatementOfAccountsDidChange.2";
 
+    AllowJavascript();
     ads_service_->GetStatementOfAccounts(base::BindOnce(
         &RewardsDOMHandler::OnGetStatement, weak_factory_.GetWeakPtr()));
   }
