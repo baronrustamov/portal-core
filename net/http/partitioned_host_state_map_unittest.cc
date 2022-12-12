@@ -16,8 +16,8 @@ namespace net {
 
 namespace {
 
-using PartitionedMap =
-    PartitionedHostStateMap<std::map<std::array<uint8_t, crypto::kSHA256Length>, std::string>>;
+using PartitionedMap = PartitionedHostStateMap<
+    std::map<std::array<uint8_t, crypto::kSHA256Length>, std::string>>;
 
 std::array<uint8_t, crypto::kSHA256Length> HashHost(
     base::StringPiece canonicalized_host) {
