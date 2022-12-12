@@ -26,5 +26,7 @@ provideStrings({
   braveWelcomeSendInsightsLabel: 'Share anonymous, private product insights. This helps us learn what Brave features are used most often.',
   braveWelcomeSetupCompleteLabel: 'Setup complete',
   braveWelcomeChangeSettingsNote: ' Change these choices at any time in Brave at $1brave://settings/privacy$2.',
-  braveWelcomePrivacyPolicyNote: 'Read our full $1Privacy Policy$2'
+  braveWelcomePrivacyPolicyNote: 'Read our full $1Privacy Policy$2',
+  braveWelcomeSelectThemeLabel: 'Choose your theme',
+  braveWelcomeSelectThemeNote: 'You can change this at any time in Brave settings.'
 })
