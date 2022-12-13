@@ -1,0 +1,3 @@
+browser_web_webstate_public_headers = [
+  "//brave/ios/browser/web/web_state/brave_web_state.h",
+]
