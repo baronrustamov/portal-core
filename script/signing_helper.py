@@ -80,7 +80,7 @@ def GenerateBraveWidevineSigFile(paths, config, part):
         assert file_exists(sig_target_file), 'No sig file'
 
 
-def AddBravePartsForSigning(parts, config):
+def BraveModifyPartsForSigning(parts, config):
     """ Inserts Brave specific parts that need to be signed """
     parts = collections.OrderedDict(parts)
     from signing.model import CodeSignedProduct, VerifyOptions, CodeSignOptions  # pylint: disable=import-error
@@ -125,6 +125,9 @@ def AddBravePartsForSigning(parts, config):
     parts['helper-app'].options = (CodeSignOptions.RESTRICT
                                    | CodeSignOptions.KILL
                                    | CodeSignOptions.HARDENED_RUNTIME)
+
+    # Remove parts that we don't build from the signing dictionary.
+    del parts['privileged-helper']
 
     return parts
 
