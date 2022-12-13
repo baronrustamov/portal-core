@@ -1,10 +1,10 @@
 /* Copyright (c) 2021 The Brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
- * You can obtain one at http://mozilla.org/MPL/2.0/. */
+ * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-#ifndef BRAVE_COMPONENTS_BRAVE_VPN_BRAVE_VPN_OS_CONNECTION_API_H_
-#define BRAVE_COMPONENTS_BRAVE_VPN_BRAVE_VPN_OS_CONNECTION_API_H_
+#ifndef BRAVE_COMPONENTS_BRAVE_VPN_CONNECTION_BRAVE_VPN_OS_CONNECTION_API_BASE_H_
+#define BRAVE_COMPONENTS_BRAVE_VPN_CONNECTION_BRAVE_VPN_OS_CONNECTION_API_BASE_H_
 
 #include <memory>
 #include <string>
@@ -14,8 +14,9 @@
 #include "base/observer_list.h"
 #include "base/observer_list_types.h"
 #include "base/values.h"
-#include "brave/components/api_request_helper/api_request_helper.h"
-#include "brave/components/brave_vpn/brave_vpn_connection_info.h"
+#include "brave/components/brave_vpn/api/brave_vpn_api_request.h"
+#include "brave/components/brave_vpn/connection/brave_vpn_connection_info.h"
+#include "brave/components/brave_vpn/connection/brave_vpn_os_connection_api.h"
 #include "brave/components/brave_vpn/mojom/brave_vpn.mojom.h"
 #include "net/base/network_change_notifier.h"
 #include "services/network/public/cpp/shared_url_loader_factory.h"
@@ -28,56 +29,38 @@ namespace brave_vpn {
 class BraveVpnAPIRequest;
 struct Hostname;
 
-// Interface for managing OS' vpn connection.
-class BraveVPNOSConnectionAPI
-    : public net::NetworkChangeNotifier::NetworkChangeObserver {
+class BraveVPNOSConnectionAPIBase
+    : public net::NetworkChangeNotifier::NetworkChangeObserver,
+      public BraveVPNOSConnectionAPI {
  public:
-  class Observer : public base::CheckedObserver {
-   public:
-    virtual void OnConnectionStateChanged(mojom::ConnectionState state) = 0;
+  BraveVPNOSConnectionAPIBase(const BraveVPNOSConnectionAPIBase&) = delete;
+  BraveVPNOSConnectionAPIBase& operator=(const BraveVPNOSConnectionAPIBase&) =
+      delete;
 
-   protected:
-    ~Observer() override = default;
-  };
-
-  static BraveVPNOSConnectionAPI* GetInstance();
-  static BraveVPNOSConnectionAPI* GetInstanceForTest();
-
-  BraveVPNOSConnectionAPI(const BraveVPNOSConnectionAPI&) = delete;
-  BraveVPNOSConnectionAPI& operator=(const BraveVPNOSConnectionAPI&) = delete;
-
-  void AddObserver(Observer* observer);
-  void RemoveObserver(Observer* observer);
-
-  void set_shared_url_loader_factory(
-      scoped_refptr<network::SharedURLLoaderFactory> url_loader_factory) {
-    url_loader_factory_ = url_loader_factory;
-  }
-
-  void set_local_prefs(PrefService* prefs) { local_prefs_ = prefs; }
-  void set_target_vpn_entry_name(const std::string& name) {
-    target_vpn_entry_name_ = name;
-  }
-
-  const BraveVPNConnectionInfo& connection_info() const {
-    return connection_info_;
-  }
-  mojom::ConnectionState connection_state() const { return connection_state_; }
-
-  void SetConnectionState(mojom::ConnectionState state);
+  const BraveVPNConnectionInfo& connection_info() const;
   bool IsInProgress() const;
 
-  void Connect();
-  void Disconnect();
-  void ToggleConnection();
-  void RemoveVPNConnection();
-  void CheckConnection();
-  void ResetConnectionInfo();
-  std::string GetHostname() const;
+  // BraveVPNOSConnectionAPI
+  void SetLocalPrefs(PrefService* prefs) override;
+  void SetSharedUrlLoaderFactory(scoped_refptr<network::SharedURLLoaderFactory>
+                                     url_loader_factory) override;
+  void SetTargetVpnEntryName(const std::string& name) override;
+  mojom::ConnectionState GetConnectionState() const override;
+  void Connect() override;
+  void Disconnect() override;
+  void ToggleConnection() override;
+  void RemoveVPNConnection() override;
+  void CheckConnection() override;
+  void ResetConnectionInfo() override;
+  std::string GetHostname() const override;
+  void AddObserver(Observer* observer) override;
+  void RemoveObserver(Observer* observer) override;
+  void SetConnectionState(mojom::ConnectionState state) override;
+  void SetPreventCreationForTesting(bool value);
 
  protected:
-  BraveVPNOSConnectionAPI();
-  ~BraveVPNOSConnectionAPI() override;
+  BraveVPNOSConnectionAPIBase();
+  ~BraveVPNOSConnectionAPIBase() override;
 
   // Subclass should add platform dependent impls.
   virtual void CreateVPNConnectionImpl(const BraveVPNConnectionInfo& info) = 0;
@@ -85,7 +68,6 @@ class BraveVPNOSConnectionAPI
   virtual void DisconnectImpl(const std::string& name) = 0;
   virtual void RemoveVPNConnectionImpl(const std::string& name) = 0;
   virtual void CheckConnectionImpl(const std::string& name) = 0;
-  virtual bool GetIsSimulation() const;
 
   // Subclass should call below callbacks whenever corresponding event happens.
   void OnCreated();
@@ -100,6 +82,21 @@ class BraveVPNOSConnectionAPI
 
  private:
   friend class BraveVPNServiceTest;
+  friend class BraveVPNOSConnectionAPISim;
+  friend class BraveVPNOsConnectionAPIBaseTest;
+
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest,
+                           CreateOSVPNEntryWithValidInfoWhenConnectTest);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest,
+                           CreateOSVPNEntryWithInvalidInfoTest);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest,
+                           CheckConnectionStateAfterNetworkStateChanged);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest, HostnamesTest);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest, CancelConnectingTest);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest, ConnectionInfoTest);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest, NeedsConnectTest);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest, ConnectWithoutNetwork);
+  FRIEND_TEST_ALL_PREFIXES(BraveVPNServiceTest, OnDisconnectedWithoutNetwork);
 
   // net::NetworkChangeNotifier::NetworkChangeObserver
   void OnNetworkChanged(
@@ -118,7 +115,8 @@ class BraveVPNOSConnectionAPI
   void OnGetProfileCredentials(const std::string& profile_credential,
                                bool success);
 
-  void UpdateAndNotifyConnectionStateChange(mojom::ConnectionState state);
+  virtual void UpdateAndNotifyConnectionStateChange(
+      mojom::ConnectionState state);
   BraveVpnAPIRequest* GetAPIRequest();
 
   bool cancel_connecting_ = false;
@@ -137,4 +135,4 @@ class BraveVPNOSConnectionAPI
 
 }  // namespace brave_vpn
 
-#endif  // BRAVE_COMPONENTS_BRAVE_VPN_BRAVE_VPN_OS_CONNECTION_API_H_
+#endif  // BRAVE_COMPONENTS_BRAVE_VPN_CONNECTION_BRAVE_VPN_OS_CONNECTION_API_BASE_H_
