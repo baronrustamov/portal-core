@@ -756,7 +756,6 @@ BraveContentBrowserClient::CreateURLLoaderThrottles(
 
     // Speedreader
 #if BUILDFLAG(ENABLE_SPEEDREADER)
-
     auto* tab_helper =
         speedreader::SpeedreaderTabHelper::FromWebContents(contents);
     if (tab_helper && isMainFrame) {
