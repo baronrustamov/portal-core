@@ -65,7 +65,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="2799223571221894425">Relaunch</translation>
 <translation id="3783547330001921298">This will create a new Brave profile for <ph name="USER_EMAIL_ADDRESS"/></translation>
 <translation id="777113543093865885">Remove from Brave...</translation>
-<translation id="5265419033369521352">Keeps you safe on Brave and may be used to improve your security in other Brave apps when you are signed in</translation>
+<translation id="5265419033369521352">Keeps you safe on Brave and may be used to improve your security in other Portal Apps when you are signed in</translation>
 <translation id="2885378588091291677">Task Manager</translation>
 <translation id="2176825726964012531">About &amp;Brave</translation>
 <translation id="2915996080311180594">Restart later</translation>
@@ -114,11 +114,11 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="2401189691232800402">Chrome OS system</translation>
 <translation id="5381622442243174305"><ph name="PAGE_TITLE"/> - Brave</translation>
 <translation id="3744202345691150878">Get help with Chrome OS</translation>
-<translation id="6009720635797285369">Get your Brave browser stuff from <ph name="ACCOUNT_EMAIL"/></translation>
+<translation id="6009720635797285369">Get your Portal browser stuff from <ph name="ACCOUNT_EMAIL"/></translation>
 <translation id="6315734375101223238">Customise and control Brave. Something needs your attention – click for details.</translation>
 <translation id="7130675370997202556">Click your name to open Brave and start browsing.</translation>
 <translation id="4920958997042285125"><ph name="EXISTING_USER"/> is already signed in to this Brave profile. To keep your browsing separate, Brave can create your own profile for you.</translation>
-<translation id="2337217774418822704">Your account is managed by <ph name="MANAGER_NAME"/>. Your administrator can see and edit this Brave browser profile and its data like bookmarks, history and passwords.</translation>
+<translation id="2337217774418822704">Your account is managed by <ph name="MANAGER_NAME"/>. Your administrator can see and edit this Portal browser profile and its data like bookmarks, history and passwords.</translation>
 <translation id="8090497651549769448">Brave is trying to copy passwords. Type your Windows password to allow this.</translation>
 <translation id="7133557675784723900">Brave recommends scanning this file because it may be dangerous</translation>
 <translation id="1152920704813762236">About Chrome OS</translation>
@@ -145,7 +145,7 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="3679799810790990472">Continue in a new Brave profile?</translation>
 <translation id="4567424176335768812">You're signed in as <ph name="USER_EMAIL_ADDRESS"/>. Now you can access your bookmarks, history and other settings on all your signed in devices.</translation>
 <translation id="4594305310729380060">To Password Manager on this device</translation>
-<translation id="300669147395456190">Brave Apps</translation>
+<translation id="300669147395456190">Portal Apps</translation>
 <translation id="4970880042055371251">Chrome OS version</translation>
 <translation id="2182657378556811785">Nearly up to date! Relaunch Brave to finish updating.</translation>
 <translation id="7402642357351265733">If you also share Brave usage reports, those reports include the URLs that you visit</translation>
@@ -320,7 +320,7 @@ Brave is unable to recover your settings.</translation>
 <translation id="89367911614620585">This file may be dangerous, so Brave has blocked it.</translation>
 <translation id="3360368475735266712">Sign in to sync and personalise Brave across your devices</translation>
 <translation id="2591326305549412656"><ph name="USER_EMAIL_ADDRESS"/> was previously using Brave</translation>
-<translation id="3098618823450433881">To access your Brave browser across all your devices, sign in, then turn on sync</translation>
+<translation id="3098618823450433881">To access your Portal browser across all your devices, sign in, then turn on sync</translation>
 <translation id="2569754604093464025">To get future Brave updates, you'll need Windows 10 or later. This computer is using Windows 8.</translation>
 <translation id="5337999052834672687">{0,plural, =1{Relaunch Brave within a day}other{Relaunch Brave within # days}}</translation>
 <translation id="6914496861676471566">The installer archive is corrupted or invalid. Please download Brave again.</translation>
@@ -366,10 +366,10 @@ Brave is unable to recover your settings.</translation>
 <translation id="4484434718272972655">Who's using Brave?</translation>
 <translation id="7173394303099002355">Get Brave's strongest security</translation>
 <translation id="8992261409816268381">Brave Software Inc</translation>
-<translation id="479793348545936567">If you want to use this account one-time only, you can use Guest mode in Brave browser. If you want to add an account for someone else, <ph name="LINK_BEGIN"/>add a new profile<ph name="LINK_END"/> to your <ph name="DEVICE_TYPE"/>.
+<translation id="479793348545936567">If you want to use this account one-time only, you can use Guest mode in Portal browser. If you want to add an account for someone else, <ph name="LINK_BEGIN"/>add a new profile<ph name="LINK_END"/> to your <ph name="DEVICE_TYPE"/>.
 
 Permissions you've already given to websites and apps may apply to this account. You can manage your Brave sync chains in <ph name="SETTINGS_LINK_BEGIN"/>Settings<ph name="SETTINGS_LINK_END"/>.</translation>
-<translation id="5359574361379286250">If you want to use this account one-time only, you can use <ph name="GUEST_LINK_BEGIN"/>Guest mode<ph name="GUEST_LINK_END"/> in Brave browser. If you want to add an account for someone else, <ph name="LINK_BEGIN"/>add a new profile<ph name="LINK_END"/> to your <ph name="DEVICE_TYPE"/>.
+<translation id="5359574361379286250">If you want to use this account one-time only, you can use <ph name="GUEST_LINK_BEGIN"/>Guest mode<ph name="GUEST_LINK_END"/> in Portal browser. If you want to add an account for someone else, <ph name="LINK_BEGIN"/>add a new profile<ph name="LINK_END"/> to your <ph name="DEVICE_TYPE"/>.
 
 Permissions you've already given to websites and apps may apply to this account. You can manage your Brave sync chains in <ph name="SETTINGS_LINK_BEGIN"/>Settings<ph name="SETTINGS_LINK_END"/>.</translation>
 <translation id="1743665722170667430">Extensions, apps and themes from unknown sources can harm your device. Brave recommends only installing them from the <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/></translation>
@@ -382,5 +382,5 @@ Permissions you've already given to websites and apps may apply to this account.
 <translation id="8274659559228306809">{COUNT,plural, =0{A new update for Brave is available and will be applied as soon as you relaunch.}=1{A new update for Brave is available and will be applied as soon as you relaunch. Your Private window won't reopen.}other{A new update for Brave is available and will be applied as soon as you relaunch. Your # Private windows won't reopen.}}</translation>
 <translation id="3829358914761176693">{COUNT,plural, =0{Your administrator asks that you relaunch Brave to apply this update}=1{Your administrator asks that you relaunch Brave to apply this update. Your Private window won't reopen.}other{Your administrator asks that you relaunch Brave to apply this update. Your # Private windows won't reopen.}}</translation>
 <translation id="552349673358711446">{COUNT,plural, =0{Your administrator requires that you relaunch Brave to apply an update}=1{Your administrator requires that you relaunch Brave to apply an update. Your Private window won't reopen.}other{Your administrator requires that you relaunch Brave to apply an update. Your # Private windows won't reopen.}}</translation>
-<translation id="2176087127109773485">You can manage your signed-in Brave sync chains. Your Brave sync chains are used for Brave browser, Play Store, Gmail and more. If you want to add an account for someone else, like a family member, add a new profile to your <ph name="DEVICE_TYPE"/> instead. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
+<translation id="2176087127109773485">You can manage your signed-in Brave sync chains. Your Brave sync chains are used for Portal browser, Play Store, Gmail and more. If you want to add an account for someone else, like a family member, add a new profile to your <ph name="DEVICE_TYPE"/> instead. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 </translationbundle>

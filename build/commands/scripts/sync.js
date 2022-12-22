@@ -262,13 +262,13 @@ async function RunCommand() {
   }
 }
 
-Log.progress('Brave Browser Sync starting')
+Log.progress('Portal browser Sync starting')
 RunCommand()
 .then(() => {
-  Log.progress('Brave Browser Sync complete')
+  Log.progress('Portal browser Sync complete')
 })
 .catch((err) => {
-  Log.error('Brave Browser Sync ERROR:')
+  Log.error('Portal browser Sync ERROR:')
   console.error(err)
   process.exit(1)
 })

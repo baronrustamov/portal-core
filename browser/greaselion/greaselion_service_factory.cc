@@ -63,7 +63,7 @@ KeyedService* GreaselionServiceFactory::BuildServiceInstanceFor(
   scoped_refptr<base::SequencedTaskRunner> task_runner =
       extensions::GetExtensionFileTaskRunner();
   greaselion::GreaselionDownloadService* download_service = nullptr;
-  // Brave browser process may be null if we are being created within a unit
+  // Portal browser process may be null if we are being created within a unit
   // test.
   if (g_brave_browser_process)
     download_service = g_brave_browser_process->greaselion_download_service();

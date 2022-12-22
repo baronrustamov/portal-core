@@ -256,7 +256,7 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Next monthly tips date</translation>
-<translation id="6231182869178328516">I just tipped <ph name="NAME"/> using the Brave Browser. Check it out at https://brave.com/tips.</translation>
+<translation id="6231182869178328516">I just tipped <ph name="NAME"/> using the Portal browser. Check it out at https://brave.com/tips.</translation>
 <translation id="5916536234616514390">Love that <ph name="HASHTAG"/>Brave lets me support creators! Just tipped <ph name="NAME"/> with <ph name="HASHTAG2"/>BAT. If they verify at https://creators.brave.com before <ph name="DATE"/>, the BAT is theirs!</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="3082557070674409251">Clicked</translation>
@@ -859,7 +859,7 @@
 <translation id="7193761697942491145">Verify Brave Rewards</translation>
 <translation id="6609621505400013054">The bitFlyer wallet is a service managed by bitFlyer, Inc.</translation>
 <translation id="4361456403643555676">By verifying your Brave Rewards and linking it to a bitFlyer account, you will be able to store and manage the tokens you have earned through Brave Rewards more easily</translation>
-<translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/> about how to link your Brave browser with your bitFlyer account.</translation>
+<translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/> about how to link your Portal browser with your bitFlyer account.</translation>
 <translation id="1015443539415537847">Sorry, Brave Rewards is not available</translation>
 <translation id="5007776270364097327">Unfortunately, it looks like you’re in a region where Brave Rewards is not available.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
@@ -1170,7 +1170,7 @@
 <translation id="2018472018751735678">View the addresses of your permitted accounts (required)</translation>
 <translation id="7029403458170657879">Connect with Brave Wallet</translation>
 <translation id="2770851145415891830">Existing crypto wallets detected</translation>
-<translation id="2237759620789871865">If you'd rather skip the import and keep the old Crypto Wallets experience, just navigate to the Brave Browser <ph name="LINK_BEFORE"/>Settings<ph name="LINK_AFTER"/> and change the default back to Crypto Wallets. You can also import, try the new Brave Wallet and change back at any time.</translation>
+<translation id="2237759620789871865">If you'd rather skip the import and keep the old Crypto Wallets experience, just navigate to the Portal browser <ph name="LINK_BEFORE"/>Settings<ph name="LINK_AFTER"/> and change the default back to Crypto Wallets. You can also import, try the new Brave Wallet and change back at any time.</translation>
 <translation id="5590175005414413980">Enter your existing crypto wallets password to import to Brave Wallet. Enjoy a faster and more secure way to manage crypto assets and interact with Web3 DApps.</translation>
 <translation id="880619123281809987">Type Crypto wallets password</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> connected</translation>
@@ -1430,7 +1430,7 @@
 <translation id="7992766987062040279">rd</translation>
 <translation id="2295726992010694229">th</translation>
 <translation id="8241405611628876973">Congratulations! Your Brave Wallet is ready to go!</translation>
-<translation id="6828327990705355767">To access your wallet, just click the wallet icon at the top right of any Brave browser window.</translation>
+<translation id="6828327990705355767">To access your wallet, just click the wallet icon at the top right of any Portal browser window.</translation>
 <translation id="396152018598329740">How to use a crypto wallet?</translation>
 <translation id="7512061585041489067">What’s the best crypto wallet?</translation>
 <translation id="1342755158522323177">What’s a crypto browser?</translation>

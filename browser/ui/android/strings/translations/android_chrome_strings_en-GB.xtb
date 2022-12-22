@@ -437,7 +437,7 @@ When you delete your browsing history – all or for a specific site – you als
 <translation id="1081508498128395141">More pages are preloaded. Pages may be preloaded through Brave servers when requested by other sites.</translation>
 <translation id="3414952576877147120">Size:</translation>
 <translation id="3421726884497337397">Choose when to block third-party cookies</translation>
-<translation id="5265419033369521352">Keeps you safe on Brave and may be used to improve your security in other Brave apps when you are signed in</translation>
+<translation id="5265419033369521352">Keeps you safe on Brave and may be used to improve your security in other Portal Apps when you are signed in</translation>
 <translation id="3429160811076349561">Trial features are off</translation>
 <translation id="3435465986463792564">Got many windows? You can manage them from here</translation>
 <translation id="3443221991560634068">Reload the current page</translation>
@@ -1096,7 +1096,7 @@ For example, some websites may respond to this request by showing you ads that a
 <translation id="7071521146534760487">Manage account</translation>
 <translation id="707155805709242880">Choose what to sync below</translation>
 <translation id="7077143737582773186">SD Card</translation>
-<translation id="2374582967527009647">Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats. Temporarily links this data to your Brave sync chain when you’re signed in, to protect you across Brave apps.</translation>
+<translation id="2374582967527009647">Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats. Temporarily links this data to your Brave sync chain when you’re signed in, to protect you across Portal Apps.</translation>
 <translation id="5499149312981370855">Choose whether to include Brave history for more personalised experiences in Brave services</translation>
 <translation id="8208853227947884571">Brave is up to date</translation>
 <translation id="7093803425429738190">Add emotion</translation>
@@ -1114,7 +1114,7 @@ For example, some websites may respond to this request by showing you ads that a
 <translation id="7631741717293858595">You can learn more about these features in Brave settings.</translation>
 <translation id="718226107353899806">You can add up to <ph name="MAX_NUM_REACTIONS"/> reactions</translation>
 <translation id="7183693674623539380">Tab group – <ph name="TITLE_OF_GROUP"/></translation>
-<translation id="8355565210555500987">Keeps you safe on Brave and may be used to improve your security in other Brave apps when you are signed in.</translation>
+<translation id="8355565210555500987">Keeps you safe on Brave and may be used to improve your security in other Portal Apps when you are signed in.</translation>
 <translation id="7191430249889272776">Tab opened in background.</translation>
 <translation id="7196215469483532480">Privacy guide explanation opened at full height</translation>
 <translation id="7207760545532569765">Restore <ph name="TAB_COUNT"/> tabs as new background tabs.</translation>
@@ -1218,7 +1218,7 @@ For example, some websites may respond to this request by showing you ads that a
 <translation id="7772375229873196092">Close <ph name="APP_NAME"/></translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 and <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> more}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 and <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> more}}</translation>
 <translation id="7778840695157240389">Check back later for new stories</translation>
-<translation id="7703329426540523149">Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Brave apps</translation>
+<translation id="7703329426540523149">Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Portal Apps</translation>
 <translation id="4885054029571583374">Brave Assistant provides a better voice experience for searching the web and engaging with sites that you have open. Brave Assistant will receive the URL and contents of sites that you use with it.</translation>
 <translation id="7791543448312431591">Add</translation>
 <translation id="7798392620021911922">Restored <ph name="TAB_COUNT"/> tabs</translation>

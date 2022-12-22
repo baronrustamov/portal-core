@@ -256,7 +256,7 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Dato for næste månedlige bidrag</translation>
-<translation id="6231182869178328516">Jeg har lige givet drikkepenge <ph name="NAME"/> ved hjælp af Brave Browser. Se den på https://brave.com/tips.</translation>
+<translation id="6231182869178328516">Jeg har lige givet drikkepenge <ph name="NAME"/> ved hjælp af Portal browser. Se den på https://brave.com/tips.</translation>
 <translation id="5916536234616514390">Jeg elsker at <ph name="HASHTAG"/>Brave giver mig mulighed for at støtte indholdsskabere! Jeg har netop givet <ph name="NAME"/>drikkepenge i form af <ph name="HASHTAG2"/>BAT. Hvis vedkommende bekræfter på https://creators.brave.com før <ph name="DATE"/>, så er BAT'en deres!</translation>
 <translation id="8404935570206006581">BelønMedBrave</translation>
 <translation id="3082557070674409251">Klikket</translation>
@@ -1170,7 +1170,7 @@
 <translation id="2018472018751735678">Se adresserne på dine tilladte konti (påkrævet)</translation>
 <translation id="7029403458170657879">Opret forbindelse til Brave Wallet</translation>
 <translation id="2770851145415891830">Eksisterende crypto-wallets fundet</translation>
-<translation id="2237759620789871865">Hvis du hellere vil springe over importen og beholde den gamle Crypto Wallet-oplevelse, så gå til Brave Browser-<ph name="LINK_BEFORE"/>indstillingerne<ph name="LINK_AFTER"/>, og skift standarden tilbage til Crypto Wallets. Du kan også importere, prøve den nye Brave Wallet og dernæst skifte tilbage når som helst.</translation>
+<translation id="2237759620789871865">Hvis du hellere vil springe over importen og beholde den gamle Crypto Wallet-oplevelse, så gå til Portal browser-<ph name="LINK_BEFORE"/>indstillingerne<ph name="LINK_AFTER"/>, og skift standarden tilbage til Crypto Wallets. Du kan også importere, prøve den nye Brave Wallet og dernæst skifte tilbage når som helst.</translation>
 <translation id="5590175005414413980">Indtast din eksisterende krypto wallet-adgangskode for at importere Brave-wallet. Nyd en hurtigere og mere sikker måde at håndtere krypto-aktiver og interagere med Web3 DApps.</translation>
 <translation id="880619123281809987">Indtast Crypto wallets adgangskode</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> forbundet</translation>

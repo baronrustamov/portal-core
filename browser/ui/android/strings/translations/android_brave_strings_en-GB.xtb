@@ -45,7 +45,7 @@
 <translation id="4647657427328119430">Not enough tokens.</translation>
 <translation id="2359808026110333948">Continue</translation>
 <translation id="4227681408214010862">Love that #Brave lets me support creators! Just tipped <ph name="NAME"/> with #BAT. If they verify at https://creators.brave.com before <ph name="DATE"/>, the BAT is theirs!</translation>
-<translation id="6231182869178328516">I just tipped <ph name="NAME"/> using the Brave Browser. Check it out at https://brave.com/tips.</translation>
+<translation id="6231182869178328516">I just tipped <ph name="NAME"/> using the Portal browser. Check it out at https://brave.com/tips.</translation>
 <translation id="7172012963002631836">There was a problem sending your tip.</translation>
 <translation id="8994556588732085585">Please close and reopen the tipping banner to try again.</translation>
 <translation id="2278950434998763147">Opens some sites using a secure HTTPS connection instead of plain HTTP.</translation>
@@ -104,7 +104,7 @@
 <translation id="7142548388914389999">Allow privacy-preserving product analytics (P3A)</translation>
 <translation id="5254037869598726291">Anonymised P3A info helps Brave estimate overall usage and ensure we’re improving popular features.</translation>
 <translation id="933652931229970927">Automatically send diagnostic reports</translation>
-<translation id="5987838417172370108">Help improve Brave\u2019s product stability by automatically sending diagnostic reports when the Brave Browser crashes or freezes.</translation>
+<translation id="5987838417172370108">Help improve Brave\u2019s product stability by automatically sending diagnostic reports when the Portal browser crashes or freezes.</translation>
 <translation id="7977176350719484850">Est. Data\nSaved</translation>
 <translation id="9008534313521214777">Est. Time\nSaved</translation>
 <translation id="1842747674580016420">Video playback in Brave</translation>
@@ -161,7 +161,7 @@
 <translation id="48520986898237073">Continue to wallet</translation>
 <translation id="3570367516044491911">Set as default browser</translation>
 <translation id="6800338374677644736">Set as default browser</translation>
-<translation id="19715420010996093">Select Brave Browser and tap 'Always'</translation>
+<translation id="19715420010996093">Select Portal browser and tap 'Always'</translation>
 <translation id="3546439402724649282">Brave is already set as your default browser.</translation>
 <translation id="8389661903259423907">You've already set a default browser. You can change the default browser in your app settings.</translation>
 <translation id="1545749641540134597">Scan QR Code</translation>
@@ -233,7 +233,7 @@
 <translation id="3132642509209154999">This code has expired. Please generate a new one on your other device and try again.</translation>
 <translation id="2859229680945501779">This code is invalid. Please check that the time and timezone are set correctly on your device.</translation>
 <translation id="3149880132460839085">Brave Sync</translation>
-<translation id="3680755684186855422">Brave Sync allows you to sync bookmarks data privately between your Brave Browsers on your various devices.</translation>
+<translation id="3680755684186855422">Brave Sync allows you to sync bookmarks data privately between your Portal browsers on your various devices.</translation>
 <translation id="3735228155296883311">Simply scan the code from your sync chain that you created on another device, or start a new sync chain.</translation>
 <translation id="2614069607859982576">Using existing synced device, open Brave Settings and navigate to Settings &gt; Sync. Choose "Add New Device" and scan the QR Code displayed on the screen.</translation>
 <translation id="5241263629636958324">Copied to Clipboard</translation>
@@ -393,7 +393,7 @@ Are you sure you want to do this?</translation>
 <translation id="5440744330377972191">Websites load faster</translation>
 <translation id="3000738865641747653">Loading less data means websites in Brave load faster – up to 8x faster than other browsers.</translation>
 <translation id="8903462729414407077">Get weekly updates</translation>
-<translation id="7450323860390658083">Be informed about which websites you visit are the most privacy-invasive.\n\nOnly you can see these privacy statistics. No personal data or browsing history ever leaves the Brave browser on your device.</translation>
+<translation id="7450323860390658083">Be informed about which websites you visit are the most privacy-invasive.\n\nOnly you can see these privacy statistics. No personal data or browsing history ever leaves the Portal browser on your device.</translation>
 <translation id="6170159749517116894">Turn on privacy reports</translation>
 <translation id="5966707198760109579">Week</translation>
 <translation id="8987927404178983737">Month</translation>
@@ -409,13 +409,13 @@ Are you sure you want to do this?</translation>
 <translation id="3694122362646626770">Websites</translation>
 <translation id="2225863440766607138">Trackers</translation>
 <translation id="2993367530362078067"><ph name="COUNT"/><ph name="COUNT_TEXT"/></translation>
-<translation id="6737820963776538947">You blocked <ph name="COUNT"/> trackers &amp; ads with Brave browser in the past 3 hours.</translation>
+<translation id="6737820963776538947">You blocked <ph name="COUNT"/> trackers &amp; ads with Portal browser in the past 3 hours.</translation>
 <translation id="3621193901658023971">Browse up to 6x faster on major news sites in Brave by blocking trackers &amp; ads.</translation>
 <translation id="7427567994475794038">Turn on privacy reports to see how many trackers &amp; ads have been blocked in the past 3 hours.</translation>
-<translation id="2053891538879944400">You saved <ph name="DATA"/> <ph name="DATA_TEXT"/> data with Brave browser.</translation>
+<translation id="2053891538879944400">You saved <ph name="DATA"/> <ph name="DATA_TEXT"/> data with Portal browser.</translation>
 <translation id="8640064498452534195">Turn on privacy reports to see how much data you've saved.</translation>
-<translation id="2252497442547961651">Brave browser uses 40% less battery on average.🔋</translation>
-<translation id="1945330434665345785">You blocked <ph name="COUNT"/> trackers &amp; ads with Brave browser last week.</translation>
+<translation id="2252497442547961651">Portal browser uses 40% less battery on average.🔋</translation>
+<translation id="1945330434665345785">You blocked <ph name="COUNT"/> trackers &amp; ads with Portal browser last week.</translation>
 <translation id="2883868922264431515">Earn tokens by viewing privacy-respecting ads and support your favourite websites.</translation>
 <translation id="7408493389591475748">Start browsing to see privacy reporting</translation>
 <translation id="9080777565335515917">Set Brave as your default browser for private and secure browsing.</translation>
@@ -859,8 +859,8 @@ If you don't accept this request, VPN will not reconnect and your Internet conne
 <translation id="5039804452771397117">Allow</translation>
 <translation id="3378339846292573874">Add suggested token</translation>
 <translation id="2322227405137827074">Would you like to import this token?</translation>
-<translation id="1324417023773393937">Brave Browser</translation>
-<translation id="6044189892950611565">Notification channel for Brave browser</translation>
+<translation id="1324417023773393937">Portal browser</translation>
+<translation id="6044189892950611565">Notification channel for Portal browser</translation>
 <translation id="1173919438868967364">Select account</translation>
 <translation id="8922793255489232731">Couldn't get matching timezone for : <ph name="VALUE"/></translation>
 <translation id="8643377320501056697">Show Top Sites</translation>

@@ -333,7 +333,7 @@ action("create_pkg") {
     rebase_path(shell_script, root_build_dir),
     rebase_path(app_path, root_build_dir),
     rebase_path("//brave/build/mac/pkg-scripts"),
-    rebase_path("$root_out_dir/Brave Browser Component.plist"),
+    rebase_path("$root_out_dir/Portal browser Component.plist"),
     "$mac_unsigned_output_prefix/$brave_pkg",
   ]
 

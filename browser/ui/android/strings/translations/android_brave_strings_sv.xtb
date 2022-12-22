@@ -45,7 +45,7 @@
 <translation id="4647657427328119430">För få mynt.</translation>
 <translation id="2359808026110333948">Fortsätt</translation>
 <translation id="4227681408214010862">Jag älskar att #Brave låter mig stödja innehållsskapare! Jag gav just <ph name="NAME"/> i dricks med #BAT. Om hen verifierar på https://creators.brave.com före <ph name="DATE"/> får hen dessa BAT!</translation>
-<translation id="6231182869178328516">Jag gav just dricks till <ph name="NAME"/> med Brave Browser. Kolla in den på https://brave.com/tips.</translation>
+<translation id="6231182869178328516">Jag gav just dricks till <ph name="NAME"/> med Portal browser. Kolla in den på https://brave.com/tips.</translation>
 <translation id="7172012963002631836">Det gick inte att skicka din dricks.</translation>
 <translation id="8994556588732085585">Vänligen stäng och öppna dricksbannern för att försöka igen.</translation>
 <translation id="2278950434998763147">Öppnar vissa webbplatser med en säker HTTPS-anslutning i stället för vanlig HTTP.</translation>
@@ -104,7 +104,7 @@
 <translation id="7142548388914389999">Tillåt integritetsbevarande produktanalys (P3A)</translation>
 <translation id="5254037869598726291">Anonymiserad P3A-info hjälper Brave att uppskatta den totala användningen och se till att vi förbättrar populära funktioner.</translation>
 <translation id="933652931229970927">Skicka diagnostikrapporter automatiskt</translation>
-<translation id="5987838417172370108">Hjälp till att förbättra Braves produktstabilitet genom att automatiskt skicka diagnostikrapporter när Brave Browser kraschar eller fryser.</translation>
+<translation id="5987838417172370108">Hjälp till att förbättra Braves produktstabilitet genom att automatiskt skicka diagnostikrapporter när Portal browser kraschar eller fryser.</translation>
 <translation id="7977176350719484850">Uppsk. data\nsparade</translation>
 <translation id="9008534313521214777">Ber. tid\nsparad</translation>
 <translation id="1842747674580016420">Videouppspelning i Brave</translation>

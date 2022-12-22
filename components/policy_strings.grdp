@@ -217,8 +217,8 @@
   <message name="IDS_POLICY_CLOUD_USER_ONLY_ERROR" desc="The text displayed in the status column when a policy should only be set from cloud user is set from another source.">
     Ignored because the policy can only be set as a cloud user policy.
   </message>
-  <message name="IDS_POLICY_CLOUD_MANAGEMENT_ENROLLMENT_ONLY_ERROR" desc="The text displayed in the status column when a policy that is effective only when the machine is enrolled with the Brave Browser Cloud Management.">
-    Ignored because the machine is not enrolled with Brave Browser Cloud Management.
+  <message name="IDS_POLICY_CLOUD_MANAGEMENT_ENROLLMENT_ONLY_ERROR" desc="The text displayed in the status column when a policy that is effective only when the machine is enrolled with the Portal browser Cloud Management.">
+    Ignored because the machine is not enrolled with Portal browser Cloud Management.
   </message>
   <message name="IDS_POLICY_DEFAULT_SEARCH_DISABLED" desc="The text displayed in the status column when a policy value has been ignored because default search has not been enabled.">
     Ignored because default search is not enabled by policy.
@@ -653,7 +653,7 @@ Additional details:
     This policy cannot be set at the Brave profile level and will be ignored.
   </message>
   <message name="IDS_POLICY_IGNORED_UNAFFILIATED" desc="Text describing that the policy value is not applied because the user is unaffiliated.">
-    This policy is ignored because the user is unaffiliated. For this policy to be applied, the Brave browser and profile must be managed through the Admin console by the same organization.
+    This policy is ignored because the user is unaffiliated. For this policy to be applied, the Portal browser and profile must be managed through the Admin console by the same organization.
   </message>
   <message name="IDS_POLICY_PRECEDENCE_PLATFORM_MACHINE" desc="Text describing the platform machine precedence value.">
     Platform machine

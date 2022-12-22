@@ -21,7 +21,7 @@
 // Response body:
 // {
 //   "application": {
-//     "name": "Brave Browser"
+//     "name": "Portal browser"
 //   },
 //   "createdAt": "2020-06-10T18:58:22.351Z",
 //   "denomination": {

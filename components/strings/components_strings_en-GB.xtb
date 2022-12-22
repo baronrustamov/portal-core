@@ -729,7 +729,7 @@ This will otherwise be blocked by your privacy settings. This will allow the con
 <translation id="2943895734390379394">Upload time:</translation>
 <translation id="2945026002409061480">Online communities</translation>
 <translation id="2948083400971632585">You can disable any proxies configured for a connection from the settings page.</translation>
-<translation id="3955566820843143766">Ignored because the machine is not enrolled with Brave Browser Cloud Management.</translation>
+<translation id="3955566820843143766">Ignored because the machine is not enrolled with Portal browser Cloud Management.</translation>
 <translation id="2951588413176968965">My mailbox</translation>
 <translation id="295526156371527179">Warning: This policy was not merged as a dictionary as specified by policy because it is not a dictionary.</translation>
 <translation id="2955913368246107853">Close find bar</translation>
@@ -1218,7 +1218,7 @@ This will otherwise be blocked by your privacy settings. This will allow the con
 <translation id="4305666528087210886">Your file couldn’t be accessed</translation>
 <translation id="4306529830550717874">Save address?</translation>
 <translation id="4306812610847412719">clipboard</translation>
-<translation id="4270648948919210881">This policy is ignored because the user is unaffiliated. For this policy to be applied, the Brave browser and profile must be managed through the Admin console by the same organisation.</translation>
+<translation id="4270648948919210881">This policy is ignored because the user is unaffiliated. For this policy to be applied, the Portal browser and profile must be managed through the Admin console by the same organisation.</translation>
 <translation id="4310070645992025887">Search your journeys</translation>
 <translation id="4310496734563057511">If you share this device with others, you can turn on Windows Hello to verify that it's you whenever you use a saved password</translation>
 <translation id="4312613361423056926">B2</translation>

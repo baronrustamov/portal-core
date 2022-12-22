@@ -85,11 +85,11 @@ vindue med Tor</translation>
 <translation id="3161744659507801211">Advarsel: Brave kan ikke forhindre udvidelser i at gemme din browserhistorik.</translation>
 <translation id="2162109630536601963">Hvis denne udvidelse foretager netværksanmodninger, vil de ikke bruge Tor eller privat tilstand.</translation>
 <translation id="2725327089319971976">Fjern markeringen af denne indstilling for at deaktivere denne udvidelse i privat tilstand og Tor-tilstand.</translation>
-<translation id="3371343170427636147">Brave Browser natlige apps</translation>
-<translation id="4097979995947147464">Brave Browser beta-apps</translation>
-<translation id="8303432794159193481">Brave Browser udvikler-apps</translation>
-<translation id="8292967014767479012">Brave Browser-apps</translation>
-<translation id="4743468424889072281">Brave Browser udviklings-apps</translation>
+<translation id="3371343170427636147">Portal browser natlige apps</translation>
+<translation id="4097979995947147464">Portal browser beta-apps</translation>
+<translation id="8303432794159193481">Portal browser udvikler-apps</translation>
+<translation id="8292967014767479012">Portal browser-apps</translation>
+<translation id="4743468424889072281">Portal browser udviklings-apps</translation>
 <translation id="732814027519296280">Vil du være med til at gøre Brave Search endnu bedre?</translation>
 <translation id="2677865600861971449">Deltag i Web Discovery-projektet for anonymt at bidrage med søge- &amp; browsingdata og forbedre Brave Search-resultater for alle. Privatlivsbeskyttende. Og ingen anstrengelser. <ph name="LEARN_MORE_TEXT"/></translation>
 <translation id="6165508094623778733">Flere oplysninger</translation>
@@ -97,9 +97,9 @@ vindue med Tor</translation>
 <translation id="780301667611848630">Nej tak</translation>
 <translation id="5039804452771397117">Tillad</translation>
 <translation id="7053983685419859001">Bloker</translation>
-<translation id="1679356339067548863">Hjælp med at forbedre Braves produktstabilitet ved automatisk at sende diagnostioceringsrapporter, Brave Browser bryder sammen eller fryser.</translation>
+<translation id="1679356339067548863">Hjælp med at forbedre Braves produktstabilitet ved automatisk at sende diagnostioceringsrapporter, Portal browser bryder sammen eller fryser.</translation>
 <translation id="660171790038410175"><ph name="BROWSER_NAME"/> lukkede uventet.</translation>
-<translation id="1324417023773393937">Brave Browser</translation>
+<translation id="1324417023773393937">Portal browser</translation>
 <translation id="7276554663454265692">Du kan når som helst ændre <ph name="SETTING_TEXT"/> i browserindstillingerne.</translation>
 <translation id="6873781976650514089">denne indstilling</translation>
 <translation id="8915916167043355778">Luk alle</translation>

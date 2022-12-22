@@ -78,11 +78,11 @@
     Live Caption
   </message>
   <if expr="chromeos_ash">
-    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_ENGLISH_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Brave browser initially. Currently only works for English media.">
-      Automatically creates captions for media in Brave browser (currently available in English). Audio and captions are processed locally and never leave the device.
+    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_ENGLISH_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Portal browser initially. Currently only works for English media.">
+      Automatically creates captions for media in Portal browser (currently available in English). Audio and captions are processed locally and never leave the device.
     </message>
-    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Brave browser initially.">
-      Automatically creates captions for media in Brave browser. Audio and captions are processed locally and never leave the device.
+    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Portal browser initially.">
+      Automatically creates captions for media in Portal browser. Audio and captions are processed locally and never leave the device.
     </message>
   </if>
   <if expr="not chromeos_ash">
@@ -208,7 +208,7 @@
     <message name="IDS_SETTINGS_TABS_TO_LINKS_PREF" desc="The documentation string of the 'Tabs to Links' preference">
       Pressing Tab on a webpage highlights links, as well as form fields
     </message>
-    <message name="IDS_SETTINGS_WARN_BEFORE_QUITTING_PREF" desc="The documentation string of the 'Warn Before Quitting' preference which is also available in the Brave app menu.">
+    <message name="IDS_SETTINGS_WARN_BEFORE_QUITTING_PREF" desc="The documentation string of the 'Warn Before Quitting' preference which is also available in the Portal App menu.">
       Show warning before quitting with ⌘Q
     </message>
   </if>
@@ -1899,7 +1899,7 @@
     Also sends a small sample of pages, downloads, extension activity, and system information to help discover new threats
   </message>
   <message name="IDS_SETTINGS_PRIVACY_GUIDE_SAFE_BROWSING_CARD_ENHANCED_PROTECTION_PRIVACY_DESCRIPTION3" desc="A part of the privacy description of the enhanced protection section of the safe browsing card in the 'Privacy guide'.">
-    Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Brave apps
+    Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Portal Apps
   </message>
   <message name="IDS_SETTINGS_PRIVACY_GUIDE_SAFE_BROWSING_CARD_STANDARD_PROTECTION_FEATURE_DESCRIPTION1" desc="A part of the feature description of the standard protection section of the safe browsing card in the 'Privacy guide'.">
     Detects and warns you about dangerous events when they happen
@@ -2188,7 +2188,7 @@
     Warns you if passwords are exposed in a data breach
   </message>
   <message name="IDS_SETTINGS_SAFEBROWSING_ENHANCED_BULLET_FIVE" desc="Fourth bullet point under the safe browsing enhanced protection mode">
-    Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity, and system information to help discover new threats. Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Brave apps.
+    Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity, and system information to help discover new threats. Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Portal Apps.
   </message>
   <message name="IDS_SETTINGS_SAFEBROWSING_STANDARD" desc="Label for safe browsing standard protection mode">
     Standard protection
@@ -3960,7 +3960,7 @@
     <message name="IDS_SETTINGS_RESET_CLEANUP_EXPLANATION_PERMISSIONS_NEEDED" desc="Body of error message that could appear during the cleanup of harmful software. Imperative. ">
       Click Try Again, and accept the prompt on your computer
     </message>
-    <message name="IDS_SETTINGS_RESET_CLEANUP_EXPLANATION_CURRENTLY_REMOVING" desc="Description in the Brave Cleanup web page that Brave browser shows when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is being removed by Brave from the user's computer. Appears under the title 'Removing harmful software...' Actor is Brave; we are indicating that harmful software is currently being removed. 'it' is harmful software. Preferrably, the translation for this string should parallel IDS_CHROME_CLEANUP_PROMPT_EXPLANATION.">
+    <message name="IDS_SETTINGS_RESET_CLEANUP_EXPLANATION_CURRENTLY_REMOVING" desc="Description in the Brave Cleanup web page that Portal browser shows when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is being removed by Brave from the user's computer. Appears under the title 'Removing harmful software...' Actor is Brave; we are indicating that harmful software is currently being removed. 'it' is harmful software. Preferrably, the translation for this string should parallel IDS_CHROME_CLEANUP_PROMPT_EXPLANATION.">
       There's harmful software on your computer. Brave is removing it, restoring your settings, and disabling extensions. This will make your browser work normally again.
     </message>
     <message name="IDS_SETTINGS_RESET_CLEANUP_EXPLANATION_SCAN_ERROR" desc="Body of error message that could appear during the cleanup of harmful software.">
@@ -3999,7 +3999,7 @@
     <message name="IDS_SETTINGS_RESET_CLEANUP_TITLE_NOTHING_FOUND" desc="Message displayed after Brave looks for harmful software but doesn't find any. ">
       No harmful software found
     </message>
-    <message name="IDS_SETTINGS_RESET_CLEANUP_TITLE_REMOVE" desc="Title of the Brave Cleanup web page. Brave browser shows the webpage when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is found on the user's computer. Appears above a description of what the cleanup does. 'Remove' is imperative.">
+    <message name="IDS_SETTINGS_RESET_CLEANUP_TITLE_REMOVE" desc="Title of the Brave Cleanup web page. Portal browser shows the webpage when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is found on the user's computer. Appears above a description of what the cleanup does. 'Remove' is imperative.">
       Remove harmful software
     </message>
     <message name="IDS_SETTINGS_RESET_CLEANUP_TITLE_REMOVED" desc="A confirmation, appearing on the Brave Cleanup web page, that the cleanup of unwanted software is finished. Omits 'was', i.e. Harmful software was removed. Appears next to a Done button, which lets user dismiss the confirmation.">

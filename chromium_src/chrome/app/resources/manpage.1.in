@@ -3,7 +3,7 @@
 .TH @@PACKAGE@@ 1 "" "" "USER COMMANDS"
 
 .SH NAME
-@@PACKAGE@@ \- Brave Browser
+@@PACKAGE@@ \- Portal browser
 
 .SH SYNOPSIS
 .B @@PACKAGE@@

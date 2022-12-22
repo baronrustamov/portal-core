@@ -1265,7 +1265,7 @@ export const feed: BraveNews.Feed = {
                     internalValue: BigInt('13276800071000000')
                   },
                   'title': 'Brave Launches Brave Talk for Privacy-Preserving Video Conferencing',
-                  'description': 'Today, Brave launched Brave Talk, a new privacy-focused video conferencing feature built directly into the Brave browser.\nThe post Brave Launches Brave Talk for Privacy-Preserving Video Conferencing appeared first on Brave Browser.',
+                  'description': 'Today, Brave launched Brave Talk, a new privacy-focused video conferencing feature built directly into the Portal browser.\nThe post Brave Launches Brave Talk for Privacy-Preserving Video Conferencing appeared first on Portal browser.',
                   'url': {
                     'url': 'https://brave.com/brave-talk-launch/'
                   },
@@ -1293,7 +1293,7 @@ export const feed: BraveNews.Feed = {
                     internalValue: BigInt('13276723068000000')
                   },
                   'title': 'Research Paper: Privacy and Security Issues in Web 3.0',
-                  'description': 'We at Brave Research just published a technical report called “Privacy and Security Issues in Web 3.0” on arXiv. This blog post summarizes our findings and puts them in perspective for Brave users.\nThe post Research Paper: Privacy and Security Issues in Web 3.0 appeared first on Brave Browser.',
+                  'description': 'We at Brave Research just published a technical report called “Privacy and Security Issues in Web 3.0” on arXiv. This blog post summarizes our findings and puts them in perspective for Brave users.\nThe post Research Paper: Privacy and Security Issues in Web 3.0 appeared first on Portal browser.',
                   'url': {
                     'url': 'https://brave.com/research-paper-privacy-and-security-issues-in-web-3-0/'
                   },
@@ -1321,7 +1321,7 @@ export const feed: BraveNews.Feed = {
                     internalValue: BigInt('13276712102000000')
                   },
                   'title': 'What’s Brave Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions',
-                  'description': 'This is the tenth in a series of blog posts on new Brave privacy features. This post describes work done by Anton Lazarev, Research Engineer. Authors: Peter Snyder and Anton Lazarev.\nThe post What’s Brave Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions appeared first on Brave Browser.',
+                  'description': 'This is the tenth in a series of blog posts on new Brave privacy features. This post describes work done by Anton Lazarev, Research Engineer. Authors: Peter Snyder and Anton Lazarev.\nThe post What’s Brave Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions appeared first on Portal browser.',
                   'url': {
                     'url': 'https://brave.com/privacy-updates-10/'
                   },

@@ -59,7 +59,7 @@ TEST_F(GetCardsTest, ServerOK) {
                "balance": "12.35",
                "currency": "BAT",
                "id": "3ed3b2c4-a715-4c01-b302-fa2681a971ea",
-               "label": "Brave Browser",
+               "label": "Portal browser",
                "lastTransactionAt": "2020-03-31T19:27:57.552Z",
                "settings": {
                  "position": 7,
@@ -127,7 +127,7 @@ TEST_F(GetCardsTest, CardNotFound) {
                "balance": "12.35",
                "currency": "BAT",
                "id": "3ed3b2c4-a715-4c01-b302-fa2681a971ea",
-               "label": "Test Brave Browser",
+               "label": "Test Portal browser",
                "lastTransactionAt": "2020-03-31T19:27:57.552Z",
                "settings": {
                  "position": 7,

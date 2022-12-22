@@ -393,7 +393,7 @@ Sind Sie sicher, dass Sie den Vorgang fortsetzen möchten?</translation>
 <translation id="5440744330377972191">Websites laden schneller</translation>
 <translation id="3000738865641747653">Weniger Daten zu laden, bedeutet, dass Websites in Brave schneller laden – bis zu 8 x schneller als andere Browser.</translation>
 <translation id="8903462729414407077">Wöchentliche Updates erhalten</translation>
-<translation id="7450323860390658083">Informiere dich darüber, welche der von dir besuchten Websites am meisten in die Privatsphäre eingreifen.\n\nNur du siehst diese Datenschutzstatistik. Persönliche Daten oder Browserverlauf verlassen nie den Brave Browser auf deinem Gerät.</translation>
+<translation id="7450323860390658083">Informiere dich darüber, welche der von dir besuchten Websites am meisten in die Privatsphäre eingreifen.\n\nNur du siehst diese Datenschutzstatistik. Persönliche Daten oder Browserverlauf verlassen nie den Portal browser auf deinem Gerät.</translation>
 <translation id="6170159749517116894">Privatsphäreberichte aktivieren</translation>
 <translation id="5966707198760109579">Woche</translation>
 <translation id="8987927404178983737">Monat</translation>
@@ -409,13 +409,13 @@ Sind Sie sicher, dass Sie den Vorgang fortsetzen möchten?</translation>
 <translation id="3694122362646626770">Websites</translation>
 <translation id="2225863440766607138">Tracker</translation>
 <translation id="2993367530362078067"><ph name="COUNT"/><ph name="COUNT_TEXT"/></translation>
-<translation id="6737820963776538947">In den letzten 3 Stunden haben Sie <ph name="COUNT"/> Tracker &amp; Werbeanzeigen mit dem Brave Browser blockiert.</translation>
+<translation id="6737820963776538947">In den letzten 3 Stunden haben Sie <ph name="COUNT"/> Tracker &amp; Werbeanzeigen mit dem Portal browser blockiert.</translation>
 <translation id="3621193901658023971">Browsen Sie in Brave bis zu 6 x schneller auf großen Nachrichtenseiten, indem Sie Tracker &amp; Werbeanzeigen blockieren.</translation>
 <translation id="7427567994475794038">Aktivieren Sie Privatsphäreberichte, um zu sehen, wie viele Tracker &amp; Werbeanzeigen in den letzten 3 Stunden blockiert wurden.</translation>
-<translation id="2053891538879944400">Sie haben <ph name="DATA"/> <ph name="DATA_TEXT"/> Daten mit dem Brave Browser gespart.</translation>
+<translation id="2053891538879944400">Sie haben <ph name="DATA"/> <ph name="DATA_TEXT"/> Daten mit dem Portal browser gespart.</translation>
 <translation id="8640064498452534195">Aktivieren Sie die Privatsphäreberichte, um zu sehen, wie viele Daten Sie gespart haben.</translation>
-<translation id="2252497442547961651">Brave Browser verbraucht im Durchschnitt 40 % weniger Akku.🔋</translation>
-<translation id="1945330434665345785">Letzte Wochen haben Sie <ph name="COUNT"/> Tracker &amp; Werbeanzeigen mit dem Brave Browser blockiert.</translation>
+<translation id="2252497442547961651">Portal browser verbraucht im Durchschnitt 40 % weniger Akku.🔋</translation>
+<translation id="1945330434665345785">Letzte Wochen haben Sie <ph name="COUNT"/> Tracker &amp; Werbeanzeigen mit dem Portal browser blockiert.</translation>
 <translation id="2883868922264431515">Verdienen Sie Tokens, indem Sie Werbung ansehen, die die Privatsphäre respektiert, und unterstützen Sie Ihre Lieblingswebsites.</translation>
 <translation id="7408493389591475748">Fangen Sie an, zu browsen, um den Privatsphärebericht zu sehen</translation>
 <translation id="9080777565335515917">Legen Sie für privates und sicheres Browsen Brave als Ihren Standardbrowser fest.</translation>
@@ -859,7 +859,7 @@ Wenn Sie diese Anfrage nicht akzeptieren, wird das VPN nicht erneut verbunden un
 <translation id="5039804452771397117">Zulassen</translation>
 <translation id="3378339846292573874">Vorgeschlagenes Token hinzufügen</translation>
 <translation id="2322227405137827074">Möchten Sie dieses Token importieren?</translation>
-<translation id="1324417023773393937">Brave Browser</translation>
+<translation id="1324417023773393937">Portal browser</translation>
 <translation id="6044189892950611565">Benachrichtigungskanal für den Brave-Browser</translation>
 <translation id="1173919438868967364">Konto auswählen</translation>
 <translation id="8922793255489232731">Passende Zeitzone für <ph name="VALUE"/> konnte nicht abgerufen werden</translation>

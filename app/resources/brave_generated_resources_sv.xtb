@@ -84,11 +84,11 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="3161744659507801211">Varning: Brave kan inte förhindra tillägg från att spela in din sökhistorik.</translation>
 <translation id="2162109630536601963">Om det här tillägget gör nätverksförfrågningar använder det inte Tor eller privat läge.</translation>
 <translation id="2725327089319971976">För att avaktivera detta tillägg i privat läge och Tor-läge, avmarkera detta alternativ.</translation>
-<translation id="3371343170427636147">Brave Browser Nightly-appar</translation>
-<translation id="4097979995947147464">Brave Browser Beta-appar</translation>
-<translation id="8303432794159193481">Brave Browser Dev-appar</translation>
-<translation id="8292967014767479012">Brave Browser-appar</translation>
-<translation id="4743468424889072281">Brave Browser utvecklingsappar</translation>
+<translation id="3371343170427636147">Portal browser Nightly-appar</translation>
+<translation id="4097979995947147464">Portal browser Beta-appar</translation>
+<translation id="8303432794159193481">Portal browser Dev-appar</translation>
+<translation id="8292967014767479012">Portal browser-appar</translation>
+<translation id="4743468424889072281">Portal browser utvecklingsappar</translation>
 <translation id="732814027519296280">Vill du göra Brave Search ännu bättre?</translation>
 <translation id="2677865600861971449">Registrera dig till Web Discovery Project för att anonymt bidra med sök&amp; surfdata och förbättra Brave Search-resultat för alla. Sekretessbevarande. Och noll ansträngning. <ph name="LEARN_MORE_TEXT"/></translation>
 <translation id="6165508094623778733">Läs mer</translation>
@@ -96,7 +96,7 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="780301667611848630">Nej tack</translation>
 <translation id="5039804452771397117">Tillåt</translation>
 <translation id="7053983685419859001">Blockera</translation>
-<translation id="1679356339067548863">Hjälp till att förbättra Braves produktstabilitet genom att automatiskt skicka diagnostikrapporter när Brave Browser kraschar eller fryser.</translation>
+<translation id="1679356339067548863">Hjälp till att förbättra Braves produktstabilitet genom att automatiskt skicka diagnostikrapporter när Portal browser kraschar eller fryser.</translation>
 <translation id="660171790038410175"><ph name="BROWSER_NAME"/> quit unexpectedly.</translation>
 <translation id="1324417023773393937">Brave-webbläsaren</translation>
 <translation id="7276554663454265692">Du kan ändra <ph name="SETTING_TEXT"/> när som helst i webbläsarens inställningar.</translation>

@@ -233,7 +233,7 @@ Check your passwords at any time in <ph name="GOOGLE_PASSWORD_MANAGER"/>.</trans
 <translation id="120368089816228251">Music note</translation>
 <translation id="1203942045716040624">Shared worker: <ph name="SCRIPT_URL"/></translation>
 <translation id="1211769675100312947">Shortcuts are curated by you</translation>
-<translation id="1213254615020057352">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This setting is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain.</translation>
+<translation id="1213254615020057352">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This setting is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain.</translation>
 <translation id="1213726621272705156">You won't see cards on this page again</translation>
 <translation id="121384500095351701">This file can't be downloaded securely</translation>
 <translation id="1215411991991485844">New background app added</translation>
@@ -534,7 +534,7 @@ Permissions that you've already given to apps may apply to this account. You can
 <translation id="1494349716233667318">Sites can ask to use fonts installed on your device</translation>
 <translation id="1495677929897281669">Back to tab</translation>
 <translation id="1500297251995790841">Unknown device [<ph name="VENDOR_ID"/>:<ph name="PRODUCT_ID"/>]</translation>
-<translation id="6440894523770886280">Learn more about unsupported Brave Apps</translation>
+<translation id="6440894523770886280">Learn more about unsupported Portal Apps</translation>
 <translation id="150411034776756821">Remove <ph name="SITE"/></translation>
 <translation id="1504551620756424144">Shared folders are available in Windows at <ph name="BASE_DIR"/>.</translation>
 <translation id="1505494256539862015">export passwords</translation>
@@ -553,7 +553,7 @@ Permissions that you've already given to apps may apply to this account. You can
 <translation id="1512642802859169995"><ph name="FILE_NAME"/> is encrypted. Ask its owner to decrypt it.</translation>
 <translation id="151501797353681931">Imported from Safari</translation>
 <translation id="1515163294334130951">Launch</translation>
-<translation id="7181162989909413015">To cast with a code, turn on Brave browser sync settings</translation>
+<translation id="7181162989909413015">To cast with a code, turn on Portal browser sync settings</translation>
 <translation id="1521442365706402292">Manage certificates</translation>
 <translation id="1521774566618522728">Active today</translation>
 <translation id="152234381334907219">Never saved</translation>
@@ -658,7 +658,7 @@ Permissions that you've already given to apps may apply to this account. You can
 <translation id="1611776894942218234">Device must be in Beta channel</translation>
 <translation id="1612019740169791082">Your container is not configured to support disk resizes. To adjust the amount of space that is reserved for Linux, back up and then restore into a new container.</translation>
 <translation id="1613019471223620622">Show password for <ph name="USERNAME"/> on <ph name="DOMAIN"/></translation>
-<translation id="2811168643228573149">Old versions of Brave Apps won't open after December 2022. You can check if there's a new version available.</translation>
+<translation id="2811168643228573149">Old versions of Portal Apps won't open after December 2022. You can check if there's a new version available.</translation>
 <translation id="1614511179807650956">You may have used up your mobile data allowance. Visit the <ph name="NAME"/> activation portal to buy more data</translation>
 <translation id="161460670679785907">Unable to detect your phone</translation>
 <translation id="1615433306336820465">Manage sign-in data stored on your security key</translation>
@@ -908,7 +908,7 @@ Permissions that you've already given to apps may apply to this account. You can
 <translation id="1825565032302550710">Port must be between 1024 and 65535</translation>
 <translation id="182577151972096764">recently viewed recipes</translation>
 <translation id="18260074040409954">You can use saved passwords on any device. They're saved to <ph name="GOOGLE_PASSWORD_MANAGER"/> for <ph name="EMAIL"/>.</translation>
-<translation id="1826192255355608658">Sync your Brave browser bookmarks, passwords, history and more</translation>
+<translation id="1826192255355608658">Sync your Portal browser bookmarks, passwords, history and more</translation>
 <translation id="1826516787628120939">Checking</translation>
 <translation id="1828378091493947763">This plug-in is not supported on this device</translation>
 <translation id="1828879788654007962">{COUNT,plural, =0{&amp;Open All}=1{&amp;Open Bookmark}other{&amp;Open All ({COUNT})}}</translation>
@@ -962,7 +962,7 @@ Permissions that you've already given to apps may apply to this account. You can
 <translation id="5547994882402969646">Password check is not available in Brave</translation>
 <translation id="1868617395637139709">Use location for Android apps and services.</translation>
 <translation id="1869433484041798909">Bookmark button</translation>
-<translation id="7175072311426658869">Open in Brave browser</translation>
+<translation id="7175072311426658869">Open in Portal browser</translation>
 <translation id="187145082678092583">Fewer apps</translation>
 <translation id="1871463148436682760">Nicely done!</translation>
 <translation id="1871534214638631766">Show related info when you right-click or long press on content</translation>
@@ -1019,7 +1019,7 @@ Permissions that you've already given to apps may apply to this account. You can
 <translation id="1925017091976104802">Press <ph name="MODIFIER_KEY_DESCRIPTION"/> to paste</translation>
 <translation id="1925021887439448749">Enter custom web address</translation>
 <translation id="1925124445985510535">Safety check ran at <ph name="TIME"/></translation>
-<translation id="8049922435917813862">Old versions of Brave apps won't open on Windows devices after December 2022. You can check if there's a new version available.</translation>
+<translation id="8049922435917813862">Old versions of Portal Apps won't open on Windows devices after December 2022. You can check if there's a new version available.</translation>
 <translation id="1926339101652878330">These settings are controlled by enterprise policy. Please contact your administrator for more information.</translation>
 <translation id="1927632033341042996">Finger <ph name="NEW_FINGER_NUMBER"/></translation>
 <translation id="192817607445937251">Screen lock PIN</translation>
@@ -1331,7 +1331,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2218019600945559112">Mouse and touchpad</translation>
 <translation id="2749608811030566578">An error occurred while Brave was removing harmful software</translation>
 <translation id="2218515861914035131">Paste as plain text</translation>
-<translation id="2950533317914339731">Add bookmarks to your favourite Brave apps</translation>
+<translation id="2950533317914339731">Add bookmarks to your favourite Portal Apps</translation>
 <translation id="2220529011494928058">Report an issue</translation>
 <translation id="2220572644011485463">PIN or password</translation>
 <translation id="222115440608612541">Switch themes at sunrise and sunset</translation>
@@ -1497,7 +1497,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2342740338116612727">Bookmarks added</translation>
 <translation id="2343747224442182863">Focus This Tab</translation>
 <translation id="2344032937402519675">Couldn’t connect with the server. Check your network connection and try again. If you're still having trouble, try restarting your Chromebook.</translation>
-<translation id="6055117817387598516">Old versions of Brave Apps won't open after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
+<translation id="6055117817387598516">Old versions of Portal Apps won't open after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
 <translation id="2345723121311404059">1 page to <ph name="PRINTER_NAME"/></translation>
 <translation id="23463457491630512">For example, if you visit a site to buy shoes for a marathon, the site might define your interest as running marathons. Later, if you visit a different site to register for a race, that site can show you an ad for running shoes based on your interests.</translation>
 <translation id="2348176352564285430">App: <ph name="ARC_PROCESS_NAME"/></translation>
@@ -2160,7 +2160,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2942560570858569904">Waiting...</translation>
 <translation id="2942581856830209953">Customise this page</translation>
 <translation id="2943268899142471972">Select an Ansible playbook or Crostini backup file</translation>
-<translation id="2944060181911631861">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK1"/>Find out more<ph name="END_LINK1"/></translation>
+<translation id="2944060181911631861">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK1"/>Find out more<ph name="END_LINK1"/></translation>
 <translation id="2946054015403765210">Go to files</translation>
 <translation id="2946119680249604491">Add connection</translation>
 <translation id="2946640296642327832">Enable Bluetooth</translation>
@@ -2307,7 +2307,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3084548735795614657">Drop to install</translation>
 <translation id="5418694430960033386">Either Brave ran out of memory or the process for the web page was terminated for some other reason. To continue, reload or go to another page.</translation>
 <translation id="3085412380278336437">Site can use your camera</translation>
-<translation id="3085431803365340433">Brave Browser could not be updated</translation>
+<translation id="3085431803365340433">Portal browser could not be updated</translation>
 <translation id="3088052000289932193">Site is using MIDI</translation>
 <translation id="3088128611727407543">Preparing app profile…</translation>
 <translation id="3088325635286126843">&amp;Rename...</translation>
@@ -2361,7 +2361,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3143515551205905069">Cancel sync</translation>
 <translation id="3143754809889689516">Play from the beginning</translation>
 <translation id="3144647712221361880">Open link as</translation>
-<translation id="300669147395456190">Brave Apps</translation>
+<translation id="300669147395456190">Portal Apps</translation>
 <translation id="3150693969729403281">Run safety check now</translation>
 <translation id="3150927491400159470">Hard Reload</translation>
 <translation id="315116470104423982">Mobile data</translation>
@@ -2493,7 +2493,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3294437725009624529">Guest</translation>
 <translation id="3294686910656423119">Usage statistics and crash reports</translation>
 <translation id="3297105622164376095">Allowed to show third-party sign-in prompts</translation>
-<translation id="4288017268387803622">Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Brave apps</translation>
+<translation id="4288017268387803622">Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Portal Apps</translation>
 <translation id="329838636886466101">Repair</translation>
 <translation id="3298789223962368867">Invalid URL entered.</translation>
 <translation id="32991397311664836">Devices:</translation>
@@ -2522,7 +2522,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3320630259304269485">Safe Browsing (protection from dangerous sites) and other security settings</translation>
 <translation id="3323295311852517824">{NUM_FILES,plural, =0{This data has sensitive or dangerous content. Remove this content and try again.}=1{This file has sensitive or dangerous content. Remove this content and try again.}other{These files have sensitive or dangerous content. Remove this content and try again.}}</translation>
 <translation id="3323521181261657960">Bonus! You got more screen time</translation>
-<translation id="9044258386077615750">Changes that you make here apply only to Brave Browser. To make changes to your Lacros Brave Browser settings, open Lacros Brave Browser and go to settings.</translation>
+<translation id="9044258386077615750">Changes that you make here apply only to Portal browser. To make changes to your Lacros Portal browser settings, open Lacros Portal browser and go to settings.</translation>
 <translation id="3325804108816646710">Looking for available profiles…</translation>
 <translation id="3325910708063135066">Camera and microphone are turned off in Mac System Preferences</translation>
 <translation id="3327050066667856415">Chromebooks are designed for security. Your device is protected from malware automatically – no extra software required.</translation>
@@ -2550,7 +2550,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3348131053948466246">Emoji suggested. Press up or down to navigate, and enter to insert.</translation>
 <translation id="3349933790966648062">Memory footprint</translation>
 <translation id="3353786022389205125">Turn on 'Show lock screen when waking from sleep' and try again</translation>
-<translation id="2198340416484774609">Old versions of Brave apps won't open on Mac devices after December 2022. You can check if there's a new version available.</translation>
+<translation id="2198340416484774609">Old versions of Portal Apps won't open on Mac devices after December 2022. You can check if there's a new version available.</translation>
 <translation id="3354972872297836698">Couldn't pair to device <ph name="DEVICE_NAME"/>; select device to try again</translation>
 <translation id="3355936511340229503">Connection error</translation>
 <translation id="3356036636691722598">Enjoy gaming on your Chromebook</translation>
@@ -2685,7 +2685,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3474218480460386727">Use 99 letters or fewer for new words</translation>
 <translation id="3474624961160222204">Continue as <ph name="NAME"/></translation>
 <translation id="3475843873335999118">Sorry, your fingerprint is still not recognised. Please enter your password.</translation>
-<translation id="3476303763173086583">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
+<translation id="3476303763173086583">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
 <translation id="347670947055184738">Oops!  The system failed to fetch policy for your device.</translation>
 <translation id="347785443197175480">Continue allowing <ph name="HOST"/> to access your camera and microphone</translation>
 <translation id="3479552764303398839">Not now</translation>
@@ -3068,7 +3068,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3834728400518755610">The change in microphone setting requires Linux to shut down. Shut down Linux to proceed.</translation>
 <translation id="3834775135533257713">Could not add application "<ph name="TO_INSTALL_APP_NAME"/>" because it conflicts with "<ph name="INSTALLED_APP_NAME"/>".</translation>
 <translation id="3835904559946595746">Couldn’t restore Linux backup</translation>
-<translation id="383669374481694771">This is general information about this device and how it's used (such as battery level, system and app activity, and errors). The data will be used to improve Android, and some aggregated information will also help Brave apps and partners, such as Android developers, make their apps and products better.</translation>
+<translation id="383669374481694771">This is general information about this device and how it's used (such as battery level, system and app activity, and errors). The data will be used to improve Android, and some aggregated information will also help Portal Apps and partners, such as Android developers, make their apps and products better.</translation>
 <translation id="3838085852053358637">Failed to load extension</translation>
 <translation id="3838486795898716504">More <ph name="PAGE_TITLE"/></translation>
 <translation id="9106683078444907752">Add saved passwords to Brave Password Manager</translation>
@@ -3155,7 +3155,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2819091349626575960">Report details to Brave</translation>
 <translation id="3919145445993746351">To get your extensions on all your computers, turn on sync</translation>
 <translation id="3919229493046408863">Turn off notification when devices are nearby</translation>
-<translation id="3937043680469836680">Old versions of Brave Apps won't open on Mac devices after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
+<translation id="3937043680469836680">Old versions of Portal Apps won't open on Mac devices after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
 <translation id="3919798653937160644">Pages that you view in this window won't appear in the browser history and they won't leave other traces, like cookies, on the computer after you close all open Guest windows. Any files that you download will be preserved, however.</translation>
 <translation id="3920504717067627103">Certificate Policies</translation>
 <translation id="3920909973552939961">Not allowed to install payment handlers</translation>
@@ -3163,7 +3163,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3923184630988645767">Data usage</translation>
 <translation id="3923676227229836009">This page is allowed to view files</translation>
 <translation id="3924145049010392604">Meta</translation>
-<translation id="7575176983371565462">Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats. Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Brave apps.</translation>
+<translation id="7575176983371565462">Sends URLs to Safe Browsing to check them. Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats. Temporarily links this data to your Brave sync chain when you're signed in, to protect you across Portal Apps.</translation>
 <translation id="3925573269917483990">Camera:</translation>
 <translation id="3926002189479431949">Smart Lock phone changed</translation>
 <translation id="3927932062596804919">Deny</translation>
@@ -3305,7 +3305,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="4052120076834320548">Tiny</translation>
 <translation id="4054070260844648638">Visible to everyone</translation>
 <translation id="4056223980640387499">Sepia</translation>
-<translation id="8891261408659902804">You reached the time limit that your parent set for <ph name="APP_NAME"/> Brave app. You can use it for <ph name="TIME_LIMIT"/> tomorrow.</translation>
+<translation id="8891261408659902804">You reached the time limit that your parent set for <ph name="APP_NAME"/> Portal App. You can use it for <ph name="TIME_LIMIT"/> tomorrow.</translation>
 <translation id="4057041477816018958"><ph name="SPEED"/> - <ph name="RECEIVED_AMOUNT"/></translation>
 <translation id="4057896668975954729">View in Store</translation>
 <translation id="4058720513957747556">AppSocket (TCP/IP)</translation>
@@ -3455,7 +3455,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="4209251085232852247">Turned off</translation>
 <translation id="4210048056321123003">Downloading the virtual machine</translation>
 <translation id="4210380525132844778">Reason: <ph name="RULE"/> was found in the '<ph name="LIST_NAME"/>' list.</translation>
-<translation id="4211851069413100178">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregated data will also help Brave apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Learn more<ph name="END_LINK2"/></translation>
+<translation id="4211851069413100178">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregated data will also help Portal Apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Learn more<ph name="END_LINK2"/></translation>
 <translation id="4211904048067111541">Stop using with Android apps</translation>
 <translation id="42126664696688958">Export</translation>
 <translation id="42137655013211669">Access to this resource was forbidden by the server.</translation>
@@ -3842,7 +3842,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="5069510062541082828">To continue saving passwords in your Brave sync chain, verify that it’s you</translation>
 <translation id="4579453506923101210">Forget connected phone</translation>
 <translation id="4579581181964204535">Unable to cast <ph name="HOST_NAME"/>.</translation>
-<translation id="7343272409020602342">For browser notifications, go to <ph name="LINK_BEGIN"/>Brave browser settings<ph name="LINK_END"/></translation>
+<translation id="7343272409020602342">For browser notifications, go to <ph name="LINK_BEGIN"/>Portal browser settings<ph name="LINK_END"/></translation>
 <translation id="5450255970312261532">Sign back in to Brave Password Manager</translation>
 <translation id="4580596421317071374">Passwords are saved to <ph name="GOOGLE_PASSWORD_MANAGER"/> on this device.</translation>
 <translation id="4581774856936278355">Error while restoring Linux</translation>
@@ -4088,7 +4088,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
 <translation id="4824958205181053313">Cancel sync?</translation>
 <translation id="4825532258163983651">Can't delete passkey</translation>
 <translation id="4827675678516992122">Couldn't connect</translation>
-<translation id="4536267179863600153">Enhanced spell check in Brave browser (text is sent to Brave for spelling suggestions)</translation>
+<translation id="4536267179863600153">Enhanced spell check in Portal browser (text is sent to Brave for spelling suggestions)</translation>
 <translation id="4827904420700932487">Create QR code for this Image</translation>
 <translation id="4827970183019354123">URL checker</translation>
 <translation id="4828567746430452681">'<ph name="EXTENSION_NAME"/>' is no longer supported</translation>
@@ -4286,7 +4286,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
 <translation id="5016491575926936899">You can text from your computer, share your Internet connection, reply to conversation notifications and unlock your <ph name="DEVICE_TYPE"/> with your phone.<ph name="FOOTNOTE_POINTER"/> <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="5017643436812738274">You can navigate pages with a text cursor. Press Ctrl+Search+7 to turn off.</translation>
 <translation id="5018207570537526145">Open extension website</translation>
-<translation id="5018526990965779848">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
+<translation id="5018526990965779848">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
 <translation id="5020008942039547742">Choose a different window</translation>
 <translation id="5021750053540820849">Not updated yet</translation>
 <translation id="5024511550058813796">You'll have your history on all your synced devices, so you can continue what you were doing</translation>
@@ -4308,7 +4308,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
 <translation id="5039804452771397117">Allow</translation>
 <translation id="5040262127954254034">Privacy</translation>
 <translation id="5040823038948176460">Additional content settings</translation>
-<translation id="1773373699515552474">Brave app</translation>
+<translation id="1773373699515552474">Portal App</translation>
 <translation id="5043440033854483429">Name can use letters, numbers and hyphens (-), and must be between 1 and 15 characters inclusive.</translation>
 <translation id="5043913660911154449">Or specify your printer PPD <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
 <translation id="5045550434625856497">Incorrect password</translation>
@@ -4463,7 +4463,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
 <translation id="5195863934285556588"><ph name="BEGIN_PARAGRAPH1"/>Brave's Location Service uses sources like Wi-Fi, mobile networks and sensors to help estimate this device's location.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>You can turn off Android location on this device at any time by going to Settings &gt; Apps &gt; Google Play Store &gt; Manage Android preferences &gt; Security and location &gt; Location. You can also turn off the use of Wi-Fi, mobile networks and sensors for Android location by turning off 'Brave Location Accuracy' in the same menu.<ph name="END_PARAGRAPH2"/></translation>
 <translation id="5197255632782567636">Internet</translation>
-<translation id="5198430103906431024">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
+<translation id="5198430103906431024">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
 <translation id="5199729219167945352">Experiments</translation>
 <translation id="5203920255089865054">{NUM_EXTENSIONS,plural, =1{Click to view the extension}other{Click to view these extensions}}</translation>
 <translation id="5204673965307125349">Please powerwash the device and try again.</translation>
@@ -4558,7 +4558,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
 <translation id="5288678174502918605">R&amp;eopen Closed Tab</translation>
 <translation id="52895863590846877">Page is not in <ph name="LANGUAGE"/></translation>
 <translation id="52912272896845572">Private key file is invalid.</translation>
-<translation id="2986818636564877939">Automatically creates captions for media in Brave Browser (currently available in English). Audio and captions are processed locally and never leave the device.</translation>
+<translation id="2986818636564877939">Automatically creates captions for media in Portal browser (currently available in English). Audio and captions are processed locally and never leave the device.</translation>
 <translation id="529175790091471945">Format this device</translation>
 <translation id="5292862864186939732">Always allow '<ph name="EXTENSION_NAME"/>' to run on <ph name="ORIGIN"/>?</translation>
 <translation id="529296195492126134">Ephemeral mode is not supported. Please contact your administrator</translation>
@@ -4707,7 +4707,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="5436575196282187764">Google Photos memories</translation>
 <translation id="5439680044267106777">Skip and set up new profile</translation>
 <translation id="544083962418256601">Create shortcuts...</translation>
-<translation id="5417227405829889012">Web app installed from Brave browser</translation>
+<translation id="5417227405829889012">Web app installed from Portal browser</translation>
 <translation id="5441466871879044658">Translate into this language</translation>
 <translation id="5442228125690314719">Error creating disk image. Please try again.</translation>
 <translation id="5442550868130618860">Turn on automatic update</translation>
@@ -4870,7 +4870,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="5583640892426849032">Backspace</translation>
 <translation id="5584088138253955452">Save username?</translation>
 <translation id="5584091888252706332">On start-up</translation>
-<translation id="5584915726528712820"><ph name="BEGIN_PARAGRAPH1"/>This is general information about your device and how you use it (such as battery level, system and app activity and errors). The data will be used to improve Android, and some aggregated information will also help Brave apps and partners, such as Android developers, make their apps and products better.<ph name="END_PARAGRAPH1"/>
+<translation id="5584915726528712820"><ph name="BEGIN_PARAGRAPH1"/>This is general information about your device and how you use it (such as battery level, system and app activity and errors). The data will be used to improve Android, and some aggregated information will also help Portal Apps and partners, such as Android developers, make their apps and products better.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>Turning off this feature doesn't affect your device's ability to send the information needed for essential services such as system updates and security.<ph name="END_PARAGRAPH2"/>
     <ph name="BEGIN_PARAGRAPH3"/>The owner can control this feature from Settings &gt; Advanced &gt; Automatically send diagnostic and usage data to Brave.<ph name="END_PARAGRAPH3"/>
     <ph name="BEGIN_PARAGRAPH4"/>If your additional Web &amp; app activity setting is turned on, this data may be saved to your Brave sync chain. You can see your data, delete it and change your account settings at account.google.com.<ph name="END_PARAGRAPH4"/></translation>
@@ -5081,7 +5081,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="5794034487966529952">Desk <ph name="DESK_TITLE"/> has <ph name="NUM_BROWSERS"/> browser windows open</translation>
 <translation id="5794414402486823030">Always open with system viewer</translation>
 <translation id="5794700615121138172">Linux shared folders</translation>
-<translation id="7397305826909094212">Quit all Brave Apps</translation>
+<translation id="7397305826909094212">Quit all Portal Apps</translation>
 <translation id="5797521893972859201">Clears history, including in the search box</translation>
 <translation id="5798079537501238810">Sites can install payment handlers</translation>
 <translation id="579915268381781820">Your security key was removed.</translation>
@@ -5423,7 +5423,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="6112294629795967147">Touch to resize</translation>
 <translation id="6112727384379533756">Add a ticket</translation>
 <translation id="6112931163620622315">Check your phone</translation>
-<translation id="8589850327914845460">Set your default search engine for Brave browser and <ph name="DEVICE_TYPE"/> Launcher</translation>
+<translation id="8589850327914845460">Set your default search engine for Portal browser and <ph name="DEVICE_TYPE"/> Launcher</translation>
 <translation id="6113942107547980621">To use Smart Lock, switch to the primary user profile on your phone</translation>
 <translation id="6116921718742659598">Change language and input settings</translation>
 <translation id="6119927814891883061">Name device to <ph name="DEVICE_NAME"/></translation>
@@ -5684,7 +5684,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="6374077068638737855">Iceweasel</translation>
 <translation id="6374469231428023295">Try Again</translation>
 <translation id="6374635887697228982">Get discounts?</translation>
-<translation id="3816315808514424202">Old versions of Brave Apps won't open on Linux devices after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
+<translation id="3816315808514424202">Old versions of Portal Apps won't open on Linux devices after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
 <translation id="6377268785556383139">1 result for '<ph name="SEARCH_TEXT"/>'</translation>
 <translation id="6378392501584240055">Open in Wi-Fi networks</translation>
 <translation id="6380143666419481200">Accept and continue</translation>
@@ -5940,7 +5940,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="6610002944194042868">Translate Options</translation>
 <translation id="6611907964265870728">Please ensure that your device is connected to the Internet</translation>
 <translation id="6611972847767394631">Find your tabs here</translation>
-<translation id="6613668613087513143">There isn't enough space on this device to complete this update. Clean up <ph name="NECESSARY_SPACE"/> on your device and try again from your Brave Browser.</translation>
+<translation id="6613668613087513143">There isn't enough space on this device to complete this update. Clean up <ph name="NECESSARY_SPACE"/> on your device and try again from your Portal browser.</translation>
 <translation id="6615455863669487791">Show me</translation>
 <translation id="6618097958368085618">Keep Anyway</translation>
 <translation id="6618744767048954150">Running</translation>
@@ -6055,7 +6055,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="6725206449694821596">Internet Printing Protocol (IPP)</translation>
 <translation id="6725970970008349185">Number of candidates to be displayed per page</translation>
 <translation id="672609503628871915">See what's new</translation>
-<translation id="67269783048918309">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
+<translation id="67269783048918309">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
 <translation id="6729192290958770680">Enter your username</translation>
 <translation id="6731320427842222405">This may take a few minutes</translation>
 <translation id="6733620523445262364">'<ph name="BOOKMARK_TITLE"/>' created.</translation>
@@ -6069,7 +6069,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="6740234557573873150">Paused <ph name="FILE_NAME"/></translation>
 <translation id="6741063444351041466"><ph name="BEGIN_LINK"/>Your administrator<ph name="END_LINK"/> has turned off Safe Browsing</translation>
 <translation id="6742339027238151589">Accessible to script</translation>
-<translation id="6554048679786998977">Automatically creates captions for media in Brave Browser. Audio and captions are processed locally and never leave the device.</translation>
+<translation id="6554048679786998977">Automatically creates captions for media in Portal browser. Audio and captions are processed locally and never leave the device.</translation>
 <translation id="6743841972744298686">Sync settings</translation>
 <translation id="6745592621698551453">Update now</translation>
 <translation id="6746124502594467657">Move down</translation>
@@ -6164,7 +6164,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="6826872289184051766">Verify via USB</translation>
 <translation id="6827121912381363404">Allow all extensions to read and change <ph name="PERMITTED_SITE"/></translation>
 <translation id="4109630956174373924">Your apps and settings will sync across all Chrome OS devices where you are signed in with your Brave sync chain. For browser sync options, go to <ph name="LINK_BEGIN"/>Brave settings<ph name="LINK_END"/>.</translation>
-<translation id="8295391943105726234">Old versions of Brave Apps won't open on Windows devices after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
+<translation id="8295391943105726234">Old versions of Portal Apps won't open on Windows devices after December 2022. Contact your administrator to update to a new version or remove this app.</translation>
 <translation id="6828153365543658583">Restrict sign-in to the following users:</translation>
 <translation id="6828182567531805778">Enter your passphrase to sync your data</translation>
 <translation id="682871081149631693">QuickFix</translation>
@@ -6193,7 +6193,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="6848388270925200958">At the moment, you have some cards that can only be used on this device</translation>
 <translation id="6848716236260083778">To set up fingerprint, get your child to touch the fingerprint sensor. Your child’s fingerprint data is stored securely and never leaves this <ph name="DEVICE_TYPE"/>.</translation>
 <translation id="6850286078059909152">Text colour</translation>
-<translation id="6851181413209322061">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This setting is enforced by the owner. If additional Web &amp; App Activity is turned on for your child, this data may be saved to their Brave sync chain.</translation>
+<translation id="6851181413209322061">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This setting is enforced by the owner. If additional Web &amp; App Activity is turned on for your child, this data may be saved to their Brave sync chain.</translation>
 <translation id="6851497530878285708">App enabled</translation>
 <translation id="6853029310037965825"><ph name="APP_TYPE"/> installed from <ph name="BEGIN_LINK"/><ph name="INSTALL_SOURCE"/><ph name="END_LINK"/></translation>
 <translation id="6853388645642883916">Updater sleeping</translation>
@@ -6246,7 +6246,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="6902066522699286937">Voice to preview</translation>
 <translation id="6902336033320348843">Section not supported: <ph name="ERROR_LINE"/></translation>
 <translation id="6902837902700739466">Join device to domain</translation>
-<translation id="8347080852065577355">Your data will be synced across all Brave browsers where you have turned on sync for this account. For Chrome OS sync options, go to <ph name="LINK_BEGIN"/>Chrome OS settings<ph name="LINK_END"/>.</translation>
+<translation id="8347080852065577355">Your data will be synced across all Portal browsers where you have turned on sync for this account. For Chrome OS sync options, go to <ph name="LINK_BEGIN"/>Chrome OS settings<ph name="LINK_END"/>.</translation>
 <translation id="6903590427234129279">Open all (<ph name="URL_COUNT"/>)</translation>
 <translation id="6903907808598579934">Turn on sync</translation>
 <translation id="6904344821472985372">Revoke file access</translation>
@@ -6481,7 +6481,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="7117228822971127758">Please try again later</translation>
 <translation id="711840821796638741">Show Managed Bookmarks</translation>
 <translation id="8651796563067586593">This page allows you to manage your signed-in Brave sync chains. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
-<translation id="5450502361144700252">Brave Browser and Android traffic will be blocked unless a VPN is connected</translation>
+<translation id="5450502361144700252">Portal browser and Android traffic will be blocked unless a VPN is connected</translation>
 <translation id="7120865473764644444">Couldn't connect to the sync server. Retrying...</translation>
 <translation id="7121438501124788993">Developer mode</translation>
 <translation id="7121728544325372695">Smart Dashes</translation>
@@ -6549,7 +6549,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="7201420661433230412">View files</translation>
 <translation id="7203150201908454328">Expanded</translation>
 <translation id="720715819012336933">{NUM_PAGES,plural, =1{Exit page}other{Exit pages}}</translation>
-<translation id="7207457272187520234">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This setting is enforced by the owner. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
+<translation id="7207457272187520234">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This setting is enforced by the owner. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
 <translation id="7207631048330366454">Search apps</translation>
 <translation id="6900636661477276859">To import passwords to Brave Password Manager on this device, select a CSV file</translation>
 <translation id="7210499381659830293">Extension printers</translation>
@@ -6931,7 +6931,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="7582844466922312471">Mobile Data</translation>
 <translation id="7583948862126372804">Count</translation>
 <translation id="7585106857920830898">Checking with your organisation's security policies…</translation>
-<translation id="8201192017531062522">Brave will keep running while Brave Apps are open.</translation>
+<translation id="8201192017531062522">Brave will keep running while Portal Apps are open.</translation>
 <translation id="758895749110326677">Help us improve gaming on Chromebooks</translation>
 <translation id="7589461650300748890">Whoa, there. Be careful.</translation>
 <translation id="7593653750169415785">Automatically blocked because you declined notifications a few times</translation>
@@ -7182,7 +7182,7 @@ Press an assigned switch or key to remove assignment.</translation>
 <translation id="7797571222998226653">Off</translation>
 <translation id="7798844538707273832">Automatically blocked <ph name="PERMISSION"/></translation>
 <translation id="7800518121066352902">Rotate A&amp;nti-clockwise</translation>
-<translation id="1040069800786635119">Changes that you make here apply only to Lacros Brave Browser. To make changes to your Brave Browser settings, open Brave Browser and go to settings.</translation>
+<translation id="1040069800786635119">Changes that you make here apply only to Lacros Portal browser. To make changes to your Portal browser settings, open Portal browser and go to settings.</translation>
 <translation id="780301667611848630">No, thanks</translation>
 <translation id="7804072833593604762">Tab closed</translation>
 <translation id="7805768142964895445">Status</translation>
@@ -7228,7 +7228,7 @@ Press an assigned switch or key to remove assignment.</translation>
 <translation id="7849264908733290972">Open &amp;Image in New Tab</translation>
 <translation id="784934925303690534">Time range</translation>
 <translation id="7850353716413205957">Search Any Part of the Page with <ph name="VISUAL_SEARCH_PROVIDER"/></translation>
-<translation id="7850717413915978159"><ph name="BEGIN_PARAGRAPH1"/>Allowing your ChromeOS devices to send automatic reports helps us prioritise what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features you use, how much memory you typically use, and Android app diagnostic and usage data. Some aggregate data will also help Brave apps and partners, such as Android developers.<ph name="END_PARAGRAPH1"/>
+<translation id="7850717413915978159"><ph name="BEGIN_PARAGRAPH1"/>Allowing your ChromeOS devices to send automatic reports helps us prioritise what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features you use, how much memory you typically use, and Android app diagnostic and usage data. Some aggregate data will also help Portal Apps and partners, such as Android developers.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>You can start or stop allowing these reports at any time in your Chrome OS device settings. If you’re a domain administrator, you can change this setting in the Admin console.<ph name="END_PARAGRAPH2"/>
     <ph name="BEGIN_PARAGRAPH3"/>If the Web &amp; App Activity setting is turned on for your Brave sync chain, your Android data may be saved to your Brave sync chain. You can see your data, delete it and change your account settings at account.google.com.<ph name="END_PARAGRAPH3"/></translation>
 <translation id="7851021205959621355"><ph name="BEGIN_BOLD"/>Note:<ph name="END_BOLD"/> A similar voice or recording might be able to access your personal results or your Assistant. To save battery, you can select in your Assistant settings to have ‘Hey Brave’ on only when this device is connected to a power source.</translation>
@@ -7688,7 +7688,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="826511437356419340">Entered window overview mode. Swipe to navigate, or press tab if using a keyboard.</translation>
 <translation id="8266947622852630193">All input methods</translation>
 <translation id="8267539814046467575">Add printer</translation>
-<translation id="8267961145111171918"><ph name="BEGIN_PARAGRAPH1"/>This is general information about this device and how it's used (such as battery level, system and app activity and errors). The data will be used to improve Android, and some aggregated information will also help Brave apps and partners, such as Android developers, make their apps and products better.<ph name="END_PARAGRAPH1"/>
+<translation id="8267961145111171918"><ph name="BEGIN_PARAGRAPH1"/>This is general information about this device and how it's used (such as battery level, system and app activity and errors). The data will be used to improve Android, and some aggregated information will also help Portal Apps and partners, such as Android developers, make their apps and products better.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>Turning off this feature doesn't affect this device's ability to send the information needed for essential services such as system updates and security.<ph name="END_PARAGRAPH2"/>
     <ph name="BEGIN_PARAGRAPH3"/>The owner can control this feature from Settings &gt; Advanced &gt; Automatically send diagnostic and usage data to Brave.<ph name="END_PARAGRAPH3"/>
     <ph name="BEGIN_PARAGRAPH4"/>If additional Web &amp; app activity setting is turned on for your child, this data may be saved to their Brave sync chain. Learn more about these settings and how to adjust them at families.google.com.<ph name="END_PARAGRAPH4"/></translation>
@@ -7706,7 +7706,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8275080796245127762">Call from Your Device</translation>
 <translation id="2055831507440293816">Move your password to your Brave sync chain to access it securely wherever you're signed in</translation>
 <translation id="8276560076771292512">Empty cache and hard reload</translation>
-<translation id="2835355653189864472">Turn on Brave browser sync?</translation>
+<translation id="2835355653189864472">Turn on Portal browser sync?</translation>
 <translation id="8281886186245836920">Skip</translation>
 <translation id="8284279544186306258">all <ph name="WEBSITE_1"/> sites</translation>
 <translation id="8284326494547611709">Captions</translation>
@@ -7902,7 +7902,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8472623782143987204">hardware-backed</translation>
 <translation id="8473863474539038330">Addresses and more</translation>
 <translation id="2015014930243978107">Another programme on your computer added an extension that may change the way Brave works.</translation>
-<translation id="8476491056950015181"><ph name="BEGIN_PARAGRAPH1"/>Allowing ChromeOS devices to send automatic reports helps us prioritise what to fix and improve in ChromeOS. These reports can include things, like when ChromeOS crashes, which features were enabled, how much memory was typically used and Android app diagnostic and usage data. Some aggregate data will also help Brave apps and partners, such as Android developers.<ph name="END_PARAGRAPH1"/>
+<translation id="8476491056950015181"><ph name="BEGIN_PARAGRAPH1"/>Allowing ChromeOS devices to send automatic reports helps us prioritise what to fix and improve in ChromeOS. These reports can include things, like when ChromeOS crashes, which features were enabled, how much memory was typically used and Android app diagnostic and usage data. Some aggregate data will also help Portal Apps and partners, such as Android developers.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>You can start or stop allowing these reports at any time in your child's ChromeOS device settings. If you're a domain administrator, you can change this setting in the Admin console.<ph name="END_PARAGRAPH2"/>
     <ph name="BEGIN_PARAGRAPH4"/>If the Web &amp; App Activity setting is turned on for your child's Brave sync chain, your child's data may be saved to their Brave sync chain. Learn more about these settings and how to adjust them at families.google.com.<ph name="END_PARAGRAPH4"/></translation>
 <translation id="8477241577829954800">Superseded</translation>
@@ -8006,7 +8006,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8591783563402255548">1 second</translation>
 <translation id="8592141010104017453">Don't show notifications at all</translation>
 <translation id="859246725979739260">This site has been blocked from accessing your location.</translation>
-<translation id="8593121833493516339">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If additional Web &amp; App Activity is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK1"/>Find out more<ph name="END_LINK1"/></translation>
+<translation id="8593121833493516339">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If additional Web &amp; App Activity is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK1"/>Find out more<ph name="END_LINK1"/></translation>
 <translation id="8596540852772265699">Customised Files</translation>
 <translation id="8597404194697561297">Welcome to Steam on Chromebook</translation>
 <translation id="8597845839771543242">Property format:</translation>
@@ -8046,14 +8046,14 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="863109444997383731">Sites will be blocked from asking to show you notifications. If a site requests notifications, a blocked indicator will appear in the address bar.</translation>
 <translation id="8632104508818855045">You Previously Chose Not To Allow Any Extensions On <ph name="ORIGIN"/></translation>
 <translation id="8633025649649592204">Recent activity</translation>
-<translation id="423702950449472136">Old versions of Brave apps won't open on Linux devices after December 2022. You can check if there's a new version available.</translation>
+<translation id="423702950449472136">Old versions of Portal Apps won't open on Linux devices after December 2022. You can check if there's a new version available.</translation>
 <translation id="8634348081024879304">You will no longer be able to use your virtual card with Google Pay. <ph name="BEGIN_LINK"/>Learn about virtual cards<ph name="END_LINK"/></translation>
 <translation id="8635628933471165173">Reloading...</translation>
 <translation id="8636284842992792762">Initialising extensions…</translation>
 <translation id="8636500887554457830">Don't allow sites to send pop-ups or use redirects</translation>
 <translation id="8637688295594795546">System update available. Preparing to download…</translation>
 <translation id="8639047128869322042">Checking for harmful software…</translation>
-<translation id="8639635302972078117">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain.</translation>
+<translation id="8639635302972078117">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain.</translation>
 <translation id="8642900771896232685">2 seconds</translation>
 <translation id="8642947597466641025">Make Text Larger</translation>
 <translation id="6529597483902964581"><ph name="FILE_NAME"/> may be dangerous. Send to Brave Advanced Protection for scanning?</translation>
@@ -8143,7 +8143,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8719472795285728850">Listening for extension activities...</translation>
 <translation id="8720200012906404956">Looking for a mobile network. <ph name="BEGIN_LINK"/>Find out more<ph name="END_LINK"/></translation>
 <translation id="8720816553731218127">The initialisation of the installation-time attributes has timed out.</translation>
-<translation id="8722912030556880711">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
+<translation id="8722912030556880711">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
 <translation id="8724405322205516354">When you see this icon, use your fingerprint for identification or to approve purchases.</translation>
 <translation id="8724409975248965964">Fingerprint added</translation>
 <translation id="8724859055372736596">&amp;Show in Folder</translation>
@@ -8169,7 +8169,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8740247629089392745">You can hand this Chromebook to <ph name="SUPERVISED_USER_NAME"/>. Setup is almost done, then it's time to explore.</translation>
 <translation id="8740672167979365981">Chrome OS Flex update required</translation>
 <translation id="8741944563400125534">Switch Access setup guide</translation>
-<translation id="8742998548129056176">This is general information about your device and how you use it (such as battery level, system and app activity, and errors). The data will be used to improve Android, and some aggregated information will also help Brave apps and partners, such as Android developers, to make their apps and products better.</translation>
+<translation id="8742998548129056176">This is general information about your device and how you use it (such as battery level, system and app activity, and errors). The data will be used to improve Android, and some aggregated information will also help Portal Apps and partners, such as Android developers, to make their apps and products better.</translation>
 <translation id="8744641000906923997">Romaji</translation>
 <translation id="8745034592125932220">Not allowed to save data to your device</translation>
 <translation id="8746654918629346731">You already requested '<ph name="EXTENSION_NAME"/>'</translation>
@@ -8363,7 +8363,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="892706138619340876">Some settings were reset</translation>
 <translation id="8930351635855238750">New cookie settings will take effect after reloading the page</translation>
 <translation id="8930622219860340959">Wireless</translation>
-<translation id="8931076093143205651">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This setting is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
+<translation id="8931076093143205651">Send usage and diagnostic data. Help improve your Android experience by automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This setting is enforced by the owner. The owner may choose to send diagnostic and usage data for this device to Brave. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain.</translation>
 <translation id="8931475688782629595">Manage what you sync</translation>
 <translation id="8932654652795262306">Instant Tethering details</translation>
 <translation id="893298445929867520">Baskets hidden. They'll reappear when you make changes.</translation>
@@ -8631,8 +8631,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="9170848237812810038">&amp;Undo</translation>
 <translation id="2060128809251156338">Another programme on your computer added a theme that may change the way Brave works.</translation>
 <translation id="917350715406657904">You reached the time limit that your parent set for <ph name="APP_NAME"/>. You can use it for <ph name="TIME_LIMIT"/> tomorrow.</translation>
-<translation id="9174401638287877180">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain.</translation>
-<translation id="9176476835295860688">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
+<translation id="9174401638287877180">Send usage and diagnostic data. Help improve your child's Android experience by automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain.</translation>
+<translation id="9176476835295860688">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
 <translation id="9176611096776448349"><ph name="WINDOW_TITLE"/> – Bluetooth device connected</translation>
 <translation id="9177949831069307748">Read Chrome OS Flex device information and device data.</translation>
 <translation id="9178061802301856367">Delete sign-in data</translation>
@@ -8643,7 +8643,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="918352324374649435">{COUNT,plural, =1{App}other{# apps}}</translation>
 <translation id="9186963452600581158">Sign in with a child's Brave sync chain</translation>
 <translation id="9187967020623675250">Keys don’t match. Press any key to <ph name="RESPONSE"/>.</translation>
-<translation id="9188732951356337132">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
+<translation id="9188732951356337132">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This won't be used to identify your child, and will help system and app stability and other improvements. Some aggregate data will also help Portal Apps and partners, such as Android developers. If additional Web &amp; App Activity setting is turned on for your child, this data may be saved to their Brave sync chain. <ph name="BEGIN_LINK2"/>Find out more<ph name="END_LINK2"/></translation>
 <translation id="9192019773545828776">Hear spoken feedback so that you can use your device without looking at the screen. Braille feedback is available with a connected device. Use Ctrl + Alt + Z to turn ChromeVox on and off. Use Search + Left arrow or Right arrow to navigate. Use Search + Space to select (activate).</translation>
 <translation id="919686179725692564">Learn more about backing up your apps</translation>
 <translation id="9198090666959937775">Use your Android phone as a security key</translation>

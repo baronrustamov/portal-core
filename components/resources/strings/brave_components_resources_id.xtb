@@ -256,7 +256,7 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Tanggal tip bulanan selanjutnya</translation>
-<translation id="6231182869178328516">Saya baru saja memberi tip untuk <ph name="NAME"/> melalui Brave Browser. Simak di https://brave.com/tips.</translation>
+<translation id="6231182869178328516">Saya baru saja memberi tip untuk <ph name="NAME"/> melalui Portal browser. Simak di https://brave.com/tips.</translation>
 <translation id="5916536234616514390">Saya suka sekali bahwa <ph name="HASHTAG"/>Brave memungkinkan saya untuk mendukung kreator! Saya baru saja memberikan tip untuk <ph name="NAME"/> dengan <ph name="HASHTAG2"/>BAT. Jika mereka memverifikasinya di https://creators.brave.com before <ph name="DATE"/>, BAT itu menjadi milik mereka!</translation>
 <translation id="8404935570206006581">TipDenganBrave</translation>
 <translation id="3082557070674409251">Diklik</translation>
@@ -1170,7 +1170,7 @@
 <translation id="2018472018751735678">Lihat alamat akun Anda yang diizinkan (wajib)</translation>
 <translation id="7029403458170657879">Sambungkan dengan Brave Wallet</translation>
 <translation id="2770851145415891830">Dompet kripto yang sudah ada terdeteksi</translation>
-<translation id="2237759620789871865">Jika Anda lebih memilih untuk melewati impor dan tetap menyimpan pengalaman Crypto Wallets yang lama, navigasikan saja ke Pengaturan Brave Browser <ph name="LINK_BEFORE"/><ph name="LINK_AFTER"/> dan ubah kembali bawaannya ke Crypto Wallets. Anda juga dapat mengimpor, mencoba Brave Wallet yang baru, dan mengubahnya kembali kapan saja.</translation>
+<translation id="2237759620789871865">Jika Anda lebih memilih untuk melewati impor dan tetap menyimpan pengalaman Crypto Wallets yang lama, navigasikan saja ke Pengaturan Portal browser <ph name="LINK_BEFORE"/><ph name="LINK_AFTER"/> dan ubah kembali bawaannya ke Crypto Wallets. Anda juga dapat mengimpor, mencoba Brave Wallet yang baru, dan mengubahnya kembali kapan saja.</translation>
 <translation id="5590175005414413980">Masukkan kata sandi dompet kripto Anda yang ada untuk diimpor ke Dompet Brave. Nikmati cara yang lebih cepat dan lebih aman untuk mengelola aset kripto dan berinteraksi dengan web 3 DApps.</translation>
 <translation id="880619123281809987">Ketik kata sandi dompet Kripto</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> terkoneksi</translation>

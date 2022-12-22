@@ -2650,11 +2650,11 @@ are declared in tools/grit/grit_rule.gni.
         <message name="IDS_QUIT_WITH_APPS_NOTIFICATION_DISPLAY_SOURCE" desc="Display source for the notification when quitting with apps open.">
           Quit
         </message>
-        <message name="IDS_QUIT_WITH_APPS_EXPLANATION" desc="Text displayed in a notification explaining that Brave will continue running in the background as long as there are Brave Apps open.">
-          Brave will keep running while Brave Apps are open.
+        <message name="IDS_QUIT_WITH_APPS_EXPLANATION" desc="Text displayed in a notification explaining that Brave will continue running in the background as long as there are Portal Apps open.">
+          Brave will keep running while Portal Apps are open.
         </message>
-        <message name="IDS_QUIT_WITH_APPS_QUIT_LABEL" desc="Button text to quit all running Brave apps.">
-          Quit all Brave Apps
+        <message name="IDS_QUIT_WITH_APPS_QUIT_LABEL" desc="Button text to quit all running Portal Apps.">
+          Quit all Portal Apps
         </message>
         <message name="IDS_QUIT_WITH_APPS_SUPPRESSION_LABEL" desc="Button text to prevent a notification from showing in future.">
           Don't show this again
@@ -5220,22 +5220,22 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <!-- Force Installed Deprecated Apps Deletion Dialog strings. -->
       <if expr="is_macosx">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Brave Apps won't open on Mac devices after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of Portal Apps won't open on Mac devices after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <if expr="is_win">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Brave Apps won't open on Windows devices after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of Portal Apps won't open on Windows devices after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <if expr="is_linux">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Brave Apps won't open on Linux devices after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of Portal Apps won't open on Linux devices after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <if expr="is_fuchsia">
         <message name="IDS_FORCE_INSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed deprecated app dialog">
-          Old versions of Brave Apps won't open after December 2022. Contact your administrator to update to a new version or remove this app.
+          Old versions of Portal Apps won't open after December 2022. Contact your administrator to update to a new version or remove this app.
         </message>
       </if>
       <!-- End Force Installed Deprecated Apps Deletion Dialog strings. -->
@@ -5247,30 +5247,30 @@ Keep your key file in a safe place. You will need it to create new versions of y
         "<ph name="EXTENSION_NAME">$1<ex>Google Docs</ex></ph>" is no longer supported
       </message>
       <if expr="is_macosx">
-        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Brave Apps will soon no longer launch.">
-          Old versions of Brave apps won't open on Mac devices after December 2022. You can check if there's a new version available.
+        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Portal Apps will soon no longer launch.">
+          Old versions of Portal Apps won't open on Mac devices after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <if expr="is_win">
-        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Brave Apps will soon no longer launch.">
-          Old versions of Brave apps won't open on Windows devices after December 2022. You can check if there's a new version available.
+        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Portal Apps will soon no longer launch.">
+          Old versions of Portal Apps won't open on Windows devices after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <if expr="is_linux">
-        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Brave Apps will soon no longer launch.">
-          Old versions of Brave apps won't open on Linux devices after December 2022. You can check if there's a new version available.
+        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Portal Apps will soon no longer launch.">
+          Old versions of Portal Apps won't open on Linux devices after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <if expr="is_fuchsia">
-        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Brave Apps will soon no longer launch.">
-          Old versions of Brave apps won't open after December 2022. You can check if there's a new version available.
+        <message name="IDS_DEPRECATED_APPS_MONITOR_RENDERER" desc="Dialog content that educates users that Portal Apps will soon no longer launch.">
+          Old versions of Portal Apps won't open after December 2022. You can check if there's a new version available.
         </message>
       </if>
       <message name="IDS_DEPRECATED_APPS_LEARN_MORE" desc="Redirects to a link with more information on chrome apps deprecation">
         Learn more
       </message>
       <message name="IDS_DEPRECATED_APPS_LEARN_MORE_AX_LABEL" desc="Accessibility label text for IDS_DEPRECATED_APPS_LEARN_MORE link">
-        Learn more about unsupported Brave apps
+        Learn more about unsupported Portal Apps
       </message>
       <message name="IDS_DEPRECATED_APPS_DELETION_LINK" desc="Contains link to trigger the deprecated apps deletion dialog from chrome://apps">
         {NUM_APPS, plural,
@@ -5528,13 +5528,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
       </message>
 
       <if expr="chromeos_ash">
-        <message name="IDS_COMPONENTS_OS_TEXT1_LABEL" desc="Begin label text on the os://components page from ChromeOS which directs a user to a dialog showing Brave browser specific components - enclosing url link.">
+        <message name="IDS_COMPONENTS_OS_TEXT1_LABEL" desc="Begin label text on the os://components page from ChromeOS which directs a user to a dialog showing Portal browser specific components - enclosing url link.">
           Looking for browser components? Visit
         </message>
-        <message name="IDS_COMPONENTS_OS_TEXT2_LABEL" desc="End label text on the os://components page from ChromeOS which directs a user to a dialog showing Brave browser specific components - enclosing url link.">
+        <message name="IDS_COMPONENTS_OS_TEXT2_LABEL" desc="End label text on the os://components page from ChromeOS which directs a user to a dialog showing Portal browser specific components - enclosing url link.">
           .
         </message>
-        <message name="IDS_COMPONENTS_OS_LINK" translateable="false" desc="Label for a button on the os://components page from ChromeOS that will call a new window which allows to change Brave browser components.">
+        <message name="IDS_COMPONENTS_OS_LINK" translateable="false" desc="Label for a button on the os://components page from ChromeOS that will call a new window which allows to change Portal browser components.">
           chrome://components
         </message>
       </if>
@@ -6080,13 +6080,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
       </if>
 
       <if expr="chromeos_ash">
-        <message name="IDS_ABOUT_OS_TEXT1_LABEL" desc="Begin label text on the os://about page from ChromeOS which directs a user to a dialog showing Brave browser specific about page - enclosing url link.">
+        <message name="IDS_ABOUT_OS_TEXT1_LABEL" desc="Begin label text on the os://about page from ChromeOS which directs a user to a dialog showing Portal browser specific about page - enclosing url link.">
           Looking for the browser about page? Visit
         </message>
-        <message name="IDS_ABOUT_OS_TEXT2_LABEL" desc="End label text on the os://about page from ChromeOS which directs a user to a dialog showing Brave browser specific about page - enclosing url link.">
+        <message name="IDS_ABOUT_OS_TEXT2_LABEL" desc="End label text on the os://about page from ChromeOS which directs a user to a dialog showing Portal browser specific about page - enclosing url link.">
           .
         </message>
-        <message name="IDS_ABOUT_OS_LINK" translateable="false" desc="Label for button on the os://about page from ChromeOS which shows the user the link to the Brave browser specific about page.">
+        <message name="IDS_ABOUT_OS_LINK" translateable="false" desc="Label for button on the os://about page from ChromeOS which shows the user the link to the Portal browser specific about page.">
           chrome://about
         </message>
       </if>
@@ -8062,16 +8062,16 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
 
       <!-- Brave Cleanup prompt and web UI -->
       <if expr="is_win">
-        <message name="IDS_CHROME_CLEANUP_PROMPT_DETAILS_BUTTON_LABEL" desc="The button in the Brave Cleanup dialog that lets users see more details, such as what files will be deleted from their computer. Brave browser shows the dialog when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is found on the user's computer. Noun; verb 'See' is omitted.">
+        <message name="IDS_CHROME_CLEANUP_PROMPT_DETAILS_BUTTON_LABEL" desc="The button in the Brave Cleanup dialog that lets users see more details, such as what files will be deleted from their computer. Portal browser shows the dialog when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is found on the user's computer. Noun; verb 'See' is omitted.">
           Details
         </message>
         <message name="IDS_CHROME_CLEANUP_PROMPT_REMOVE_BUTTON_LABEL" desc="A button in the Brave Cleanup dialog. When clicked, Brave will begin to remove unwanted software and restore browser settings to default values. Appears next to a 'Cancel' button and a 'Details' button that opens a page that shows which unwanted software will be deleted. 'Remove' is imperative.">
           Remove
         </message>
-        <message name="IDS_CHROME_CLEANUP_PROMPT_TITLE" desc="Title of the Brave Cleanup dialog. Brave browser shows the dialog when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is found on the user's computer. Appears above a description of what the cleanup dialog does, along with a 'Remove', 'Cancel', and 'Details' button. 'Remove' is imperative, asking the user, do you want Brave to remove harmful software?">
+        <message name="IDS_CHROME_CLEANUP_PROMPT_TITLE" desc="Title of the Brave Cleanup dialog. Portal browser shows the dialog when unwanted software, like ad injectors or software that changes the user's settings without their knowledge, is found on the user's computer. Appears above a description of what the cleanup dialog does, along with a 'Remove', 'Cancel', and 'Details' button. 'Remove' is imperative, asking the user, do you want Brave to remove harmful software?">
           Remove harmful software?
         </message>
-        <message name="IDS_CHROME_CLEANUP_REBOOT_PROMPT_TITLE" desc="Title of the Brave Cleanup reboot prompt dialog. Brave browser shows the dialog when the user runs the Brave Cleanup tool and computer restart is required to finish the cleanup. User must take additional action to finish the cleanup. 'Restart' is imperative.">
+        <message name="IDS_CHROME_CLEANUP_REBOOT_PROMPT_TITLE" desc="Title of the Brave Cleanup reboot prompt dialog. Portal browser shows the dialog when the user runs the Brave Cleanup tool and computer restart is required to finish the cleanup. User must take additional action to finish the cleanup. 'Restart' is imperative.">
           To finish removing harmful software, restart your computer
         </message>
         <message name="IDS_CHROME_CLEANUP_REBOOT_PROMPT_RESTART_BUTTON_LABEL" desc="A button in the Brave Cleanup reboot prompt dialog. Clicking this button causes the user's computer to turn off (shut down) and turn back on again. Imperative.">
@@ -9800,7 +9800,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
       <if expr="chromeos_lacros">
         <!--  TODO(crbug.com/1383167): Move to Brave-specific resource file -->
         <message name="IDS_SYNC_CONFIRMATION_TITLE_LACROS_NON_FORCED" desc="Title of the sync confirmation dialog/screen on lacros when sync is not forced.">
-          Turn on Brave browser sync?
+          Turn on Portal browser sync?
         </message>
         <message name="IDS_SYNC_CONFIRMATION_SYNC_INFO_TITLE_LACROS" desc="Text in the information about sync on the sync confirmation dialog/screen on lacros.">
           Your bookmarks, passwords, history, and more are synced on all your devices
@@ -11561,7 +11561,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       </if>
 
       <!-- Translated apps strings -->
-      <message name="IDS_CHROME_SHORTCUT_DESCRIPTION" desc="Description for the Brave app shortcut in the app launcher.">
+      <message name="IDS_CHROME_SHORTCUT_DESCRIPTION" desc="Description for the Portal App shortcut in the app launcher.">
         A fast, simple, and secure web browser, built for the modern web.
       </message>
       <message name="IDS_WEBSTORE_NAME_STORE" desc="Name for the WebStore app in the app launcher.">
@@ -13230,7 +13230,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </message>
 
     <message name="IDS_APP_PAUSE_HEADING_FOR_WEB_APPS" desc="Tells the user the app will be paused.">
-      You reached the time limit your parent set for <ph name="APP_NAME">$1<ex>Google Photos</ex></ph> Brave app. You can use it for <ph name="TIME_LIMIT">$2<ex>2 hours and 30 minutes</ex></ph> tomorrow.
+      You reached the time limit your parent set for <ph name="APP_NAME">$1<ex>Google Photos</ex></ph> Portal App. You can use it for <ph name="TIME_LIMIT">$2<ex>2 hours and 30 minutes</ex></ph> tomorrow.
     </message>
 
     <!-- App block prompt -->
@@ -13552,10 +13552,10 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </if>
 
     <!-- Privacy Sandbox Dialog strings -->
-    <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_TITLE" desc="CONTEXT: there are updates to the Brave browser each month. Just after the user accepts the latest update, this message will appear. The user must make a choice, and this page can’t be dismissed until they do. The title of the page. * The title needs to be framed so that clicking the accept button makes sense * “Help us” is intended to convey a sense of collaboration. Privacy Sandbox is an ongoing multi-year effort. There are sites participating to help us and we also need users to agree to these trials so that we can measure the effectiveness of the features we're building. * “build” is intended to convey that this is a process. The user is agreeing to an effort rather than a stable set of features. Something like “make” doesn't have the same nuance.* “private web” is the promise of privacy sandbox.">
+    <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_TITLE" desc="CONTEXT: there are updates to the Portal browser each month. Just after the user accepts the latest update, this message will appear. The user must make a choice, and this page can’t be dismissed until they do. The title of the page. * The title needs to be framed so that clicking the accept button makes sense * “Help us” is intended to convey a sense of collaboration. Privacy Sandbox is an ongoing multi-year effort. There are sites participating to help us and we also need users to agree to these trials so that we can measure the effectiveness of the features we're building. * “build” is intended to convey that this is a process. The user is agreeing to an effort rather than a stable set of features. Something like “make” doesn't have the same nuance.* “private web” is the promise of privacy sandbox.">
       Help us build a more private web
     </message>
-    <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_TITLE" desc="CONTEXT: there are updates to the Brave browser each month. Just after the user accepts the latest update, this message will appear. The title of the page. * “Help us” is intended to convey a sense of collaboration. Privacy Sandbox is an ongoing multi-year effort. There are sites participating to help us and we also need users to agree to these trials so that we can measure the effectiveness of the features we're building. * “build” is intended to convey that this is a process. The user is agreeing to an effort rather than a stable set of features. Something like “make” doesn't have the same nuance. * See www.privacysandbox.com for more context">
+    <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_TITLE" desc="CONTEXT: there are updates to the Portal browser each month. Just after the user accepts the latest update, this message will appear. The title of the page. * “Help us” is intended to convey a sense of collaboration. Privacy Sandbox is an ongoing multi-year effort. There are sites participating to help us and we also need users to agree to these trials so that we can measure the effectiveness of the features we're building. * “build” is intended to convey that this is a process. The user is agreeing to an effort rather than a stable set of features. Something like “make” doesn't have the same nuance. * See www.privacysandbox.com for more context">
       Help us build a better web
     </message>
     <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BODY_HEADER_1" desc="1 of 2 subtitles on the page. We want to write for users who skim the page. That means that the page title, the sub titles, and the button label all work well together as a mini story: 1) Help us build a more private web How? 2) Limit sharing between sites 3) More control over the ads you see 4) Yes, I’ll try it">

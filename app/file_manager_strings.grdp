@@ -220,7 +220,7 @@
    <ph name="LINE_BREAKS">&lt;br/&gt;&lt;br/&gt;</ph>
    Removing your device while it is in use may cause data loss.  Please wait until the operation is over, then eject the device using the Files app.
   </message>
-  <message name="IDS_FILE_BROWSER_UNMOUNT_PROVIDED_FAILED" desc="Title of the error dialog when unmount operation for a volume provided by an extension failed. One of the most typical use case is an archive (i.e. ZIP) file mounted as a virtual disk. However, arbitrary Brave apps can mount volumes. So we should not assume this is an archive file.">
+  <message name="IDS_FILE_BROWSER_UNMOUNT_PROVIDED_FAILED" desc="Title of the error dialog when unmount operation for a volume provided by an extension failed. One of the most typical use case is an archive (i.e. ZIP) file mounted as a virtual disk. However, arbitrary Portal Apps can mount volumes. So we should not assume this is an archive file.">
    <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Can't disconnect from an archive or virtual disk<ph name="END_BOLD">&lt;/b&gt;</ph>
    <ph name="LINE_BREAKS">&lt;br/&gt;&lt;br/&gt;</ph>
    Close all files on the archive or virtual disk, then try again.

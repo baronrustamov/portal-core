@@ -48,7 +48,7 @@
   Finish
 </message>
 
-<message name="IDS_BRAVE_WELCOME_SET_DEFAULT_BUTTON_LABEL" desc="A button that sets Brave browser as default">
+<message name="IDS_BRAVE_WELCOME_SET_DEFAULT_BUTTON_LABEL" desc="A button that sets Portal browser as default">
   Set Brave as default browser
 </message>
 

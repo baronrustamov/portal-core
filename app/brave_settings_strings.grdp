@@ -466,7 +466,7 @@
     Automatically send diagnostic reports
   </message>
   <message name="IDS_BRAVE_DIAGNOSTIC_REPORTS_PREF_DESC" desc="The description of the checkbox to enable/disable sending diagnostic reports (crashes, hangs).">
-    Help improve Brave's product stability by automatically sending diagnostic reports when the Brave Browser crashes or freezes.
+    Help improve Brave's product stability by automatically sending diagnostic reports when the Portal browser crashes or freezes.
   </message>
 
   <!-- Settings / Privacy and security / Clear Browsing Data dialog -->

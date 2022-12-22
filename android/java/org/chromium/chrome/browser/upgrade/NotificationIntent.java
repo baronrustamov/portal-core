@@ -40,7 +40,7 @@ public class NotificationIntent {
     private static final List<String> mWhitelistedRegionalLocales = Arrays.asList("en", "ru", "uk", "de", "pt", "pl", "ja", "es", "fr");
     private static final int NOTIFICATION_ID = 732;
     //private static final String NOTIFICATION_TITLE = "Brave update";
-    //private static final String NOTIFICATION_TEXT = "The new Brave browser is 22% faster";
+    //private static final String NOTIFICATION_TEXT = "The new Portal browser is 22% faster";
 
     public static void fireNotificationIfNecessary(Context context) {
         String notification_text = context.getString(R.string.update_notification_text);

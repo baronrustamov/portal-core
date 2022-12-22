@@ -13,7 +13,7 @@
 
 namespace ledger {
 namespace endpoints {
-inline const char kGeminiRecipientIDLabel[] = "Brave Browser";
+inline const char kGeminiRecipientIDLabel[] = "Portal browser";
 }
 namespace endpoint::gemini {
 

@@ -11,7 +11,7 @@ def _GetVariationsBrowserArgs(self, original_method,
                               finder_options,
                               current_args,
                               possible_browser=None):
-  """Override to pass field_trials to Brave browser
+  """Override to pass field_trials to Portal browser
 
   It parses json config location from browser args (--field-trial-config) and
   uses chromium GenerateArgs() to generate a cmd-line to enable proper

@@ -109,7 +109,7 @@ def debug_requests_off():
 
 
 def parse_args():
-    desc = "Parse Brave Browser changelog and add markdown to release notes for tag" \
+    desc = "Parse Portal browser changelog and add markdown to release notes for tag" \
         "\n\nRequires the following ENVIRONMENT VARIABLES be set:" \
         "\n\nBRAVE_GITHUB_TOKEN: Github token to update draft release if not published yet. "
 
@@ -121,7 +121,7 @@ def parse_args():
                         help='Brave version tag (allowed format: "v1.5.45" or "refs/tags/v1.5.45") (required)',
                         required=True)
     parser.add_argument(
-        '-u', '--url', help='URL for Brave Browser raw markdown file (required)', required=True)
+        '-u', '--url', help='URL for Portal browser raw markdown file (required)', required=True)
     return parser.parse_args()
 
 

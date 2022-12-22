@@ -284,7 +284,7 @@
   </message>
   <message name="IDS_OS_SETTINGS_SYNC_APPS_CHECKBOX_SUBLABEL" translateable="false" desc="Disclaimer shown under label for the checkbox which enables syncing of apps across devices.">
     <!-- TODO(crbug.com/1330894): Remove "translateable=false" once definitive string is available. -->
-    Web apps are synced with Brave browser on non-Chrome OS devices
+    Web apps are synced with Portal browser on non-Chrome OS devices
   </message>
   <message name="IDS_OS_SETTINGS_SYNC_PRINTERS_CHECKBOX_LABEL" desc="Label for the checkbox which enables syncing of printers across devices.">
     Printers
@@ -460,7 +460,7 @@
     Grammar check currently available for English only
   </message>
   <message name="IDS_OS_SETTINGS_LANGUAGES_SPELL_CHECK_ENHANCED_LABEL" desc="Label for enhanced spell check toggle, the type of spell check that sends the text the user types to Brave spelling service. It is important that it is communicated that the text the user types will be sent to Brave.">
-    Enhanced spell check in Brave browser (text is sent to Brave for spelling suggestions)
+    Enhanced spell check in Portal browser (text is sent to Brave for spelling suggestions)
   </message>
   <message name="IDS_OS_SETTINGS_LANGUAGES_SPELL_CHECK_LANGUAGES_LIST_TITLE" desc="Title for the list of languages that support spell check, from which users can enable or disable spell check for.">
     Spell check languages
@@ -826,8 +826,8 @@
   <message name="IDS_OS_SETTINGS_SEARCH_ENGINE_LABEL" desc="Label in OS settings describing search engine behavior.">
     Preferred search engine
   </message>
-  <message name="IDS_OS_SETTINGS_SEARCH_ENGINE_DESCRIPTION" desc="Description in the search engine dialog in OS settings explaining that search engine is used in both the Brave browser and the ChromeOS app launcher.">
-    Set your default search engine for Brave browser and <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> Launcher
+  <message name="IDS_OS_SETTINGS_SEARCH_ENGINE_DESCRIPTION" desc="Description in the search engine dialog in OS settings explaining that search engine is used in both the Portal browser and the ChromeOS app launcher.">
+    Set your default search engine for Portal browser and <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> Launcher
   </message>
   <message name="IDS_SETTINGS_SEARCH_GOOGLE_ASSISTANT" desc="Label for the Brave Assistant button.">
     Brave Assistant
@@ -2883,7 +2883,7 @@ Press an assigned switch or key to remove assignment.
     Block traffic without VPN
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_ALWAYS_ON_VPN_LOCKDOWN_SUBLABEL" desc="Settings &gt; Internet &gt; VPN: Sublabel for the toggle that enables always-on VPN lockdown.">
-    Brave browser and Android traffic will be blocked unless a VPN is connected
+    Portal browser and Android traffic will be blocked unless a VPN is connected
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_ALWAYS_ON_VPN_SERVICE" desc="Settings &gt; Internet &gt; VPN: Label for the dropdown menu determining which VPN client will be automatically started on login.">
     VPN service
@@ -4266,7 +4266,7 @@ Press an assigned switch or key to remove assignment.
     When turned on, all notifications will be silenced
   </message>
   <message name="IDS_SETTINGS_APP_NOTIFICATIONS_LINK_TO_BROWSER_SETTINGS_DESCRIPTION" desc="In notifications OS Settings subpage, explanatory text for website notifications link.">
-    For browser notifications, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>Brave browser Settings<ph name="LINK_END">&lt;/a&gt;</ph>
+    For browser notifications, go to <ph name="LINK_BEGIN">&lt;a&gt;</ph>Portal browser Settings<ph name="LINK_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_SETTINGS_APP_BADGING_TOGGLE_LABEL" desc="The label for the app badging toggle in the App Notifications page of OS Settings.">
     App badging

@@ -84,11 +84,11 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="3161744659507801211">Warning: Brave cannot prevent extensions from recording your browsing history.</translation>
 <translation id="2162109630536601963">If this extension makes network requests, they will not use Tor or private mode.</translation>
 <translation id="2725327089319971976">To disable this extension in private mode and Tor mode, unselect this option.</translation>
-<translation id="3371343170427636147">Brave Browser Nightly Apps</translation>
-<translation id="4097979995947147464">Brave Browser Beta Apps</translation>
-<translation id="8303432794159193481">Brave Browser Dev Apps</translation>
-<translation id="8292967014767479012">Brave Browser Apps</translation>
-<translation id="4743468424889072281">Brave Browser Development Apps</translation>
+<translation id="3371343170427636147">Portal browser Nightly Apps</translation>
+<translation id="4097979995947147464">Portal browser Beta Apps</translation>
+<translation id="8303432794159193481">Portal browser Dev Apps</translation>
+<translation id="8292967014767479012">Portal browser Apps</translation>
+<translation id="4743468424889072281">Portal browser Development Apps</translation>
 <translation id="732814027519296280">Want to make Brave Search even better?</translation>
 <translation id="2677865600861971449">Opt in to the Web Discovery Project to anonymously contribute some search &amp; browsing data, and improve Brave Search results for all. Privacy-preserving. And zero effort. <ph name="LEARN_MORE_TEXT"/></translation>
 <translation id="6165508094623778733">Learn more</translation>
@@ -96,9 +96,9 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="780301667611848630">No, thanks</translation>
 <translation id="5039804452771397117">Allow</translation>
 <translation id="7053983685419859001">Block</translation>
-<translation id="1679356339067548863">Help improve Brave's product stability by automatically sending diagnostic reports when the Brave Browser crashes or freezes.</translation>
+<translation id="1679356339067548863">Help improve Brave's product stability by automatically sending diagnostic reports when the Portal browser crashes or freezes.</translation>
 <translation id="660171790038410175"><ph name="BROWSER_NAME"/> quit unexpectedly.</translation>
-<translation id="1324417023773393937">Brave browser</translation>
+<translation id="1324417023773393937">Portal browser</translation>
 <translation id="7276554663454265692">You can change <ph name="SETTING_TEXT"/> at any time in browser settings.</translation>
 <translation id="6873781976650514089">this setting</translation>
 <translation id="8915916167043355778">Close all</translation>

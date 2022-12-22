@@ -201,9 +201,9 @@ def main():
     adblock_dir = os.path.join(third_party_dir, 'adblock')
     adblock_lists_dir = os.path.join(adblock_dir, 'lists')
     adblock_preamble = 'These licenses do not apply to any of the code ' \
-        'shipped with the Brave Browser, but may apply to lists downloaded ' \
+        'shipped with the Portal browser, but may apply to lists downloaded ' \
         'after installation for use with the Brave Shields feature. The ' \
-        'Brave Browser and such lists are separate and independent works.'
+        'Portal browser and such lists are separate and independent works.'
 
     adblock_components = list_sub_components(adblock_lists_dir)
     if write_license_file(adblock_dir, external_component_license_file(
@@ -215,9 +215,9 @@ def main():
     local_data_dir = os.path.join(third_party_dir, 'local_data')
     local_data_lists_dir = os.path.join(local_data_dir, 'lists')
     local_data_preamble = 'These licenses do not apply to any of the code ' \
-        'shipped with the Brave Browser, but may apply to data files ' \
+        'shipped with the Portal browser, but may apply to data files ' \
         'downloaded after installation for use with various Brave features. ' \
-        'The Brave Browser and such data files are separate and independent ' \
+        'The Portal browser and such data files are separate and independent ' \
         'works.'
 
     local_data_components = list_sub_components(local_data_lists_dir)
@@ -229,8 +229,8 @@ def main():
     # Brave New Tab UI component
     ntp_data_dir = os.path.join(components_dir, 'brave_new_tab_ui', 'data')
     ntp_backgrounds_preamble = 'These licenses do not apply to any of the ' \
-        'code shipped with the Brave Browser and instead apply to ' \
-        'background images used on the new tab page. The Brave Browser and ' \
+        'code shipped with the Portal browser and instead apply to ' \
+        'background images used on the new tab page. The Portal browser and ' \
         'such data files are separate and independent works.'
 
     ntp_backgrounds = list_ntp_backgrounds(

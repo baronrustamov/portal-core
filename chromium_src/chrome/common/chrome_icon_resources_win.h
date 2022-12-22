@@ -23,10 +23,10 @@ enum {
   // The Brave Canary application icon.
   kSxSApplicationIndex = 4,
 
-  // The Brave App Launcher icon.
+  // The Portal App Launcher icon.
   kAppLauncherIndex = 5,
 
-  // The Brave App Launcher Canary icon.
+  // The Portal App Launcher Canary icon.
   kSxSAppLauncherIndex = 6,
 
   // The Brave incognito icon.

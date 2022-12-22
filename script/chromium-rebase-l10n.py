@@ -116,12 +116,12 @@ def main():
         elem1.attrib.pop('translateable')
         elem1 = xml_tree.xpath(
             '//message[@name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BETA"]')[0]
-        elem1.text = 'Brave Apps'
+        elem1.text = 'Portal Apps'
         elem1.attrib.pop('desc')
         elem1.attrib.pop('translateable')
         elem1 = xml_tree.xpath(
             '//message[@name="IDS_APP_SHORTCUTS_SUBDIR_NAME_DEV"]')[0]
-        elem1.text = 'Brave Apps'
+        elem1.text = 'Portal Apps'
         elem1.attrib.pop('desc')
         elem1.attrib.pop('translateable')
         elem1 = xml_tree.xpath(

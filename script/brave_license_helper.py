@@ -18,7 +18,7 @@ def AddBraveCredits(prune_paths, special_cases, prune_dirs, additional_paths):
     # Exclude these specific paths from needing a README.chromium file.
     prune_paths.update([
         # Formerly external Brave code which has moved to brave-core
-        # (i.e these are already covered by the Brave Browser license notice).
+        # (i.e these are already covered by the Portal browser license notice).
         os.path.join('brave', 'vendor', 'bat-native-ads'),
         os.path.join('brave', 'vendor', 'bat-native-ledger'),
         os.path.join('brave', 'vendor', 'brave-ios'),

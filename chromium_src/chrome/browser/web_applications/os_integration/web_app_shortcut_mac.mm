@@ -17,15 +17,15 @@ namespace {
 base::FilePath GetLocalizableBraveAppShortcutsSubdirName() {
   // clang-format off
   static const char kBraveBrowserDevelopmentAppDirName[] =
-      "Brave Browser Development Apps.localized";
+      "Portal browser Development Apps.localized";
   static const char kBraveBrowserAppDirName[] =
-      "Brave Browser Apps.localized";
+      "Portal browser Apps.localized";
   static const char kBraveBrowserBetaAppDirName[] =
-      "Brave Browser Beta Apps.localized";
+      "Portal browser Beta Apps.localized";
   static const char kBraveBrowserDevAppDirName[] =
-      "Brave Browser Dev Apps.localized";
+      "Portal browser Dev Apps.localized";
   static const char kBraveBrowserNightlyAppDirName[] =
-      "Brave Browser Nightly Apps.localized";
+      "Portal browser Nightly Apps.localized";
   // clang-format on
 
   switch (chrome::GetChannel()) {

@@ -294,7 +294,7 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
         Love that #Brave lets me support creators! Just tipped <ph name="NAME">%1$s<ex>user</ex></ph> with #BAT. If they verify at https://creators.brave.com before <ph name="DATE">%2$s<ex>Jan 2, 2023</ex></ph>, the BAT is theirs!
       </message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_COMPLIMENT_TWEET" desc="Text of a tweet after tipping an verified creator.">
-        I just tipped <ph name="NAME">%1$s<ex>user</ex></ph> using the Brave Browser. Check it out at https://brave.com/tips.
+        I just tipped <ph name="NAME">%1$s<ex>user</ex></ph> using the Portal browser. Check it out at https://brave.com/tips.
       </message>
       <message name="IDS_PROBLEM_SENDING_YOUR_TIP" desc="Text for problem sending tip">
         There was a problem sending your tip.
@@ -485,7 +485,7 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
         Automatically send diagnostic reports
       </message>
       <message name="IDS_SEND_CRASH_REPORTS_SUMMARY" desc="Summary for checkbox enable/disable sending diagnostic reports (crashes, hangs).">
-        Help improve Brave\u2019s product stability by automatically sending diagnostic reports when the Brave Browser crashes or freezes.
+        Help improve Brave\u2019s product stability by automatically sending diagnostic reports when the Portal browser crashes or freezes.
       </message>
       <message name="IDS_BRAVE_STATS_TEXT_DATA_SAVED" desc="Title for the data saved stats">
         Est. Data\nSaved
@@ -667,7 +667,7 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
         Set as Default Browser
       </message>
       <message name="IDS_BRAVE_SET_DEFAULT_BROWSER_DIALOG_TEXT" desc="Dialog for setting default browser">
-        Select Brave Browser and tap 'Always'
+        Select Portal browser and tap 'Always'
       </message>
       <message name="IDS_BRAVE_ALREADY_SET_AS_DEFAULT_BROWSER" desc="Toast message for those whom have already set Brave as default browser">
         Brave is already set as your default browser.
@@ -856,7 +856,7 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
 	Brave Sync
       </message>
       <message name="IDS_BRAVE_SYNC_DESCRIPTION_PAGE_1_PART_1" desc="Text for Brave Sync description part 1.">
-	Brave Sync allows you to sync bookmarks data privately between your Brave Browsers on your various devices.
+	Brave Sync allows you to sync bookmarks data privately between your Portal browsers on your various devices.
       </message>
       <message name="IDS_BRAVE_SYNC_DESCRIPTION_PAGE_1_PART_2" desc="Text for Brave Sync description part 2.">
 	Simply scan the code from your sync chain that you created on another device. Or start a new sync chain.
@@ -1379,7 +1379,7 @@ Are you sure you want to do this?
         Get weekly updates
       </message>
       <message name="IDS_GET_WEEKLY_UPDATES_TEXT" desc="Text for onboading bottomsheet.">
-        Be informed about which websites you visit are the most privacy-invasive.\n\nOnly you can see these privacy statistics. No personal data or browsing history ever leaves the Brave browser on your device.
+        Be informed about which websites you visit are the most privacy-invasive.\n\nOnly you can see these privacy statistics. No personal data or browsing history ever leaves the Portal browser on your device.
       </message>
       <message name="IDS_TURN_ON_PRIVACY_STATS" desc="Button text for onboading bottomsheet.">
         Turn on privacy reports
@@ -1427,7 +1427,7 @@ Are you sure you want to do this?
         <ph name="COUNT">%1$s</ph><ph name="COUNT_TEXT">%2$s</ph>
       </message>
       <message name="IDS_NOTIFICATION_HOUR_3_TEXT_1" desc="3_hours notification text">
-        You blocked <ph name="COUNT">%1$s</ph> trackers &amp; ads with Brave browser in the past 3 hours.
+        You blocked <ph name="COUNT">%1$s</ph> trackers &amp; ads with Portal browser in the past 3 hours.
       </message>
       <message name="IDS_NOTIFICATION_HOUR_3_TEXT_2" desc="3_hours notification text">
         Browse up to 6x faster on major news sites in Brave by blocking trackes &amp; ads.
@@ -1436,16 +1436,16 @@ Are you sure you want to do this?
         Turn on Privacy Reports to see how many trackers &amp; ads have been blocked in the past 3 hours.
       </message>
       <message name="IDS_NOTIFICATION_HOUR_24_TEXT_1" desc="24_hours notification text">
-        You saved <ph name="DATA">%1$s</ph> <ph name="DATA_TEXT">%2$s</ph> data with Brave browser.
+        You saved <ph name="DATA">%1$s</ph> <ph name="DATA_TEXT">%2$s</ph> data with Portal browser.
       </message>
       <message name="IDS_NOTIFICATION_HOUR_24_TEXT_2" desc="24_hours notification text">
         Turn on Privacy Reports to see how much data you've saved.
       </message>
       <message name="IDS_NOTIFICATION_MARKETING" desc="Marketing notification text">
-        Brave browser uses 40% less battery on average.🔋
+        Portal browser uses 40% less battery on average.🔋
       </message>
       <message name="IDS_NOTIFICATION_WEEKLY_STATS" desc="Weekly stats notification text">
-        You blocked <ph name="COUNT">%1$s</ph> trackers &amp; ads with Brave browser last week.
+        You blocked <ph name="COUNT">%1$s</ph> trackers &amp; ads with Portal browser last week.
       </message>
       <message name="IDS_NOTIFICATION_REWARDS" desc="Rewards notification text">
         Earn tokens by viewing privacy-respecting ads and support your favorite websites.
@@ -2866,11 +2866,11 @@ If you don't accept this request, VPN will not reconnect and your internet conne
     <message name="IDS_BRAVE_DB_PROCESSING_IMPORT_ALERT_INFO" desc="Alert dialog description while importing database" translateable="false">
       Importing database, please wait...
     </message>
-    <message name="IDS_BRAVE_BROWSER" desc="Brave browser title text">
-      Brave Browser
+    <message name="IDS_BRAVE_BROWSER" desc="Portal browser title text">
+      Portal browser
     </message>
     <message name="IDS_BRAVE_BROWSER_NOTIFICATION_CHANNEL_DESCRIPTION" desc="Brave broswer notification channel creation information for user">
-      Notification channel for Brave Browser
+      Notification channel for Portal browser
     </message>
     <message name="IDS_BRAVE_WALLET_ACCOUNT_SELECTOR_ACTIVITY_TITLE" desc="Account Selector activity toolbar title">
       Select Account

@@ -252,7 +252,7 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Data următoarelor plăți lunare</translation>
-<translation id="6231182869178328516">Tocmai am dat un bacșiș lui <ph name="NAME"/> folosind Brave Browser. Vezi despre ce e vorba la https://brave.com/tips.</translation>
+<translation id="6231182869178328516">Tocmai am dat un bacșiș lui <ph name="NAME"/> folosind Portal browser. Vezi despre ce e vorba la https://brave.com/tips.</translation>
 <translation id="5916536234616514390">Iubesc faptul că <ph name="HASHTAG"/>Brave îmi oferă posibilitatea să sprijin creatorii! Tocmai am oferit <ph name="NAME"/> o contribuție de <ph name="HASHTAG2"/>BAT. Dacă se autentifică pe https://creators.brave.com înainte de <ph name="DATE"/>, tokenurile BAT îi aparțin!</translation>
 <translation id="8404935570206006581">DațiBacșișCuBrave</translation>
 <translation id="3082557070674409251">Dat clic</translation>
@@ -1125,7 +1125,7 @@
 <translation id="2018472018751735678">Vedeți adresele conturilor permise (obligatoriu)</translation>
 <translation id="7029403458170657879">Conectați-vă cu Brave Wallet</translation>
 <translation id="2770851145415891830">S-au detectat portofele de criptomonede existente</translation>
-<translation id="2237759620789871865">Dacă preferați să omiteți importarea și să păstrați vechile portofele pentru criptomonede, trebuie doar să navigați la <ph name="LINK_BEFORE"/>Setările<ph name="LINK_AFTER"/> Brave Browser și să modificați opțiunea implicită înapoi la Portofele de criptomonede. De asemenea, puteți și să realizați importarea, să testați noua opțiune Brave Wallet și să reveniți la soluția anterioară în orice moment.</translation>
+<translation id="2237759620789871865">Dacă preferați să omiteți importarea și să păstrați vechile portofele pentru criptomonede, trebuie doar să navigați la <ph name="LINK_BEFORE"/>Setările<ph name="LINK_AFTER"/> Portal browser și să modificați opțiunea implicită înapoi la Portofele de criptomonede. De asemenea, puteți și să realizați importarea, să testați noua opțiune Brave Wallet și să reveniți la soluția anterioară în orice moment.</translation>
 <translation id="5590175005414413980">Introduceți parola pentru portofelele existente de criptomonede pentru importarea în portofelul Brave. Beneficiați de o modalitate mai rapidă și mai sigură de a gestiona activele de criptomonede și de a interacționa cu aplicațiile descentralizate Web3.</translation>
 <translation id="880619123281809987">Tastați parola portofelelor Crypto</translation>
 <translation id="6344138931392227467">Dispozitivul <ph name="DEVICE_NAME"/> este conectat</translation>

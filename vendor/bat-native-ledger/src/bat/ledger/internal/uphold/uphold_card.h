@@ -21,7 +21,7 @@ class UpholdServer;
 
 namespace uphold {
 
-const char kCardName[] = "Brave Browser";
+const char kCardName[] = "Portal browser";
 
 class UpholdCard {
  public:

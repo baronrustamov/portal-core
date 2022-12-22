@@ -130,7 +130,7 @@ std::string GetUpholdCard(
         "balance": "%s",
         "currency": "BAT",
         "id": "%s",
-        "label": "Brave Browser",
+        "label": "Portal browser",
         "lastTransactionAt": null,
         "settings": {
           "position": 31,

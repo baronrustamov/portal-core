@@ -29,7 +29,7 @@
 //     "label": "de476441-a834-4b93-82e3-3226e5153f73",
 //     "recipient_id": "621d392c-75b3-b655-94e4-2849a44d38a9"
 //   }, {
-//     "label": "Brave Browser",
+//     "label": "Portal browser",
 //     "recipient_id": "6378fc55-18db-488a-85a3-1af557767d0a"
 //   }
 // ]

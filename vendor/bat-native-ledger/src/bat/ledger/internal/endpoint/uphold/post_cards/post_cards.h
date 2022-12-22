@@ -14,7 +14,7 @@
 //
 // Request body:
 // {
-//   "label": "Brave Browser",
+//   "label": "Portal browser",
 //   "currency": "BAT"
 // }
 //
@@ -34,7 +34,7 @@
 //   "balance": "0.00",
 //   "currency": "BAT",
 //   "id": "bd91a720-f3f9-42f8-b2f5-19548004f6a7",
-//   "label": "Brave Browser",
+//   "label": "Portal browser",
 //   "lastTransactionAt": null,
 //   "settings": {
 //     "position": 8,

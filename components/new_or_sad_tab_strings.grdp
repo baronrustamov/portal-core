@@ -31,20 +31,20 @@
         </message>
       </if>
       <if expr="is_win">
-        <message name="IDS_SAD_TAB_OOM_TITLE" desc="The title of the web page displayed if content in Brave browser does not load due to the browser being out of memory, and a reload failed to fix the issue.">
+        <message name="IDS_SAD_TAB_OOM_TITLE" desc="The title of the web page displayed if content in Portal browser does not load due to the browser being out of memory, and a reload failed to fix the issue.">
           Not enough memory to open this page
         </message>
       </if>
-      <message name="IDS_SAD_TAB_RELOAD_TITLE" desc="The title of the web page displayed if content in Brave browser does not load for an unknown reason, and a reload failed to fix the issue." formatter_data="android_java">
+      <message name="IDS_SAD_TAB_RELOAD_TITLE" desc="The title of the web page displayed if content in Portal browser does not load for an unknown reason, and a reload failed to fix the issue." formatter_data="android_java">
         Can't open this page
       </message>
-      <message name="IDS_SAD_TAB_OOM_MESSAGE_TABS" desc="The message displayed on the web page if content in Brave browser does not load due to the browser being out of memory, a reload failed to fix the issue and other tabs are open.">
+      <message name="IDS_SAD_TAB_OOM_MESSAGE_TABS" desc="The message displayed on the web page if content in Portal browser does not load due to the browser being out of memory, a reload failed to fix the issue and other tabs are open.">
         Try closing other tabs or programs to free up memory.
       </message>
-      <message name="IDS_SAD_TAB_OOM_MESSAGE_NOTABS" desc="The message displayed on the web page if content in Brave browser does not load due to the browser being out of memory, a reload failed to fix the issue and no other tabs are open.">
+      <message name="IDS_SAD_TAB_OOM_MESSAGE_NOTABS" desc="The message displayed on the web page if content in Portal browser does not load due to the browser being out of memory, a reload failed to fix the issue and no other tabs are open.">
         Try exiting other programs to free up memory.
       </message>
-      <message name="IDS_SAD_TAB_RELOAD_TRY" desc="The message displayed on the web page if content in Brave browser does not load and a reload failed to fix the issue. Introduces a bulleted list of solutions/tips for the user to try." formatter_data="android_java">
+      <message name="IDS_SAD_TAB_RELOAD_TRY" desc="The message displayed on the web page if content in Portal browser does not load and a reload failed to fix the issue. Introduces a bulleted list of solutions/tips for the user to try." formatter_data="android_java">
         Try the following tips:
       </message>
       <if expr="is_macosx">
