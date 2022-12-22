@@ -32,10 +32,10 @@
 <translation id="985862351129593673">Personalizar el Dashboard</translation>
 <translation id="7180865173735832675">Personalizar</translation>
 <translation id="8522669544471808198">Mostrar imágenes de fondo</translation>
-<translation id="5801450813341024983">Fondos de Brave</translation>
+<translation id="5801450813341024983">Fondos de Portal</translation>
 <translation id="1416884769823233410">Usa el tuyo</translation>
 <translation id="6246790815526961700">Subir uno del dispositivo</translation>
-<translation id="7275773481201277457">Mostrar Estadísticas de Brave</translation>
+<translation id="7275773481201277457">Mostrar Estadísticas de Portal</translation>
 <translation id="6836061097810262923">Mostrar Reloj</translation>
 <translation id="5912396950572065471">Formato</translation>
 <translation id="604124094241169006">Automático</translation>
@@ -60,7 +60,7 @@
 <translation id="1230746063445072175">¿Quieres mejorar aún más la privacidad?</translation>
 <translation id="6699628638740071563">Ha llegado el momento de despedirse de Google.</translation>
 <translation id="2045455461902775806">Búsqueda de Portal no sesga ni censura los resultados. Tampoco rastrea tu actividad, tus consultas ni los enlaces en los que haces clic.</translation>
-<translation id="6811221529729056895">Prueba Búsqueda de Brave</translation>
+<translation id="6811221529729056895">Prueba Búsqueda de Portal</translation>
 <translation id="5525668735313040116">Buscar en la web de forma privada</translation>
 <translation id="3446024864193919737">Mostrar Portal Rewards</translation>
 <translation id="6274899614137380422">Mostrar Binance</translation>
@@ -68,18 +68,18 @@
 <translation id="3870475560794762985">Mostrar imágenes patrocinadas</translation>
 <translation id="8466529005131466476">Puedes ganar dinero por ver sitios patrocinados.</translation>
 <translation id="3955742714798578476">Estás ganando dinero por ver imágenes patrocinadas.</translation>
-<translation id="7822618650711767369">Brave se nutre del apoyo de imágenes patrocinadas. ¡Gracias a las Recompensas de Brave, puedes ganar parte de los beneficios obtenidos con las imágenes patrocinadas y apoyar también a creadores de contenido!</translation>
+<translation id="7822618650711767369">Portal se nutre del apoyo de imágenes patrocinadas. ¡Gracias a las Recompensas de Portal, puedes ganar parte de los beneficios obtenidos con las imágenes patrocinadas y apoyar también a creadores de contenido!</translation>
 <translation id="5579480493856401823">Si desactivas los sitios patrocinados, obtendrás menos tokens y los creadores de contenido recibirán menos apoyo cada mes.</translation>
 <translation id="2875302873837723333">sitios populares</translation>
-<translation id="8173998484743827990">Estadísticas de Brave</translation>
+<translation id="8173998484743827990">Estadísticas de Portal</translation>
 <translation id="383680190590774040">reloj</translation>
-<translation id="3333887201479867589">Brave Rewards</translation>
+<translation id="3333887201479867589">Portal Rewards</translation>
 <translation id="3159285901314605198">Imagen de fondo</translation>
 <translation id="385051799172605136">Atrás</translation>
 <translation id="4225429340218993596">Colores sólidos</translation>
 <translation id="7610541582755894669">Gradientes</translation>
 <translation id="1606851618930975029">Actualizar en cada pestaña nueva</translation>
-<translation id="9024104284526126630">Puedes iniciar una llamada privada en Brave.</translation>
+<translation id="9024104284526126630">Puedes iniciar una llamada privada en Portal.</translation>
 <translation id="4903286433687221248">Llama sin límite alguno a amigos y compañeros con Portal Talk.</translation>
 <translation id="7115051913071512405">Pruébalo</translation>
 <translation id="1447534717041828517">Mostrar el botón de Noticias de Portal en la barra de herramientas</translation>
@@ -88,7 +88,7 @@
 <translation id="4108314971463891922">Seguir</translation>
 <translation id="3861486700625780712">Dejar de seguir</translation>
 <translation id="8909741410750517071">Sigue esta fuente con 1 clic.</translation>
-<translation id="1982678174789043774">Estate al tanto de toda la actualidad con Noticias de Brave.</translation>
+<translation id="1982678174789043774">Estate al tanto de toda la actualidad con Noticias de Portal.</translation>
 <translation id="7894417427965898400">Gestionar canales</translation>
 <translation id="9164544612367905452">Buscando…</translation>
 <translation id="1276592121036104130">Cargar nuevo contenido</translation>
@@ -106,12 +106,12 @@
 <translation id="2236818903653027036">Invierte en criptomonedas en Binance directamente desde el navegador.</translation>
 <translation id="6508379561970983105">Invierte en criptomonedas en Gemini directamente desde el navegador.</translation>
 <translation id="7191394989411626168">Al desactivar las tarjetas, se ocultarán todas las tarjetas disponibles actualmente. Sin embargo, podrá seguir recibiendo notificaciones de nuevas tarjetas.</translation>
-<translation id="6820526586005233839">Brave Ads en pausa</translation>
+<translation id="6820526586005233839">Portal Ads en pausa</translation>
 <translation id="5190407395832551012">Con el fin de evitar el uso abusivo de Portal Rewards, vamos a pedirles de forma aleatoria a algunos usuarios que resuelvan un captcha. Haz clic en “Resolver” para reanudar los anuncios.</translation>
 <translation id="1693773514029371138">Resolver</translation>
 <translation id="6991128190741664836">Más tarde</translation>
-<translation id="8112367589167674370">Brave Talk</translation>
-<translation id="8488282162676695335">Cartera Brave</translation>
+<translation id="8112367589167674370">Portal Talk</translation>
+<translation id="8488282162676695335">Cartera Portal</translation>
 <translation id="8820817407110198400">Marcadores</translation>
 <translation id="1644574205037202324">Historial</translation>
 <translation id="2702801445560668637">Lista de Lectura</translation>
@@ -120,12 +120,12 @@
 <translation id="8730621377337864115">Listo</translation>
 <translation id="730042046912793465">Esto es una</translation>
 <translation id="2055363275850890030">Ventana Privada</translation>
-<translation id="9133213713928851646">Brave no recordará tu actividad en una ventana privada. Los sitios web que hayas visitado no aparecerán en tu historial y las cookies desaparecerán cuando hayas terminado. Sin embargo, las ventanas privadas no te vuelven completamente anónimo online.</translation>
-<translation id="4085423007106063912">Brave nunca guarda lo que haces cuando navegas en modo privado. Los sitios que visites no aparecerán en tu historial. Las cookies, los datos de formularios y los datos de los sitios desaparecerán al cerrar la ventana.</translation>
+<translation id="9133213713928851646">Portal no recordará tu actividad en una ventana privada. Los sitios web que hayas visitado no aparecerán en tu historial y las cookies desaparecerán cuando hayas terminado. Sin embargo, las ventanas privadas no te vuelven completamente anónimo online.</translation>
+<translation id="4085423007106063912">Portal nunca guarda lo que haces cuando navegas en modo privado. Los sitios que visites no aparecerán en tu historial. Las cookies, los datos de formularios y los datos de los sitios desaparecerán al cerrar la ventana.</translation>
 <translation id="1700746046668116047">Ten en cuenta que tanto tu proveedor de servicios de Internet como los observadores pasivos de la red y los responsables de tu empresa (si utilizas una red o un equipo del trabajo) pueden ver tus actividades. Si quieres más privacidad, abre una ventana privada con Tor.</translation>
 <translation id="8759753423332885148">Más información</translation>
 <translation id="8611976753572844841">Ventana privada con conectividad Tor</translation>
-<translation id="1645589858096839236">Brave no almacena la actividad de navegación de las ventanas privadas. Además, gracias a la conectividad Tor, los sitios web tienen más difícil descubrir tu verdadera dirección IP y los observadores de redes encuentran más dificultades a la hora de detectar qué sitios web visitas. En cualquier caso, si tu seguridad personal depende de permanecer en el anonimato, utiliza el navegador Tor en su lugar.</translation>
+<translation id="1645589858096839236">Portal no almacena la actividad de navegación de las ventanas privadas. Además, gracias a la conectividad Tor, los sitios web tienen más difícil descubrir tu verdadera dirección IP y los observadores de redes encuentran más dificultades a la hora de detectar qué sitios web visitas. En cualquier caso, si tu seguridad personal depende de permanecer en el anonimato, utiliza el navegador Tor en su lugar.</translation>
 <translation id="7919374705736538787">Busca de forma privada con</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
 <translation id="218839872518145456">Con la búsqueda privada, Portal usará DuckDuckGo para búsquedas en una Ventana Privada. DuckDuckGo no rastrea tu historial de búsqueda, por lo que puedes buscar de forma privada.</translation>
@@ -136,7 +136,7 @@
 <translation id="6126226144537295436">con conectividad Tor</translation>
 <translation id="8541421872680304667">Tor oculta su dirección IP de los sitios que visita, dirigiendo su navegación a través de varios servidores Tor antes de que llegue a su destino. Tor puede ralentizar la navegación y algunos sitios pueden no funcionar en absoluto.</translation>
 <translation id="8897548669448660973">El uso de ventanas privadas solo cambia lo que hace Portal en tu dispositivo. No cambia, por tanto, el comportamiento de ninguna persona. Tor oculta tu dirección IP a los sitios web que visitas y hace complicado, pero no imposible, que tu ISP o tu jefe sepa qué páginas has visitado. Abre una Ventana privada con Tor desde el menú o mediante  [[ key ]].</translation>
-<translation id="6975708438781948564">Saber más sobre Tor en Brave</translation>
+<translation id="6975708438781948564">Saber más sobre Tor en Portal</translation>
 <translation id="4712050378540986986">Estado de Tor</translation>
 <translation id="1939334281379458295">Tor se ha conectado correctamente</translation>
 <translation id="8030169304546394654">Desconectado</translation>
@@ -145,7 +145,7 @@
 <translation id="2795840524629682765">Fallo en la conexión Tor</translation>
 <translation id="1149108864689950951">Tor se está conectando… [[percentage]] %</translation>
 <translation id="3651192084771403430">¿Tienes problemas de conexión? Prueba a <ph name="BEGIN_LINK"/>desactivar<ph name="END_LINK"/> la ventana privada con Tor y, luego, vuelve a activarla en los ajustes.</translation>
-<translation id="8834376622642889380">Abre <ph name="BEGIN_LINK"/>Configuración de Brave<ph name="END_LINK"/>, desactiva "Ventana privada con Tor", y luego vuelve a activarla.</translation>
+<translation id="8834376622642889380">Abre <ph name="BEGIN_LINK"/>Configuración de Portal<ph name="END_LINK"/>, desactiva "Ventana privada con Tor", y luego vuelve a activarla.</translation>
 <translation id="1576202729986800142"><ph name="BEGIN_BOLD"/>¿Sigues teniendo problemas?<ph name="END_BOLD"/> Prueba a usar <ph name="BEGIN_BRIDGES_LINK"/>puentes<ph name="END_BRIDGES_LINK"/> o <ph name="BEGIN_SUPPORT_LINK"/>contacta con asistencia técnica<ph name="END_SUPPORT_LINK"/>.</translation>
 <translation id="8388043004918289671">Contacta con el servicio de asistencia.</translation>
 <translation id="4272382368346338917">Filtros Adicionales</translation>
@@ -165,8 +165,8 @@
 <translation id="5334844597069022743">Ver fuente</translation>
 <translation id="4720556299488643018">Cancelar suscripción</translation>
 <translation id="1209739344687072997">Notificar un error...</translation>
-<translation id="8510478288840333677">Haz saber a los desarrolladores de Portal de que este sitio no funciona correctamente con los Escudos Brave:</translation>
-<translation id="4105411033440701818">Nota: Si haces clic en "Enviar", compartirás la dirección de la web, el número de la versión de Portal que utilizas y tu dirección IP con los desarrolladores de Brave. (La dirección IP no quedará almacenada).</translation>
+<translation id="8510478288840333677">Haz saber a los desarrolladores de Portal de que este sitio no funciona correctamente con los Escudos Portal:</translation>
+<translation id="4105411033440701818">Nota: Si haces clic en "Enviar", compartirás la dirección de la web, el número de la versión de Portal que utilizas y tu dirección IP con los desarrolladores de Portal. (La dirección IP no quedará almacenada).</translation>
 <translation id="6476216365964140603">Detalles adicionales (opcional)</translation>
 <translation id="6145852496180774737">Contacto: (opcional)</translation>
 <translation id="7616645803364270729">Correo electrónico, Twitter, etc.</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Importar</translation>
 <translation id="2088479175984386785">Importar desde...</translation>
 <translation id="5540323067375019678">Gestiona tus escudos</translation>
-<translation id="3278033011827237847">Protégete contra los anuncios y los rastreadores que invaden tu privacidad mientras navegas por internet con los Escudos Brave. Desactiva los escudos la página parece no funcionar correctamente.</translation>
+<translation id="3278033011827237847">Protégete contra los anuncios y los rastreadores que invaden tu privacidad mientras navegas por internet con los Escudos Portal. Desactiva los escudos la página parece no funcionar correctamente.</translation>
 <translation id="3366308997091824722">Ajustes del Escudo</translation>
 <translation id="4764692524839457597">predeterminado</translation>
 <translation id="3108122610701115301">Establecer por defecto</translation>
@@ -194,11 +194,11 @@
 <translation id="3829010735958850433">Saltar el tour de bienvenida</translation>
 <translation id="1201402288615127009">Siguiente</translation>
 <translation id="7954950242989581218">Navega seguro y protegido</translation>
-<translation id="2188651882929633653">Brave Shields bloquea cosas horrorosas que intentan rastrearte por la web — incluyendo la mayoría de anuncios.  Establece Shields en “abajo” si un sitio parece no funcionar. Portal utiliza <ph name="BEGIN_LINK_P3A"/>un análisis de productos completamente privado<ph name="END_LINK_P3A"/> para estimar el uso general de ciertas funciones. Puedes desactivar esto en <ph name="BEGIN_LINK_P3A_SETTINGS"/>Ajustes<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
-<translation id="4851215387785619212">Anuncios privados de Brave</translation>
-<translation id="3114984266384096064">Gana [[currency]] visualizando anuncios privados de Brave. Los anuncios ofrecidos están basados en tus intereses, según se deduce de tu comportamiento de navegación. No se exportan datos personales ni el historial de navegación fuera del navegador.</translation>
+<translation id="2188651882929633653">Portal Shields bloquea cosas horrorosas que intentan rastrearte por la web — incluyendo la mayoría de anuncios.  Establece Shields en “abajo” si un sitio parece no funcionar. Portal utiliza <ph name="BEGIN_LINK_P3A"/>un análisis de productos completamente privado<ph name="END_LINK_P3A"/> para estimar el uso general de ciertas funciones. Puedes desactivar esto en <ph name="BEGIN_LINK_P3A_SETTINGS"/>Ajustes<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="4851215387785619212">Anuncios privados de Portal</translation>
+<translation id="3114984266384096064">Gana [[currency]] visualizando anuncios privados de Portal. Los anuncios ofrecidos están basados en tus intereses, según se deduce de tu comportamiento de navegación. No se exportan datos personales ni el historial de navegación fuera del navegador.</translation>
 <translation id="6112368337882254910">Contribución Automática</translation>
-<translation id="3742599705619405136">Una forma automática de apoyar a los editores y creadores de contenido. Establece un pago mensual y navega con normalidad. Las páginas verificadas por Portal que hayas visitado recibirán sus contribuciones de forma automática en base a tu atención medida por Brave.</translation>
+<translation id="3742599705619405136">Una forma automática de apoyar a los editores y creadores de contenido. Establece un pago mensual y navega con normalidad. Las páginas verificadas por Portal que hayas visitado recibirán sus contribuciones de forma automática en base a tu atención medida por Portal.</translation>
 <translation id="3325399124634342726">Ganancias actuales este mes (estimación)</translation>
 <translation id="8593551638387217772">Fecha del próximo pago</translation>
 <translation id="4428871418618312983">Anuncios recibidos este mes</translation>
@@ -256,8 +256,8 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Fecha de las próximas propinas mensuales</translation>
-<translation id="6231182869178328516">Acabo de hacer una contribución económica a <ph name="NAME"/> mediante el navegador Brave. Puedes verlo en https://brave.com/tips.</translation>
-<translation id="5916536234616514390">¡Me encanta que <ph name="HASHTAG"/>Brave me permita apoyar a los creadores! Acabo de darle una propina a <ph name="NAME"/> de <ph name="HASHTAG2"/> BAT. Si se verifica en https://creators.brave.com antes del <ph name="DATE"/>, ¡esos BAT serán suyos!</translation>
+<translation id="6231182869178328516">Acabo de hacer una contribución económica a <ph name="NAME"/> mediante el navegador Portal. Puedes verlo en https://brave.com/tips.</translation>
+<translation id="5916536234616514390">¡Me encanta que <ph name="HASHTAG"/>Portal me permita apoyar a los creadores! Acabo de darle una propina a <ph name="NAME"/> de <ph name="HASHTAG2"/> BAT. Si se verifica en https://creators.brave.com antes del <ph name="DATE"/>, ¡esos BAT serán suyos!</translation>
 <translation id="8404935570206006581">DaPropinasConBrave</translation>
 <translation id="3082557070674409251">Pulsado</translation>
 <translation id="7119308337584989771">Rechazado</translation>
@@ -265,7 +265,7 @@
 <translation id="8826352442759228526">Tu perfil de Recompensas de Portal no se puede verificar porque has alcanzado el límite máximo de dispositivos verificados.</translation>
 <translation id="1221593978088944142">Error: Se ha alcanzado el límite de dispositivos</translation>
 <translation id="3113653894794167793">Lo sentimos, ha habido un problema al procesar su solicitud, inténtelo de nuevo.</translation>
-<translation id="3509185560119586847">Lamentablemente, tu perfil de Recompensas de Portal está marcado, así que no puedes verificarte con un custodio en esta ocasión. A veces, este tipo de marca se debe a alguna actividad irregular por parte de Anuncios de Brave, aunque también puede tratarse de un falso positivo.</translation>
+<translation id="3509185560119586847">Lamentablemente, tu perfil de Recompensas de Portal está marcado, así que no puedes verificarte con un custodio en esta ocasión. A veces, este tipo de marca se debe a alguna actividad irregular por parte de Anuncios de Portal, aunque también puede tratarse de un falso positivo.</translation>
 <translation id="5031451251720571882">Ten en cuenta que no podrás verificarte mientras tu perfil de Recompensas de Portal esté marcado.</translation>
 <translation id="7301759045821910866">No es necesaria ninguna acción por tu parte. Tu perfil de Recompensas de Portal se reevaluará automáticamente cada cierto tiempo para determinar cuándo (o si) se puede eliminar la marca. Vuelve a intentarlo con frecuencia para ver si la marca ha desaparecido.</translation>
 <translation id="280350148043792509"><ph name="BEGIN_LINK"/>Obtén más información sobre el proceso que sigue Portal para marcar los perfiles de Recompensas.<ph name="END_LINK"/></translation>
@@ -279,8 +279,8 @@
 <translation id="5225019866741699134">Parece no se puede conectar <ph name="PROVIDER"/> con Recompensas de Portal en este momento. Inténtalo de nuevo más tarde.</translation>
 <translation id="6105073131081187815">Puedes consultar el <ph name="BEGIN_LINK"/>estado del servicio aquí<ph name="END_LINK"/>.</translation>
 <translation id="2400786541309111904">Error: No se puede conectar con el administrador seleccionado en este momento</translation>
-<translation id="1024520300696337331">No es posible vincular tu cuenta de <ph name="PROVIDER"/> con tu perfil de Recompensas de Portal en estos momentos. Tu cuenta de <ph name="PROVIDER"/> está registrada en un país que no es compatible actualmente con las Recompensas de Brave.</translation>
-<translation id="619384413404021992">Consulta la <ph name="LINK_BEGIN"/>lista actual de regiones admitidas y obtén más información<ph name="END_LINK"/> sobre cómo vincular una cuenta con custodia con las Recompensas de Brave.</translation>
+<translation id="1024520300696337331">No es posible vincular tu cuenta de <ph name="PROVIDER"/> con tu perfil de Recompensas de Portal en estos momentos. Tu cuenta de <ph name="PROVIDER"/> está registrada en un país que no es compatible actualmente con las Recompensas de Portal.</translation>
+<translation id="619384413404021992">Consulta la <ph name="LINK_BEGIN"/>lista actual de regiones admitidas y obtén más información<ph name="END_LINK"/> sobre cómo vincular una cuenta con custodia con las Recompensas de Portal.</translation>
 <translation id="7193389978208728181">Error: Región actualmente no admitida</translation>
 <translation id="5382684862562314222">Uphold aún no admite BAT en tu región.</translation>
 <translation id="9074594632540931067">Error: no hay BAT</translation>
@@ -294,16 +294,16 @@
 <translation id="2054853229650377447">Nota: Tus transacciones serán visibles para el administrador una vez que lo autorices. Este podrá ver, por ejemplo, el destinatario y el importe de tus propinas.</translation>
 <translation id="2147158325758481862">La verificación es opcional</translation>
 <translation id="8228649055483250005">Los proveedores de monederos supervisados tienen la obligación de verificar la identidad de todas las personas que se crean un monedero por medio incluso de un documento de identificación con fotografía.</translation>
-<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> no trata, almacena ni tiene acceso a ningún tipo de información personal cuando configuras una cuenta con nuestros socios de monederos supervisados.</translation>
-<translation id="6682919029276027868">Tus funciones actuales de Recompensas de Brave, sin embargo, están limitadas. La verificación con un socio de cartera con custodia te permite:</translation>
+<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Portal Software Inc.<ph name="BOLD_END"/> no trata, almacena ni tiene acceso a ningún tipo de información personal cuando configuras una cuenta con nuestros socios de monederos supervisados.</translation>
+<translation id="6682919029276027868">Tus funciones actuales de Recompensas de Portal, sin embargo, están limitadas. La verificación con un socio de cartera con custodia te permite:</translation>
 <translation id="9064931634458501855">Retira y añade fondos con total libertad</translation>
 <translation id="3222002542796906461">Recibe las recompensas directamente en tu cuenta</translation>
 <translation id="1233129511866436960">Más información acerca de las regiones y la compatibilidad entre ellas</translation>
 <translation id="7329170127335794328">No está disponible en estos momentos en tu región</translation>
-<translation id="8304979233901023264">He leído y acepto las’s <ph name="TOS_LINK_BEGIN"/>Condiciones de uso<ph name="TOS_LINK_END"/> y la <ph name="PP_LINK_BEGIN"/>Política de privacidad<ph name="PP_LINK_END"/> de Brave.</translation>
+<translation id="8304979233901023264">He leído y acepto las’s <ph name="TOS_LINK_BEGIN"/>Condiciones de uso<ph name="TOS_LINK_END"/> y la <ph name="PP_LINK_BEGIN"/>Política de privacidad<ph name="PP_LINK_END"/> de Portal.</translation>
 <translation id="2359808026110333948">Continuar</translation>
 <translation id="1892970806832316900">Pendiente hasta el <ph name="DATE"/></translation>
-<translation id="7849926087559412554">¡Vaya! Tu navegador no puede recibir los anuncios privados de Brave.</translation>
+<translation id="7849926087559412554">¡Vaya! Tu navegador no puede recibir los anuncios privados de Portal.</translation>
 <translation id="5177429570315095022">Para seguir viendo los anuncios, tienes que actualizar tu navegador.</translation>
 <translation id="7352651011704765696">Algo ha ido mal</translation>
 <translation id="752216563428219524">No se han iniciado los anuncios. Actualiza la página.</translation>
@@ -410,7 +410,7 @@
 <translation id="9088057605518918276">Se ha establecido una propina mensual.</translation>
 <translation id="6306631474379759382">Fecha de la próxima propina:</translation>
 <translation id="3593485149443019592">No hay suficientes tokens. <ph name="LINK_BEGIN"/>Añade fondos<ph name="LINK_END"/>.</translation>
-<translation id="3586352807094428968">Brave recauda el 5 % de la propina en concepto de tasa de tramitación.</translation>
+<translation id="3586352807094428968">Portal recauda el 5 % de la propina en concepto de tasa de tramitación.</translation>
 <translation id="207268487070188114">Propina única</translation>
 <translation id="69861679024013299">Importe de la propina única:</translation>
 <translation id="3288812755711687300">Publicación de <ph name="USER"/></translation>
@@ -423,7 +423,7 @@
 <translation id="839058704683989763">¡Has configurado una propina pendiente!</translation>
 <translation id="5096821444729034955">para su publicación</translation>
 <translation id="2978223787436054634">Tuitea sobre tu apoyo</translation>
-<translation id="5916290544882167205">Brave Software. Portal es una marca registrada de Portal Software. Los nombres de los sitios pueden ser marcas comerciales o marcas registradas del propietario del sitio.</translation>
+<translation id="5916290544882167205">Portal Software. Portal es una marca registrada de Portal Software. Los nombres de los sitios pueden ser marcas comerciales o marcas registradas del propietario del sitio.</translation>
 <translation id="9026369588205476247">Para proteger tu privacidad, este extracto de Portal Rewards no se guarda, graba ni registra en ningún otro lugar aparte de tu dispositivo (este equipo). No se puede recuperar desde Portal en caso de perder los datos en tu dispositivo.</translation>
 <translation id="3587482841069643663">Todo</translation>
 <translation id="4241224519481557898">Categoría</translation>
@@ -447,14 +447,14 @@
 <translation id="4932733599132424254">Fecha</translation>
 <translation id="3552003743293281224">Depósitos</translation>
 <translation id="3866249974567520381">Descripción</translation>
-<translation id="8605272644314973683">Brave Rewards es</translation>
+<translation id="8605272644314973683">Portal Rewards es</translation>
 <translation id="1346059596910821859">Propina</translation>
 <translation id="7277134233385925078">Fijar propina mensual</translation>
 <translation id="298067735430872465">Ganancias de Portal Ads</translation>
 <translation id="1418534671788496616">Ver el historial de depósitos</translation>
 <translation id="3412655388715513818">Excluir este sitio web</translation>
 <translation id="418343137736963579">Número total de sitios web que has excluido de la Contribución Automática:</translation>
-<translation id="8802504113265057166">Los [[currency]] que no se utilicen antes de la fecha de vencimiento se devolverán automáticamente al Grupo decrecimiento de usuarios de Brave.</translation>
+<translation id="8802504113265057166">Los [[currency]] que no se utilicen antes de la fecha de vencimiento se devolverán automáticamente al Grupo decrecimiento de usuarios de Portal.</translation>
 <translation id="279567716178902927">Fecha de Vencimiento de la Concesión</translation>
 <translation id="1389143276807887637">importar</translation>
 <translation id="6302422639282249274">Gestionar Portal Rewards</translation>
@@ -498,13 +498,13 @@
 <translation id="5939518447894949180">Restablecer</translation>
 <translation id="5669281110673664811">Borrar lista de exclusión</translation>
 <translation id="1797334173232638045">Tus páginas ancladas se han trasladado a</translation>
-<translation id="542042553430131913">Si no verificas Recompensas de Brave, tu saldo de BAT se almacenará en los archivos locales de tu dispositivo.</translation>
+<translation id="542042553430131913">Si no verificas Recompensas de Portal, tu saldo de BAT se almacenará en los archivos locales de tu dispositivo.</translation>
 <translation id="2142973554991645476">Si quieres asegurar tus BAT por si necesitas reinstalar por completo el navegador o reformatear tu dispositivo, y tener otros beneficios como agregar o retirar tus BAT, te recomendamos que te <ph name="LINK_BEGIN"/>verifiques<ph name="LINK_END"/>.</translation>
 <translation id="5317144262906129592">Puedes apoyar a este creador de contenido enviándole una propina para agradecerle su gran labor.</translation>
 <translation id="3074127054582480056">Atención</translation>
-<translation id="3659457123782988823">¿Seguro que quieres restablecer Recompensas de Brave?</translation>
-<translation id="4048187103708861555">Tus <ph name="BAT_AMOUNT"/> y los datos de otras recompensas se perderán de forma permanente si restableces Recompensas de Brave. No olvides <ph name="LINK_BEGIN"/>verificarte<ph name="LINK_END"/> para conservar tus BAT.</translation>
-<translation id="3548849774726860833">Los datos de tus recompensas se perderán de forma permanente si restableces Recompensas de Brave.</translation>
+<translation id="3659457123782988823">¿Seguro que quieres restablecer Recompensas de Portal?</translation>
+<translation id="4048187103708861555">Tus <ph name="BAT_AMOUNT"/> y los datos de otras recompensas se perderán de forma permanente si restableces Recompensas de Portal. No olvides <ph name="LINK_BEGIN"/>verificarte<ph name="LINK_END"/> para conservar tus BAT.</translation>
+<translation id="3548849774726860833">Los datos de tus recompensas se perderán de forma permanente si restableces Recompensas de Portal.</translation>
 <translation id="4914597931214386232">Token Reclamados</translation>
 <translation id="3494964159182650590">Resumen de Rewards</translation>
 <translation id="2913994227901456490">Ver los [[numItems]] artículos</translation>
@@ -518,16 +518,16 @@
 <translation id="5015443703424816075">Token</translation>
 <translation id="1634828734222219955">Total</translation>
 <translation id="3535654229833214438">Transacciones</translation>
-<translation id="8772672608371898774">Publicador Verificado por Brave</translation>
+<translation id="8772672608371898774">Publicador Verificado por Portal</translation>
 <translation id="5050370287908180130">Para más Detalles, visualiza el Estado Mensual</translation>
 <translation id="7853202427316060426">Actividad</translation>
 <translation id="7232682712743566408">Saldo de recompensas</translation>
 <translation id="1910721550319506122">¡Bienvenido!</translation>
-<translation id="4258022280942725182">Tus recompensas de Brave</translation>
+<translation id="4258022280942725182">Tus recompensas de Portal</translation>
 <translation id="6727483290601442544">Ver detalles</translation>
-<translation id="4206899127409458763">Cómo crear tu perfil de Recompensas de Brave</translation>
+<translation id="4206899127409458763">Cómo crear tu perfil de Recompensas de Portal</translation>
 <translation id="1988679729106502285">AVISO:</translation>
-<translation id="4047340292178074200">Este creador aún no ha configurado la recepción de propinas del servicio de cartera con custodia de Recompensas de Brave. Cualquier propina que envíes se quedará pendiente, y se volverá a intentar el pago durante 90 días.</translation>
+<translation id="4047340292178074200">Este creador aún no ha configurado la recepción de propinas del servicio de cartera con custodia de Recompensas de Portal. Cualquier propina que envíes se quedará pendiente, y se volverá a intentar el pago durante 90 días.</translation>
 <translation id="5530734056858418442">Este creador aún no está registrado. Cualquier propina que envíes se quedará pendiente, y se volverá a intentar el pago automáticamente durante 90 días.</translation>
 <translation id="3197752845651180812">Contribuciones pendientes</translation>
 <translation id="6964891561514920613">Mostrar todas las contribuciones pendientes</translation>
@@ -543,9 +543,9 @@
 <translation id="4450893287417543264">No volver a mostrar</translation>
 <translation id="6518133107902771759">Verificar</translation>
 <translation id="422369484771082705">La verificación es opcional. No obstante, si te verificas, podrás transferir los BAT que has ganado con Recompensas de Portal directamente a una cartera con custodia.</translation>
-<translation id="4354564238172327160">¡Hazte creador de Brave!</translation>
+<translation id="4354564238172327160">¡Hazte creador de Portal!</translation>
 <translation id="4639659520811817892">Visita creators.brave.com para registrarte hoy mismo y empezar a recibir BAT de tus fans y seguidores.</translation>
-<translation id="4816455138209470435">¡Brave es compatible con YouTube, Twitch, Vimeo y  muchas otras plataformas!</translation>
+<translation id="4816455138209470435">¡Portal es compatible con YouTube, Twitch, Vimeo y  muchas otras plataformas!</translation>
 <translation id="3656941797339037856">¡Vincula Portal Rewards con Gemini!</translation>
 <translation id="31532096120351460">Intercambia más de 50 criptomonedas, como BAT, en Gemini. Se trata de una plataforma segura en la que puedes almacenar tus criptomonedas y, además, ganar intereses en dólares de EE. UU., Hong Kong y Singapur.</translation>
 <translation id="7404779623219601861">Canjear BAT para las tarjetas de regalo</translation>
@@ -624,7 +624,7 @@
 <translation id="8624961452383848703">Quiero convertir...</translation>
 <translation id="1544192797660353713">Wallet</translation>
 <translation id="616639131065447379">Te damos la bienvenida a Portal Crypto Wallets</translation>
-<translation id="1740464057879304704">Crypto Wallets le permite trabajar con las criptodivisas y los activos relacionados en Brave. Crypto Wallets admite fichas de Ethereum como ETH y BAT, así como piezas de colección, y le permite trabajar con Ðapps y otros contratos inteligentes. Todo esto es para personas que están familiarizadas con el Ethereum y otros sistemas de cadenas de bloques, o que tienen ganas de aprender.</translation>
+<translation id="1740464057879304704">Crypto Wallets le permite trabajar con las criptodivisas y los activos relacionados en Portal. Crypto Wallets admite fichas de Ethereum como ETH y BAT, así como piezas de colección, y le permite trabajar con Ðapps y otros contratos inteligentes. Todo esto es para personas que están familiarizadas con el Ethereum y otros sistemas de cadenas de bloques, o que tienen ganas de aprender.</translation>
 <translation id="4855440621031541830">Solo haga uso de Crypto Wallets si acepta que es el único responsable de todos los riesgos asociados a dicho uso, y que Portal Software no asume ninguna responsabilidad por cualquier pérdida, incluidas las pérdidas incidentales o indirectas que pueda sufrir como resultado del uso.</translation>
 <translation id="3187473319809074178">Todo está completamente separado de</translation>
 <translation id="8327818101454798856">Así que si quiere apoyar a sus sitios favoritos, mejor diríjase allí.</translation>
@@ -641,25 +641,25 @@
 <translation id="5337526542182802976">Pares compatibles</translation>
 <translation id="1164622162816276433">Volumen 24 horas</translation>
 <translation id="7534079972563542000">Unstoppable Domains</translation>
-<translation id="4492298165410552103">¿Habilitar la compatibilidad con los Unstoppable Domains en Brave?</translation>
-<translation id="689573545156113164">Brave comenzará a usar Infura para hacer llamadas JSON-RPC de Ethereum al contrato inteligente de Unstoppable Domains con el fin de resolver las solicitudes de búsqueda de nombres del dominio .crypto (y también .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin y .zil). Si activas esto, Infura verá esos dominios específicos que intentas visitar, pero no podrá ver otros dominios. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
+<translation id="4492298165410552103">¿Habilitar la compatibilidad con los Unstoppable Domains en Portal?</translation>
+<translation id="689573545156113164">Portal comenzará a usar Infura para hacer llamadas JSON-RPC de Ethereum al contrato inteligente de Unstoppable Domains con el fin de resolver las solicitudes de búsqueda de nombres del dominio .crypto (y también .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin y .zil). Si activas esto, Infura verá esos dominios específicos que intentas visitar, pero no podrá ver otros dominios. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
 <translation id="6513892817556267573">Servicio de nombres de Ethereum</translation>
-<translation id="4335039108389860301">¿Habilitar la compatibilidad con el servicio de nombres de Ethereum (ENS) en Brave?</translation>
-<translation id="8328137586971750853">Brave comenzará a usar Infura para hacer llamadas JSON-RPC de Ethereum al contrato inteligente del servicio de nombres de Ethereum con el fin de resolver las solicitudes de búsqueda de nombres del dominio .eth. Si activas esto, Infura verá el dominio .eth que intentas visitar, pero no podrá ver otros dominios. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
+<translation id="4335039108389860301">¿Habilitar la compatibilidad con el servicio de nombres de Ethereum (ENS) en Portal?</translation>
+<translation id="8328137586971750853">Portal comenzará a usar Infura para hacer llamadas JSON-RPC de Ethereum al contrato inteligente del servicio de nombres de Ethereum con el fin de resolver las solicitudes de búsqueda de nombres del dominio .eth. Si activas esto, Infura verá el dominio .eth que intentas visitar, pero no podrá ver otros dominios. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
 <translation id="807404806385418949">Búsqueda de ENS (Servicios de Nombres de Ethereum) fuera de cadena</translation>
-<translation id="4049590838234508776">¿Habilitar la compatibilidad con la búsqueda de ENS (Servicio de Nombres de Ethereum) fuera de cadena en Brave?</translation>
-<translation id="1769433806670482329">Brave empleará puertas de enlace fuera de cadena para resolver las solicitudes de búsqueda de nombres del dominio .eth. Si habilitas esto, el dominio .eth que intentes visitar quedará a la vista de las puertas de enlace de terceros. Los demás dominios que visites, sin embargo, no. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Más información<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
+<translation id="4049590838234508776">¿Habilitar la compatibilidad con la búsqueda de ENS (Servicio de Nombres de Ethereum) fuera de cadena en Portal?</translation>
+<translation id="1769433806670482329">Portal empleará puertas de enlace fuera de cadena para resolver las solicitudes de búsqueda de nombres del dominio .eth. Si habilitas esto, el dominio .eth que intentes visitar quedará a la vista de las puertas de enlace de terceros. Los demás dominios que visites, sin embargo, no. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Más información<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
 <translation id="4047002754575891955">Proceder con la búsqueda fuera de cadena</translation>
 <translation id="531747189990625622">Servicio de nombres de Solana</translation>
-<translation id="1090584614351290462">¿Habilitar la compatibilidad con el servicio de nombres de Solana (SNS) en Brave?</translation>
-<translation id="954404755605517948">Brave comenzará a usar Coinbase Cloud para hacer llamadas JSON-RPC de Solana al programa del servicio de nombres de Solana con el fin de resolver las solicitudes de búsqueda de nombres del dominio .sol. Si activas esto, Coinbase Cloud verá el dominio .sol que intentas visitar, pero no podrá ver otros dominios. Consulta las <ph name="BEGIN_COINBASE_TOU_LINK"/>Condiciones de uso<ph name="END_COINBASE_TOU_LINK"/> y la <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>Política de privacidad<ph name="END_COINBASE_PRIVACY_LINK"/> de Coinbase Cloud.</translation>
+<translation id="1090584614351290462">¿Habilitar la compatibilidad con el servicio de nombres de Solana (SNS) en Portal?</translation>
+<translation id="954404755605517948">Portal comenzará a usar Coinbase Cloud para hacer llamadas JSON-RPC de Solana al programa del servicio de nombres de Solana con el fin de resolver las solicitudes de búsqueda de nombres del dominio .sol. Si activas esto, Coinbase Cloud verá el dominio .sol que intentas visitar, pero no podrá ver otros dominios. Consulta las <ph name="BEGIN_COINBASE_TOU_LINK"/>Condiciones de uso<ph name="END_COINBASE_TOU_LINK"/> y la <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>Política de privacidad<ph name="END_COINBASE_PRIVACY_LINK"/> de Coinbase Cloud.</translation>
 <translation id="7378412287463452336">Continuar usando el servidor Infura</translation>
 <translation id="2313603121968571839">Continuar usando el servidor Coinbase Cloud</translation>
 <translation id="2356070529366658676">Preguntar</translation>
 <translation id="59174027418879706">Habilitada</translation>
 <translation id="2468755552460246661">Dominio bloqueado</translation>
 <translation id="6393849031898466746">Es posible que este sitio intente rastrear tu actividad en otros sitios</translation>
-<translation id="983774928604730749">Brave ha impedido que se cargue el siguiente sitio:</translation>
+<translation id="983774928604730749">Portal ha impedido que se cargue el siguiente sitio:</translation>
 <translation id="4781961723893779890">Es posible que este sitio intente vincular algunos de tus datos personales a una cookie antes de mostrar su contenido.</translation>
 <translation id="2459038234784107183">No vuelva a advertirme sobre este sitio</translation>
 <translation id="8242426110754782860">Proceder</translation>
@@ -696,15 +696,15 @@
 <translation id="72868071984333667">Recibir más información sobre el IPFS y la privacidad</translation>
 <translation id="1886162073868201257">Error de inicio del servicio IPFS</translation>
 <translation id="5357895013476183089">IPFS no está conectado</translation>
-<translation id="7662930734991751511">No se pueden cargar recursos IPFS mediante el nodo IPFS local de Brave.</translation>
+<translation id="7662930734991751511">No se pueden cargar recursos IPFS mediante el nodo IPFS local de Portal.</translation>
 <translation id="1141556610026845297">No se ha podido usar el nodo IPFS para cargar los recursos IPFS que se habían solicitado. Haz clic en el botón “Seguir” para usar la puerta de enlace pública en su lugar, y volver de forma automática a la puerta de enlace pública la próxima vez.</translation>
 <translation id="3373798179786163193">Continuar con el Portal Público</translation>
 <translation id="1974060860693918893">Avanzada</translation>
 <translation id="9096577886148726047">Ocultar Avanzados</translation>
-<translation id="182581792765792826">Brave no puede cargar los recursos IPFS solicitados, bien porque no se ha iniciado el nodo IPFS local de Brave, bien porque no hay compañeros disponibles en este momento. Si seleccionas “Proceder”, Portal volverá automáticamente a la puerta de enlace pública predeterminada cuando se produzca un error en el uso del nodo IPFS local de Brave. Puedes cambiar este comportamiento en cualquier momento en la configuración de Brave.</translation>
+<translation id="182581792765792826">Portal no puede cargar los recursos IPFS solicitados, bien porque no se ha iniciado el nodo IPFS local de Portal, bien porque no hay compañeros disponibles en este momento. Si seleccionas “Proceder”, Portal volverá automáticamente a la puerta de enlace pública predeterminada cuando se produzca un error en el uso del nodo IPFS local de Portal. Puedes cambiar este comportamiento en cualquier momento en la configuración de Portal.</translation>
 <translation id="8026038288183400906">Preferencia de IPFS</translation>
 <translation id="2058855456574089690">Establecer tus preferencias de IPFS</translation>
-<translation id="4780526507945807546">Usar un nodo IPFS local de Brave</translation>
+<translation id="4780526507945807546">Usar un nodo IPFS local de Portal</translation>
 <translation id="8148464361648742409">Usar una puerta de enlace pública</translation>
 <translation id="5123478056123923857">El IPFS (sistema de archivos interplanetario) es la red pública para el almacenamiento y transmisión de datos entre pares. Este protocolo tiene consideraciones de privacidad diferentes a las del HTTP(S).</translation>
 <translation id="1216911189668016151">Tu ordenador contribuye a la red pública, pero tu dirección IP y cualquier contenido que estés solicitando o proporcionando podrían quedar expuestos. El contenido que solicitas a través de IPFS se verifica antes de entregarse. Es posible que las solicitudes de red no usen la configuración del DNS ni del proxy del navegador.</translation>
@@ -769,7 +769,7 @@
 <translation id="5095252080770652994">Progreso</translation>
 <translation id="6278643716658443228">Configuración de las recompensas</translation>
 <translation id="2862978891748913252">Selecciona tu país</translation>
-<translation id="3717922248131893262">Si deseas seguir aprovechando las recompensas de Brave, selecciona tu país para que podamos mostrarte las opciones y anuncios adecuados para tu región. <ph name="LINK_BEGIN"/>Política de privacidad<ph name="LINK_END"/></translation>
+<translation id="3717922248131893262">Si deseas seguir aprovechando las recompensas de Portal, selecciona tu país para que podamos mostrarte las opciones y anuncios adecuados para tu región. <ph name="LINK_BEGIN"/>Política de privacidad<ph name="LINK_END"/></translation>
 <translation id="6777169449483742979">Estás ganando tokens por ver esta imagen promocionada.</translation>
 <translation id="5486114327664215175">Obtén tokens por ver esta imagen y apoyar a creadores de contenido.</translation>
 <translation id="2940863921746574646">Saldo de tokens</translation>
@@ -778,7 +778,7 @@
 <translation id="6020176662032623904">Creador verificado</translation>
 <translation id="6504037373121113545">Cualquier propina que envíes se quedará pendiente, y se volverá a intentar el pago automáticamente durante 90 días. <ph name="LINK_BEGIN"/>Más información<ph name="LINK_END"/></translation>
 <translation id="7826318737761918938">Este creador aún no está registrado.</translation>
-<translation id="4025327308776090280">Este creador aún no ha configurado la recepción de propinas del servicio de cartera con custodia de Recompensas de Brave.</translation>
+<translation id="4025327308776090280">Este creador aún no ha configurado la recepción de propinas del servicio de cartera con custodia de Recompensas de Portal.</translation>
 <translation id="6633436087937398390"><ph name="NAME"/> en <ph name="PLATFORM"/></translation>
 <translation id="7335371657242627509">Incluir en Contribución Automática</translation>
 <translation id="6965382102122355670">OK</translation>
@@ -819,10 +819,10 @@
 <translation id="7465614181960492526">Gane tokens y retribuya algo</translation>
 <translation id="2731539192954672606">Gane tokens por ver anuncios que respetan la privacidad y apoye automáticamente a sus sitios web y creadores de contenidos favoritos.</translation>
 <translation id="5425006356459378415">Las recompensas de Portal no están disponibles</translation>
-<translation id="909076461795862330">Lamentamos comunicarte que se ha producido un error al tratar de configurar las recompensas de Brave. Vuelve a intentarlo.</translation>
+<translation id="909076461795862330">Lamentamos comunicarte que se ha producido un error al tratar de configurar las recompensas de Portal. Vuelve a intentarlo.</translation>
 <translation id="3180990265682133881">Lamentamos comunicarte que se ha producido un error al tratar de establecer tu país. Vuelve a intentarlo.</translation>
 <translation id="5931798071481566121">En este momento, Recompensas de Portal no admite nuevos registros en tu región. Vuelve a intentarlo más adelante si lo deseas. <ph name="LINK_BEGIN"/>Más información<ph name="LINK_END"/></translation>
-<translation id="8764860730661377310">Se ha establecido en <ph name="COUNTRY"/> tu región para las recompensas de Brave.</translation>
+<translation id="8764860730661377310">Se ha establecido en <ph name="COUNTRY"/> tu región para las recompensas de Portal.</translation>
 <translation id="7068416025603720599">Selecciona tu país para que podamos mostrarte las opciones y anuncios adecuados para tu región. <ph name="LINK_BEGIN"/>Política de privacidad<ph name="LINK_END"/></translation>
 <translation id="1275213816424141989">Quizás más tarde</translation>
 <translation id="5187052478998910855">¿Necesitas hacer un repaso de los premios?</translation>
@@ -853,19 +853,19 @@
 <translation id="1402530520078693620">Por último, hagamos unos ajustes en las configuraciones básicas.</translation>
 <translation id="3494356595346329740">Podrás cambiarlo más adelante.</translation>
 <translation id="827315274423079662">¡Bien!, ya tienes todo lo que necesitas.</translation>
-<translation id="8268038362451312235">Al usar las recompensas de Brave, ayuda a hacer de la web un lugar mejor para todos. Y eso es increíble.</translation>
-<translation id="2318949593486441832">Si quieres retirar los BAT que ganes por ver anuncios, debes verificar Recompensas de Brave.</translation>
+<translation id="8268038362451312235">Al usar las recompensas de Portal, ayuda a hacer de la web un lugar mejor para todos. Y eso es increíble.</translation>
+<translation id="2318949593486441832">Si quieres retirar los BAT que ganes por ver anuncios, debes verificar Recompensas de Portal.</translation>
 <translation id="9168436347345867845">Hacerlo en otro momento</translation>
-<translation id="7193761697942491145">Verificar Recompensas de Brave</translation>
+<translation id="7193761697942491145">Verificar Recompensas de Portal</translation>
 <translation id="6609621505400013054">La cartera bitFlyer es un servicio gestionado por bitFlyer, Inc.</translation>
-<translation id="4361456403643555676">Si verificas tu perfil de Recompensas de Portal y lo vinculas a una cuenta de bitFlyer, podrás almacenar y gestionar con mayor facilidad los tokens que hayas ganado a través de Recompensas de Brave</translation>
+<translation id="4361456403643555676">Si verificas tu perfil de Recompensas de Portal y lo vinculas a una cuenta de bitFlyer, podrás almacenar y gestionar con mayor facilidad los tokens que hayas ganado a través de Recompensas de Portal</translation>
 <translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Obtén más información<ph name="LINK_END"/> sobre cómo vincular tu navegador Portal con tu cuenta bitFlyer.</translation>
 <translation id="1015443539415537847">Lo sentimos, Recompensas de Portal no está disponible</translation>
 <translation id="5007776270364097327">Lamentamos comunicarte que Recompensas de Portal no está disponible en tu región.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Más información<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">No te preocupes.</translation>
 <translation id="5027616819996705541">¡Puedes seguir navegando de forma privada!</translation>
-<translation id="8303087505226646884">Lector de velocidad de Brave</translation>
+<translation id="8303087505226646884">Lector de velocidad de Portal</translation>
 <translation id="1013121820689882118">Lector de velocidad</translation>
 <translation id="8112297508607107861">Carga siempre el modo lector de velocidad en <ph name="HOST_NAME"/></translation>
 <translation id="6278428485366576908">Tema</translation>
@@ -883,7 +883,7 @@
 <translation id="2326876601333401685">Este método de RPC no es compatible.</translation>
 <translation id="1128992132632883337">Se ha producido un error de análisis de respuesta</translation>
 <translation id="5382339341735118861">Se ha producido un error genérico al procesar la solicitud</translation>
-<translation id="1680597601664421644">El mnemotécnico que se está importando no es válido para la cartera de Brave</translation>
+<translation id="1680597601664421644">El mnemotécnico que se está importando no es válido para la cartera de Portal</translation>
 <translation id="4641919696349069826">Ya hay una solicitud en curso</translation>
 <translation id="872806943696014633">Faltan datos de la transacción</translation>
 <translation id="4805410229033541409">"from" no tiene autorización para enviar transacciones</translation>
@@ -967,10 +967,10 @@
 <translation id="4500473291496079954">Caduca dentro de</translation>
 <translation id="2236833281018938257">URL o dirección de la cartera</translation>
 <translation id="928500657730628112">Dirección de la cartera</translation>
-<translation id="6812967455478797345">Brave utiliza <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> como agregador DEX.</translation>
+<translation id="6812967455478797345">Portal utiliza <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> como agregador DEX.</translation>
 <translation id="151946611346774041">0x procesará la dirección Ethereum y la dirección IP para completar una transacción (se ocupará incluso de calcular los presupuestos). 0x SOLO utilizará estos datos con el propósito de procesar las transacciones.</translation>
 <translation id="7465227658364622464">Jupiter procesará la dirección de Solana y la dirección IP para llevar a cabo operaciones (incluida la obtención de presupuestos). Jupiter únicamente utilizará estos datos para procesar las operaciones.</translation>
-<translation id="712738518060477110">El presupuesto incluye un <ph name="SWAP_FEE_PERCENTAGE"/> de comisión de Brave.</translation>
+<translation id="712738518060477110">El presupuesto incluye un <ph name="SWAP_FEE_PERCENTAGE"/> de comisión de Portal.</translation>
 <translation id="8368540604723748428">Demasiadas posiciones decimales</translation>
 <translation id="6575120282593094155">Aún no tienes una cuenta de <ph name="ACCOUNT_TYPE"/>. ¿Quieres crear unanow?</translation>
 <translation id="8712637175834984815">Listo</translation>
@@ -1171,7 +1171,7 @@
 <translation id="7029403458170657879">Conectar con Portal Wallet</translation>
 <translation id="2770851145415891830">Se han detectado monederosde criptomonedas</translation>
 <translation id="2237759620789871865">Si prefieres omitir el proceso de importación y seguir utilizando Crypto Wallets, accede en el navegador Portal al menú <ph name="LINK_BEFORE"/>Configuración<ph name="LINK_AFTER"/> y establece Crypto Wallets como predeterminado. En cualquier caso, también es posible realizar la importación, probar la nueva Portal Wallet y cambiar al componentes Crypto Wallets en cualquier momento.</translation>
-<translation id="5590175005414413980">Introduce la contraseña de tus carteras de criptomonedas para importarlas a Cartera de Brave. Administra criptoactivos e interactúa con aplicaciones descentralizadas de Web3 de forma más rápida y segura.</translation>
+<translation id="5590175005414413980">Introduce la contraseña de tus carteras de criptomonedas para importarlas a Cartera de Portal. Administra criptoactivos e interactúa con aplicaciones descentralizadas de Web3 de forma más rápida y segura.</translation>
 <translation id="880619123281809987">Escribe la contraseña de la cartera de criptomonedas</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> conectado</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> desconectada</translation>
@@ -1276,7 +1276,7 @@
 <translation id="2962388922926051374">Error al solicitar el método "eth_chainId" en <ph name="URL"/></translation>
 <translation id="8325036459845654666">Ya se ha añadido esta red.</translation>
 <translation id="554350381160981853">Solo Trezor Model One con Firmware 1.10.5 (o una versión posterior) admite la firma de datos escritos</translation>
-<translation id="1752214435563414457">Lotería de intercambios de Brave</translation>
+<translation id="1752214435563414457">Lotería de intercambios de Portal</translation>
 <translation id="7829441065063984927">7 días de criptorregalos, con premios valorados en ~500 000 $.</translation>
 <translation id="8292716346768453265">¡Participa!</translation>
 <translation id="1935944189549132903">Todos los activos</translation>
@@ -1286,7 +1286,7 @@
 <translation id="4430019312045809116">Volumen</translation>
 <translation id="4312994183947987913">Comprar/Ingresar</translation>
 <translation id="5133421763709317473">No se han encontrado activos que coincidan con la búsqueda ni el filtro</translation>
-<translation id="7383613643114466279">Este activo no es compatible con el criptomonedero de Brave</translation>
+<translation id="7383613643114466279">Este activo no es compatible con el criptomonedero de Portal</translation>
 <translation id="6423985584914773314">No es una dirección de FIL válida</translation>
 <translation id="3898731124813934210">Comprar con Wyre</translation>
 <translation id="5522073372365069684">Comprar con Ramp</translation>
@@ -1392,7 +1392,7 @@
 <translation id="8060029310790625334">Centro de ayuda</translation>
 <translation id="2095142195578664632">¿Necesitas ayuda? Consulta el</translation>
 <translation id="3253669416991680932">Esta cartera de hardware no admite esta operación.</translation>
-<translation id="7457027586454688423">Escribe la contraseña de tu cartera de Brave</translation>
+<translation id="7457027586454688423">Escribe la contraseña de tu cartera de Portal</translation>
 <translation id="7553242001898162573">Introduce tu contraseña</translation>
 <translation id="2873714185189940594">¿Abrir la aplicación de Rainbow Bridge?</translation>
 <translation id="2069777099181262239">Rainbow Bridge es un servicio independiente que te ayuda a establecer puentes entre activos a través de las redes, así como a utilizar tus criptoactivos en otras redes y ecosistemas de aplicaciones descentralizadas. Usar puentes entre activos y otras redes conlleva algunos riesgos.</translation>
@@ -1400,7 +1400,7 @@
 <translation id="3890567288132019108">Más información sobre cómo mitigar riesgos en Rainbow Bridge</translation>
 <translation id="1792917191129448067">Abrir aplicación de Rainbow Bridge</translation>
 <translation id="1522775706527775647">Puente hacia Aurora</translation>
-<translation id="4903322403594141291">Más información sobre la cartera de Brave</translation>
+<translation id="4903322403594141291">Más información sobre la cartera de Portal</translation>
 <translation id="3875185448438395303">Por lo menos:</translation>
 <translation id="2029465635925899949">8 caracteres</translation>
 <translation id="6697810017029555732">¡Correcto!</translation>
@@ -1409,7 +1409,7 @@
 <translation id="8297006494302853456">Débil</translation>
 <translation id="6782556046178425980">Antes de empezar a hacer una copia de seguridad de la cartera</translation>
 <translation id="7119749028647909394">La frase de recuperación de 12-24 palabras es una clave privada que puedes utilizar para recuperar el acceso a tu cartera en caso de que pierdas uno o varios dispositivos vinculados. Guárdala en un lugar seguro y en el orden exacto en el que aparece a continuación.</translation>
-<translation id="3259018319025894691">Brave no tiene acceso a tu frase secreta de recuperación. Mantenla a buen recaudo y no la compartas con nadie.</translation>
+<translation id="3259018319025894691">Portal no tiene acceso a tu frase secreta de recuperación. Mantenla a buen recaudo y no la compartas con nadie.</translation>
 <translation id="7650284207965419234"><ph name="TAG_BEFORE"/>Importante: <ph name="TAG_AFTER"/>No compartas nunca tu frase de recuperación. Cualquier persona que tenga esta frase podrá quedarse con tus activos de forma irrevocable.</translation>
 <translation id="7509948206688764960">Guarda una copia de seguridad de la frase de recuperación de tu cartera</translation>
 <translation id="8052898407431791827">Copiado en el portapapeles</translation>
@@ -1430,7 +1430,7 @@
 <translation id="7992766987062040279">​</translation>
 <translation id="2295726992010694229">​</translation>
 <translation id="8241405611628876973">¡Enhorabuena! ¡Tu cartera de Portal ya está lista!</translation>
-<translation id="6828327990705355767">Para acceder a tu cartera, basta con hacer clic en el icono de cartera situado en la parte superior derecha de cualquier ventana del navegador Brave.</translation>
+<translation id="6828327990705355767">Para acceder a tu cartera, basta con hacer clic en el icono de cartera situado en la parte superior derecha de cualquier ventana del navegador Portal.</translation>
 <translation id="396152018598329740">¿Cómo funciona una cartera de criptomonedas?</translation>
 <translation id="7512061585041489067">¿Cuál es la mejor cartera de criptomonedas?</translation>
 <translation id="1342755158522323177">¿Qué es un navegador basado en criptomonedas?</translation>
@@ -1439,12 +1439,12 @@
 <translation id="7328255859839881981">¿Qué son las aplicaciones descentralizadas?</translation>
 <translation id="3852489285890032403">¿Qué es la Web 3?</translation>
 <translation id="5448233694500869445">Hemos detectado la extensión MetaMask en tu navegador</translation>
-<translation id="8436080536329710282">Introduce la contraseña de tu cartera de MetaMask para importarla fácilmente a la cartera de Brave.</translation>
+<translation id="8436080536329710282">Introduce la contraseña de tu cartera de MetaMask para importarla fácilmente a la cartera de Portal.</translation>
 <translation id="7543512765962444927">Vincula tu cartera actual</translation>
 <translation id="3551682252653406110">Para vincular una cartera que ya tienes, es posible que debas indicar tu frase de recuperación. En este momento se pueden restaurar/importar carteras de Ethereum y Solana.</translation>
 <translation id="346929827081904572">Restaurar a partir de la frase inicial</translation>
 <translation id="5645597512426471834">12-24 palabras</translation>
-<translation id="8158505311297755780">Escribe la frase de recuperación de 12-24 palabras de tu cartera de Brave.</translation>
+<translation id="8158505311297755780">Escribe la frase de recuperación de 12-24 palabras de tu cartera de Portal.</translation>
 <translation id="5419707890586509000">Importar desde MetaMask</translation>
 <translation id="2265945811107390939">Utiliza tu contraseña de MetaMask para importar tu frase inicial</translation>
 <translation id="7060680423657442298">Da igual, voy a crear una nueva cartera</translation>
@@ -1458,10 +1458,10 @@
 <translation id="7781090633800450517">He leído y acepto las <ph name="LINK_BEFORE"/>Condiciones de uso<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">Comprar criptomonedas</translation>
 <translation id="3887541341068007345">Comprobando las extensiones de la cartera...</translation>
-<translation id="3567994771568272606">Importar desde carteras de criptomonedas heredadas de Brave</translation>
+<translation id="3567994771568272606">Importar desde carteras de criptomonedas heredadas de Portal</translation>
 <translation id="8407091560429310499">Seleccionar un activo</translation>
 <translation id="756590380936155533">Para finalizar la compra <ph name="ASSET_TICKER"/>, selecciona alguno de nuestros socios</translation>
-<translation id="7880860489474966219">Al finalizar, tus fondos se transferirán a tu cartera de Brave</translation>
+<translation id="7880860489474966219">Al finalizar, tus fondos se transferirán a tu cartera de Portal</translation>
 <translation id="6182661078713714878">Depositar criptomonedas</translation>
 <translation id="3683305208314702347">Depositar <ph name="VALUE"/></translation>
 <translation id="5768739294929936862">Depositar tokens Solana o SPL</translation>
@@ -1518,9 +1518,9 @@
 <translation id="1671503397662036257">Estado de la conexión de Tor</translation>
 <translation id="6024292492796847324">Progreso de inicialización de Tor</translation>
 <translation id="8300751939969131609">Activa Noticias de Portal para no quedarte fuera de onda</translation>
-<translation id="7758665172236842395">Sigue tus fuentes favoritas en un solo canal. Solo tienes que abrir una pestaña en Brave, desplazarte hacia abajo… ¡y listo!</translation>
+<translation id="7758665172236842395">Sigue tus fuentes favoritas en un solo canal. Solo tienes que abrir una pestaña en Portal, desplazarte hacia abajo… ¡y listo!</translation>
 <translation id="2376542729617592331">Noticias de Portal se mantiene con publicidad y muestra anuncios completamente privados y anónimos. <ph name="LINK_START"/>Más información.<ph name="LINK_END"/>.</translation>
-<translation id="1765217911817124376">Activar Noticias de Brave</translation>
+<translation id="1765217911817124376">Activar Noticias de Portal</translation>
 <translation id="780301667611848630">No, gracias</translation>
 <translation id="6265592479622441247">Volver al <ph name="BEGIN_BOLD"/>panel de control<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">Busca sitios web, temas o canales de RSS</translation>
@@ -1565,12 +1565,12 @@
 <translation id="5510475084662028636">Fuentes destacadas</translation>
 <translation id="1459693405370120464">Tiempo</translation>
 <translation id="8366057325711477500">Noticias internacionales</translation>
-<translation id="6303294677342628402">Escudos Brave</translation>
-<translation id="8458987127502506209">Habilitar Protecciones de Brave</translation>
+<translation id="6303294677342628402">Escudos Portal</translation>
+<translation id="8458987127502506209">Habilitar Protecciones de Portal</translation>
 <translation id="7509914170164691086">Las protecciones están ACTIVADAS <ph name="LINK_BEFORE"/>durante<ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">Las protecciones están DESACTIVADAS <ph name="LINK_BEFORE"/>durante<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">Si el sitio no funciona, prueba a desactivar Protecciones. 
-    <ph name="LINK_BEFORE"/>Nota: esto puede reducir la protección de la privacidad de Brave.<ph name="LINK_AFTER"/></translation>
+    <ph name="LINK_BEFORE"/>Nota: esto puede reducir la protección de la privacidad de Portal.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Se han bloqueado rastreadores y anuncios, entre otras cosas <ph name="LINK_BEFORE"/>Más información<ph name="LINK_AFTER"/></translation>
 <translation id="7604553853176833536">Sin la protección de Protecciones de Portal <ph name="LINK_BEFORE"/>Más información<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Controles avanzados</translation>
@@ -1596,12 +1596,12 @@
 <translation id="8034285923190068220">Permitir huellas dactilares</translation>
 <translation id="1992750560347846445">Informar sobre el sitio</translation>
 <translation id="2387532482048804818">Dinos si el sitio no funcionó como es debido con las protecciones activadas.</translation>
-<translation id="3795015906457257780">Estás consultando este sitio sin las protecciones de privacidad de Brave.</translation>
-<translation id="7194012750329511146">Protecciones de Brave
+<translation id="3795015906457257780">Estás consultando este sitio sin las protecciones de privacidad de Portal.</translation>
+<translation id="7194012750329511146">Protecciones de Portal
 Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</translation>
 <translation id="4292121526390005808">Scripts bloqueados</translation>
 <translation id="264682546981571963">¿Ya te aburren los avisos de consentimiento de cookies?</translation>
-<translation id="4986297793092101884">Brave ya bloquea las cookies de terceros. También podemos bloquear los avisos de consentimiento de cookies.</translation>
+<translation id="4986297793092101884">Portal ya bloquea las cookies de terceros. También podemos bloquear los avisos de consentimiento de cookies.</translation>
 <translation id="535688588637568715">Sí, bloquear los avisos de consentimiento de cookies</translation>
 <translation id="6294662480095808915">Privacidad por defecto.</translation>
 <translation id="4366423156486478559">Benefíciate de la protección de Portal cada vez que hagas clic en algún enlace. Para navegar de forma privada, lo único que tienes que hacer es configurar Portal como navegador predeterminado.</translation>
@@ -1613,16 +1613,16 @@ Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</t
 <translation id="2453860139492968684">Finalizar</translation>
 <translation id="2273851479262317744">Configura Portal como navegador predeterminado</translation>
 <translation id="5037676449506322593">Seleccionar todo</translation>
-<translation id="8330804319517911603">Ayúdanos a mejorar Brave</translation>
+<translation id="8330804319517911603">Ayúdanos a mejorar Portal</translation>
 <translation id="2867964979837593892">Perfeccionamos el producto y protegemos tu privacidad todos los días.</translation>
 <translation id="7661940959332108190">Enviar informes de diagnóstico en caso de que Portal falle o se bloquee.</translation>
 <translation id="6358373266071757311">Comparte opiniones anónimas y privadas sobre los productos para que podamos averiguar cuáles son las funciones de Portal que se usan con más frecuencia.</translation>
 <translation id="7415454883318062233">Configuración completada</translation>
-<translation id="3141206739023333979">Puedes cambiar estas opciones cuando quieras en la sección <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/> de Brave.</translation>
+<translation id="3141206739023333979">Puedes cambiar estas opciones cuando quieras en la sección <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/> de Portal.</translation>
 <translation id="8321985064212130832">Lee nuestra <ph name="LINK_BEFORE"/>Política de privacidad<ph name="LINK_AFTER"/> de principio a fin</translation>
-<translation id="7821773512278295352">Firewall + VPN de Brave: conectado</translation>
-<translation id="6019088868713395120">Firewall + VPN de Brave: desconectado</translation>
-<translation id="3541307549916475335">IU del panel de VPN de Brave</translation>
+<translation id="7821773512278295352">Firewall + VPN de Portal: conectado</translation>
+<translation id="6019088868713395120">Firewall + VPN de Portal: desconectado</translation>
+<translation id="3541307549916475335">IU del panel de VPN de Portal</translation>
 <translation id="1742469581923031760">Conectando…</translation>
 <translation id="1287487756047817908">Desconectando…</translation>
 <translation id="2325196879156848326">Error al establecer la conexión</translation>
@@ -1644,7 +1644,7 @@ Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</t
 <translation id="8463313539532697053">Espera a que se cargue…</translation>
 <translation id="4317307602527599178">No se puede comprobar el estado de tu compra, posiblemente debido a un problema con la red.</translation>
 <translation id="4613076894734402086">Editar forma de pago</translation>
-<translation id="8373427068383038263">Parece que el pago más reciente de <ph name="VALUE"/> no se ha procesado. El acceso a esta suscripción se pondrá en pausa hasta que se resuelva el problema con el pago. Intenta editar el método de pago o contacta con el equipo de asistencia de Brave.</translation>
+<translation id="8373427068383038263">Parece que el pago más reciente de <ph name="VALUE"/> no se ha procesado. El acceso a esta suscripción se pondrá en pausa hasta que se resuelva el problema con el pago. Intenta editar el método de pago o contacta con el equipo de asistencia de Portal.</translation>
 <translation id="1839021455997460752">Tu dirección de correo electrónico</translation>
 <translation id="8054563304616131773">Introduce una dirección de correo electrónico válida</translation>
 <translation id="5154702632169343078">Asunto</translation>
@@ -1662,7 +1662,7 @@ Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</t
 <translation id="6676791921618140305">Versión de SO:</translation>
 <translation id="1156325797949437777">Asistencia proporcionada con la ayuda de Guardian.</translation>
 <translation id="8146777497879160283">Error al redactar la configuración de la VPN. Puede deberse a la falta de permisos o a que no has ejecutado Windows Update recientemente.</translation>
-<translation id="3307461350293459700">Error al conectar con la VPN. Vuelve a intentarlo y procura hacer clic en "Permitir" para habilitar la configuración de VPN de Brave.</translation>
+<translation id="3307461350293459700">Error al conectar con la VPN. Vuelve a intentarlo y procura hacer clic en "Permitir" para habilitar la configuración de VPN de Portal.</translation>
 <translation id="7261518280726313829">Si desactivas la configuración segura del DNS o utilizas los servidores predeterminados de Windows, es posible que tu proveedor de acceso a Internet vea los nombres de los sitios que visitas, y eso es algo que Portal no recomienda. ¿Quieres hacerlo de todos modos?</translation>
 <translation id="888284761945060750">La configuración segura del DNS está desactivada conforme a las políticas de tu organización. Si usas VPN de Portal sin la configuración segura del DNS, es posible que tanto tu proveedor de acceso a Internet como tu organización vean los nombres de los sitios que visitas.</translation>
 <translation id="1657858090675311947">No volver a advertirme acerca de esto.</translation>

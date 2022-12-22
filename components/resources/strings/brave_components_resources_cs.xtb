@@ -32,10 +32,10 @@
 <translation id="985862351129593673">Přizpůsobit ovládací panel</translation>
 <translation id="7180865173735832675">Přizpůsobit</translation>
 <translation id="8522669544471808198">Zobrazit pozadí</translation>
-<translation id="5801450813341024983">Pozadí prohlížeče Brave</translation>
+<translation id="5801450813341024983">Pozadí prohlížeče Portal</translation>
 <translation id="1416884769823233410">Použít vlastní</translation>
 <translation id="6246790815526961700">Nahrát ze zařízení</translation>
-<translation id="7275773481201277457">Ukázat statistiky Brave</translation>
+<translation id="7275773481201277457">Ukázat statistiky Portal</translation>
 <translation id="6836061097810262923">Ukázat hodiny</translation>
 <translation id="5912396950572065471">Formát</translation>
 <translation id="604124094241169006">Automaticky</translation>
@@ -62,18 +62,18 @@
 <translation id="2045455461902775806">Vyhledávač Portal nezkresluje ani necenzuruje výsledky a nesleduje vás, vaše dotazy ani kliknutí.</translation>
 <translation id="6811221529729056895">Vyzkoušejte vyhledávač Portal nyní</translation>
 <translation id="5525668735313040116">Hledat na webu soukromě</translation>
-<translation id="3446024864193919737">Ukázat odměny Brave</translation>
+<translation id="3446024864193919737">Ukázat odměny Portal</translation>
 <translation id="6274899614137380422">Ukázat Binance</translation>
 <translation id="5585019845078534178">Karty</translation>
 <translation id="3870475560794762985">Ukázat sponzorované obrázky</translation>
 <translation id="8466529005131466476">Zobrazováním sponzorovaných stránek můžete vydělávat.</translation>
 <translation id="3955742714798578476">Vyděláváte tím, že si zobrazujete sponzorované snímky.</translation>
-<translation id="7822618650711767369">Sponzorované snímky podporují Brave. S Portal Rewards můžete získat část příjmů ze sponzorovaných snímků a podpořit také tvůrce obsahu!</translation>
+<translation id="7822618650711767369">Sponzorované snímky podporují Portal. S Portal Rewards můžete získat část příjmů ze sponzorovaných snímků a podpořit také tvůrce obsahu!</translation>
 <translation id="5579480493856401823">Vypnutí sponzorovaných webů sníží množství tokenů, které vyděláváte, a podporu, která je každý měsíc poskytována tvůrcům obsahu.</translation>
 <translation id="2875302873837723333">top weby</translation>
-<translation id="8173998484743827990">Statistiky Brave</translation>
+<translation id="8173998484743827990">Statistiky Portal</translation>
 <translation id="383680190590774040">hodiny</translation>
-<translation id="3333887201479867589">Odměny Brave</translation>
+<translation id="3333887201479867589">Odměny Portal</translation>
 <translation id="3159285901314605198">Obrázek na pozadí</translation>
 <translation id="385051799172605136">Zpět</translation>
 <translation id="4225429340218993596">Plné barvy</translation>
@@ -88,12 +88,12 @@
 <translation id="4108314971463891922">Sledovat</translation>
 <translation id="3861486700625780712">Nesledovat</translation>
 <translation id="8909741410750517071">Sledujte tento zdroj jedním kliknutím.</translation>
-<translation id="1982678174789043774">Získejte všechny nejnovější příběhy ve zprávách Brave.</translation>
+<translation id="1982678174789043774">Získejte všechny nejnovější příběhy ve zprávách Portal.</translation>
 <translation id="7894417427965898400">Správa kanálů</translation>
 <translation id="9164544612367905452">Načítání...</translation>
 <translation id="1276592121036104130">Načíst nový obsah</translation>
-<translation id="2875288128871360696">Rolovat pro zprávy Brave</translation>
-<translation id="8510120023634509743">Vyresetovat zdroje zpráv Brave</translation>
+<translation id="2875288128871360696">Rolovat pro zprávy Portal</translation>
+<translation id="8510120023634509743">Vyresetovat zdroje zpráv Portal</translation>
 <translation id="75825199302994272">Vyresetovat všechny vaše volby vydavatele zpráv Portal na výchozí hodnoty?</translation>
 <translation id="954001034349395856">Všechny zdroje</translation>
 <translation id="8890516388109605451">Zdroje</translation>
@@ -110,8 +110,8 @@
 <translation id="5190407395832551012">Aby se odměny Portal nedaly zneužívat, náhodně žádáme uživatele, aby vyplnili kontrolu Captcha. Kliknutím na “Vyřešit” bude zobrazování reklam pokračovat.</translation>
 <translation id="1693773514029371138">Vyřešit</translation>
 <translation id="6991128190741664836">Později</translation>
-<translation id="8112367589167674370">Brave Talk</translation>
-<translation id="8488282162676695335">Peněženka Brave</translation>
+<translation id="8112367589167674370">Portal Talk</translation>
+<translation id="8488282162676695335">Peněženka Portal</translation>
 <translation id="8820817407110198400">Záložky</translation>
 <translation id="1644574205037202324">Historie</translation>
 <translation id="2702801445560668637">Seznam čtení</translation>
@@ -120,8 +120,8 @@
 <translation id="8730621377337864115">Hotovo</translation>
 <translation id="730042046912793465">Toto je</translation>
 <translation id="2055363275850890030">Soukromé okno</translation>
-<translation id="9133213713928851646">Brave si nepamatuje, co jste dělali v soukromém okně. Navštívené stránky se nezobrazí ve vaší historii a soubory cookies po dokončení procházení zmizí. Soukromá okna ovšem neznamenají naprostou anonymitu na internetu.</translation>
-<translation id="4085423007106063912">Brave si nikdy nepamatujete, co děláte v soukromém okně. Navštívené stránky se nezobrazí v historii. Soubory cookie, údaje z formulářů a údaje o stránkách zmizí ve chvíli, kdy okno zavřete.</translation>
+<translation id="9133213713928851646">Portal si nepamatuje, co jste dělali v soukromém okně. Navštívené stránky se nezobrazí ve vaší historii a soubory cookies po dokončení procházení zmizí. Soukromá okna ovšem neznamenají naprostou anonymitu na internetu.</translation>
+<translation id="4085423007106063912">Portal si nikdy nepamatujete, co děláte v soukromém okně. Navštívené stránky se nezobrazí v historii. Soubory cookie, údaje z formulářů a údaje o stránkách zmizí ve chvíli, kdy okno zavřete.</translation>
 <translation id="1700746046668116047">Upozorňujeme, že vaše aktivita může být stále viditelná pro poskytovatele internetových služeb, pasivní pozorovatele sítě nebo vašeho zaměstnavatele (pokud používáte pracovní počítač nebo síť). Chcete-li získat větší soukromí, otevřete si soukromé okno pomocí služby Tor.</translation>
 <translation id="8759753423332885148">Learn more.</translation>
 <translation id="8611976753572844841">Soukromé okno s připojením k Toru</translation>
@@ -136,7 +136,7 @@
 <translation id="6126226144537295436">s připojením k Toru</translation>
 <translation id="8541421872680304667">Tor skryje vaši IP adresu před weby, které navštěvujete, přesměrováním procházení prostřednictvím několika serverů sítě Tor, než se dostanete do cíle. Síť Tor může zpomalit procházení a některé weby nemusí fungovat.</translation>
 <translation id="8897548669448660973">Používání anonymních oken mění pouze to, co prohlížeč Portal dělá na vašem zařízení — nemění chování nikoho jiného. Software Tor skryje vaši IP adresu pro stránky, které navštěvujete, a vašemu poskytovateli internetových služeb nebo zaměstnavateli o něco ztíží, avšak neznemožní zjistit, jaké stránky navštěvujete. Anonymní okno otevřete pomocí softwaru Tor z nabídky nebo pomocí [[ key ]].</translation>
-<translation id="6975708438781948564">Zjistěte více o prohlížeči Tor v Brave</translation>
+<translation id="6975708438781948564">Zjistěte více o prohlížeči Tor v Portal</translation>
 <translation id="4712050378540986986">Status Toru</translation>
 <translation id="1939334281379458295">Systém Tor byl úspěšně připojen.</translation>
 <translation id="8030169304546394654">Odpojeno</translation>
@@ -172,7 +172,7 @@
 <translation id="7616645803364270729">Email, Twitter atd.</translation>
 <translation id="5299848999918506028">Děkujeme!</translation>
 <translation id="76550953340008122">Díky, že jste vývojářům Portal dali vědět, že tyto stránky vykazují nějakou chybu. Budeme se usilovně snažit ji opravit!</translation>
-<translation id="2974339193389078578">Odvážně brázděte internet s prohlížečem Brave</translation>
+<translation id="2974339193389078578">Odvážně brázděte internet s prohlížečem Portal</translation>
 <translation id="7735138632831241257">Připravte se na rychlejší a bezpečnější pohyb internetem s prohlížečem postaveným tak, aby chránil vaše soukromí.</translation>
 <translation id="6001839398155993679">Jdeme na to</translation>
 <translation id="4225189922025976867"><ph name="BEGIN_BOLD"/> Vydělávejte tokdny<ph name="END_BOLD"/> zobrazováním reklam Portal Private Ads a automaticky podporujte tvůrce obsahu.</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Nahrát</translation>
 <translation id="2088479175984386785">Nahrát z</translation>
 <translation id="5540323067375019678">Nastavení vašich štítů</translation>
-<translation id="3278033011827237847">Chrání proti reklamám a sledovačům narušujícím soukromí při prohlížení se Štíty Brave. Pokud to vypadá, že stránka nefunguje správně, nastavte Štíty na „dole“.</translation>
+<translation id="3278033011827237847">Chrání proti reklamám a sledovačům narušujícím soukromí při prohlížení se Štíty Portal. Pokud to vypadá, že stránka nefunguje správně, nastavte Štíty na „dole“.</translation>
 <translation id="3366308997091824722">Nastavení štítu</translation>
 <translation id="4764692524839457597">výchozí</translation>
 <translation id="3108122610701115301">Nastavit výchozí</translation>
@@ -195,10 +195,10 @@
 <translation id="1201402288615127009">Další</translation>
 <translation id="7954950242989581218">Brouzdejte bez potíží</translation>
 <translation id="2188651882929633653">Funkce Portal Shields blokuje záludné elementy, které se vás pokouší sledovat napříč internetem, včetně většiny reklam. Pokud některá internetová stránka nechce fungovat, nastavte Shields na „vypnuto“. Pro odhad souhrnného využití určitých funkcí Portal používá <ph name="BEGIN_LINK_P3A"/>naprosto anonymní produktovou analýzu<ph name="END_LINK_P3A"/>. Můžete ji vypnout v <ph name="BEGIN_LINK_P3A_SETTINGS"/>Nastavení.<ph name="END_LINK_P3A_SETTINGS"/></translation>
-<translation id="4851215387785619212">Soukromé reklamy Brave</translation>
-<translation id="3114984266384096064">Získejte [[currency]] zobrazováním soukromých reklam Brave. Prezentované reklamy vycházejí z vašich zájmů, které jsou odvozeny z vašeho chování při prohlížení. Žádné osobní údaje ani historie prohlížení se nikdy nedostanou mimo váš prohlížeč.</translation>
+<translation id="4851215387785619212">Soukromé reklamy Portal</translation>
+<translation id="3114984266384096064">Získejte [[currency]] zobrazováním soukromých reklam Portal. Prezentované reklamy vycházejí z vašich zájmů, které jsou odvozeny z vašeho chování při prohlížení. Žádné osobní údaje ani historie prohlížení se nikdy nedostanou mimo váš prohlížeč.</translation>
 <translation id="6112368337882254910">Automatický příspěvek</translation>
-<translation id="3742599705619405136">Automatický způsob podpory vydavatelů a tvůrců obsahu. Nastavte měsíční platbu a procházejte jako obvykle. Ověřené internetové stránky Brave, které navštívíte, obdrží vaše příspěvky automaticky na základě vaší pozornosti měřené prohlížečem Brave.</translation>
+<translation id="3742599705619405136">Automatický způsob podpory vydavatelů a tvůrců obsahu. Nastavte měsíční platbu a procházejte jako obvykle. Ověřené internetové stránky Portal, které navštívíte, obdrží vaše příspěvky automaticky na základě vaší pozornosti měřené prohlížečem Portal.</translation>
 <translation id="3325399124634342726">Aktuální příjmy v tomto měsíci (odhadované)</translation>
 <translation id="8593551638387217772">Další datum platby</translation>
 <translation id="4428871418618312983">Reklamy přijaté tento měsíc</translation>
@@ -256,8 +256,8 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Datum dalšího měsíčního příspěvku</translation>
-<translation id="6231182869178328516">Právě jsem přispěl <ph name="NAME"/> pomocí prohlížeče Brave. Podívejte se na https://brave.com/tips.</translation>
-<translation id="5916536234616514390">Líbí se mi, že <ph name="HASHTAG"/>Brave umožňuje podporovat tvůrce! Právě jsem poslal příspěvek tvůrci <ph name="NAME"/> v hodnotě <ph name="HASHTAG2"/> BAT. Pokud se ověří na https://creators.brave.com před <ph name="DATE"/>, zaslaný příspěvek v BAT je jeho!</translation>
+<translation id="6231182869178328516">Právě jsem přispěl <ph name="NAME"/> pomocí prohlížeče Portal. Podívejte se na https://brave.com/tips.</translation>
+<translation id="5916536234616514390">Líbí se mi, že <ph name="HASHTAG"/>Portal umožňuje podporovat tvůrce! Právě jsem poslal příspěvek tvůrci <ph name="NAME"/> v hodnotě <ph name="HASHTAG2"/> BAT. Pokud se ověří na https://creators.brave.com před <ph name="DATE"/>, zaslaný příspěvek v BAT je jeho!</translation>
 <translation id="8404935570206006581">SpropitnéSBrave</translation>
 <translation id="3082557070674409251">Klepnuto</translation>
 <translation id="7119308337584989771">Zamítnuto</translation>
@@ -265,7 +265,7 @@
 <translation id="8826352442759228526">Vaše odměny Portal nelze ověřit, protože jste dosáhli maximálního počtu ověřených zařízení.</translation>
 <translation id="1221593978088944142">Chyba: Bylo dosaženo limitu zařízení</translation>
 <translation id="3113653894794167793">Je nám líto, ale při zpracování vašeho požadavku došlo k potížím, zkuste to prosím znovu.</translation>
-<translation id="3509185560119586847">Váš profil odměn Portal byl bohužel nahlášen a nelze jej v tuto chvíli ověřit u správce. Nahlášení může být někdy způsobeno abnormální aktivitou reklam Brave, může se však jednat i o falešně pozitivní výsledek.</translation>
+<translation id="3509185560119586847">Váš profil odměn Portal byl bohužel nahlášen a nelze jej v tuto chvíli ověřit u správce. Nahlášení může být někdy způsobeno abnormální aktivitou reklam Portal, může se však jednat i o falešně pozitivní výsledek.</translation>
 <translation id="5031451251720571882">Pokud je váš profil odměn Portal nahlášený, nelze provádět ověření.</translation>
 <translation id="7301759045821910866">Nemusíte provádět žádné kroky. Ke kontrole vašeho profilu odměn Portal dochází pravidelně, aby se určilo, zda lze nahlášení odstranit. Zkuste se každou chvíli dívat, zda nebylo nahlášení odstraněno.</translation>
 <translation id="280350148043792509"><ph name="BEGIN_LINK"/>Více o tom, jak funguje označování profilů odměn.<ph name="END_LINK"/></translation>
@@ -300,10 +300,10 @@
 <translation id="3222002542796906461">Získávat své odměny přímo do svého účtu</translation>
 <translation id="1233129511866436960">Zjistěte více o regionech a podpoře</translation>
 <translation id="7329170127335794328">V současné době není ve vašem regionu k dispozici</translation>
-<translation id="8304979233901023264">Přečetl(a) jsemi si a souhlasím s’s <ph name="TOS_LINK_BEGIN"/>podmínkami služby<ph name="TOS_LINK_END"/> &amp; <ph name="PP_LINK_BEGIN"/>zásadami ochrany osobních údajů<ph name="PP_LINK_END"/> společnosti Brave.</translation>
+<translation id="8304979233901023264">Přečetl(a) jsemi si a souhlasím s’s <ph name="TOS_LINK_BEGIN"/>podmínkami služby<ph name="TOS_LINK_END"/> &amp; <ph name="PP_LINK_BEGIN"/>zásadami ochrany osobních údajů<ph name="PP_LINK_END"/> společnosti Portal.</translation>
 <translation id="2359808026110333948">Pokračovat</translation>
 <translation id="1892970806832316900">Čeká se na vyřízení do <ph name="DATE"/></translation>
-<translation id="7849926087559412554">Jejda! Váš prohlížeč nemůže přijímat soukromé reklamy Brave.</translation>
+<translation id="7849926087559412554">Jejda! Váš prohlížeč nemůže přijímat soukromé reklamy Portal.</translation>
 <translation id="5177429570315095022">Chcete-li, aby prohlížeč nadále zobrazoval reklamy, je třeba jej aktualizovat.</translation>
 <translation id="7352651011704765696">Došlo k chybě</translation>
 <translation id="752216563428219524">Reklamy se nespustily, prosím obnovte stránku.</translation>
@@ -423,7 +423,7 @@
 <translation id="839058704683989763">Nastavili jste čekající tip!</translation>
 <translation id="5096821444729034955">pro jejich příspěvek</translation>
 <translation id="2978223787436054634">Vyslat zprávu o vaší podpoře</translation>
-<translation id="5916290544882167205">Brave Software. Portal je registrovanou ochrannou známkou Portal Software. Názvy webů mohou být ochrannými známkami nebo registrovanými ochrannými známkami vlastníků webů.</translation>
+<translation id="5916290544882167205">Portal Software. Portal je registrovanou ochrannou známkou Portal Software. Názvy webů mohou být ochrannými známkami nebo registrovanými ochrannými známkami vlastníků webů.</translation>
 <translation id="9026369588205476247">Pro ochranu vašeho soukromí není tento výpis Portal Rewards ukládán, nahráván ani zaznamenáván jinam než na vaše zařízení (tento počítač). V případě ztráty dat z vašeho zařízení vám společnost Portal tento výpis nebude moci zpětně poskytnout.</translation>
 <translation id="3587482841069643663">Vše</translation>
 <translation id="4241224519481557898">Kategorie</translation>
@@ -457,7 +457,7 @@
 <translation id="8802504113265057166">[[currency]] nepoužitá do data vypršení platnosti bude automaticky vrácena do fondu Portal User Growth Pool.</translation>
 <translation id="279567716178902927">Datum vypršení grantu</translation>
 <translation id="1389143276807887637">nahrát</translation>
-<translation id="6302422639282249274">Spravovat odměny Brave</translation>
+<translation id="6302422639282249274">Spravovat odměny Portal</translation>
 <translation id="211044356803193224">Měsíční příspěvky</translation>
 <translation id="2487641031722095938">Máte dnes šťastný den!</translation>
 <translation id="6255773350565723852">Váš žetonový grant je na cestě.</translation>
@@ -518,14 +518,14 @@
 <translation id="5015443703424816075">Žeton</translation>
 <translation id="1634828734222219955">Celkem</translation>
 <translation id="3535654229833214438">Transakce</translation>
-<translation id="8772672608371898774">Autor ověřený přes Brave</translation>
+<translation id="8772672608371898774">Autor ověřený přes Portal</translation>
 <translation id="5050370287908180130">Pro podrobnosti se podívejte na měsíční výpis</translation>
 <translation id="7853202427316060426">Aktivita</translation>
 <translation id="7232682712743566408">Zůstatek odměn</translation>
 <translation id="1910721550319506122">Vítejte!</translation>
-<translation id="4258022280942725182">Tvé odměny Brave</translation>
+<translation id="4258022280942725182">Tvé odměny Portal</translation>
 <translation id="6727483290601442544">Zobrazit podrobnosti</translation>
-<translation id="4206899127409458763">Vytvoření profilu odměn Brave</translation>
+<translation id="4206899127409458763">Vytvoření profilu odměn Portal</translation>
 <translation id="1988679729106502285">POZNÁMKA:</translation>
 <translation id="4047340292178074200">Tento tvůrce v současnosti nemá nastaveno, aby přijímal příspěvky z vašich odměn. Veškeré vámi udělené příspěvky budou nevyřízené a budou se automaticky opakovat po dobu 90 dnů.</translation>
 <translation id="5530734056858418442">Tento tvůrce ještě není přihlášený. Všechny vámi udělené příspěvky zůstanou nevyřízené a jejich udělování se bude automaticky opakovat po dobu 90 dnů.</translation>
@@ -545,7 +545,7 @@
 <translation id="422369484771082705">Ověření je nepovinné. Díky ověření si ale budete moci ukládat své BAT získané v rámci odměn Portal přímo do peněženky.</translation>
 <translation id="4354564238172327160">Staňte se tvůrcem – Portal Creator!</translation>
 <translation id="4639659520811817892">Navštivte creators.brave.com, zaregistrujte se a můžete začít přijímat příspěvky BAT od svých fanoušků a sledujících.</translation>
-<translation id="4816455138209470435">Brave podporuje YouTube, Twitch, Vimeo a další!</translation>
+<translation id="4816455138209470435">Portal podporuje YouTube, Twitch, Vimeo a další!</translation>
 <translation id="3656941797339037856">Propojte odměny s Gemini!</translation>
 <translation id="31532096120351460">Obchodujte s více než 50 kryptoměnami, včetně BAT, na platformě Gemini, kde můžete bezpečně ukládat své kryptoměny. V US, HK a SG můžete navíc získat úrokovou sazbu.</translation>
 <translation id="7404779623219601861">Směňujte BAT za dárkové karty</translation>
@@ -623,8 +623,8 @@
 <translation id="824449983246282560">Nemáte žádné zůstatky na vašem účtu. Navštivte Gemini a nějaké si pořiďte.</translation>
 <translation id="8624961452383848703">Chci konvertovat…</translation>
 <translation id="1544192797660353713">Peněženka</translation>
-<translation id="616639131065447379">Vítejte v Kryptopeněženkách Brave</translation>
-<translation id="1740464057879304704">Komponenta Kryptopeněženky vám umožní pracovat s kryptoměnou a souvisejícími aktivy v aplikaci Brave. Komponenta Kryptopeněženky podporuje tokeny Ethereum, jako jsou například ETH a BAT, a také sběratelské předměty a umožňuje vám pracovat s aplikacemi Ðapps a dalšími chytrými smlouvami. Vše uvedené výše je určeno pro lidi, kteří jsou obeznámeni s měnou Ethereum a dalšími blockchainovými systémy – nebo se s nimi chtějí seznámit.</translation>
+<translation id="616639131065447379">Vítejte v Kryptopeněženkách Portal</translation>
+<translation id="1740464057879304704">Komponenta Kryptopeněženky vám umožní pracovat s kryptoměnou a souvisejícími aktivy v aplikaci Portal. Komponenta Kryptopeněženky podporuje tokeny Ethereum, jako jsou například ETH a BAT, a také sběratelské předměty a umožňuje vám pracovat s aplikacemi Ðapps a dalšími chytrými smlouvami. Vše uvedené výše je určeno pro lidi, kteří jsou obeznámeni s měnou Ethereum a dalšími blockchainovými systémy – nebo se s nimi chtějí seznámit.</translation>
 <translation id="4855440621031541830">Kryptopeněženky používejte jen v případě souhlasu s tím, že vy sami jste zodpovědní za veškerá rizika spojená s jejich používáním a že na Portal Software nespočívá žádná zodpovědnost nebo záruka vůči jakýmkoliv ztrátám včetně nechtěných nebo výsledných ztrát, které můžete utrpět důsledkem tohoto používání.</translation>
 <translation id="3187473319809074178">To vše je zcela oddělené od</translation>
 <translation id="8327818101454798856">Takže pokud si přejete podpořit své oblíbené stránky, zamiřte přímo tam.</translation>
@@ -641,18 +641,18 @@
 <translation id="5337526542182802976">Podporované páry</translation>
 <translation id="1164622162816276433">Objem za 24 h</translation>
 <translation id="7534079972563542000">Unstoppable Domains</translation>
-<translation id="4492298165410552103">Chcete povolit podporu služby Unstoppable Domains v prohlížeči Brave?</translation>
-<translation id="689573545156113164">Brave bude využívat služeb společnosti Infura pro Ethereum JSON-RPC volání chytrých kontraktů od Unstoppable Domains k vyřešení požadavků na překlad názvů domén .crypto (a také .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil). Pokud toto povolíte, Infura uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. Podívejte se na<ph name="BEGIN_INFURA_TOU_LINK"/>podmínky použití<ph name="END_INFURA_TOU_LINK"/> a <ph name="BEGIN_INFURA_PRIVACY_LINK"/>zásady ochrany osobních údajů<ph name="END_INFURA_PRIVACY_LINK"/> společnosti Infura.</translation>
+<translation id="4492298165410552103">Chcete povolit podporu služby Unstoppable Domains v prohlížeči Portal?</translation>
+<translation id="689573545156113164">Portal bude využívat služeb společnosti Infura pro Ethereum JSON-RPC volání chytrých kontraktů od Unstoppable Domains k vyřešení požadavků na překlad názvů domén .crypto (a také .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil). Pokud toto povolíte, Infura uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. Podívejte se na<ph name="BEGIN_INFURA_TOU_LINK"/>podmínky použití<ph name="END_INFURA_TOU_LINK"/> a <ph name="BEGIN_INFURA_PRIVACY_LINK"/>zásady ochrany osobních údajů<ph name="END_INFURA_PRIVACY_LINK"/> společnosti Infura.</translation>
 <translation id="6513892817556267573">Služba Ethereum Name Service</translation>
 <translation id="4335039108389860301">Chcete v prohlížeči Portal povolit podporu služby ENS (Ethereum Name Service)?</translation>
-<translation id="8328137586971750853">Brave bude využívat služeb společnosti Infura pro Ethereum JSON-RPC volání chytrých kontraktů od Ethereum Name Service k vyřešení požadavků na překlad názvů domén .eth. Pokud toto povolíte, Infura uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. Podívejte se na <ph name="BEGIN_INFURA_TOU_LINK"/>podmínky použití<ph name="END_INFURA_TOU_LINK"/> a <ph name="BEGIN_INFURA_PRIVACY_LINK"/>zásady ochrany osobních údajů<ph name="END_INFURA_PRIVACY_LINK"/> společnosti Infura.</translation>
+<translation id="8328137586971750853">Portal bude využívat služeb společnosti Infura pro Ethereum JSON-RPC volání chytrých kontraktů od Ethereum Name Service k vyřešení požadavků na překlad názvů domén .eth. Pokud toto povolíte, Infura uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. Podívejte se na <ph name="BEGIN_INFURA_TOU_LINK"/>podmínky použití<ph name="END_INFURA_TOU_LINK"/> a <ph name="BEGIN_INFURA_PRIVACY_LINK"/>zásady ochrany osobních údajů<ph name="END_INFURA_PRIVACY_LINK"/> společnosti Infura.</translation>
 <translation id="807404806385418949">Vyhledávání mimo řetězec Ethereum Name Service (ENS)</translation>
-<translation id="4049590838234508776">Povolit vyhledávání podpory služby Ethereum Name Service (ENS) mimo řetězec v Brave?</translation>
-<translation id="1769433806670482329">Brave bude k řešení požadavků na překlad doménových názvů .eth používat brány mimo blockchain. Pokud tuto funkci povolíte, brány třetích stran uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Zjistěte více<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
+<translation id="4049590838234508776">Povolit vyhledávání podpory služby Ethereum Name Service (ENS) mimo řetězec v Portal?</translation>
+<translation id="1769433806670482329">Portal bude k řešení požadavků na překlad doménových názvů .eth používat brány mimo blockchain. Pokud tuto funkci povolíte, brány třetích stran uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Zjistěte více<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
 <translation id="4047002754575891955">Pokračujte ve vyhledávání mimo řetězec</translation>
 <translation id="531747189990625622">Služba Solana Name Service</translation>
 <translation id="1090584614351290462">Chcete v prohlížeči Portal povolit podporu služby Solana Name Service (SNS)?</translation>
-<translation id="954404755605517948">Brave bude využívat služby Coinbase Cloud pro Solana JSON-RPC volání programu služby Solana Name Service k vyřešení požadavků na překlad názvů domén .sol. Pokud toto povolíte, Coinbase Cloud uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. Podívejte se na <ph name="BEGIN_COINBASE_TOU_LINK"/>podmínky použití<ph name="END_COINBASE_TOU_LINK"/> a <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>zásady ochrany osobních údajů<ph name="END_COINBASE_PRIVACY_LINK"/> Coinbase Cloud.</translation>
+<translation id="954404755605517948">Portal bude využívat služby Coinbase Cloud pro Solana JSON-RPC volání programu služby Solana Name Service k vyřešení požadavků na překlad názvů domén .sol. Pokud toto povolíte, Coinbase Cloud uvidí ty domény, které se pokusíte navštívit, ale neuvidí žádné jiné domény. Podívejte se na <ph name="BEGIN_COINBASE_TOU_LINK"/>podmínky použití<ph name="END_COINBASE_TOU_LINK"/> a <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>zásady ochrany osobních údajů<ph name="END_COINBASE_PRIVACY_LINK"/> Coinbase Cloud.</translation>
 <translation id="7378412287463452336">Pokračovat prostřednictvím serveru Infura</translation>
 <translation id="2313603121968571839">Pokračovat s použitím serveru Coinbase Cloud</translation>
 <translation id="2356070529366658676">Zeptat se</translation>
@@ -701,7 +701,7 @@
 <translation id="3373798179786163193">Pokračovat s veřejnou bránou</translation>
 <translation id="1974060860693918893">Rozšířená nastavení</translation>
 <translation id="9096577886148726047">Skrýt pokročilé</translation>
-<translation id="182581792765792826">Brave nemůže načíst požadované prostředky IPFS buď proto, že se nespustil místní uzel Portal IPFS, nebo v tuto chvíli nejsou k dispozici žádné připojené peery.  Pokud zvolíte „Pokračovat“, Portal se automaticky přepne zpět na výchozí veřejnou bránu, kdykoli selže použití místního uzlu Portal IPFS.  Toto chování můžete kdykoli změnit v nastavení Brave.</translation>
+<translation id="182581792765792826">Portal nemůže načíst požadované prostředky IPFS buď proto, že se nespustil místní uzel Portal IPFS, nebo v tuto chvíli nejsou k dispozici žádné připojené peery.  Pokud zvolíte „Pokračovat“, Portal se automaticky přepne zpět na výchozí veřejnou bránu, kdykoli selže použití místního uzlu Portal IPFS.  Toto chování můžete kdykoli změnit v nastavení Portal.</translation>
 <translation id="8026038288183400906">Předvolba IPFS</translation>
 <translation id="2058855456574089690">Nastavte svou preferenci IPFS</translation>
 <translation id="4780526507945807546">Použít místní uzel Portal IPFS</translation>
@@ -730,7 +730,7 @@
 <translation id="5525148540855044244">Odkaz ke sdílení byl zkopírován: <ph name="SHAREABLE_LINK"/></translation>
 <translation id="3741998951694470470">Načtení dat pro import se nezdařilo</translation>
 <translation id="7900950536120202771">Vnitřní chyba uzlu IPFS</translation>
-<translation id="1036635552229153800">Data byla úspěšně nahrána, ale nebyla přesunuta do adresáře prohlížeče Brave. Můžete to provést ručně na stránce nastavení importu.</translation>
+<translation id="1036635552229153800">Data byla úspěšně nahrána, ale nebyla přesunuta do adresáře prohlížeče Portal. Můžete to provést ručně na stránce nastavení importu.</translation>
 <translation id="3793279629218362523">Správa klíčů Peer ID a IPNS</translation>
 <translation id="572392919096807438">Pamatovat si moji volbu</translation>
 <translation id="7978789143098237970">dokud nezavřu tuto stránku</translation>
@@ -818,7 +818,7 @@
 <translation id="6717671373796332174">Více podrobností nabídne <ph name="TOUR_LINK_BEGIN"/>krátká prohlídka prohlídka<ph name="TOUR_LINK_END"/> nebo <ph name="LEARN_LINK_BEGIN"/>další informace<ph name="LEARN_LINK_END"/>.</translation>
 <translation id="7465614181960492526">Vydělejte tokeny a odvděčte se</translation>
 <translation id="2731539192954672606">Vydělávejte zobrazováním reklam respektujících soukromí tokeny a podporujte automaticky své oblíbené weby a tvůrce obsahu.</translation>
-<translation id="5425006356459378415">Brave Rewards není k dispozici</translation>
+<translation id="5425006356459378415">Portal Rewards není k dispozici</translation>
 <translation id="909076461795862330">Při pokusu o nastavení Portal Rewards došlo bohužel k chybě. Zkuste to prosím znovu.</translation>
 <translation id="3180990265682133881">Při pokusu o nastavení země bohužel došlo k chybě. Zkuste to znovu.</translation>
 <translation id="5931798071481566121">Nové registrace do odměn Portal Rewards nejsou v tuto chvíli ve vašem regionu povoleny. Vždy to však můžete zkusit později. <ph name="LINK_BEGIN"/>Zjistěte více<ph name="LINK_END"/></translation>
@@ -839,9 +839,9 @@
 <translation id="8281886186245836920">Přeskočit</translation>
 <translation id="1377600615067678409">Nyní přeskočit</translation>
 <translation id="7930505144430343145">Vítejte v Portal Rewards!</translation>
-<translation id="3477340970981564961">Brave Private Ads vás na rozdíl od běžných reklam odměňují tokeny k podpoře tvůrců obsahu, ale zároveň udržuje vaše osobní informace v soukromí.</translation>
+<translation id="3477340970981564961">Portal Private Ads vás na rozdíl od běžných reklam odměňují tokeny k podpoře tvůrců obsahu, ale zároveň udržuje vaše osobní informace v soukromí.</translation>
 <translation id="6973095375773523904">Kde se zobrazují reklamy?</translation>
-<translation id="7556325460112047619">Brave Private Ads se zobrazí jako normální oznámení.  V nastavení můžete změnit, jak často se tyto reklamy budou zobrazovat.</translation>
+<translation id="7556325460112047619">Portal Private Ads se zobrazí jako normální oznámení.  V nastavení můžete změnit, jak často se tyto reklamy budou zobrazovat.</translation>
 <translation id="6897083627729802351">Kdy obdržíte odměnu?</translation>
 <translation id="310863932297733723">Vaše vydělané tokeny z Portal Private Ads z aktuálního měsíce dorazí 5. dne následujícího měsíce.</translation>
 <translation id="7712287524451429139">Odměňování bez námahy</translation>
@@ -854,18 +854,18 @@
 <translation id="3494356595346329740">Toto můžete později změnit.</translation>
 <translation id="827315274423079662">Hurá, vše bylo nastaveno!</translation>
 <translation id="8268038362451312235">Používáním služby Portal Rewards pomáháte vytvářet z webu lepší místo pro všechny. A to je úžasné!</translation>
-<translation id="2318949593486441832">Abyste mohli vybrat BAT za prohlížení reklam, je nutno provést ověření vašich odměn Brave.</translation>
+<translation id="2318949593486441832">Abyste mohli vybrat BAT za prohlížení reklam, je nutno provést ověření vašich odměn Portal.</translation>
 <translation id="9168436347345867845">Později</translation>
-<translation id="7193761697942491145">Ověřit odměny Brave</translation>
+<translation id="7193761697942491145">Ověřit odměny Portal</translation>
 <translation id="6609621505400013054">Peněženka bitFlyer je služba spravovaná společností bitFlyer, Inc.</translation>
-<translation id="4361456403643555676">Ověření odměn Portal a jejich propojení s účtem bitFlyer vám umožní snáze ukládat a spravovat tokeny, které jste získali prostřednictvím odměn Brave</translation>
+<translation id="4361456403643555676">Ověření odměn Portal a jejich propojení s účtem bitFlyer vám umožní snáze ukládat a spravovat tokeny, které jste získali prostřednictvím odměn Portal</translation>
 <translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Zjistěte více<ph name="LINK_END"/> o tom, jak propojit váš prohlížeč Portal s vaším účtem bitFlyer.</translation>
 <translation id="1015443539415537847">Omlouváme se, Portal Rewards nejsou k dispozici</translation>
 <translation id="5007776270364097327">Bohužel to vypadá, že se nacházíte v oblasti, kde Portal Rewards nejsou dostupné.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Zjistit více<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">Žádné strachy.</translation>
 <translation id="5027616819996705541">Můžete stále procházet internet s ochranou soukromí!</translation>
-<translation id="8303087505226646884">Brave Speedreader</translation>
+<translation id="8303087505226646884">Portal Speedreader</translation>
 <translation id="1013121820689882118">Speedreader</translation>
 <translation id="8112297508607107861">Pro <ph name="HOST_NAME"/> vždy použít režim rychlého čtení</translation>
 <translation id="6278428485366576908">Motiv</translation>
@@ -967,10 +967,10 @@
 <translation id="4500473291496079954">Platnost vyprší</translation>
 <translation id="2236833281018938257">Adresa peněženky nebo URL</translation>
 <translation id="928500657730628112">Adresa peněženky</translation>
-<translation id="6812967455478797345">Brave používá <ph name="LINK_BEFORE"/> <ph name="SWAP_PROVIDER"/> <ph name="LINK_AFTER"/> jako agregátor DEX.</translation>
+<translation id="6812967455478797345">Portal používá <ph name="LINK_BEFORE"/> <ph name="SWAP_PROVIDER"/> <ph name="LINK_AFTER"/> jako agregátor DEX.</translation>
 <translation id="151946611346774041">0x zpracuje adresu Etherea a IP adresu pro provedení transakce (včetně získání cenových nabídek). 0x bude tyto údaje používat POUZE pro účely zpracování transakcí.</translation>
 <translation id="7465227658364622464">Jupiter zpracuje adresu Solana a IP adresu pro provedení transakce (včetně získání cenových nabídek). Jupiter bude tyto údaje používat POUZE pro účely zpracování transakcí.</translation>
-<translation id="712738518060477110">Nabídka zahrnuje <ph name="SWAP_FEE_PERCENTAGE"/> poplatek Brave.</translation>
+<translation id="712738518060477110">Nabídka zahrnuje <ph name="SWAP_FEE_PERCENTAGE"/> poplatek Portal.</translation>
 <translation id="8368540604723748428">Příliš mnoho desetinných čárek</translation>
 <translation id="6575120282593094155">Nemáte účet <ph name="ACCOUNT_TYPE"/>. Chcete jej nyní vytvořit?</translation>
 <translation id="8712637175834984815">Hotovo</translation>
@@ -1015,7 +1015,7 @@
 <translation id="955918646509748368">Zadaná fráze pro obnovení je neplatná.</translation>
 <translation id="8107437138787377150">Vložit frázi pro obnovení ze schránky</translation>
 <translation id="4811736040444856406">Zobrazit frázi pro obnovení</translation>
-<translation id="4359319875297001084">Chcete provést import ze starších kryptopeněženek Brave?</translation>
+<translation id="4359319875297001084">Chcete provést import ze starších kryptopeněženek Portal?</translation>
 <translation id="3331452756822160641">Nové heslo</translation>
 <translation id="8624315169751085215">Zkopírovat do schránky</translation>
 <translation id="7885157704277298658">Copied!</translation>
@@ -1171,7 +1171,7 @@
 <translation id="7029403458170657879">Propojit s peněženkou Portal Wallet</translation>
 <translation id="2770851145415891830">Byly zjištěny existující kryptopeněženky</translation>
 <translation id="2237759620789871865">Pokud chcete import raději přeskočit a zachovat staré prostředí kryptopeněženek, stačí přejít do <ph name="LINK_BEFORE"/>Nastavení<ph name="LINK_AFTER"/> prohlížeče Portal a změnit výchozí nastavení zpět na Kryptopeněženky. Můžete také importovat a vyzkoušet novou peněženku Portal a nastavení kdykoli změnit zpět.</translation>
-<translation id="5590175005414413980">Zadejte heslo své stávající kryptopeněženky a importujte ji do peněženky Brave. Užijte si rychlejší a bezpečnější způsob správy kryptoaktiv a interakce s decentralizovanými aplikacemi Web3.</translation>
+<translation id="5590175005414413980">Zadejte heslo své stávající kryptopeněženky a importujte ji do peněženky Portal. Užijte si rychlejší a bezpečnější způsob správy kryptoaktiv a interakce s decentralizovanými aplikacemi Web3.</translation>
 <translation id="880619123281809987">Zadejte heslo kryptopeněženky</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> je připojen</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> je odpojen</translation>
@@ -1409,7 +1409,7 @@
 <translation id="8297006494302853456">Malá</translation>
 <translation id="6782556046178425980">Než začnete zálohovat peněženku</translation>
 <translation id="7119749028647909394">12-24slovní obnovovací fráze je soukromý klíč, který můžete použít k obnovení přístupu ke své peněžence v případě, že ztratíte připojené/připojená zařízení. Uložte jej někde na bezpečném místě a v přesně takovém pořadí, v jakém je uvedeno níže.</translation>
-<translation id="3259018319025894691">Brave nemá přístup k vaší tajné frázi pro obnovení. Udržujte ji v bezpečí a nikdy ji nesdílejte s nikým jiným.</translation>
+<translation id="3259018319025894691">Portal nemá přístup k vaší tajné frázi pro obnovení. Udržujte ji v bezpečí a nikdy ji nesdílejte s nikým jiným.</translation>
 <translation id="7650284207965419234"><ph name="TAG_BEFORE"/> Důležité: <ph name="TAG_AFTER"/> Nikdy nesdílejte svou frázi pro obnovení. Každý, kdo má tuto frázi, si může navždy vzít vaše aktiva.</translation>
 <translation id="7509948206688764960">Zálohujte frázi pro obnovení peněženky</translation>
 <translation id="8052898407431791827">Zkopírováno do schránky</translation>
@@ -1430,7 +1430,7 @@
 <translation id="7992766987062040279">.</translation>
 <translation id="2295726992010694229">.</translation>
 <translation id="8241405611628876973">Gratulujeme! Vaše Portal Wallet je připravena k použití!</translation>
-<translation id="6828327990705355767">Chcete-li získat přístup k peněžence, stačí kliknout na ikonu peněženky v pravém horním rohu libovolného okna prohlížeče Brave.</translation>
+<translation id="6828327990705355767">Chcete-li získat přístup k peněžence, stačí kliknout na ikonu peněženky v pravém horním rohu libovolného okna prohlížeče Portal.</translation>
 <translation id="396152018598329740">Jak používat kryptopeněženku?</translation>
 <translation id="7512061585041489067">Jaká je nejlepší kryptopeněženka?</translation>
 <translation id="1342755158522323177">Co je to kryptoprohlížeč?</translation>
@@ -1458,7 +1458,7 @@
 <translation id="7781090633800450517">Přečetl/a jsem si <ph name="LINK_BEFORE"/> Podmínky použití <ph name="LINK_AFTER"/> a souhlasím s nimi</translation>
 <translation id="1422451606553326863">Koupit kryptoměny</translation>
 <translation id="3887541341068007345">Kontrola rozšíření peněženky...</translation>
-<translation id="3567994771568272606">Import ze starších kryptopeněženek Brave</translation>
+<translation id="3567994771568272606">Import ze starších kryptopeněženek Portal</translation>
 <translation id="8407091560429310499">Výběr aktiva</translation>
 <translation id="756590380936155533">Chcete-li dokončit nákup <ph name="ASSET_TICKER"/>, vyberte jednoho z našich partnerů</translation>
 <translation id="7880860489474966219">Po dokončení budou vaše prostředky převedeny do Portal Wallet</translation>
@@ -1518,9 +1518,9 @@
 <translation id="1671503397662036257">Status připojení Tor</translation>
 <translation id="6024292492796847324">Průběh inicializace Toru</translation>
 <translation id="8300751939969131609">Zapněte si zprávy Portal a nenechte si ujít žádný příběh</translation>
-<translation id="7758665172236842395">Sledujte své oblíbené zdroje v jediném kanálu. Stačí otevřít kartu v Brave, sjet dolů a... voila!</translation>
+<translation id="7758665172236842395">Sledujte své oblíbené zdroje v jediném kanálu. Stačí otevřít kartu v Portal, sjet dolů a... voila!</translation>
 <translation id="2376542729617592331">Zpravodajská služba Portal News je podporována příjmy z reklamy. Reklamy jsou anonymizované a respektují ochranu soukromí. <ph name="LINK_START"/>Zjistit více<ph name="LINK_END"/>.</translation>
-<translation id="1765217911817124376">Zapnout zprávy Brave</translation>
+<translation id="1765217911817124376">Zapnout zprávy Portal</translation>
 <translation id="780301667611848630">Ne, děkuji</translation>
 <translation id="6265592479622441247">Zpět na <ph name="BEGIN_BOLD"/>řídicí panel<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">Hledat stránky, témata nebo kanály RSS</translation>
@@ -1567,11 +1567,11 @@ other {# zdrojů}
 <translation id="1459693405370120464">Počasí</translation>
 <translation id="8366057325711477500">Ze světa</translation>
 <translation id="6303294677342628402">Štíty</translation>
-<translation id="8458987127502506209">Aktivovat štíty Brave</translation>
+<translation id="8458987127502506209">Aktivovat štíty Portal</translation>
 <translation id="7509914170164691086">Štíty <ph name="LINK_BEFORE"/>pro<ph name="LINK_AFTER"/> jsou ZAPNUTY</translation>
 <translation id="260764436039299868">Štíty <ph name="LINK_BEFORE"/>pro<ph name="LINK_AFTER"/> jsou VYPNUTÉ</translation>
 <translation id="3907405056878805220">Pokud se stránka nezobrazuje správně, zkuste štíty vypnout.
-    <ph name="LINK_BEFORE"/>Poznámka: může dojít k omezení ochrany soukromí Brave.<ph name="LINK_AFTER"/></translation>
+    <ph name="LINK_BEFORE"/>Poznámka: může dojít k omezení ochrany soukromí Portal.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Počet zablokovaných sledovačů, reklam, atd. <ph name="LINK_BEFORE"/>Další informace<ph name="LINK_AFTER"/></translation>
 <translation id="7604553853176833536">Ochrana štíty Portal není zapnuta <ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Pokročilé nastavení</translation>
@@ -1597,12 +1597,12 @@ other {# zdrojů}
 <translation id="8034285923190068220">Povolit fingerprinting</translation>
 <translation id="1992750560347846445">Stránka pro nahlašování</translation>
 <translation id="2387532482048804818">Dejte nám vědět, pokud se stránka nezobrazovala správně se zapnutými štíty.</translation>
-<translation id="3795015906457257780">Tuto stránku procházíte bez ochrany soukromí Brave.</translation>
+<translation id="3795015906457257780">Tuto stránku procházíte bez ochrany soukromí Portal.</translation>
 <translation id="7194012750329511146">Štíty Portal odrazily
 <ph name="NUMBER"/> měření, reklam a další nežádoucí prvky</translation>
 <translation id="4292121526390005808">Blokované skripty</translation>
 <translation id="264682546981571963">Už vás nebaví oznámení o souhlasu s cookies?</translation>
-<translation id="4986297793092101884">Brave již blokuje soubory cookie třetích stran. Stejně tak můžeme zablokovat oznámení o souhlasu s cookies.</translation>
+<translation id="4986297793092101884">Portal již blokuje soubory cookie třetích stran. Stejně tak můžeme zablokovat oznámení o souhlasu s cookies.</translation>
 <translation id="535688588637568715">Ano, blokovat oznámení o souhlasu s cookies</translation>
 <translation id="6294662480095808915">Ochrana soukromí. Vždy.</translation>
 <translation id="4366423156486478559">Nastavte si Portal jako výchozí prohlížeč a budete mít ochranu od Portal při otevření každého odkazu.</translation>
@@ -1614,15 +1614,15 @@ other {# zdrojů}
 <translation id="2453860139492968684">Dokončit</translation>
 <translation id="2273851479262317744">Nastavit Portal jako výchozí prohlížeč</translation>
 <translation id="5037676449506322593">Vybrat vše</translation>
-<translation id="8330804319517911603">Pomoci zlepšovat Brave</translation>
+<translation id="8330804319517911603">Pomoci zlepšovat Portal</translation>
 <translation id="2867964979837593892">Dolaďování aplikace. Ochrana soukromí. Každý den.</translation>
 <translation id="7661940959332108190">Pokud Portal spadne nebo zamrzne, poslat diagnostické hlášení.</translation>
 <translation id="6358373266071757311">Sdílejte anonymní, soukromí respektující informace o aplikaci. To nám pomůže zjistit, jaké funkce se v aplikaci Portal používají nejčastěji.</translation>
 <translation id="7415454883318062233">Nastavení je dokončeno</translation>
 <translation id="3141206739023333979">Tato nastavení aplikace Portal můžete kdykoli změnit na adrese <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
 <translation id="8321985064212130832">Přečtěte si úplné znění našich <ph name="LINK_BEFORE"/>Zásad ochrany osobních údajů<ph name="LINK_AFTER"/>.</translation>
-<translation id="7821773512278295352">Brave Firewall + VPN: Připojeno</translation>
-<translation id="6019088868713395120">Brave Firewall + VPN: Odpojeno</translation>
+<translation id="7821773512278295352">Portal Firewall + VPN: Připojeno</translation>
+<translation id="6019088868713395120">Portal Firewall + VPN: Odpojeno</translation>
 <translation id="3541307549916475335">Uživatelské rozhraní panelu Portal VPN</translation>
 <translation id="1742469581923031760">Připojování…</translation>
 <translation id="1287487756047817908">Odpojování…</translation>
@@ -1645,7 +1645,7 @@ other {# zdrojů}
 <translation id="8463313539532697053">Chvíli strpení při načítání…</translation>
 <translation id="4317307602527599178">Nelze zkontrolovat stav nákupu. Příčinou může být problém se sítí.</translation>
 <translation id="4613076894734402086">Upravit platební metodu</translation>
-<translation id="8373427068383038263">Vypadá to, že vaše poslední platba za <ph name="VALUE"/> neproběhla. Přístup k tomuto předplatnému bude pozastaven, dokud nebude problém s platbou vyřešen. Zkuste upravit způsob platby nebo kontaktujte podporu Brave.</translation>
+<translation id="8373427068383038263">Vypadá to, že vaše poslední platba za <ph name="VALUE"/> neproběhla. Přístup k tomuto předplatnému bude pozastaven, dokud nebude problém s platbou vyřešen. Zkuste upravit způsob platby nebo kontaktujte podporu Portal.</translation>
 <translation id="1839021455997460752">Vaše e-mailová adresa</translation>
 <translation id="8054563304616131773">Zadejte platnou e-mailovou adresu</translation>
 <translation id="5154702632169343078">Předmět</translation>

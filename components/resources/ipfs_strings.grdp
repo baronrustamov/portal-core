@@ -118,7 +118,7 @@
       This content was loaded over the IPFS protocol
     </message>
     <message name="IDS_PAGE_INFO_IPFS_BUBBLE_TEXT" desc="The text for ips page info bubble.">
-      InterPlanetary File System (IPFS) is a public network for peer-to-peer data storage and delivery. You can learn more about Brave's integration or configure your IPFS settings at any time.
+      InterPlanetary File System (IPFS) is a public network for peer-to-peer data storage and delivery. You can learn more about Portal's integration or configure your IPFS settings at any time.
     </message>
     <message name="IDS_PAGE_INFO_IPFS_SETTINGS_BUTTON_TEXT" desc="The text for ips page info bubble IPFS Settings button.">
       IPFS settings

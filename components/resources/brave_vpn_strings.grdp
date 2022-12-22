@@ -52,7 +52,7 @@
     Choose another server
   </message>
 
-  <message name="IDS_BRAVE_VPN_UNABLE_CONNECT_INFO" desc="Description of which region VPN couldn't connect to"><ph name="PRODUCT_NAME">$1<ex>Brave Firewall + VPN</ex></ph> couldn't connect to the <ph name="REGION_NAME">$2<ex>Tokyo</ex></ph> server. You can try again, or choose another.</message>
+  <message name="IDS_BRAVE_VPN_UNABLE_CONNECT_INFO" desc="Description of which region VPN couldn't connect to"><ph name="PRODUCT_NAME">$1<ex>Portal Firewall + VPN</ex></ph> couldn't connect to the <ph name="REGION_NAME">$2<ex>Tokyo</ex></ph> server. You can try again, or choose another.</message>
 
   <message name="IDS_BRAVE_VPN_BUY" desc="Button title to purchase vpn">
     Buy
@@ -208,7 +208,7 @@
 
   <if expr="is_macosx">
     <message name="IDS_BRAVE_VPN_CONNECT_NOT_ALLOWED" desc="A highlited note on the main panel when permission from the user is not allowed to create a VPN profile on OS-level">
-      VPN connection failed. Please try connecting again, and be sure to click Allow to enable Brave's VPN configuration.
+      VPN connection failed. Please try connecting again, and be sure to click Allow to enable Portal's VPN configuration.
     </message>
   </if>
 
@@ -228,8 +228,8 @@
     Learn more.
   </message>
 
-  <message name="IDS_SETTINGS_SECURE_DNS_DISABLED_BY_BRAVE_VPN" desc="A text shown to user on settings page for DNS setting when it is blocked by BraveVPN">
-    The setting is locked by BraveVPN while it is connected
+  <message name="IDS_SETTINGS_SECURE_DNS_DISABLED_BY_BRAVE_VPN" desc="A text shown to user on settings page for DNS setting when it is blocked by PortalVPN">
+    The setting is locked by PortalVPN while it is connected
   </message>
 
   <message name="IDS_BRAVE_VPN_DNS_SETTINGS_NOTIFICATION_DIALOG_TEXT" desc="A text shown to user when he enabled Portal VPN without DoH and we override settings">

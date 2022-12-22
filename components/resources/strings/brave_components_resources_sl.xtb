@@ -32,10 +32,10 @@
 <translation id="985862351129593673">Ozadje po meri</translation>
 <translation id="7180865173735832675">Prilagodi</translation>
 <translation id="8522669544471808198">Prikaži slike ozadja</translation>
-<translation id="5801450813341024983">Ozadja za Brave</translation>
+<translation id="5801450813341024983">Ozadja za Portal</translation>
 <translation id="1416884769823233410">Uporabite svoje</translation>
 <translation id="6246790815526961700">Naložite iz naprave</translation>
-<translation id="7275773481201277457">Pokaži Braveove statistike</translation>
+<translation id="7275773481201277457">Pokaži Portalove statistike</translation>
 <translation id="6836061097810262923">Pokaži uro</translation>
 <translation id="5912396950572065471">Format</translation>
 <translation id="604124094241169006">Samodejno</translation>
@@ -68,10 +68,10 @@
 <translation id="3870475560794762985">Prikaži sponzorirano sliko</translation>
 <translation id="8466529005131466476">Zaslužite lahko z obiski sponzoriranih spletnih mest.</translation>
 <translation id="3955742714798578476">Zaslužite z ogledovanjem sponzoriranih slik.</translation>
-<translation id="7822618650711767369">Sponzorirane slike podpirajo Brave. Z nagradami Portal lahko zaslužite del prihodkov od sponzoriranih slik in podprete tudi ustvarjalce vsebin!</translation>
+<translation id="7822618650711767369">Sponzorirane slike podpirajo Portal. Z nagradami Portal lahko zaslužite del prihodkov od sponzoriranih slik in podprete tudi ustvarjalce vsebin!</translation>
 <translation id="5579480493856401823">Če izklopite sponzorirana spletna mesta, se zmanjša število žetonov, ki jih zaslužite, in podpora, ki jo vsak mesec prejmejo ustvarjalci vsebine.</translation>
 <translation id="2875302873837723333">Najb. prilj.</translation>
-<translation id="8173998484743827990">Brave statistika</translation>
+<translation id="8173998484743827990">Portal statistika</translation>
 <translation id="383680190590774040">ura</translation>
 <translation id="3333887201479867589">Storitev Portal Rewards</translation>
 <translation id="3159285901314605198">Slika ozadja</translation>
@@ -88,7 +88,7 @@
 <translation id="4108314971463891922">Sledite</translation>
 <translation id="3861486700625780712">Prenehajte slediti</translation>
 <translation id="8909741410750517071">Sledite temu viru z 1 klikom.</translation>
-<translation id="1982678174789043774">Izvedite vse o najnovejših dogodkih v novicah Brave.</translation>
+<translation id="1982678174789043774">Izvedite vse o najnovejših dogodkih v novicah Portal.</translation>
 <translation id="7894417427965898400">Upravljajte vire</translation>
 <translation id="9164544612367905452">Pridobivanje…</translation>
 <translation id="1276592121036104130">Naloži novo vsebino</translation>
@@ -110,8 +110,8 @@
 <translation id="5190407395832551012">Če želite Portal Rewards zaščititi pred zlorabo, bomo naključno prosili uporabnike, da rešijo preskus captcha. Za nadaljevanje oglasov kliknite “Reši”.</translation>
 <translation id="1693773514029371138">Reši</translation>
 <translation id="6991128190741664836">Pozneje</translation>
-<translation id="8112367589167674370">Brave Talk</translation>
-<translation id="8488282162676695335">Denarnica Brave</translation>
+<translation id="8112367589167674370">Portal Talk</translation>
+<translation id="8488282162676695335">Denarnica Portal</translation>
 <translation id="8820817407110198400">Zaznamki</translation>
 <translation id="1644574205037202324">Zgodovina</translation>
 <translation id="2702801445560668637">Bralni seznam</translation>
@@ -120,12 +120,12 @@
 <translation id="8730621377337864115">Končano</translation>
 <translation id="730042046912793465">To je</translation>
 <translation id="2055363275850890030">Zasebno okno</translation>
-<translation id="9133213713928851646">Brave nikoli ne beleži, kaj počnete v zasebnem oknu. Strani, ki jih obiščete, ne bodo prikazane v vaši zgodovini, piškotki pa bodo izginili, ko boste zapustili stran. Vseeno pa zasebna okna ne zagotavljajo popolne anonimnosti na spletu.</translation>
-<translation id="4085423007106063912">Brave si nikoli ne zapomni, kaj počnete v zasebnem oknu. Spletna mesta, ki jih obiščete, ne bodo prikazana v vaši zgodovini. Piškotki, podatki obrazcev in podatki spletnega mesta izginejjo, ko zaprete okno.</translation>
+<translation id="9133213713928851646">Portal nikoli ne beleži, kaj počnete v zasebnem oknu. Strani, ki jih obiščete, ne bodo prikazane v vaši zgodovini, piškotki pa bodo izginili, ko boste zapustili stran. Vseeno pa zasebna okna ne zagotavljajo popolne anonimnosti na spletu.</translation>
+<translation id="4085423007106063912">Portal si nikoli ne zapomni, kaj počnete v zasebnem oknu. Spletna mesta, ki jih obiščete, ne bodo prikazana v vaši zgodovini. Piškotki, podatki obrazcev in podatki spletnega mesta izginejjo, ko zaprete okno.</translation>
 <translation id="1700746046668116047">Upoštevati je treba, da je vaša dejavnost ponudniku internetnih storitev, opazovalcem pasivnega omrežja ali delodajalcu (če uporabljate delovni računalnik ali omrežje) še vedno lahko vidna. Za več zasebnosti odprite zasebno okno s Torom.</translation>
 <translation id="8759753423332885148">Več o tem</translation>
 <translation id="8611976753572844841">Zasebno okno s povezljivostjo Tor</translation>
-<translation id="1645589858096839236">Brave ne shranjuje dejavnosti brskanja iz zasebnega okna. S povezavo Tor spletna mesta težje vidijo vaš pravi naslov IP in opazovalci omrežja katera spletna mesta ste obiskali. Če pa je vaša osebna varnost odvisna od tega, da ostanete anonimni, namesto tega uporabite brskalnik Tor.</translation>
+<translation id="1645589858096839236">Portal ne shranjuje dejavnosti brskanja iz zasebnega okna. S povezavo Tor spletna mesta težje vidijo vaš pravi naslov IP in opazovalci omrežja katera spletna mesta ste obiskali. Če pa je vaša osebna varnost odvisna od tega, da ostanete anonimni, namesto tega uporabite brskalnik Tor.</translation>
 <translation id="7919374705736538787">Išči zasebno z</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
 <translation id="218839872518145456">V primeru zasebnega iskanja bo Portal za iskanje v zasebnih oknih uporabil DuckDuckGo. DuckDuckGo ne sledi zgodovini iskanja, zato je vaše iskanje zasebno.</translation>
@@ -136,7 +136,7 @@
 <translation id="6126226144537295436">s povezljivostjo Tor</translation>
 <translation id="8541421872680304667">Tor skriva vaš naslov IP pred spletnimi mesti, ki jih obiščete, tako da brska po več strežnikih Tor, preden doseže vaš cilj. Tor lahko upočasni brskanje in nekatera spletna mesta morda sploh ne bodo delovala.</translation>
 <translation id="8897548669448660973">Uporaba zasebnega sistema Windows spremeni samo tisto, kar Portal počne v vaši napravi ne spremeni vedenja nikogar drugega. Tor skriva vaš naslov IP pred spletnimi mesti, ki jih obiščete, in nekoliko otežuje, a ne nemogoče, da vaš ponudnik internetnih storitev ali delodajalec vidi, katera spletna mesta obiskujete. Odprite zasebno okno z menijem Tor ali z [[key]].</translation>
-<translation id="6975708438781948564">Več o brskalnikih Tor in Brave</translation>
+<translation id="6975708438781948564">Več o brskalnikih Tor in Portal</translation>
 <translation id="4712050378540986986">Stanje brskalnika Tor</translation>
 <translation id="1939334281379458295">Tor se je uspešno povezal</translation>
 <translation id="8030169304546394654">Prekinjeno</translation>
@@ -171,7 +171,7 @@
 <translation id="6145852496180774737">Kontaktirajte me na: (neobvezno)</translation>
 <translation id="7616645803364270729">E-pošta, Twitter itd.</translation>
 <translation id="5299848999918506028">Hvala!</translation>
-<translation id="76550953340008122">Hvala, ker ste obvestili razvijalce Brave, da je s to spletno stranjo nekaj narobe. Potrudili se bomo, da to popravimo!</translation>
+<translation id="76550953340008122">Hvala, ker ste obvestili razvijalce Portal, da je s to spletno stranjo nekaj narobe. Potrudili se bomo, da to popravimo!</translation>
 <translation id="2974339193389078578">Brave, novi internet</translation>
 <translation id="7735138632831241257">Pripravite se na hitrejšo, varnejšo izkušnjo brskanja z brskalnikom, ki je zasnovan za varovanje vaše zasebnosti.</translation>
 <translation id="6001839398155993679">Pa začnimo</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Uvozi</translation>
 <translation id="2088479175984386785">Uvozi iz ...</translation>
 <translation id="5540323067375019678">Upravljajte svoje nastavitve ščita</translation>
-<translation id="3278033011827237847">Pri brskanju zaščitite svojo zasebnost pred oglasi in sledilci s ščitom Brave. Ščit nastavite na »navzdol«, če se vam zdi, da spletno mesto ne deluje pravilno.</translation>
+<translation id="3278033011827237847">Pri brskanju zaščitite svojo zasebnost pred oglasi in sledilci s ščitom Portal. Ščit nastavite na »navzdol«, če se vam zdi, da spletno mesto ne deluje pravilno.</translation>
 <translation id="3366308997091824722">Nastavitve ščita</translation>
 <translation id="4764692524839457597">privzeto</translation>
 <translation id="3108122610701115301">Nastavi za privzeto</translation>
@@ -194,11 +194,11 @@
 <translation id="3829010735958850433">Preskoči uvodno predstavitev</translation>
 <translation id="1201402288615127009">Naprej</translation>
 <translation id="7954950242989581218">Brskajte varno in zanesljivo</translation>
-<translation id="2188651882929633653">Brave Shields blokira neprimerne vsebine, ki vam poskušajo po spletu slediti — kamor spada večina oglasov. Ščite nastavite na “izklop”  v primeru, da spletna stran ne deluje. Portal uporablja <ph name="BEGIN_LINK_P3A"/>popolnoma zasebno analitiko izdelkov<ph name="END_LINK_P3A"/> za oceno splošne uporabe nekaterih funkcij. To lahko izklopite v <ph name="BEGIN_LINK_P3A_SETTINGS"/>NAstavitvah<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
-<translation id="4851215387785619212">Zasebni oglasi Brave</translation>
+<translation id="2188651882929633653">Portal Shields blokira neprimerne vsebine, ki vam poskušajo po spletu slediti — kamor spada večina oglasov. Ščite nastavite na “izklop”  v primeru, da spletna stran ne deluje. Portal uporablja <ph name="BEGIN_LINK_P3A"/>popolnoma zasebno analitiko izdelkov<ph name="END_LINK_P3A"/> za oceno splošne uporabe nekaterih funkcij. To lahko izklopite v <ph name="BEGIN_LINK_P3A_SETTINGS"/>NAstavitvah<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="4851215387785619212">Zasebni oglasi Portal</translation>
 <translation id="3114984266384096064">Prislužite si [[currency]] z ogledom oglasov Portal Private Ads. Prikazani oglasi temeljijo na vaših interesih na podlagi vašega vedenja pri brskanju. Osebni podatki in zgodovina brskanja nikoli ne zapustijo vašega brskalnika.</translation>
 <translation id="6112368337882254910">Samodejni prispevek</translation>
-<translation id="3742599705619405136">Samodejni način, s katerim lahko podpirate osebe, ki objavljajo vsebino, in ustvarjalce vsebine. Izberite mesečno plačilo in brskajte kot običajno. Strani, preverjene s strani preverjene osebe Brave, ki jih obiščete, bodo samodejno prejele vaše prispevke na podlagi vaše pozornosti, ki jo izmeri Brave.</translation>
+<translation id="3742599705619405136">Samodejni način, s katerim lahko podpirate osebe, ki objavljajo vsebino, in ustvarjalce vsebine. Izberite mesečno plačilo in brskajte kot običajno. Strani, preverjene s strani preverjene osebe Portal, ki jih obiščete, bodo samodejno prejele vaše prispevke na podlagi vaše pozornosti, ki jo izmeri Portal.</translation>
 <translation id="3325399124634342726">Trenutni zaslužek v tem mesecu (ocenjen)</translation>
 <translation id="8593551638387217772">Datum naslednjega plačila</translation>
 <translation id="4428871418618312983">Oglasi, prejeti ta mesec</translation>
@@ -256,8 +256,8 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Naslednjih datum mesečnih prispevkov</translation>
-<translation id="6231182869178328516">Ravnokar sem opravil donacijo <ph name="NAME"/> prek brskalnika Brave. Oglej si ga na spletnem mestu https://brave.com/tips.</translation>
-<translation id="5916536234616514390">Včeš mi je, da na <ph name="HASHTAG"/>Brave lahko podpiram ustvarjalce! Uporabniku<ph name="NAME"/>  sem pravkar prispeval<ph name="HASHTAG2"/>BAT. Če na strani https://creators.brave.com prispevek potrdi do <ph name="DATE"/>, se mu bo ta znesek v BAT-ih pripisal!</translation>
+<translation id="6231182869178328516">Ravnokar sem opravil donacijo <ph name="NAME"/> prek brskalnika Portal. Oglej si ga na spletnem mestu https://brave.com/tips.</translation>
+<translation id="5916536234616514390">Včeš mi je, da na <ph name="HASHTAG"/>Portal lahko podpiram ustvarjalce! Uporabniku<ph name="NAME"/>  sem pravkar prispeval<ph name="HASHTAG2"/>BAT. Če na strani https://creators.brave.com prispevek potrdi do <ph name="DATE"/>, se mu bo ta znesek v BAT-ih pripisal!</translation>
 <translation id="8404935570206006581">DonirajSBrave</translation>
 <translation id="3082557070674409251">Kliknjeno</translation>
 <translation id="7119308337584989771">Opuščeno</translation>
@@ -279,8 +279,8 @@
 <translation id="5225019866741699134">Izgleda, da povezovanje <ph name="PROVIDER"/> s programom Portal Rewards začasno ni na voljo. Prosimo, poskusite kasneje.</translation>
 <translation id="6105073131081187815">Stanje storitve <ph name="BEGIN_LINK"/>si lahko ogledate tukaj<ph name="END_LINK"/>.</translation>
 <translation id="2400786541309111904">Napaka: povezovanje z izbranim skrbnikom začasno ni na voljo</translation>
-<translation id="1024520300696337331">Vašega računa <ph name="PROVIDER"/> trenutno ni mogoče povezati z vašim profilom Portal Rewards. Vaš račun <ph name="PROVIDER"/> je registriran v državi, ki trenutno ni podprta za povezavo z nagradami Brave.</translation>
-<translation id="619384413404021992">Oglejte si <ph name="LINK_BEGIN"/>trenutni seznam podprtih regij in izvedite več<ph name="END_LINK"/> o povezavi skrbniškega računa z nagradami Brave.</translation>
+<translation id="1024520300696337331">Vašega računa <ph name="PROVIDER"/> trenutno ni mogoče povezati z vašim profilom Portal Rewards. Vaš račun <ph name="PROVIDER"/> je registriran v državi, ki trenutno ni podprta za povezavo z nagradami Portal.</translation>
+<translation id="619384413404021992">Oglejte si <ph name="LINK_BEGIN"/>trenutni seznam podprtih regij in izvedite več<ph name="END_LINK"/> o povezavi skrbniškega računa z nagradami Portal.</translation>
 <translation id="7193389978208728181">Napaka: Regija trenutno ni podprta</translation>
 <translation id="5382684862562314222">BAT še ni podprt v vaši regiji v okviru Uphold.</translation>
 <translation id="9074594632540931067">Napaka: BAT ni na voljo</translation>
@@ -294,16 +294,16 @@
 <translation id="2054853229650377447">Opomba: vaše transakcije bodo, ko jih boste potrdili, vidne skrbniku. Na primer, lahko bo videl prejemnika in količino vaših prispevkov.</translation>
 <translation id="2147158325758481862">Preverjanje ni obvezno</translation>
 <translation id="8228649055483250005">Ponudniki skrbniške denarnice morajo preveriti identiteto vsakogar, ki ustvarja denarnico, vključno z osebnim dokumentom s fotografijo.</translation>
-<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> ne obdeluje, shranjuje in ne dostopa do nobenih osebnih podatkov, ko ustvarite račun pri naših skrbniških partnerjih v denarnici.</translation>
+<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Portal Software Inc.<ph name="BOLD_END"/> ne obdeluje, shranjuje in ne dostopa do nobenih osebnih podatkov, ko ustvarite račun pri naših skrbniških partnerjih v denarnici.</translation>
 <translation id="6682919029276027868">Vendar so vaše trenutne funkcije Portal Rewards omejene. Preverjanje pri partnerju za skrbniško denarnico vam omogoča:</translation>
 <translation id="9064931634458501855">Prosto dvigujte in polagajte sredstva</translation>
 <translation id="3222002542796906461">Prejmite svoje nagrade neposredno na svoj račun</translation>
 <translation id="1233129511866436960">Preberite več o regijah in podpori</translation>
 <translation id="7329170127335794328">Trenutno ni na voljo v vaši regiji</translation>
-<translation id="8304979233901023264">Prebral-a sem in razumem Brave’s <ph name="TOS_LINK_BEGIN"/>Pogoje storitve<ph name="TOS_LINK_END"/> &amp; <ph name="PP_LINK_BEGIN"/>Politiko zasebnosti<ph name="PP_LINK_END"/>.</translation>
+<translation id="8304979233901023264">Prebral-a sem in razumem Portal’s <ph name="TOS_LINK_BEGIN"/>Pogoje storitve<ph name="TOS_LINK_END"/> &amp; <ph name="PP_LINK_BEGIN"/>Politiko zasebnosti<ph name="PP_LINK_END"/>.</translation>
 <translation id="2359808026110333948">Naprej</translation>
 <translation id="1892970806832316900">V obravnavi do <ph name="DATE"/></translation>
-<translation id="7849926087559412554">Ups! Vaš brskalnik ne more sprejemati zasebnih oglasov Brave.</translation>
+<translation id="7849926087559412554">Ups! Vaš brskalnik ne more sprejemati zasebnih oglasov Portal.</translation>
 <translation id="5177429570315095022">Če želite še naprej prikazovati oglase, morate posodobiti brskalnik.</translation>
 <translation id="7352651011704765696">Prišlo je do napake</translation>
 <translation id="752216563428219524">Oglasi niso bili uvedeni, osvežite stran.</translation>
@@ -410,7 +410,7 @@
 <translation id="9088057605518918276">Mesečni prispevek je nastavljen.</translation>
 <translation id="6306631474379759382">Datum naslednjega prispevka:</translation>
 <translation id="3593485149443019592">Ni dovolj žetonov. Prosimo, <ph name="LINK_BEGIN"/>dodajte več sredstev<ph name="LINK_END"/>.</translation>
-<translation id="3586352807094428968">Brave zbira 5% zneska kot pristojbino za obdelavo.</translation>
+<translation id="3586352807094428968">Portal zbira 5% zneska kot pristojbino za obdelavo.</translation>
 <translation id="207268487070188114">Enkratna napitnina</translation>
 <translation id="69861679024013299">Znesek enkratne napitnine:</translation>
 <translation id="3288812755711687300"><ph name="USER"/>’jeva objava</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">Nastavili ste prispevek na čakanju!</translation>
 <translation id="5096821444729034955">za njihovo objavo</translation>
 <translation id="2978223787436054634">Tvitnite o vaši podpori</translation>
-<translation id="5916290544882167205">Brave Software. Portal je zaščitena blagovna znamka podjetja Portal Software. Imena spletnih mest so lahko blagovne znamke ali registrirane blagovne znamke lastnika spletnega mesta.</translation>
-<translation id="9026369588205476247">Za varstvo vaše zasebnosti poročilo storitve Portal Rewards ni shranjeno, posneto ali zabeleženo drugje kot na vaši napravi (ta računalnik). V primeru izgube podatkov na napravi ga ni mogoče pridobiti pri družbi Brave.</translation>
+<translation id="5916290544882167205">Portal Software. Portal je zaščitena blagovna znamka podjetja Portal Software. Imena spletnih mest so lahko blagovne znamke ali registrirane blagovne znamke lastnika spletnega mesta.</translation>
+<translation id="9026369588205476247">Za varstvo vaše zasebnosti poročilo storitve Portal Rewards ni shranjeno, posneto ali zabeleženo drugje kot na vaši napravi (ta računalnik). V primeru izgube podatkov na napravi ga ni mogoče pridobiti pri družbi Portal.</translation>
 <translation id="3587482841069643663">Vse</translation>
 <translation id="4241224519481557898">Kategorija</translation>
 <translation id="3080423471207781945">Največje število prejetih oglasov na uro:</translation>
@@ -447,7 +447,7 @@
 <translation id="4932733599132424254">Datum</translation>
 <translation id="3552003743293281224">Pologi</translation>
 <translation id="3866249974567520381">Opis</translation>
-<translation id="8605272644314973683">Nagrade Brave</translation>
+<translation id="8605272644314973683">Nagrade Portal</translation>
 <translation id="1346059596910821859">Donacija</translation>
 <translation id="7277134233385925078">Nastavi mesečno donacijo</translation>
 <translation id="298067735430872465">Zaslužek z ogledom oglasov</translation>
@@ -518,7 +518,7 @@
 <translation id="5015443703424816075">Žeton</translation>
 <translation id="1634828734222219955">Skupno</translation>
 <translation id="3535654229833214438">Transakcije</translation>
-<translation id="8772672608371898774">Preverjena oseba Brave, ki objavlja vsebino</translation>
+<translation id="8772672608371898774">Preverjena oseba Portal, ki objavlja vsebino</translation>
 <translation id="5050370287908180130">Ogled mesečnega poročila za več podrobnosti</translation>
 <translation id="7853202427316060426">Dejavnost</translation>
 <translation id="7232682712743566408">Stanje nagrad</translation>
@@ -543,9 +543,9 @@
 <translation id="4450893287417543264">Ne prikazuj več</translation>
 <translation id="6518133107902771759">Preveri</translation>
 <translation id="422369484771082705">Preverjanje ni obvezno. Sicer pa boste s preverjanjem lahko dvigovali BAT, zaslužene z nagradami Portal Rewards, in jih nakazovali neposredno v skrbniško denarnico.</translation>
-<translation id="4354564238172327160">Postanite avtor Brave!</translation>
+<translation id="4354564238172327160">Postanite avtor Portal!</translation>
 <translation id="4639659520811817892">Obiščite creators.brave.com, da se prijavite še danes in začnite pridobivati sredstva BAT od svojih navdušencev in sledilcev.</translation>
-<translation id="4816455138209470435">Brave podpira YouTube, Twitch, Vimeo in več!</translation>
+<translation id="4816455138209470435">Portal podpira YouTube, Twitch, Vimeo in več!</translation>
 <translation id="3656941797339037856">Povežite Rewards z Gemini!</translation>
 <translation id="31532096120351460">Trgujte s 50+ kriptovalutami, vključno z BAT, na Gemini. To je varna platforma za shranjevanje vaše kriptovalute. Poleg tega lahko zaslužite obresti v ZDA, HK in SG.</translation>
 <translation id="7404779623219601861">Unovčite BAT za darilne kartice</translation>
@@ -623,8 +623,8 @@
 <translation id="824449983246282560">Na svojem računu nimate sredstev. Obiščite Gemini, da jih kupite.</translation>
 <translation id="8624961452383848703">Želim pretvoriti…</translation>
 <translation id="1544192797660353713">Denarnica</translation>
-<translation id="616639131065447379">Dobrodošli v kripto denarnicah Brave</translation>
-<translation id="1740464057879304704">Kripto denarnice vam omogočajo delo s kriptovalutami in povezanimi sredstvi v podjetju Brave. Crypto Wallets podpira žetone Ethereum, kot sta ETH in BAT, pa tudi zbirateljske predmete in vam omogoča delo z Ðapps in drugimi pametnimi pogodbami. Vse to je namenjeno ljudem, ki poznajo Ethereum in druge blockchain sisteme - ali pa se veselijo učenja.</translation>
+<translation id="616639131065447379">Dobrodošli v kripto denarnicah Portal</translation>
+<translation id="1740464057879304704">Kripto denarnice vam omogočajo delo s kriptovalutami in povezanimi sredstvi v podjetju Portal. Crypto Wallets podpira žetone Ethereum, kot sta ETH in BAT, pa tudi zbirateljske predmete in vam omogoča delo z Ðapps in drugimi pametnimi pogodbami. Vse to je namenjeno ljudem, ki poznajo Ethereum in druge blockchain sisteme - ali pa se veselijo učenja.</translation>
 <translation id="4855440621031541830">Kripto denarnice uporabljajte samo, če sprejemate, da ste izključno sami odgovorni za vsa tveganja, povezana s tovrstno uporabo, in da podejetje Portal Software ne prevzema pravne ali škodne odgovornosti za morebite izgube, vključno z naključnimi in posledičnimi izgubami, do katerih pride pri uporabi.</translation>
 <translation id="3187473319809074178">Vse to je povsem ločeno od</translation>
 <translation id="8327818101454798856">Če želite podpreti svoja priljubljena spletna mesta, pojdite raje tja.</translation>
@@ -641,26 +641,26 @@
 <translation id="5337526542182802976">Podprti pari</translation>
 <translation id="1164622162816276433">24-urna količina</translation>
 <translation id="7534079972563542000">Neustavljive domene</translation>
-<translation id="4492298165410552103">Omogočim podporo neustavljivih domen v Brave-u?</translation>
+<translation id="4492298165410552103">Omogočim podporo neustavljivih domen v Portal-u?</translation>
 <translation id="689573545156113164">83%match
 Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pametni pogodbi iz neustavljivih domen za reševanje zahtev po iskanju imena domene .crypto (in tudi .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil). Če to omogočite, bodo prehodi tretjih oseb videli domeno .eth, ki jo poskušate obiskati, ne bodo pa mogli videti drugih domen. Poglejte si <ph name="BEGIN_INFURA_TOU_LINK"/>pogoje uporabe<ph name="END_INFURA_TOU_LINK"/> in<ph name="BEGIN_INFURA_PRIVACY_LINK"/>pravilnik o zasebnosti<ph name="END_INFURA_PRIVACY_LINK"/> družbe Infura.</translation>
 <translation id="6513892817556267573">Imenske storitve Ethereum</translation>
-<translation id="4335039108389860301">Omogočiti podporo imensko storitev Ethereum (ENS) v Brave-u?</translation>
-<translation id="8328137586971750853">Brave bo uporabljal Infuro za izdajanje klicev Ethereum JSON-RPC pametni pogodbi iz storitve Ethereum Name Service za reševanje zahtevkov za iskanje domenskega imena .eth. Če to omogočite, bo Infura videla domeno .eth, ki jo poskušate obiskati, ne bo pa mogla videti drugih domen. Oglejte si <ph name="BEGIN_INFURA_TOU_LINK"/>pogoje uporabe<ph name="END_INFURA_TOU_LINK"/> in <ph name="BEGIN_INFURA_PRIVACY_LINK"/>politiko zasebnosti<ph name="END_INFURA_PRIVACY_LINK"/>družbe Infura.</translation>
+<translation id="4335039108389860301">Omogočiti podporo imensko storitev Ethereum (ENS) v Portal-u?</translation>
+<translation id="8328137586971750853">Portal bo uporabljal Infuro za izdajanje klicev Ethereum JSON-RPC pametni pogodbi iz storitve Ethereum Name Service za reševanje zahtevkov za iskanje domenskega imena .eth. Če to omogočite, bo Infura videla domeno .eth, ki jo poskušate obiskati, ne bo pa mogla videti drugih domen. Oglejte si <ph name="BEGIN_INFURA_TOU_LINK"/>pogoje uporabe<ph name="END_INFURA_TOU_LINK"/> in <ph name="BEGIN_INFURA_PRIVACY_LINK"/>politiko zasebnosti<ph name="END_INFURA_PRIVACY_LINK"/>družbe Infura.</translation>
 <translation id="807404806385418949">Iskanje izven verige imenske storitve Ethereum</translation>
-<translation id="4049590838234508776">Omogočiti podporo za iskanje izven verige imenske storitve Ethereum (ENS) v Brave?</translation>
-<translation id="1769433806670482329">Brave bo uporabljal prehode izven verige za reševanje zahtev po iskanju imena domene .eth. Če to omogočite, bodo prehodi tretjih oseb videli domeno .eth, ki jo poskušate obiskati, ne bodo pa mogli videti drugih domen. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Več o tem<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
+<translation id="4049590838234508776">Omogočiti podporo za iskanje izven verige imenske storitve Ethereum (ENS) v Portal?</translation>
+<translation id="1769433806670482329">Portal bo uporabljal prehode izven verige za reševanje zahtev po iskanju imena domene .eth. Če to omogočite, bodo prehodi tretjih oseb videli domeno .eth, ki jo poskušate obiskati, ne bodo pa mogli videti drugih domen. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Več o tem<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
 <translation id="4047002754575891955">Nadaljujte z iskanjem izven verige</translation>
 <translation id="531747189990625622">Imenske storitve Solana</translation>
-<translation id="1090584614351290462">Omogočiti podporo imenski storitvi Solana (SNS) v Brave-u?</translation>
-<translation id="954404755605517948">Brave bo uporabljal oblak Coinbase za pošiljanje klicev Solana JSON-RPC programu iz imenske storitve Solana za reševanje zahtev po iskanju imena domene .sol. Če to omogočite, bo oblak Coinbase videl domeno .sol, ki jo poskušate obiskati, vendar ne bo mogel videti drugih domen. Oglejte si <ph name="BEGIN_COINBASE_TOU_LINK"/>pogoje uporabe<ph name="END_COINBASE_TOU_LINK"/> in <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>politiko zasebnosti<ph name="END_COINBASE_PRIVACY_LINK"/> oblaka Coinbase.</translation>
+<translation id="1090584614351290462">Omogočiti podporo imenski storitvi Solana (SNS) v Portal-u?</translation>
+<translation id="954404755605517948">Portal bo uporabljal oblak Coinbase za pošiljanje klicev Solana JSON-RPC programu iz imenske storitve Solana za reševanje zahtev po iskanju imena domene .sol. Če to omogočite, bo oblak Coinbase videl domeno .sol, ki jo poskušate obiskati, vendar ne bo mogel videti drugih domen. Oglejte si <ph name="BEGIN_COINBASE_TOU_LINK"/>pogoje uporabe<ph name="END_COINBASE_TOU_LINK"/> in <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>politiko zasebnosti<ph name="END_COINBASE_PRIVACY_LINK"/> oblaka Coinbase.</translation>
 <translation id="7378412287463452336">Nadaljujte z uporabo strežnika Infura</translation>
 <translation id="2313603121968571839">Nadaljujte z uporabo strežnika oblaka Coinbase</translation>
 <translation id="2356070529366658676">Vprašaj</translation>
 <translation id="59174027418879706">Omogočeno</translation>
 <translation id="2468755552460246661">Domena blokirana</translation>
 <translation id="6393849031898466746">To spletno mesto vam bo morda poskušalo slediti na drugih spletnih mestih</translation>
-<translation id="983774928604730749">Brave je preprečil nalaganje naslednje strani:</translation>
+<translation id="983774928604730749">Portal je preprečil nalaganje naslednje strani:</translation>
 <translation id="4781961723893779890">To spletno mesto lahko pred prikazom vsebine poskuša povezati nekatere vaše osebne podatke s piškotkom.</translation>
 <translation id="2459038234784107183">Ne opozarjaj me več o tej strani</translation>
 <translation id="8242426110754782860">Nadaljuj</translation>
@@ -697,15 +697,15 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="72868071984333667">Preberite več o IPFS in zasebnosti</translation>
 <translation id="1886162073868201257">Napaka pri zagonu storitve IPFS</translation>
 <translation id="5357895013476183089">IPFS ni povezan</translation>
-<translation id="7662930734991751511">Virov IPFS ni mogoče naložiti z uporabo lokalnega vozlišča IPFS Brave</translation>
+<translation id="7662930734991751511">Virov IPFS ni mogoče naložiti z uporabo lokalnega vozlišča IPFS Portal</translation>
 <translation id="1141556610026845297">Za nalaganje zahtevanih virov IPFS lokalnega vozlišča IPFS ni uspelo. Kliknite gumb "Nadaljuj", če želite namesto tega uporabiti javni prehod in se v prihodnosti samodejno vrniti na javni prehod.</translation>
 <translation id="3373798179786163193">Nadaljuj z javnim prehodom</translation>
 <translation id="1974060860693918893">Dodatno</translation>
 <translation id="9096577886148726047">Skrij napredno</translation>
-<translation id="182581792765792826">Brave ne more naložiti zahtevanih virov IPFS, ker se lokalno vozlišče IPFS Portal ni zagnalo ali ker trenutno ni na voljo nobenih povezanih enakovrednih. Če izberete »Nadaljuj«, se bo Portal samodejno vrnil na privzeti javni prehod, ko bo uporaba lokalnega vozlišča IPFS Portal neuspešna. To vedenje lahko kadar koli spremenite v nastavitvah Brave.</translation>
+<translation id="182581792765792826">Portal ne more naložiti zahtevanih virov IPFS, ker se lokalno vozlišče IPFS Portal ni zagnalo ali ker trenutno ni na voljo nobenih povezanih enakovrednih. Če izberete »Nadaljuj«, se bo Portal samodejno vrnil na privzeti javni prehod, ko bo uporaba lokalnega vozlišča IPFS Portal neuspešna. To vedenje lahko kadar koli spremenite v nastavitvah Portal.</translation>
 <translation id="8026038288183400906">Nastavitev IPFS</translation>
 <translation id="2058855456574089690">Nastavite svojo nastavitev IPFS</translation>
-<translation id="4780526507945807546">Uporabite lokalno vozlišče IPFS Brave</translation>
+<translation id="4780526507945807546">Uporabite lokalno vozlišče IPFS Portal</translation>
 <translation id="8148464361648742409">Uporabite javni prehod</translation>
 <translation id="5123478056123923857">IPFS (InterPlanetary File System) je javno omrežje za medsebojno shranjevanje in dostavo podatkov. Ta protokol se glede zasebnosti razlikuje od HTTP(S).</translation>
 <translation id="1216911189668016151">Vaš računalnik sodeluje v javnem omrežju, vendar so lahko vaš naslov IP in vsebina, ki jo zahtevate ali posredujete, izpostavljeni. Vsebina, ki jo zahtevate prek sistema IPFS, se preveri, preden vam je posredovana. Pri omrežnih zahtevah se ne smejo uporabljati nastavitve posredniškega strežnika brskalnika in nastavitve DNS.</translation>
@@ -770,7 +770,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="5095252080770652994">Napredek</translation>
 <translation id="6278643716658443228">Nastavitve za nagrade Rewards</translation>
 <translation id="2862978891748913252">Izberite svojo državo</translation>
-<translation id="3717922248131893262">Če želite še naprej uporabljati nagrade Brave, izberite svojo državo, da vam bomo lahko prikazali prave možnosti in oglase za vašo regijo. <ph name="LINK_BEGIN"/>Politika zasebnosti<ph name="LINK_END"/></translation>
+<translation id="3717922248131893262">Če želite še naprej uporabljati nagrade Portal, izberite svojo državo, da vam bomo lahko prikazali prave možnosti in oglase za vašo regijo. <ph name="LINK_BEGIN"/>Politika zasebnosti<ph name="LINK_END"/></translation>
 <translation id="6777169449483742979">Za ogled te sponzorirane slike dobivate žetone.</translation>
 <translation id="5486114327664215175">Zaslužite si žetone za ogled te slike in podprite ustvarjalce vsebine.</translation>
 <translation id="2940863921746574646">Stanje žetonov</translation>
@@ -793,7 +793,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="6333727259565526314">Vaša nagrada je na poti.</translation>
 <translation id="39734939514946950">Vaš znesek nagrade</translation>
 <translation id="717952606991220586">Ups, nekaj je šlo narobe. Poskusite znova kasneje.</translation>
-<translation id="7210234701206674260">Brave Rewards ima težave. Poskusite znova kasneje.</translation>
+<translation id="7210234701206674260">Portal Rewards ima težave. Poskusite znova kasneje.</translation>
 <translation id="579702532610384533">Ponovna povezava</translation>
 <translation id="7550470870580166294">Nezadostna sredstva</translation>
 <translation id="2775064702681588061">Vaš račun za nagrade Portal Rewards čaka na polog.</translation>
@@ -840,9 +840,9 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="8281886186245836920">Preskoči</translation>
 <translation id="1377600615067678409">Zaenkrat preskoči</translation>
 <translation id="7930505144430343145">Dobrodošli v Portal Rewards!</translation>
-<translation id="3477340970981564961">Brave Private Ads vas nagradi z žetoni, ki podpirajo ustvarjalce vsebin, za razliko od tradicionalnih oglasov, hkrati pa ohranjajo vaše osebne podatke zasebne.</translation>
+<translation id="3477340970981564961">Portal Private Ads vas nagradi z žetoni, ki podpirajo ustvarjalce vsebin, za razliko od tradicionalnih oglasov, hkrati pa ohranjajo vaše osebne podatke zasebne.</translation>
 <translation id="6973095375773523904">Kje se prikazujejo oglasi?</translation>
-<translation id="7556325460112047619">Brave Private Ads bo prikazan kot običajno obvestilo. Kako pogosto vidite te oglase, lahko nadzirate v nastavitvah.</translation>
+<translation id="7556325460112047619">Portal Private Ads bo prikazan kot običajno obvestilo. Kako pogosto vidite te oglase, lahko nadzirate v nastavitvah.</translation>
 <translation id="6897083627729802351">Kdaj prejmete nagrade?</translation>
 <translation id="310863932297733723">Zahvaljujoč Portal Private Ads ste si prislužili žetone, ki bodo za ves tekoči mesec prispeli 5. dne v naslednjem mesecu.</translation>
 <translation id="7712287524451429139">Podpora je zares enostavna</translation>
@@ -968,10 +968,10 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="4500473291496079954">Poteče čez</translation>
 <translation id="2236833281018938257">Naslov denarnice ali URL</translation>
 <translation id="928500657730628112">Naslov denarnice</translation>
-<translation id="6812967455478797345">Brave uporablja <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> kot zbiralnik DEX.</translation>
+<translation id="6812967455478797345">Portal uporablja <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> kot zbiralnik DEX.</translation>
 <translation id="151946611346774041">0x bo obdelal naslov Ethereum in naslov IP za izvedbo transakcije (vključno s pridobivanjem ponudb). 0x bo te podatke uporabil SAMO za namene obdelave transakcij.</translation>
 <translation id="7465227658364622464">Jupiter bo obdelal naslov Solana in naslov IP za izpolnitev transakcije (vključno s pridobivanjem ponudb). Jupiter bo te podatke uporabil SAMO za namene obdelave transakcij.</translation>
-<translation id="712738518060477110">Ponudba vključuje <ph name="SWAP_FEE_PERCENTAGE"/> pristojbino za Brave.</translation>
+<translation id="712738518060477110">Ponudba vključuje <ph name="SWAP_FEE_PERCENTAGE"/> pristojbino za Portal.</translation>
 <translation id="8368540604723748428">Preveč decimalnih mest</translation>
 <translation id="6575120282593094155">Nimate računa <ph name="ACCOUNT_TYPE"/>. Ga želite ustvariti?</translation>
 <translation id="8712637175834984815">Razumem</translation>
@@ -1172,7 +1172,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="7029403458170657879">Povežite se z Portal denarnico</translation>
 <translation id="2770851145415891830">Zaznane so obstoječe kripto denarnice</translation>
 <translation id="2237759620789871865">Če bi raje preskočili uvoz in obdržali staro izkušnjo s kripto denarnicami, se pomaknite do <ph name="LINK_BEFORE"/>Nastavitev<ph name="LINK_AFTER"/> brskalnika Portal in spremenite privzeto nazaj na Crypto denarnice. Prav tako lahko uvozite, preizkusite novo Portal denarnico in kadar koli spremenite nazaj.</translation>
-<translation id="5590175005414413980">Vnesite geslo za obstoječe kripto denarnice za uvoz v denarnico Brave. Uživajte v hitrejšem in varnejšem načinu upravljanja kripto sredstev in interakcije z aplikacijami Web3 DApps.</translation>
+<translation id="5590175005414413980">Vnesite geslo za obstoječe kripto denarnice za uvoz v denarnico Portal. Uživajte v hitrejšem in varnejšem načinu upravljanja kripto sredstev in interakcije z aplikacijami Web3 DApps.</translation>
 <translation id="880619123281809987">Vnesite geslo za kripto denarnice</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> povezana</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> prekinjena</translation>
@@ -1287,7 +1287,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="4430019312045809116">Glasnost</translation>
 <translation id="4312994183947987913">Kupi/vplačaj</translation>
 <translation id="5133421763709317473">Ni sredstev, ki bi se ujemala z iskanjem ali filtrom</translation>
-<translation id="7383613643114466279">Tega sredstva ne podpira denarnica Brave</translation>
+<translation id="7383613643114466279">Tega sredstva ne podpira denarnica Portal</translation>
 <translation id="6423985584914773314">Ni veljaven naslov FIL</translation>
 <translation id="3898731124813934210">Kupite z Wyre</translation>
 <translation id="5522073372365069684">Kupite z Ramp</translation>
@@ -1410,7 +1410,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="8297006494302853456">Šibek</translation>
 <translation id="6782556046178425980">Preden začnete varnostno kopirati denarnico</translation>
 <translation id="7119749028647909394">Beseda fraza z dolžino med 12 in 24 besed za obnovitev je zasebni ključ, ki ga lahko uporabite za ponovni dostop do denarnice, če izgubite povezano(-e) napravo(-e). Shranjujte ga na varnem mestu in v točno takšnem vrstnem redu, kot je prikazan spodaj.</translation>
-<translation id="3259018319025894691">Brave ne more dostopati do skrivne obnovitvene besedne zveze. Shranjujte jo na varnem in jo nikoli ne delite z nikomer drugim.</translation>
+<translation id="3259018319025894691">Portal ne more dostopati do skrivne obnovitvene besedne zveze. Shranjujte jo na varnem in jo nikoli ne delite z nikomer drugim.</translation>
 <translation id="7650284207965419234"><ph name="TAG_BEFORE"/>Pomembno: <ph name="TAG_AFTER"/>Nikoli ne delite svoje besedne zveze za obnovitev. Vsakdo s to besedno zvezo lahko za vedno vzame vaše premoženje.</translation>
 <translation id="7509948206688764960">Varnostno kopirajte besedno zvezo za obnovitev denarnice</translation>
 <translation id="8052898407431791827">Kopirano v odložišče</translation>
@@ -1431,7 +1431,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="7992766987062040279">rd</translation>
 <translation id="2295726992010694229">th</translation>
 <translation id="8241405611628876973">Čestitke! Vaša Portal Wallet je pripravljena za uporabo!</translation>
-<translation id="6828327990705355767">Za dostop do denarnice preprosto kliknite ikono denarnice v zgornjem desnem kotu katerega koli okna brskalnika Brave.</translation>
+<translation id="6828327990705355767">Za dostop do denarnice preprosto kliknite ikono denarnice v zgornjem desnem kotu katerega koli okna brskalnika Portal.</translation>
 <translation id="396152018598329740">Kako uporabljati kripto denarnico?</translation>
 <translation id="7512061585041489067">Katera je najboljša kripto denarnica?</translation>
 <translation id="1342755158522323177">Kaj je kripto brskalnik?</translation>
@@ -1445,7 +1445,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="3551682252653406110">Če želite povezati denarnico, ki jo že imate, boste morda morali vnesti obnovitveno besedno zvezo. Trenutno podpiramo obnovitev/uvoz iz denarnic Ethereum in Solana.</translation>
 <translation id="346929827081904572">Obnovi iz semenske besedne zveze</translation>
 <translation id="5645597512426471834">12-24 besed</translation>
-<translation id="8158505311297755780">Vnesite besedno zvezo za obnovitev denarnice Brave, ki obsega od 12 do 24 besed.</translation>
+<translation id="8158505311297755780">Vnesite besedno zvezo za obnovitev denarnice Portal, ki obsega od 12 do 24 besed.</translation>
 <translation id="5419707890586509000">Uvoz iz MetaMask</translation>
 <translation id="2265945811107390939">Uporabite svoje geslo MetaMask, da uvozite svojo semensko besedno zvezo</translation>
 <translation id="7060680423657442298">Nič hudega, ustvaril bom novo denarnico</translation>
@@ -1459,7 +1459,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="7781090633800450517">Prebral sem in se strinjam s <ph name="LINK_BEFORE"/>pogoji uporabe<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">Kupite kripto</translation>
 <translation id="3887541341068007345">Preverjanje za razširitev denarnice ...</translation>
-<translation id="3567994771568272606">Uvoz iz podedovanih kripto denarnic Brave</translation>
+<translation id="3567994771568272606">Uvoz iz podedovanih kripto denarnic Portal</translation>
 <translation id="8407091560429310499">Izberite sredstvo</translation>
 <translation id="756590380936155533">Če želite dokončati nakup za <ph name="ASSET_TICKER"/>, izberite enega od naših partnerjev</translation>
 <translation id="7880860489474966219">Po zaključku bodo vaša sredstva prenesena v vašo Portal Wallet</translation>
@@ -1509,7 +1509,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="3664551680108236020">Ko bo vaša prva transakcija opravljena, si jo boste lahko ogledali tukaj.</translation>
 <translation id="3033638954295674319">Pri pridobivanju podrobnosti NFT je prišlo do napake. Prosimo, poskusite kasneje.</translation>
 <translation id="2540568096903252632">Za nadaljevanje vnesite geslo</translation>
-<translation id="3356580495013324916">Vnesite geslo za denarnico Brave, da jo začnete varnostno kopirati.</translation>
+<translation id="3356580495013324916">Vnesite geslo za denarnico Portal, da jo začnete varnostno kopirati.</translation>
 <translation id="3155170474926428993">Zaganjalnik brskalnika Tor</translation>
 <translation id="3745016858329272300">Splošne informacije</translation>
 <translation id="4045404575593562245">Tor nadzorni dogodki</translation>
@@ -1519,7 +1519,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="1671503397662036257">Stanje povezave Tor</translation>
 <translation id="6024292492796847324">Napredek pri inicializaciji Tor</translation>
 <translation id="8300751939969131609">Vklopite novice Portal in nikoli ne zamudite zgodbe</translation>
-<translation id="7758665172236842395">Sledite svojim priljubljenim virom v enem samem viru. Preprosto odprite zavihek v Brave, se pomaknite navzdol in ... tukaj je!</translation>
+<translation id="7758665172236842395">Sledite svojim priljubljenim virom v enem samem viru. Preprosto odprite zavihek v Portal, se pomaknite navzdol in ... tukaj je!</translation>
 <translation id="2376542729617592331">Novice Portal podpirajo oglasi s popolnoma zasebnimi in anonimiziranimi oglasi. <ph name="LINK_START"/>Izvedite več.<ph name="LINK_END"/>.</translation>
 <translation id="1765217911817124376">Vklopite Portal novice</translation>
 <translation id="780301667611848630">Ne, hvala</translation>
@@ -1567,11 +1567,11 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="1459693405370120464">Vreme</translation>
 <translation id="8366057325711477500">Novice iz sveta</translation>
 <translation id="6303294677342628402">Ščiti</translation>
-<translation id="8458987127502506209">Omogoči zaščito Ščiti Brave</translation>
+<translation id="8458987127502506209">Omogoči zaščito Ščiti Portal</translation>
 <translation id="7509914170164691086">Ščit je VKOPLJEN <ph name="LINK_BEFORE"/>za<ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">Ščit je IZKLOPLJEN <ph name="LINK_BEFORE"/>za<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">Če se zdi, da je to spletno mesto pokvarjeno, poskusite Shields down.
- <ph name="LINK_BEFORE"/>Opomba: to lahko zmanjša zaščito zasebnosti Brave.<ph name="LINK_AFTER"/></translation>
+ <ph name="LINK_BEFORE"/>Opomba: to lahko zmanjša zaščito zasebnosti Portal.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Sledilniki, oglasi in vse drugo so blokirani <ph name="LINK_BEFORE"/>Več o tem<ph name="LINK_AFTER"/></translation>
 <translation id="7604553853176833536">Nimate zaščite Portal Shields <ph name="LINK_BEFORE"/>Več o tem<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Napredne nastavitve</translation>
@@ -1597,12 +1597,12 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="8034285923190068220">Dovoli ustvarjanje prstnih odtisov</translation>
 <translation id="1992750560347846445">Prijavite spletno mesto</translation>
 <translation id="2387532482048804818">Povejte nam, če je spletno mesto z vklopljenimi ščiti delovalo pravilno.</translation>
-<translation id="3795015906457257780">To spletno mesto si ogledujete brez zaščite zasebnosti družbe Brave.</translation>
+<translation id="3795015906457257780">To spletno mesto si ogledujete brez zaščite zasebnosti družbe Portal.</translation>
 <translation id="7194012750329511146">Ščit Portal 
 <ph name="NUMBER"/> Blokirani sledilniki, oglasi in drugo</translation>
 <translation id="4292121526390005808">Blokirane skripte</translation>
 <translation id="264682546981571963">Ste naveličani obvestil o soglasju za piškotke?</translation>
-<translation id="4986297793092101884">Brave že blokira piškotke tretjih oseb. Prav tako lahko blokiramo obvestila o soglasju za piškotke.</translation>
+<translation id="4986297793092101884">Portal že blokira piškotke tretjih oseb. Prav tako lahko blokiramo obvestila o soglasju za piškotke.</translation>
 <translation id="535688588637568715">Da, blokiraj obvestila o soglasju za piškotke</translation>
 <translation id="6294662480095808915">Zasebnost. Privzeto.</translation>
 <translation id="4366423156486478559">Zagotovite si zaščito Portal za vsako povezavo, na katero kliknete. Preprosto nastavite brskalnik Portal kot privzet in brskajte. Zasebno.</translation>
@@ -1614,7 +1614,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="2453860139492968684">Dokončaj</translation>
 <translation id="2273851479262317744">Nastavite Portal kot privzeti brskalnik</translation>
 <translation id="5037676449506322593">Izberite vse</translation>
-<translation id="8330804319517911603">Pomagajte izboljšati Brave</translation>
+<translation id="8330804319517911603">Pomagajte izboljšati Portal</translation>
 <translation id="2867964979837593892">Natančna prilagoditev izdelka. Zaščita vaše zasebnosti. Vsak dan.</translation>
 <translation id="7661940959332108190">Pošljite diagnostična poročila, če se Portal zruši ali zamrzne.</translation>
 <translation id="6358373266071757311">Delite anonimne, zasebne vpoglede v izdelke. To nam pomaga izvedeti, katere funkcije Portal se najpogosteje uporabljajo.</translation>
@@ -1645,7 +1645,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="8463313539532697053">Samo trenutek, da se naloži…</translation>
 <translation id="4317307602527599178">Ne morete preveriti statusa svojega nakupa. Vzrok je lahko težava v omrežju.</translation>
 <translation id="4613076894734402086">Urejanje načina plačila</translation>
-<translation id="8373427068383038263">Vaše zadnje plačilo za <ph name="VALUE"/> morda ni bilo izvedeno. Dostop do te naročnine bo prekinjen, dokler ne bo rešeno vprašanje plačila. Poskusite urediti način plačila ali se obrnite na podporo Brave.</translation>
+<translation id="8373427068383038263">Vaše zadnje plačilo za <ph name="VALUE"/> morda ni bilo izvedeno. Dostop do te naročnine bo prekinjen, dokler ne bo rešeno vprašanje plačila. Poskusite urediti način plačila ali se obrnite na podporo Portal.</translation>
 <translation id="1839021455997460752">Vaš e-poštni naslov</translation>
 <translation id="8054563304616131773">Vnesite veljaven e-poštni naslov</translation>
 <translation id="5154702632169343078">Zadeva</translation>
@@ -1663,7 +1663,7 @@ Podjetje Portal bo uporabljalo Infuro za izdajanje klicev Ethereum JSON-RPC pame
 <translation id="6676791921618140305">Različica OS:</translation>
 <translation id="1156325797949437777">Podpora se zagotavlja v sodelovanju z družbo Guardian.</translation>
 <translation id="8146777497879160283">Konfiguracije VPN ni bilo mogoče napisati. To se lahko zgodi, če nimate dovoljenja ali če nedavno niste zagnali storitve Windows Update.</translation>
-<translation id="3307461350293459700">Povezava VPN ni uspela. Poskusite se ponovno povezati in kliknite Dovoli, da omogočite konfiguracijo VPN v Braveu.</translation>
+<translation id="3307461350293459700">Povezava VPN ni uspela. Poskusite se ponovno povezati in kliknite Dovoli, da omogočite konfiguracijo VPN v Portalu.</translation>
 <translation id="7261518280726313829">Če v sistemu Windows izklopite varen DNS ali uporabljate privzete strežnike, lahko ponudniku internetnih storitev razkrijete imena spletnih mest, ki jih obiščete. Portal tega ne priporoča. Ali to vseeno želite storiti?</translation>
 <translation id="888284761945060750">Varni DNS je onemogočen v skladu s pravili vaše organizacije. Uporaba storitve Portal VPN brez Secure DNS lahko vašemu ponudniku internetnih storitev ali organizaciji razkrije imena spletnih mest, ki jih obiščete.</translation>
 <translation id="1657858090675311947">Ne opozarjaj me več na to.</translation>

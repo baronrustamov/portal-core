@@ -65,7 +65,7 @@
 </message>
 
 <message name="IDS_BRAVE_WELCOME_SEND_INSIGHTS_LABEL" desc="A checkbox label for user to opt-in opt-out to share anonymous, product insights information">
-  Share completely private and anonymous product insights about what features are being used by Brave's users. <ph name="LINK_BEFORE">$1</ph>Learn more.<ph name="LINK_AFTER">$2</ph>
+  Share completely private and anonymous product insights about what features are being used by Portal's users. <ph name="LINK_BEFORE">$1</ph>Learn more.<ph name="LINK_AFTER">$2</ph>
 </message>
 
 <message name="IDS_BRAVE_WELCOME_SETUP_COMPLETE_LABEL" desc="A title for screen when user has completed all the steps">
@@ -76,7 +76,7 @@
   Change these choices at any time in Portal at <ph name="LINK_BEFORE1">$1</ph>brave://settings/privacy<ph name="LINK_AFTER2">$2</ph>.
 </message>
 
-<message name="IDS_BRAVE_WELCOME_PRIVACY_POLICY_NOTE" desc="A footnote with a link to Brave's privacy polcy.">
+<message name="IDS_BRAVE_WELCOME_PRIVACY_POLICY_NOTE" desc="A footnote with a link to Portal's privacy polcy.">
   Read our full <ph name="LINK_BEFORE">$1</ph>Privacy Policy<ph name="LINK_AFTER">$2</ph>
 </message>
 

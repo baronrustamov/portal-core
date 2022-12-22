@@ -4,7 +4,7 @@
     Turn on Portal News, and never miss a story
   </message>
   <message name="IDS_BRAVE_NEWS_INTRO_DESCRIPTION" desc="Description for introduction to Portal News news feed section. Do not translate the title Portal News.">
-    Follow your favorite sources, in a single feed. Just open a tab in Brave, scroll down, and… voila!
+    Follow your favorite sources, in a single feed. Just open a tab in Portal, scroll down, and… voila!
   </message>
   <message name="IDS_BRAVE_NEWS_INTRO_DESCRIPTION_TWO" desc="Description second paragraph for introduction to Portal News news feed section. Do not translate the title Portal News.">
     Portal News is ad-supported with private, anonymized ads. <ph name="LINK_START">$1<ex>{</ex></ph>Learn more.<ph name="LINK_END">$2<ex>}</ex></ph>.
@@ -95,7 +95,7 @@
   </message>
 
   <message name="IDS_BRAVE_NEWS_CHANNEL_BRAVE" desc="Translation of the 'Brave' channel">
-    Brave
+    Portal
   </message>
   <message name="IDS_BRAVE_NEWS_CHANNEL_BUSINESS" desc="Translation of the 'Business' channel">
     Business

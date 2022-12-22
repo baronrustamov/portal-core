@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grit-part>
   <message name="IDS_TOOLTIP_WALLET" desc="Tooltip to acccess the Portal Wallet">Wallet</message>
-  <message name="IDS_ACCNAME_BRAVE_WALLET_BUTTON" desc="The accessible name for the Portal Wallet bubble.">Brave Wallet</message>
-  <message name="IDS_BRAVE_WALLET" desc="The name of the feature Portal Wallet">Brave Wallet</message>
+  <message name="IDS_ACCNAME_BRAVE_WALLET_BUTTON" desc="The accessible name for the Portal Wallet bubble.">Portal Wallet</message>
+  <message name="IDS_BRAVE_WALLET" desc="The name of the feature Portal Wallet">Portal Wallet</message>
   <message name="IDS_WALLET_USER_REJECTED_REQUEST" desc="The text of the response for brave provider call if the user rejected the request">The user rejected the request.</message>
   <message name="IDS_WALLET_INVALID_PARAMETERS" desc="The call was made with invalid parameters">Invalid parameters.</message>
   <message name="IDS_WALLET_UNKNOWN_CHAIN" desc="The text of the response for wallet_switchEthereumChain call with unknown">Chain <ph name="VALUE">$1<ex>1</ex></ph> hasn't been added</message>
@@ -104,7 +104,7 @@
   <message name="IDS_BRAVE_WALLET_BUY_NOT_SUPPORTED_TOOLTIP" desc="Tooltip text when buy action is not supported">Buy support is not available for <ph name="NETWORK"><ex>Binance Smart Chain</ex>$1</ph></message>
   <message name="IDS_BRAVE_WALLET_BUY_TAB_BUY_NOT_SUPPORTED_MESSAGE" desc="Message shown when the selected network is not supported for buy transactions">Buy not supported for selected network</message>
   <message name="IDS_BRAVE_WALLET_SEARCHING_FOR_DOMAIN" desc="Message shown when searching for a UD or ENS domain">Searching for domain...</message>
-  <message name="IDS_BRAVE_WALLET_ENS_OFF_CHAIN_LOOKUP_TITLE" desc="Message title shown when requesting to do an ENS off chain lookup.">Brave supports using off-chain gateways to resolve .eth domains.</message>
+  <message name="IDS_BRAVE_WALLET_ENS_OFF_CHAIN_LOOKUP_TITLE" desc="Message title shown when requesting to do an ENS off chain lookup.">Portal supports using off-chain gateways to resolve .eth domains.</message>
   <message name="IDS_BRAVE_WALLET_ENS_OFF_CHAIN_LOOKUP_DESCRIPTION" desc="Message description shown when requesting to do an ENS off chain lookup.">It looks like you've entered an ENS address. We'll need to use a third-party resolver to resolve this request, which may be able to see your IP address and domain.</message>
   <message name="IDS_BRAVE_WALLET_ENS_OFF_CHAIN_BUTTON" desc="ENS off chain lookup button text.">Use ENS domain</message>
   <message name="IDS_BRAVE_WALLET_SWAP_NOT_SUPPORTED_TOOLTIP" desc="Tooltip text when swap action is not supported">Swap support is not available for <ph name="NETWORK"><ex>Binance Smart Chain</ex>$1</ph></message>
@@ -113,7 +113,7 @@
   <message name="IDS_BRAVE_WALLET_EXPIRES_IN_TITLE" desc="BuySendSwap expires in title">Expires in</message>
   <message name="IDS_BRAVE_WALLET_SEND_PLACEHOLDER" desc="BuySendSwap send placeholder">Wallet address or URL</message>
   <message name="IDS_BRAVE_WALLET_SEND_NO_URL_PLACEHOLDER" desc="BuySendSwap send placeholder without URL">Wallet address</message>
-  <message name="IDS_BRAVE_WALLET_SWAP_DISCLAIMER" desc="Swap Security and Privacy Disclaimer">Brave uses <ph name="LINK_BEFORE">$1</ph><ph name="SWAP_PROVIDER">$3</ph><ph name="LINK_AFTER">$2</ph> as a DEX aggregator.</message>
+  <message name="IDS_BRAVE_WALLET_SWAP_DISCLAIMER" desc="Swap Security and Privacy Disclaimer">Portal uses <ph name="LINK_BEFORE">$1</ph><ph name="SWAP_PROVIDER">$3</ph><ph name="LINK_AFTER">$2</ph> as a DEX aggregator.</message>
   <message name="IDS_BRAVE_WALLET_SWAP_DISCLAIMER_DESCRIPTION" desc="Swap 0x Security and Privacy Disclaimer Description">0x will process the Ethereum address and IP address to fulfill a transaction (including getting quotes). 0x will ONLY use this data for the purposes of processing transactions.</message>
   <message name="IDS_BRAVE_WALLET_JUPITER_SWAP_DISCLAIMER_DESCRIPTION" desc="Swap Jupiter Security and Privacy Disclaimer Description">Jupiter will process the Solana address and IP address to fulfill a transaction (including getting quotes). Jupiter will ONLY use this data for the purposes of processing transactions.</message>
   <message name="IDS_BRAVE_WALLET_SWAP_FEES_NOTICE" desc="Swap fees notice">Quote includes a <ph name="SWAP_FEE_PERCENTAGE">$1</ph> Portal fee.</message>
@@ -167,7 +167,7 @@
   <message name="IDS_BRAVE_WALLET_BACKUP_WARNING_TEXT" desc="Backup warning banner description">Back up your wallet now to protect your assets and ensure you never lose access.</message>
   <message name="IDS_BRAVE_WALLET_BACKUP_BUTTON" desc="Backup warning banner back up button">Back up now</message>
   <message name="IDS_BRAVE_WALLET_DISMISS_BUTTON" desc="Backup warning banner dismiss button">Dismiss</message>
-  <message name="IDS_BRAVE_WALLET_DEFAULT_WALLET_BANNER" desc="Default wallet banner description">Brave Wallet is not set as your default wallet and will not respond to Web3 DApps. Visit settings to change your default wallet.</message>
+  <message name="IDS_BRAVE_WALLET_DEFAULT_WALLET_BANNER" desc="Default wallet banner description">Portal Wallet is not set as your default wallet and will not respond to Web3 DApps. Visit settings to change your default wallet.</message>
   <message name="IDS_BRAVE_WALLET_RESTORE_TITE" desc="Restore Wallet screen title">Restore primary crypto accounts</message>
   <message name="IDS_BRAVE_WALLET_RESTORE_DESCRIPTION" desc="Restore Wallet screen description">Enter your recovery phrase to restore your Portal wallet crypto account.</message>
   <message name="IDS_BRAVE_WALLET_RESTORE_ERROR" desc="Restore Wallet screen recovery error">The recovery phrase entered is invalid.</message>
@@ -328,22 +328,22 @@
   <message name="IDS_BRAVE_WALLET_CONFIRM_TRANSACTION_FRIST" desc="Confirm transaction panel first transaction button">first</message>
   <message name="IDS_BRAVE_WALLET_CONFIRM_TRANSACTIONS" desc="Confirm transaction panel transactions label">transactions</message>
   <message name="IDS_BRAVE_WALLET_CONFIRM_TRANSACTION_ACCOUNT_CREATION_FEE" desc="Confirm transaction panel account creation fee warning">The associated token account does not exist yet. A small amount of SOL will be spent to create and fund it.</message>
-  <message name="IDS_BRAVE_WALLET_PANEL_TITLE" desc="Brave Wallet panel title">Brave Wallet</message>
-  <message name="IDS_BRAVE_WALLET_PANEL_CONNECTED" desc="Brave Wallet panel connected status">Connected</message>
+  <message name="IDS_BRAVE_WALLET_PANEL_TITLE" desc="Portal Wallet panel title">Portal Wallet</message>
+  <message name="IDS_BRAVE_WALLET_PANEL_CONNECTED" desc="Portal Wallet panel connected status">Connected</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_TITLE" desc="Site Permissions panel title">Site permissions</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_ACCOUNTS" desc="Site Permissions panel accounts connected"><ph name="NUMBER_OF_ACCOUNTS"><ex>5</ex>$1</ph> accounts connected</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_DISCONNECT" desc="Site Permissions panel disconnect from site">Disconnect</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_SWITCH" desc="Site Permissions panel switch account for connected site">Switch</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_TRUST" desc="Site Permissions panel trust account for connected site">Trust</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_REVOKE" desc="Site Permissions panel revoke account for connected site">Revoke</message>
-  <message name="IDS_BRAVE_WALLET_PANEL_DISCONNECTED" desc="Brave Wallet panel disconnected status">Disconnected</message>
-  <message name="IDS_BRAVE_WALLET_PANEL_BLOCKED" desc="Brave Wallet panel blocked status">Blocked</message>
-  <message name="IDS_BRAVE_WALLET_TITLE" desc="Brave Wallet Title">Wallet</message>
+  <message name="IDS_BRAVE_WALLET_PANEL_DISCONNECTED" desc="Portal Wallet panel disconnected status">Disconnected</message>
+  <message name="IDS_BRAVE_WALLET_PANEL_BLOCKED" desc="Portal Wallet panel blocked status">Blocked</message>
+  <message name="IDS_BRAVE_WALLET_TITLE" desc="Portal Wallet Title">Wallet</message>
   <message name="IDS_BRAVE_WALLET_SITE_PERMISSIONS_NEW_ACCOUNT" desc="Site Permissions panel add a new account">New account</message>
-  <message name="IDS_BRAVE_WALLET_PANEL_NOT_CONNECTED" desc="Brave Wallet panel disconnected status">Connect</message>
-  <message name="IDS_BRAVE_WALLET_PANEL_VIEW_ACCOUNT_ASSETS" desc="Brave Wallet panel view account assets button">View account assets</message>
-  <message name="IDS_BRAVE_WALLET_ASSETS_PANEL_TITLE" desc="Brave Wallet assets panel title">Account assets</message>
-  <message name="IDS_BRAVE_WALLET_WELCOME_PANEL_DESCRIPTION" desc="Brave Wallet welcome panel description">Use this panel to securely access Web3 and all your crypto assets.</message>
+  <message name="IDS_BRAVE_WALLET_PANEL_NOT_CONNECTED" desc="Portal Wallet panel disconnected status">Connect</message>
+  <message name="IDS_BRAVE_WALLET_PANEL_VIEW_ACCOUNT_ASSETS" desc="Portal Wallet panel view account assets button">View account assets</message>
+  <message name="IDS_BRAVE_WALLET_ASSETS_PANEL_TITLE" desc="Portal Wallet assets panel title">Account assets</message>
+  <message name="IDS_BRAVE_WALLET_WELCOME_PANEL_DESCRIPTION" desc="Portal Wallet welcome panel description">Use this panel to securely access Web3 and all your crypto assets.</message>
   <message name="IDS_BRAVE_WALLET_LEARN_MORE" desc="Generic learn-more link text">Learn more</message>
   <message name="IDS_BRAVE_WALLET_TRANSACTION_DETAIL_BOX_FUNCTION" desc="Transaction detail box function label">FUNCTION TYPE</message>
   <message name="IDS_BRAVE_WALLET_TRANSACTION_DETAIL_BOX_HEX" desc="Transaction detail box hex data label">HEX DATA</message>
@@ -641,7 +641,7 @@
   <message name="IDS_BRAVE_WALLET_PASSWORD_IS_WEAK" desc="Password is weak">Weak</message>
   <message name="IDS_BRAVE_WALLET_ONBOARDING_RECOVERY_PHRASE_BACKUP_INTRO_TITLE" desc="Title before backing up wallet">Before you start backing up wallet</message>
   <message name="IDS_BRAVE_WALLET_ONBOARDING_RECOVERY_PHRASE_BACKUP_INTRO_DESCRIPTION" desc="Recovery phrase backup description">The 12-24 word recovery phrase is a private key you can use to regain access to your wallet in case you lose a connected device(s). Store it someplace safe, and in the exact order it appears below.</message>
-  <message name="IDS_BRAVE_WALLET_RECOVERY_PHRASE_BACKUP_WARNING" desc="A warning regarding recovery phrase safety">Brave cannot access your secret recovery phrase. Keep it safe, and never share it with anyone else.</message>
+  <message name="IDS_BRAVE_WALLET_RECOVERY_PHRASE_BACKUP_WARNING" desc="A warning regarding recovery phrase safety">Portal cannot access your secret recovery phrase. Keep it safe, and never share it with anyone else.</message>
   <message name="IDS_BRAVE_WALLET_RECOVERY_PHRASE_BACKUP_WARNING_IMPORTANT" desc="An important warning regarding recovery phrase safety"><ph name="TAG_BEFORE">$1</ph>Important: <ph name="TAG_AFTER">$2</ph>Never share your recovery phrase. Anyone with this phrase can take your assets forever.</message>
   <message name="IDS_BRAVE_WALLET_RECOVERY_PHRASE_BACKUP_TITLE" desc="Title to recovery phrase backup screen">Back up your wallet recovery phrase</message>
   <message name="IDS_BRAVE_WALLET_COPIED_TO_CLIPBOARD" desc="Alert confirming that a value was copied to the system clipboard">Copied to clipboard</message>
@@ -768,7 +768,7 @@
   <message name="IDS_BRAVE_SWAP_PRICE_IMPACT" desc="Swap price impact">Price impact</message>
   <message name="IDS_BRAVE_SWAP_MINIMUM_RECEIVED_AFTER_SLIPPAGE" desc="Minimum guaranteed amount user will get after the swap">Minimum received after slippage</message>
   <message name="IDS_BRAVE_SWAP_NETWORK_FEE" desc="Text indicating network fees">Network fee</message>
-  <message name="IDS_BRAVE_SWAP_BRAVE_FEE" desc="Text indicating Portal fee for swaps">Brave fee</message>
+  <message name="IDS_BRAVE_SWAP_BRAVE_FEE" desc="Text indicating Portal fee for swaps">Portal fee</message>
   <message name="IDS_BRAVE_SWAP_FREE" desc="Text indicating free Portal fees for swaps">Free</message>
   <message name="IDS_BRAVE_SWAP_LIQUIDITY_PROVIDER" desc="Liquidity provider for the swap quote">Liquidity provider</message>
   <message name="IDS_BRAVE_SWAP_SWAP_AND_SEND" desc="Swap and send to a specific address in one transaction">Swap &amp; send</message>
@@ -787,7 +787,7 @@
   <message name="IDS_BRAVE_SWAP_EXCHANGES" desc="Exchanges to use for the swap trade">Exchanges</message>
   <message name="IDS_BRAVE_SWAP_DIRECT_ROUTE_TITLE" desc="Text indicating that swap must use direct routes in the trade">Direct route only</message>
   <message name="IDS_BRAVE_SWAP_DIRECT_ROUTE_DESCRIPTION" desc="Text description direct swap routes option">It insures only direct routing and also disables split trade trading</message>
-  <message name="IDS_BRAVE_SWAP_NETWORK_FEE_DESCRIPTION" desc="Network fee description">Brave uses the top 60 tokens for intermediate routing for performance optimization</message>
+  <message name="IDS_BRAVE_SWAP_NETWORK_FEE_DESCRIPTION" desc="Network fee description">Portal uses the top 60 tokens for intermediate routing for performance optimization</message>
   <message name="IDS_BRAVE_SWAP_COINGECKO_CHEAPER" desc="Quote rate is cheaper than CoinGecko"><ph name="VALUE">$1<ex>0.12</ex></ph>% cheaper than CoinGecko</message>
   <message name="IDS_BRAVE_SWAP_COINGECKO_WITHIN" desc="Quote rate is within small percentage of CoinGecko">Within <ph name="VALUE">$1<ex>0.12</ex></ph>% CoinGecko</message>
   <message name="IDS_BRAVE_SWAP_COINGECKO_EXPENSIVE" desc="Quote rate is more expensive than CoinGecko"><ph name="VALUE">$1<ex>12</ex></ph>% more expensive than CoinGecko</message>
@@ -803,8 +803,8 @@
   <message name="IDS_BRAVE_SWAP_HELP_CENTER" desc="Help center">Help Center</message>
   <message name="IDS_BRAVE_SWAP_PRIVACY_POLICY" desc="Privacy policy">Privacy Policy</message>
   <message name="IDS_BRAVE_SWAP_PRIVACY_DESCRIPTION" desc="Privacy policy description">This app uses the following third-party APIs:</message>
-  <message name="IDS_BRAVE_SWAP_ZERO_EX_DISCLAIMER" desc="0x swap privacy policy disclaimer">Brave Swap uses 0x as a DEX aggregator for supported EVM networks. 0x will process the Ethereum wallet address and IP address to fulfill a transaction (including getting quotes). 0x will ONLY use this data for the purposes of processing transactions.</message>
-  <message name="IDS_BRAVE_SWAP_JUPITER_DISCLAIMER" desc="Jupiter swap privacy policy disclaimer">Brave Swap uses Jupiter as a DEX aggregator for Solana network. Jupiter will process the Solana wallet address and IP address to fulfill a transaction (including getting quotes). Jupiter will ONLY use this data for the purposes of processing transactions.</message>
+  <message name="IDS_BRAVE_SWAP_ZERO_EX_DISCLAIMER" desc="0x swap privacy policy disclaimer">Portal Swap uses 0x as a DEX aggregator for supported EVM networks. 0x will process the Ethereum wallet address and IP address to fulfill a transaction (including getting quotes). 0x will ONLY use this data for the purposes of processing transactions.</message>
+  <message name="IDS_BRAVE_SWAP_JUPITER_DISCLAIMER" desc="Jupiter swap privacy policy disclaimer">Portal Swap uses Jupiter as a DEX aggregator for Solana network. Jupiter will process the Solana wallet address and IP address to fulfill a transaction (including getting quotes). Jupiter will ONLY use this data for the purposes of processing transactions.</message>
   <message name="IDS_BRAVE_SWAP_ZERO_EX_PRIVACY" desc="0x swap full privacy policy link text">Click here for 0x Privacy Policy.</message>
   <message name="IDS_BRAVE_SWAP_JUPITER_PRIVACY" desc="Jupiter swap full privacy policy link text">Click here for Jupiter Privacy Policy.</message>
 </grit-part>

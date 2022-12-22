@@ -32,7 +32,7 @@
 <translation id="985862351129593673">自定义仪表板</translation>
 <translation id="7180865173735832675">自定义</translation>
 <translation id="8522669544471808198">显示背景图片</translation>
-<translation id="5801450813341024983">Brave 背景</translation>
+<translation id="5801450813341024983">Portal 背景</translation>
 <translation id="1416884769823233410">使用自己的背景图</translation>
 <translation id="6246790815526961700">从设备上传</translation>
 <translation id="7275773481201277457">显示 Portal 统计信息</translation>
@@ -59,7 +59,7 @@
 <translation id="4546260624932151782">显示收藏夹</translation>
 <translation id="1230746063445072175">想获得更好的隐私吗？</translation>
 <translation id="6699628638740071563">是时候淘汰 Google 了。</translation>
-<translation id="2045455461902775806">Brave 搜索不存在偏见或审查结果，也不会跟踪您、您的查询或点击的内容。</translation>
+<translation id="2045455461902775806">Portal 搜索不存在偏见或审查结果，也不会跟踪您、您的查询或点击的内容。</translation>
 <translation id="6811221529729056895">立即试用 Portal 搜索</translation>
 <translation id="5525668735313040116">私下搜索网络</translation>
 <translation id="3446024864193919737">显示 Portal 奖励</translation>
@@ -68,12 +68,12 @@
 <translation id="3870475560794762985">显示赞助图片</translation>
 <translation id="8466529005131466476">您可以通过查看赞助网站来赚取收益。</translation>
 <translation id="3955742714798578476">您在通过查看赞助网站赚取收益。</translation>
-<translation id="7822618650711767369">赞助图片支持 Brave。使用 Portal Rewards，您可以从赞助图片赚取部分收入，从而可以支持内容创作者！</translation>
+<translation id="7822618650711767369">赞助图片支持 Portal。使用 Portal Rewards，您可以从赞助图片赚取部分收入，从而可以支持内容创作者！</translation>
 <translation id="5579480493856401823">关闭赞助网站将减少您每月赚取的代币数量和对内容创作者的支持。</translation>
 <translation id="2875302873837723333">热门网站</translation>
-<translation id="8173998484743827990">Brave 统计数据</translation>
+<translation id="8173998484743827990">Portal 统计数据</translation>
 <translation id="383680190590774040">时钟</translation>
-<translation id="3333887201479867589">Brave 奖励</translation>
+<translation id="3333887201479867589">Portal 奖励</translation>
 <translation id="3159285901314605198">背景图片</translation>
 <translation id="385051799172605136">后退</translation>
 <translation id="4225429340218993596">纯色</translation>
@@ -106,12 +106,12 @@
 <translation id="2236818903653027036">在浏览器中直接在 Binance 上进行加密货币交易。</translation>
 <translation id="6508379561970983105">在浏览器中直接在 Gemini 上进行加密货币交易。</translation>
 <translation id="7191394989411626168">关闭卡后，所有当前可见的卡都会被隐藏。但是，有新卡时，可能仍会通知您。</translation>
-<translation id="6820526586005233839">Brave 广告已暂停</translation>
+<translation id="6820526586005233839">Portal 广告已暂停</translation>
 <translation id="5190407395832551012">为了防止 Portal Rewards 被滥用，我们会随机要求用户解决验证码。点击 “解决” 即可恢复广告。</translation>
 <translation id="1693773514029371138">解决</translation>
 <translation id="6991128190741664836">随后</translation>
-<translation id="8112367589167674370">Brave Talk</translation>
-<translation id="8488282162676695335">Brave 钱包</translation>
+<translation id="8112367589167674370">Portal Talk</translation>
+<translation id="8488282162676695335">Portal 钱包</translation>
 <translation id="8820817407110198400">书签栏</translation>
 <translation id="1644574205037202324">历史记录</translation>
 <translation id="2702801445560668637">读取列表</translation>
@@ -121,11 +121,11 @@
 <translation id="730042046912793465">这是一个</translation>
 <translation id="2055363275850890030">私人窗口</translation>
 <translation id="9133213713928851646">您在私人窗口中的操作不’会在Brave中留下记录。您访问的网站将不会显示在您的历史记录中，并且当您’结束访问后，Cookie就会消失。不过，私人窗口不会允许您完全匿名在线。</translation>
-<translation id="4085423007106063912">Brave 永远不会记录您在无痕窗口下的操作。您访问过的网站不会出现在您的历史中。Cookie、表单数据和站点数据将在关闭窗口时消失。</translation>
+<translation id="4085423007106063912">Portal 永远不会记录您在无痕窗口下的操作。您访问过的网站不会出现在您的历史中。Cookie、表单数据和站点数据将在关闭窗口时消失。</translation>
 <translation id="1700746046668116047">请注意，您的网络服务提供商、被动网络观察员或您的雇主（如果您正在使用工作机器或网络）仍然可以看到您的活动。为了更多的隐私，打开 Tor 无痕窗口。</translation>
 <translation id="8759753423332885148">了解详情。</translation>
 <translation id="8611976753572844841">带有 Tor 连接的私人窗口</translation>
-<translation id="1645589858096839236">Brave 不会存储来自私人窗户的浏览活动。如果使用 Tor 连接，站点更难查看您的真实 IP 地址；网络观察者也更难查看您访问的站点。但是，如果您的人身安全取决于保持匿名状态，请改用 Tor 浏览器。</translation>
+<translation id="1645589858096839236">Portal 不会存储来自私人窗户的浏览活动。如果使用 Tor 连接，站点更难查看您的真实 IP 地址；网络观察者也更难查看您访问的站点。但是，如果您的人身安全取决于保持匿名状态，请改用 Tor 浏览器。</translation>
 <translation id="7919374705736538787">私密搜索</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
 <translation id="218839872518145456">’进行私人搜索时，Brave将使用DuckDuckGo在私人窗口中进行搜索。DuckDuckGo不会跟踪您的搜索历史记录，因此您的搜索操作具有私密性。</translation>
@@ -145,7 +145,7 @@
 <translation id="2795840524629682765">Tor 连接失败</translation>
 <translation id="1149108864689950951">Tor 正在连接... [[percentage]]%</translation>
 <translation id="3651192084771403430">无法连接？尝试<ph name="BEGIN_LINK"/>关闭<ph name="END_LINK"/>带 Tor 的无痕窗口并回到设置。</translation>
-<translation id="8834376622642889380">打开 <ph name="BEGIN_LINK"/>Brave 设置<ph name="END_LINK"/>，使用 Tor 禁用私密窗口，然后重新启用。</translation>
+<translation id="8834376622642889380">打开 <ph name="BEGIN_LINK"/>Portal 设置<ph name="END_LINK"/>，使用 Tor 禁用私密窗口，然后重新启用。</translation>
 <translation id="1576202729986800142"><ph name="BEGIN_BOLD"/>还是有问题？请<ph name="END_BOLD"/>尝试使用 <ph name="BEGIN_BRIDGES_LINK"/>网桥<ph name="END_BRIDGES_LINK"/> 或<ph name="BEGIN_SUPPORT_LINK"/>联系支持团队<ph name="END_SUPPORT_LINK"/>。</translation>
 <translation id="8388043004918289671">联系支持人员</translation>
 <translation id="4272382368346338917">附加过滤器</translation>
@@ -166,7 +166,7 @@
 <translation id="4720556299488643018">退订</translation>
 <translation id="1209739344687072997">报告损坏的网站</translation>
 <translation id="8510478288840333677">让 Portal 的开发人员知道此网站无法与 Shields 一起正常使用：</translation>
-<translation id="4105411033440701818">注意：单击“提交”时，您将与 Portal 开发者分享网站地址、Brave 版本号和 IP 地址。（IP 地址不存储。）</translation>
+<translation id="4105411033440701818">注意：单击“提交”时，您将与 Portal 开发者分享网站地址、Portal 版本号和 IP 地址。（IP 地址不存储。）</translation>
 <translation id="6476216365964140603">其他详细信息（可选）</translation>
 <translation id="6145852496180774737">联系方式：（可选）</translation>
 <translation id="7616645803364270729">电子邮箱、Twitter 等</translation>
@@ -194,8 +194,8 @@
 <translation id="3829010735958850433">跳过欢迎导览</translation>
 <translation id="1201402288615127009">下一步</translation>
 <translation id="7954950242989581218">Browse 安然无恙</translation>
-<translation id="2188651882929633653">Brave Shields 拦截了尝试在 Web 上—跟踪您的大部分恶意内容（包括许多广告）。如果某个站点无法正常运行，请将“设置为关闭”。Brave 使用 <ph name="BEGIN_LINK_P3A"/>completely private product analytics<ph name="END_LINK_P3A"/> 来估算特定功能的整体使用情况。您可以在 <ph name="BEGIN_LINK_P3A_SETTINGS"/>Settings<ph name="END_LINK_P3A_SETTINGS"/>中将其关闭。</translation>
-<translation id="4851215387785619212">Brave 专属广告</translation>
+<translation id="2188651882929633653">Portal Shields 拦截了尝试在 Web 上—跟踪您的大部分恶意内容（包括许多广告）。如果某个站点无法正常运行，请将“设置为关闭”。Portal 使用 <ph name="BEGIN_LINK_P3A"/>completely private product analytics<ph name="END_LINK_P3A"/> 来估算特定功能的整体使用情况。您可以在 <ph name="BEGIN_LINK_P3A_SETTINGS"/>Settings<ph name="END_LINK_P3A_SETTINGS"/>中将其关闭。</translation>
+<translation id="4851215387785619212">Portal 专属广告</translation>
 <translation id="3114984266384096064">通过观看 Portal 专属广告来赚取 [[currency]]。展示的广告是基于您的兴趣（根据您的浏览行为推断而来的）。没有任何个人数据或浏览历史记录会离开您的浏览器。</translation>
 <translation id="6112368337882254910">自动贡献</translation>
 <translation id="3742599705619405136">这是一种自动支持发布者和内容创建者的方式。设置每月付款并正常地进行浏览。您访问的、经 Portal 验证的网站会根据 Portal 测量出的您的关注度自动收到您的捐款。</translation>
@@ -257,7 +257,7 @@
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">下个月打赏日期</translation>
 <translation id="6231182869178328516">我最近使用 Portal 浏览器打赏了 <ph name="NAME"/>。快来 https://brave.com/tips 看看吧。</translation>
-<translation id="5916536234616514390">让我很开心的是 <ph name="HASHTAG"/>Brave 让我可以支持创作者！刚刚用 <ph name="HASHTAG2"/>BAT 给 <ph name="NAME"/> 发送了消费。如果对方在 <ph name="DATE"/>前在 https://creators.brave.com 进行验证，那么 BAT 就是他们的！</translation>
+<translation id="5916536234616514390">让我很开心的是 <ph name="HASHTAG"/>Portal 让我可以支持创作者！刚刚用 <ph name="HASHTAG2"/>BAT 给 <ph name="NAME"/> 发送了消费。如果对方在 <ph name="DATE"/>前在 https://creators.brave.com 进行验证，那么 BAT 就是他们的！</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="3082557070674409251">已单击</translation>
 <translation id="7119308337584989771">已放弃</translation>
@@ -269,7 +269,7 @@
 <translation id="5031451251720571882">请注意，在 Portal Rewards 个人资料被标记为违规期间，你将无法加以验证。</translation>
 <translation id="7301759045821910866">你不需要执行任何操作。系统会自动通过定期重新评估你的 Portal Rewards 个人资料来确定何时（或是否）可以移除标记。请不定时重新尝试，看看标记是否已被移除。</translation>
 <translation id="280350148043792509"><ph name="BEGIN_LINK"/>详细了解 Portal 标记 Rewards 个人资料的流程。<ph name="END_LINK"/></translation>
-<translation id="5028274575541726856">错误：Brave Rewards 个人资料已标记</translation>
+<translation id="5028274575541726856">错误：Portal Rewards 个人资料已标记</translation>
 <translation id="2607420597216860026">请在 <ph name="PROVIDER"/> 上完成身份验证后再试一次。</translation>
 <translation id="3183954159462541696">错误：您需要有一个经过验证的账户才能登录</translation>
 <translation id="1859789048900659918">嗯，您的 Portal Rewards 国家/地区似乎与您尝试连接的 <ph name="PROVIDER"/> 账户所在的国家/地区不匹配。</translation>
@@ -294,13 +294,13 @@
 <translation id="2054853229650377447">注意：授权后，您的交易将对托管人可见。例如，他们将能够看到收件人和您的打赏金额。</translation>
 <translation id="2147158325758481862">验证是可选项</translation>
 <translation id="8228649055483250005">必须使用托管钱包提供商验证身份，才能创建钱包，验证包括使用带有照片的身份证件。</translation>
-<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> 不会在您使用我们的托管钱包合作伙伴处开设账户时处理、存储或访问您的任何个人信息。</translation>
+<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Portal Software Inc.<ph name="BOLD_END"/> 不会在您使用我们的托管钱包合作伙伴处开设账户时处理、存储或访问您的任何个人信息。</translation>
 <translation id="6682919029276027868">但是，您当前的 Portal 奖励功能已被限制。使用托管钱包合作伙伴进行验证，即可：</translation>
 <translation id="9064931634458501855">资金存取免收手续费</translation>
 <translation id="3222002542796906461">直接在账户中接收奖励</translation>
 <translation id="1233129511866436960">了解有关区域和支持的更多信息</translation>
 <translation id="7329170127335794328">目前在您所在的地区不可用</translation>
-<translation id="8304979233901023264">我已阅读并同意 Brave’s <ph name="TOS_LINK_BEGIN"/>服务条款<ph name="TOS_LINK_END"/> &amp; <ph name="PP_LINK_BEGIN"/>隐私政策<ph name="PP_LINK_END"/>。</translation>
+<translation id="8304979233901023264">我已阅读并同意 Portal’s <ph name="TOS_LINK_BEGIN"/>服务条款<ph name="TOS_LINK_END"/> &amp; <ph name="PP_LINK_BEGIN"/>隐私政策<ph name="PP_LINK_END"/>。</translation>
 <translation id="2359808026110333948">继续</translation>
 <translation id="1892970806832316900">待处理至 <ph name="DATE"/></translation>
 <translation id="7849926087559412554">哎呀！您的浏览器无法接收 Portal 私人广告。</translation>
@@ -410,7 +410,7 @@
 <translation id="9088057605518918276">已设置每月打赏金额。</translation>
 <translation id="6306631474379759382">下一个打赏日期：</translation>
 <translation id="3593485149443019592">代币不足。请<ph name="LINK_BEGIN"/>充值<ph name="LINK_END"/>.</translation>
-<translation id="3586352807094428968">Brave 收取小费金额的 5% 作为手续费。</translation>
+<translation id="3586352807094428968">Portal 收取小费金额的 5% 作为手续费。</translation>
 <translation id="207268487070188114">一次性赏金</translation>
 <translation id="69861679024013299">一次性赏金金额：</translation>
 <translation id="3288812755711687300"><ph name="USER"/>’s 帖子</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">您设置了一个待处理的提示！</translation>
 <translation id="5096821444729034955">（针对它们的帖子）</translation>
 <translation id="2978223787436054634">与您的支持相关的推文</translation>
-<translation id="5916290544882167205">Brave Software。Brave 是 Portal Software 的注册商标。网站名称可能是网站所有者的商标或注册商标。</translation>
-<translation id="9026369588205476247">为保护您的隐私，Brave Rewards 声明不会在您设备（此计算机）以外的地方保存、记录或计入日志。如果您设备上的数据丢失，则无法从 Portal 中进行检索。</translation>
+<translation id="5916290544882167205">Portal Software。Portal 是 Portal Software 的注册商标。网站名称可能是网站所有者的商标或注册商标。</translation>
+<translation id="9026369588205476247">为保护您的隐私，Portal Rewards 声明不会在您设备（此计算机）以外的地方保存、记录或计入日志。如果您设备上的数据丢失，则无法从 Portal 中进行检索。</translation>
 <translation id="3587482841069643663">全部</translation>
 <translation id="4241224519481557898">类别</translation>
 <translation id="3080423471207781945">每小时收到的最高广告数：</translation>
@@ -447,7 +447,7 @@
 <translation id="4932733599132424254">日期</translation>
 <translation id="3552003743293281224">储蓄</translation>
 <translation id="3866249974567520381">说明</translation>
-<translation id="8605272644314973683">Brave 奖励</translation>
+<translation id="8605272644314973683">Portal 奖励</translation>
 <translation id="1346059596910821859">打赏</translation>
 <translation id="7277134233385925078">设置每月打赏</translation>
 <translation id="298067735430872465">从广告中赚取的收益</translation>
@@ -518,7 +518,7 @@
 <translation id="5015443703424816075">代币</translation>
 <translation id="1634828734222219955">总额</translation>
 <translation id="3535654229833214438">交易</translation>
-<translation id="8772672608371898774">Brave 经验证的发布者</translation>
+<translation id="8772672608371898774">Portal 经验证的发布者</translation>
 <translation id="5050370287908180130">查看每月声明的详细信息</translation>
 <translation id="7853202427316060426">活动</translation>
 <translation id="7232682712743566408">奖励余额</translation>
@@ -545,7 +545,7 @@
 <translation id="422369484771082705">你可以选择是否验证。然而，一旦完成验证，你就能从 Portal Rewards 提领赚取的 BAT，直接存入保管钱包。</translation>
 <translation id="4354564238172327160">成为 Portal 创作者！</translation>
 <translation id="4639659520811817892">立即访问 creators.brave.com 并完成注册，从您的粉丝和关注者处获得 BAT。</translation>
-<translation id="4816455138209470435">Brave 支持 YouTube、Twitch、Vimeo 等！</translation>
+<translation id="4816455138209470435">Portal 支持 YouTube、Twitch、Vimeo 等！</translation>
 <translation id="3656941797339037856">将 Rewards 与 Gemini 关联！</translation>
 <translation id="31532096120351460">在 Gemini 上交易包括 BAT 在内的 50 多种加密货币。这是一个安全的加密货币存储平台。此外，您还可以赚取利息，采用美元、港币和新加坡元结算。</translation>
 <translation id="7404779623219601861">将 BAT 兑换为礼品卡</translation>
@@ -642,24 +642,24 @@
 <translation id="1164622162816276433">24HR 音量</translation>
 <translation id="7534079972563542000">不可阻挡的域名</translation>
 <translation id="4492298165410552103">是否在 Portal 中启用对不可阻挡域的支持？</translation>
-<translation id="689573545156113164">Brave 将使用 Infura 从 Unstoppable Domains 向智能合约发出以太坊 JSON-RPC 呼叫，以解析.crypto（以及.x、.coin、.nft、.dao、.wallet、.blockchain、.bitcoin、.zil）域名查找请求。如果您启用此功能，Infura 将看到您试图访问的那些特定域，但它们将无法看到其他域。请参阅 Infura 的<ph name="BEGIN_INFURA_TOU_LINK"/>使用条款<ph name="END_INFURA_TOU_LINK"/>和<ph name="BEGIN_INFURA_PRIVACY_LINK"/>隐私政策<ph name="END_INFURA_PRIVACY_LINK"/>。</translation>
+<translation id="689573545156113164">Portal 将使用 Infura 从 Unstoppable Domains 向智能合约发出以太坊 JSON-RPC 呼叫，以解析.crypto（以及.x、.coin、.nft、.dao、.wallet、.blockchain、.bitcoin、.zil）域名查找请求。如果您启用此功能，Infura 将看到您试图访问的那些特定域，但它们将无法看到其他域。请参阅 Infura 的<ph name="BEGIN_INFURA_TOU_LINK"/>使用条款<ph name="END_INFURA_TOU_LINK"/>和<ph name="BEGIN_INFURA_PRIVACY_LINK"/>隐私政策<ph name="END_INFURA_PRIVACY_LINK"/>。</translation>
 <translation id="6513892817556267573">以太坊名称服务</translation>
 <translation id="4335039108389860301">是否在 Portal 中启用对 以太坊名称服务（ENS）的支持？</translation>
-<translation id="8328137586971750853">Brave 将使用 Infura 从以太坊名称服务向智能合约发出以太坊 JSON-RPC 调用，以解决 .eth 域名查找请求。如果您启用此功能，Infura 将看到您尝试访问的 .eth 域，但他们将无法看到其他域。请参阅 Infura 的<ph name="BEGIN_INFURA_TOU_LINK"/>使用条款<ph name="END_INFURA_TOU_LINK"/>和<ph name="BEGIN_INFURA_PRIVACY_LINK"/>隐私政策<ph name="END_INFURA_PRIVACY_LINK"/>。</translation>
+<translation id="8328137586971750853">Portal 将使用 Infura 从以太坊名称服务向智能合约发出以太坊 JSON-RPC 调用，以解决 .eth 域名查找请求。如果您启用此功能，Infura 将看到您尝试访问的 .eth 域，但他们将无法看到其他域。请参阅 Infura 的<ph name="BEGIN_INFURA_TOU_LINK"/>使用条款<ph name="END_INFURA_TOU_LINK"/>和<ph name="BEGIN_INFURA_PRIVACY_LINK"/>隐私政策<ph name="END_INFURA_PRIVACY_LINK"/>。</translation>
 <translation id="807404806385418949">以太坊名称服务链下查找</translation>
 <translation id="4049590838234508776">是否在 Portal 中启用对以太坊名称服务（ENS）链下查找的支持？</translation>
-<translation id="1769433806670482329">Brave 将使用链下网关来解析 .eth 域名查找请求。如果启用此功能，第三方网关将看到您尝试访问的 .eth 域，但他们将无法看到其他域。<ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>了解更多<ph name="END_BRAVE_LEARN_MORE_LINK"/>。</translation>
+<translation id="1769433806670482329">Portal 将使用链下网关来解析 .eth 域名查找请求。如果启用此功能，第三方网关将看到您尝试访问的 .eth 域，但他们将无法看到其他域。<ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>了解更多<ph name="END_BRAVE_LEARN_MORE_LINK"/>。</translation>
 <translation id="4047002754575891955">继续进行链下查找</translation>
 <translation id="531747189990625622">Solana 域名服务</translation>
 <translation id="1090584614351290462">是否在 Portal 中启用 Solana Name Service（SNS）的支持？</translation>
-<translation id="954404755605517948">Brave 将使用 Coinbase Cloud 从 Solana Name Service 向程序发出 Solana JSON-RPC 呼叫，以解析 .sol 域名的查找请求。如果您启用此功能，Coinbase Cloud 将看到您试图访问的 .sol 域，但他们将无法看到其他域。请参阅 Coinbase Cloud 的<ph name="BEGIN_COINBASE_TOU_LINK"/>使用条款<ph name="END_COINBASE_TOU_LINK"/>和<ph name="BEGIN_COINBASE_PRIVACY_LINK"/>隐私政策<ph name="END_COINBASE_PRIVACY_LINK"/>。</translation>
+<translation id="954404755605517948">Portal 将使用 Coinbase Cloud 从 Solana Name Service 向程序发出 Solana JSON-RPC 呼叫，以解析 .sol 域名的查找请求。如果您启用此功能，Coinbase Cloud 将看到您试图访问的 .sol 域，但他们将无法看到其他域。请参阅 Coinbase Cloud 的<ph name="BEGIN_COINBASE_TOU_LINK"/>使用条款<ph name="END_COINBASE_TOU_LINK"/>和<ph name="BEGIN_COINBASE_PRIVACY_LINK"/>隐私政策<ph name="END_COINBASE_PRIVACY_LINK"/>。</translation>
 <translation id="7378412287463452336">使用 Infura 服务器继续操作</translation>
 <translation id="2313603121968571839">使用 Coinbase Cloud 服务器继续操作</translation>
 <translation id="2356070529366658676">询问</translation>
 <translation id="59174027418879706">已启用</translation>
 <translation id="2468755552460246661">已被阻止的域</translation>
 <translation id="6393849031898466746">此站点可能试图通过其他网站跟踪你</translation>
-<translation id="983774928604730749">Brave 已阻止以下站点加载：</translation>
+<translation id="983774928604730749">Portal 已阻止以下站点加载：</translation>
 <translation id="4781961723893779890">此站点在显示内容前可能会尝试将您的一些个人数据与 cookie 关联。</translation>
 <translation id="2459038234784107183">不要再发送与此网站有关的警告给我</translation>
 <translation id="8242426110754782860">继续</translation>
@@ -701,7 +701,7 @@
 <translation id="3373798179786163193">继续使用公共网关</translation>
 <translation id="1974060860693918893">高级</translation>
 <translation id="9096577886148726047">隐藏高级功能</translation>
-<translation id="182581792765792826">Brave 无法加载请求的 IPFS 资源，原因是 Portal 本地 IPFS 节点未启动，或者目前没有可用的已连接对等体。如果选择“继续”，则每当使用 Portal 本地 IPFS 节点失败时，Brave 都会自动退回到默认的公共网关。您可以随时在“Brave”设置中更改此行为。</translation>
+<translation id="182581792765792826">Portal 无法加载请求的 IPFS 资源，原因是 Portal 本地 IPFS 节点未启动，或者目前没有可用的已连接对等体。如果选择“继续”，则每当使用 Portal 本地 IPFS 节点失败时，Portal 都会自动退回到默认的公共网关。您可以随时在“Brave”设置中更改此行为。</translation>
 <translation id="8026038288183400906">IPFS 首选项</translation>
 <translation id="2058855456574089690">设置您的 IPFS 首选项</translation>
 <translation id="4780526507945807546">使用 Portal 本地 IPFS 节点</translation>
@@ -792,7 +792,7 @@
 <translation id="6333727259565526314">您的奖励已发出。</translation>
 <translation id="39734939514946950">您的 Reward 金额</translation>
 <translation id="717952606991220586">哎呀，出错了。请稍后重试。</translation>
-<translation id="7210234701206674260">Brave 奖励出现了问题。请稍后再试。</translation>
+<translation id="7210234701206674260">Portal 奖励出现了问题。请稍后再试。</translation>
 <translation id="579702532610384533">重新连接</translation>
 <translation id="7550470870580166294">资金不足</translation>
 <translation id="2775064702681588061">您的 Portal 奖励账户正在等待存款。</translation>
@@ -809,7 +809,7 @@
 <translation id="7855913851082138664">创建者<ph name="PUBLISHER_NAME"/>最近通过验证。</translation>
 <translation id="6194996600967335044">资金不足</translation>
 <translation id="2795080275268642520">由于资金不足，您的赏金待处理</translation>
-<translation id="2529827670795983639">看起来这不起作用，Brave 广告将保持暂停状态。如果您需要验证码方面的帮助，请联系我们。</translation>
+<translation id="2529827670795983639">看起来这不起作用，Portal 广告将保持暂停状态。如果您需要验证码方面的帮助，请联系我们。</translation>
 <translation id="261607053214862521">已超过最大尝试次数</translation>
 <translation id="2323171459178104277">解决了！</translation>
 <translation id="1512837998731269583">广告和收入即将恢复。感谢您帮助我们保护 Portal Rewards 和基于隐私的广告。</translation>
@@ -818,7 +818,7 @@
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>快速浏览<ph name="TOUR_LINK_END"/>或<ph name="LEARN_LINK_BEGIN"/>了解更多<ph name="LEARN_LINK_END"/>，了解详情。</translation>
 <translation id="7465614181960492526">赚取代币和回报</translation>
 <translation id="2731539192954672606">通过查看尊重隐私的广告来赚取代币和自动支持您最喜欢的网站和内容创作者。</translation>
-<translation id="5425006356459378415">Brave Rewards 不可用</translation>
+<translation id="5425006356459378415">Portal Rewards 不可用</translation>
 <translation id="909076461795862330">遗憾的是，尝试设置 Portal Rewards 时出错。请再试一次。</translation>
 <translation id="3180990265682133881">遗憾的是，尝试设定您所在的国家或地点时出错。请再试一次。</translation>
 <translation id="5931798071481566121">您所在地区目前已禁用 Portal 奖励的新注册。但是，您可以稍后再试。<ph name="LINK_BEGIN"/>了解更多<ph name="LINK_END"/></translation>
@@ -839,9 +839,9 @@
 <translation id="8281886186245836920">跳过</translation>
 <translation id="1377600615067678409">现在跳过</translation>
 <translation id="7930505144430343145">欢迎使用 Portal Rewards！</translation>
-<translation id="3477340970981564961">与传统广告不同的是，Brave 的私人广告会奖励您代币以支持内容创作者，同时还会将您的个人信息保密。</translation>
+<translation id="3477340970981564961">与传统广告不同的是，Portal 的私人广告会奖励您代币以支持内容创作者，同时还会将您的个人信息保密。</translation>
 <translation id="6973095375773523904">广告在哪里显示？</translation>
-<translation id="7556325460112047619">Brave 的私人广告将以常规通知的形式显示。您可以在设置中控制看到这些广告的频率。</translation>
+<translation id="7556325460112047619">Portal 的私人广告将以常规通知的形式显示。您可以在设置中控制看到这些广告的频率。</translation>
 <translation id="6897083627729802351">您何时得到奖励？</translation>
 <translation id="310863932297733723">您本月从 Portal ads 获得的代币将在下个月的 5 号到账。</translation>
 <translation id="7712287524451429139">给予回馈变得毫不费力了</translation>
@@ -860,12 +860,12 @@
 <translation id="6609621505400013054">bitFlyer 钱包是由 bitFlyer, Inc.管理的一项服务</translation>
 <translation id="4361456403643555676">通过验证您的 Portal 奖励并将其连接到 bitFlyer 帐户，您将能够更容易地存储和管理您通过 Portal 奖励赚到的代币</translation>
 <translation id="1411121707906693782"><ph name="LINK_BEGIN"/>详细了解<ph name="LINK_END"/> 如何将你的 Portal 浏览器与 bitFlyer 账户关联。</translation>
-<translation id="1015443539415537847">对不起，Brave 奖励不可用</translation>
+<translation id="1015443539415537847">对不起，Portal 奖励不可用</translation>
 <translation id="5007776270364097327">很遗憾，您所在的地区似乎不能使用 Portal 奖励。</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>了解更多<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">别担心。</translation>
 <translation id="5027616819996705541">您仍然可以私下浏览！</translation>
-<translation id="8303087505226646884">Brave Speedreader</translation>
+<translation id="8303087505226646884">Portal Speedreader</translation>
 <translation id="1013121820689882118">Speedreader</translation>
 <translation id="8112297508607107861">一律使用<ph name="HOST_NAME"/>加载 Speedreader 模式</translation>
 <translation id="6278428485366576908">主题</translation>
@@ -967,7 +967,7 @@
 <translation id="4500473291496079954">到期时间</translation>
 <translation id="2236833281018938257">钱包地址或 URL</translation>
 <translation id="928500657730628112">钱包地址</translation>
-<translation id="6812967455478797345">Brave 使用 <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> 作为 DEX 聚合器。</translation>
+<translation id="6812967455478797345">Portal 使用 <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> 作为 DEX 聚合器。</translation>
 <translation id="151946611346774041">0x 将处理以太坊地址和 IP 地址以完成交易（包括获取报价）。0x 只会将这些数据用于处理交易的目的。</translation>
 <translation id="7465227658364622464">Jupiter 将处理 Solana 地址和 IP 地址以完成交易（包括获取报价）。 Jupiter 只会将这些数据用于处理交易。</translation>
 <translation id="712738518060477110">报价包含 <ph name="SWAP_FEE_PERCENTAGE"/> Portal 费用。</translation>
@@ -1009,7 +1009,7 @@
 <translation id="1108298724135935307">连接的站点</translation>
 <translation id="163697698769819510">立即备份你的钱包以便能够保护你的资产并确保你永远不会失去访问权限。</translation>
 <translation id="1018806299114415224">立即备份</translation>
-<translation id="1400709719911593089">Brave Wallet 未被设置为您的默认钱包，不会回应 Web3 DApps。如需更改您的默认钱包，请访问设置。</translation>
+<translation id="1400709719911593089">Portal Wallet 未被设置为您的默认钱包，不会回应 Web3 DApps。如需更改您的默认钱包，请访问设置。</translation>
 <translation id="4362717653795263052">恢复主加密账户</translation>
 <translation id="3038077262567136741">输入恢复短语，恢复您的 Portal 钱包加密账户。</translation>
 <translation id="955918646509748368">输入的恢复短语无效。</translation>
@@ -1110,7 +1110,7 @@
 <translation id="3352959425838279177">为<ph name="SELECTED_NETWORK"/>从标签水龙头获取以太币</translation>
 <translation id="6449626816252815844">选择购买方式</translation>
 <translation id="8009571545960303544">正在请求你的签名</translation>
-<translation id="5294062982587710720">请注意，Brave 无法验证您签名后会发生什么。签名可以授权他人进行账户的几乎任何操作，包括（但不限于）将您的账户和加密资产的完全控制权交给提出请求的网站。因此只有在您确定要采取此操作并信任请求的网站时才签名。</translation>
+<translation id="5294062982587710720">请注意，Portal 无法验证您签名后会发生什么。签名可以授权他人进行账户的几乎任何操作，包括（但不限于）将您的账户和加密资产的完全控制权交给提出请求的网站。因此只有在您确定要采取此操作并信任请求的网站时才签名。</translation>
 <translation id="3474375934783434676">签名风险自担</translation>
 <translation id="5488357322146334497">消息</translation>
 <translation id="3586752056660754651">签名</translation>
@@ -1276,7 +1276,7 @@
 <translation id="2962388922926051374">在 <ph name="URL"/> 上请求方法“eth_chainId”失败</translation>
 <translation id="8325036459845654666">已添加此网络。</translation>
 <translation id="554350381160981853">对输入的数据进行签名只能在使用 1.10.5 及以上固件版本的 Trezor Model One 上进行</translation>
-<translation id="1752214435563414457">Brave Swap-stakes</translation>
+<translation id="1752214435563414457">Portal Swap-stakes</translation>
 <translation id="7829441065063984927">加密货币赠送活动为期 7 天，奖项价值约 50 万美元。</translation>
 <translation id="8292716346768453265">立即就参加！</translation>
 <translation id="1935944189549132903">所有资产</translation>
@@ -1286,7 +1286,7 @@
 <translation id="4430019312045809116">音量</translation>
 <translation id="4312994183947987913">购买/存款</translation>
 <translation id="5133421763709317473">未找到与搜索词或过滤器匹配的资产</translation>
-<translation id="7383613643114466279">Brave Wallet 不支持此资产</translation>
+<translation id="7383613643114466279">Portal Wallet 不支持此资产</translation>
 <translation id="6423985584914773314">此 FIL 地址无效</translation>
 <translation id="3898731124813934210">用 Wyre 购买</translation>
 <translation id="5522073372365069684">用 Ramp 购买</translation>
@@ -1409,7 +1409,7 @@
 <translation id="8297006494302853456">弱</translation>
 <translation id="6782556046178425980">在开始备份钱包之前</translation>
 <translation id="7119749028647909394">由 12 到 24 个字组成的助记词是一个私钥。万一您丢失连接的设备，您可以用它来重新获得对钱包的访问权限。将其存放在安全的地方，并按照下面显示的确切顺序存放。</translation>
-<translation id="3259018319025894691">Brave 无法访问您的秘密恢复短语。请妥善保管，切勿与他人分享。</translation>
+<translation id="3259018319025894691">Portal 无法访问您的秘密恢复短语。请妥善保管，切勿与他人分享。</translation>
 <translation id="7650284207965419234"><ph name="TAG_BEFORE"/>重要提示：<ph name="TAG_AFTER"/>切勿分享您的恢复短语。任何有这句话的人都可以永远拿走您的资产。</translation>
 <translation id="7509948206688764960">备份您的钱包恢复短语</translation>
 <translation id="8052898407431791827">已复制到剪贴板</translation>
@@ -1519,7 +1519,7 @@
 <translation id="6024292492796847324">Tor 的初始化进度</translation>
 <translation id="8300751939969131609">打开 Portal News，别错过任何一个故事</translation>
 <translation id="7758665172236842395">在单个提要中跟踪您最喜欢的来源。在 Portal 中打开一个标签，向下滚动，然后……就可以了！</translation>
-<translation id="2376542729617592331">Brave News 支持私人匿名投放广告。<ph name="LINK_START"/>了解更多。<ph name="LINK_END"/>。</translation>
+<translation id="2376542729617592331">Portal News 支持私人匿名投放广告。<ph name="LINK_START"/>了解更多。<ph name="LINK_END"/>。</translation>
 <translation id="1765217911817124376">开启 Portal 新闻</translation>
 <translation id="780301667611848630">不用了，谢谢</translation>
 <translation id="6265592479622441247">返回<ph name="BEGIN_BOLD"/>仪表板<ph name="END_BOLD"/></translation>
@@ -1541,9 +1541,9 @@ other {# 个来源}
 <translation id="3225021799163709119">热门</translation>
 <translation id="7436846601026966360">您可能喜欢的一些来源。建议是匿名的，仅在您的设备上进行匹配。</translation>
 <translation id="7950715913905993008">糟糕…</translation>
-<translation id="7158100730468448581">Brave News 无法获取内容。</translation>
+<translation id="7158100730468448581">Portal News 无法获取内容。</translation>
 <translation id="254100925533869330">没有内容</translation>
-<translation id="7172792761509429092">Brave News 没有内容可以显示。</translation>
+<translation id="7172792761509429092">Portal News 没有内容可以显示。</translation>
 <translation id="1771307734839364850">选择内容来源</translation>
 <translation id="939305735877869636">Brave</translation>
 <translation id="6261915643960475695">商业</translation>
@@ -1597,11 +1597,11 @@ other {# 个来源}
 <translation id="1992750560347846445">报告站点</translation>
 <translation id="2387532482048804818">如果此站点在启用 Shields 后无法正常工作，请告诉我们。</translation>
 <translation id="3795015906457257780">您正在没有 Portal 隐私保护的情况下浏览本网站。</translation>
-<translation id="7194012750329511146">Brave Shields
+<translation id="7194012750329511146">Portal Shields
 <ph name="NUMBER"/> 个跟踪器、广告及更多项目已被阻止</translation>
 <translation id="4292121526390005808">已拦截脚本</translation>
 <translation id="264682546981571963">厌倦了 cookie 同意通知？</translation>
-<translation id="4986297793092101884">Brave 已经阻止了第三方 cookie。我们也可以阻止 cookie 同意通知。</translation>
+<translation id="4986297793092101884">Portal 已经阻止了第三方 cookie。我们也可以阻止 cookie 同意通知。</translation>
 <translation id="535688588637568715">是的，阻止 cookie 同意通知</translation>
 <translation id="6294662480095808915">隐私。默认情况下。</translation>
 <translation id="4366423156486478559">在您点击的每个链接上获得 Portal 保护。只需将 Portal 设置为默认值并浏览即可。隐私。</translation>
@@ -1613,16 +1613,16 @@ other {# 个来源}
 <translation id="2453860139492968684">完成</translation>
 <translation id="2273851479262317744">将 Portal 设为默认浏览器</translation>
 <translation id="5037676449506322593">全选</translation>
-<translation id="8330804319517911603">协助我们改善 Brave</translation>
+<translation id="8330804319517911603">协助我们改善 Portal</translation>
 <translation id="2867964979837593892">良好的产品。保护您的隐私。放心每一天。</translation>
 <translation id="7661940959332108190">如果 Portal 崩溃或被冻结，请发送 dianogstic 报告。</translation>
 <translation id="6358373266071757311">匿名分享私密的产品见解。这有助于我们了解 Portal 最常用的功能。</translation>
 <translation id="7415454883318062233">已完成设置</translation>
 <translation id="3141206739023333979">在 Portal 中随时改变这些选择，网址为：<ph name="LINK_BEFORE1"/>  brave://settings/privacy <ph name="LINK_AFTER2"/>。</translation>
 <translation id="8321985064212130832">阅读我们完整的<ph name="LINK_BEFORE"/>隐私政策<ph name="LINK_AFTER"/></translation>
-<translation id="7821773512278295352">Brave 防火墙 + VPN：已连接</translation>
-<translation id="6019088868713395120">Brave 防火墙 + VPN：已断开连接</translation>
-<translation id="3541307549916475335">Brave VPN 面板 UI</translation>
+<translation id="7821773512278295352">Portal 防火墙 + VPN：已连接</translation>
+<translation id="6019088868713395120">Portal 防火墙 + VPN：已断开连接</translation>
+<translation id="3541307549916475335">Portal VPN 面板 UI</translation>
 <translation id="1742469581923031760">正在连接...</translation>
 <translation id="1287487756047817908">正在断开连接...</translation>
 <translation id="2325196879156848326">连接失败</translation>
@@ -1663,7 +1663,7 @@ other {# 个来源}
 <translation id="1156325797949437777">此支持服务由我们与 Guardian 共同提供。</translation>
 <translation id="8146777497879160283">无法写入 VPN 配置。如果您没有权限或最近没有运行 Windows Update，可能会发生这种情况。</translation>
 <translation id="3307461350293459700">VPN 连接失败。请尝试重新连接，并确保点击“允许”启用 Portal 的 VPN 配置。</translation>
-<translation id="7261518280726313829">关闭安全 DNS 或使用 Windows 上的默认服务器可能会将您访问的站点的名称透露给您的 Internet 服务提供商。Brave 不建议这样做。还想继续这样操作吗？</translation>
+<translation id="7261518280726313829">关闭安全 DNS 或使用 Windows 上的默认服务器可能会将您访问的站点的名称透露给您的 Internet 服务提供商。Portal 不建议这样做。还想继续这样操作吗？</translation>
 <translation id="888284761945060750">安全 DNS 已根据您所在组织的政策被禁用。在没有安全 DNS 的情况下使用 Portal VPN 可能会将您访问的站点的名称泄露给您的 Internet 服务提供商或组织。</translation>
 <translation id="1657858090675311947">不要再警告我了这个风险。</translation>
 <translation id="7586151660465233733">访问 <ph name="SITE_NAME"/> 探索更多市场</translation>

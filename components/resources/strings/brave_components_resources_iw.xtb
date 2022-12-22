@@ -32,10 +32,10 @@
 <translation id="985862351129593673">התאמה אישית של לוח המחוונים</translation>
 <translation id="7180865173735832675">התאמה אישית</translation>
 <translation id="8522669544471808198">הצג תמונות רקע</translation>
-<translation id="5801450813341024983">‏רקעים של Brave</translation>
+<translation id="5801450813341024983">‏רקעים של Portal</translation>
 <translation id="1416884769823233410">השתמש בעצמך בלבד</translation>
 <translation id="6246790815526961700">העלה מהמכשיר</translation>
-<translation id="7275773481201277457">הצג סטטיסטיקות Brave</translation>
+<translation id="7275773481201277457">הצג סטטיסטיקות Portal</translation>
 <translation id="6836061097810262923">הצג שעון</translation>
 <translation id="5912396950572065471">פורמט</translation>
 <translation id="604124094241169006">אוטומטי</translation>
@@ -71,15 +71,15 @@
 <translation id="7822618650711767369">תמונות ממומנות תומכות ב-Brave. עם Portal Rewards, אתם יכולים להרוויח חלק מההכנסות מתמונות ממומנות וגם לתמוך ביוצרי תוכן!</translation>
 <translation id="5579480493856401823">כיבוי אתרים ממומנים יקטין את מספר הטוקנים שאתם מרוויחים ואת התמיכה שניתנת ליוצרי תוכן בכל חודש.</translation>
 <translation id="2875302873837723333">אתרים מובילים</translation>
-<translation id="8173998484743827990">נתונים סטטיסטיים של Brave</translation>
+<translation id="8173998484743827990">נתונים סטטיסטיים של Portal</translation>
 <translation id="383680190590774040">שעון</translation>
-<translation id="3333887201479867589">תגמולי Brave</translation>
+<translation id="3333887201479867589">תגמולי Portal</translation>
 <translation id="3159285901314605198">תמונת רקע</translation>
 <translation id="385051799172605136">חזרה</translation>
 <translation id="4225429340218993596">צבעים אחידים</translation>
 <translation id="7610541582755894669">מעברי צבע</translation>
 <translation id="1606851618930975029">רעננו בכל כרטיסייה חדשה</translation>
-<translation id="9024104284526126630">באפשרותכם להתחיל שיחה פרטית ב- Brave.</translation>
+<translation id="9024104284526126630">באפשרותכם להתחיל שיחה פרטית ב- Portal.</translation>
 <translation id="4903286433687221248">התחל שיחות ללא הגבלה עם חברים ועמיתים ב- Portal Talk.</translation>
 <translation id="7115051913071512405">נסו את זה</translation>
 <translation id="1447534717041828517">הצג את הלחצן Portal News בסרגל הכלים</translation>
@@ -88,7 +88,7 @@
 <translation id="4108314971463891922">עקוב</translation>
 <translation id="3861486700625780712">הסר מעקב</translation>
 <translation id="8909741410750517071">עקוב אחר מקור זה בלחיצה אחת.</translation>
-<translation id="1982678174789043774">קבל את כל הסיפורים האחרונים ב-Brave News.</translation>
+<translation id="1982678174789043774">קבל את כל הסיפורים האחרונים ב-Portal News.</translation>
 <translation id="7894417427965898400">ניהול הפידים</translation>
 <translation id="9164544612367905452">מביא…</translation>
 <translation id="1276592121036104130">טען תוכן חדש</translation>
@@ -106,12 +106,12 @@
 <translation id="2236818903653027036">סחרו בקריפטו ב-Binance ישירות בדפדפן שלכם.</translation>
 <translation id="6508379561970983105">סחרו בקריפטו ב-Gemini ישירות בדפדפן שלך.</translation>
 <translation id="7191394989411626168">על ידי כיבוי כרטיסים, כל הכרטיסים שכרגע גלויים יוסתרו. עם זאת, ייתכן שעדיין תקבלו הודעה על כרטיסים חדשים.</translation>
-<translation id="6820526586005233839">Brave Ads הושהו</translation>
+<translation id="6820526586005233839">Portal Ads הושהו</translation>
 <translation id="5190407395832551012">כדי להגן על Portal Rewards מפני שימוש לרעה, אנו מבקשים באופן אקראי ממשתמשים לפתור captcha. לחץ על 'פתור' כדי לחדש את הפרסומות.</translation>
 <translation id="1693773514029371138">פתור</translation>
 <translation id="6991128190741664836">מאוחר יותר</translation>
-<translation id="8112367589167674370">שיחת Brave</translation>
-<translation id="8488282162676695335">ארנק Brave</translation>
+<translation id="8112367589167674370">שיחת Portal</translation>
+<translation id="8488282162676695335">ארנק Portal</translation>
 <translation id="8820817407110198400">סימניות</translation>
 <translation id="1644574205037202324">היסטוריה</translation>
 <translation id="2702801445560668637">רשימת קריאה</translation>
@@ -120,12 +120,12 @@
 <translation id="8730621377337864115">סיום</translation>
 <translation id="730042046912793465">זהו</translation>
 <translation id="2055363275850890030">חלון פרטי</translation>
-<translation id="9133213713928851646">Brave לא זוכר מה אתם עושים בחלון פרטי. האתרים שבהם אתם מבקרים לא יופיעו בהיסטוריה שלכם, וקבצי עוגיות ייעלמו לאחר שתסיימו. אמנם, חלונות פרטיים לא הופכים את הגלישה שלכם באינטרנט לאנונימית לחלוטין.</translation>
-<translation id="4085423007106063912">Brave אף פעם לא יזכור מה אתה עושה בחלון פרטי. אתרים שבהם אתה מבקר לא יופיעו בהיסטוריה שלך. עוגיות, נתוני טפסים ונתוני אתר נעלמים כאשר אתה סוגר את החלון.</translation>
+<translation id="9133213713928851646">Portal לא זוכר מה אתם עושים בחלון פרטי. האתרים שבהם אתם מבקרים לא יופיעו בהיסטוריה שלכם, וקבצי עוגיות ייעלמו לאחר שתסיימו. אמנם, חלונות פרטיים לא הופכים את הגלישה שלכם באינטרנט לאנונימית לחלוטין.</translation>
+<translation id="4085423007106063912">Portal אף פעם לא יזכור מה אתה עושה בחלון פרטי. אתרים שבהם אתה מבקר לא יופיעו בהיסטוריה שלך. עוגיות, נתוני טפסים ונתוני אתר נעלמים כאשר אתה סוגר את החלון.</translation>
 <translation id="1700746046668116047">שים לב שהפעילות שלך עדיין יכולה להיות גלויה לספק שירותי האינטרנט שלך, משקיפי רשת פסיביים או המעסיק שלך (אם אתה משתמש במחשב או רשת בעבודה). לפרטיות מקסימלית, פתח חלון פרטי עם Tor.</translation>
 <translation id="8759753423332885148">למד עוד.</translation>
 <translation id="8611976753572844841">חלון פרטי עם קישוריות Tor</translation>
-<translation id="1645589858096839236">Brave לא מאחסן פעילות דפדפן מחלונות פרטיים. עם קישוריות Tor, זה נעשה קשה יותר לאתרים לראות את כתובת ה-IP האמיתית שלכם ולמשקיפי רשת לראות באילו אתרים ביקרתם. עם זאת, אם הבטיחות האישית שלכם תלויה באנונימיות, השתמשו בדפדפן Tor במקום.</translation>
+<translation id="1645589858096839236">Portal לא מאחסן פעילות דפדפן מחלונות פרטיים. עם קישוריות Tor, זה נעשה קשה יותר לאתרים לראות את כתובת ה-IP האמיתית שלכם ולמשקיפי רשת לראות באילו אתרים ביקרתם. עם זאת, אם הבטיחות האישית שלכם תלויה באנונימיות, השתמשו בדפדפן Tor במקום.</translation>
 <translation id="7919374705736538787">חפש במצב פרטי עם</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
 <translation id="218839872518145456">במצב חיפוש פרטי, Portal ישתמש ב-DuckDuckGo לחיפוש בחלון פרטי. DuckDuckGo אינו עוקב אחר היסטוריית החיפושים שלכם, כך שתוכלו לבצע חיפוש באופן פרטי.</translation>
@@ -135,7 +135,7 @@
 <translation id="3294503279952534143">החלון הפרטי הזה יהיה יותר פרטי</translation>
 <translation id="6126226144537295436">עם קישוריות Tor</translation>
 <translation id="8541421872680304667">Tor מסתיר את כתובת ה-IP שלך מהאתרים שאת/ה מבקר/ת בהם, עלידי ניתוב הגלישה שלך דרך מספר שרתי Tor לפני הגיעך ליעד. Tor יכול להאט את הגלישה וייתכן שחלק מהאתרים לא יעבדו כלל.</translation>
-<translation id="8897548669448660973">השימוש בחלון פרטי משנה רק את מה ש-Brave עושה במכשיר שלכם; הוא לא משנה את ההתנהגות של אף אחד אחר. Tor מסתיר את כתובת ה-IP שלכם מהאתרים שאתם מבקרים בהם ועושה שיהיה קשה יותר, אך לא בלתי אפשרי, ל-ISP או למעביד שלכם לראות באילו אתרים אתם מבקרים. פתחו חלון פרטי באמצעות Tor מהתפריט, או באמצעות [[ key ]].</translation>
+<translation id="8897548669448660973">השימוש בחלון פרטי משנה רק את מה ש-Portal עושה במכשיר שלכם; הוא לא משנה את ההתנהגות של אף אחד אחר. Tor מסתיר את כתובת ה-IP שלכם מהאתרים שאתם מבקרים בהם ועושה שיהיה קשה יותר, אך לא בלתי אפשרי, ל-ISP או למעביד שלכם לראות באילו אתרים אתם מבקרים. פתחו חלון פרטי באמצעות Tor מהתפריט, או באמצעות [[ key ]].</translation>
 <translation id="6975708438781948564">למדו עוד אודות Tor ב-Brave</translation>
 <translation id="4712050378540986986">סטטוס Tor</translation>
 <translation id="1939334281379458295">Tor התחבר בהצלחה</translation>
@@ -145,7 +145,7 @@
 <translation id="2795840524629682765">חיבור Tor נכשל</translation>
 <translation id="1149108864689950951">Tor מתחבר... [[percentage]]%</translation>
 <translation id="3651192084771403430">יש לך בעיות בחיבור? לְנַסוֹת<ph name="BEGIN_LINK"/>לכבות<ph name="END_LINK"/> חלון פרטי עם Tor והפעל שוב בהגדרות.</translation>
-<translation id="8834376622642889380">פתח את <ph name="BEGIN_LINK"/>הגדרות Brave<ph name="END_LINK"/>, השבת את Private Window  עם Tor, ולאחר מכן הפעל מחדש.</translation>
+<translation id="8834376622642889380">פתח את <ph name="BEGIN_LINK"/>הגדרות Portal<ph name="END_LINK"/>, השבת את Private Window  עם Tor, ולאחר מכן הפעל מחדש.</translation>
 <translation id="1576202729986800142"><ph name="BEGIN_BOLD"/>עדיין נתקל בבעיות?<ph name="END_BOLD"/> נסה להשתמש ב<ph name="BEGIN_BRIDGES_LINK"/>גשרים<ph name="END_BRIDGES_LINK"/> או <ph name="BEGIN_SUPPORT_LINK"/>צור קשר עם התמיכה<ph name="END_SUPPORT_LINK"/>.</translation>
 <translation id="8388043004918289671">צור קשר עם תמיכת לקוחות.</translation>
 <translation id="4272382368346338917">מסננים נוספים</translation>
@@ -166,13 +166,13 @@
 <translation id="4720556299488643018">בטל הרשמה כמנוי</translation>
 <translation id="1209739344687072997">דווח/י על אתר לא תקין</translation>
 <translation id="8510478288840333677">הודע/י למפתחים של Portal כי אתר זה אינו עובד בצורה תקינה עם Shields:</translation>
-<translation id="4105411033440701818">הערה: כאשר תלחץ על "שלח", תשתף גם את ה-URL, מספר גרסת ה-Brave שלך וכתובת ה-IP שלך עם מפתחי Brave. (כתובת ה-IP לא תישמר.)</translation>
+<translation id="4105411033440701818">הערה: כאשר תלחץ על "שלח", תשתף גם את ה-URL, מספר גרסת ה-Portal שלך וכתובת ה-IP שלך עם מפתחי Portal. (כתובת ה-IP לא תישמר.)</translation>
 <translation id="6476216365964140603">פרטים נוספים (אופציונלי)</translation>
 <translation id="6145852496180774737">צור איתי קשר בכתובת: (לא חובה)</translation>
 <translation id="7616645803364270729">דואר אלקטרוני, טוויטר וכו'.</translation>
 <translation id="5299848999918506028">תודה!</translation>
 <translation id="76550953340008122">תודה שהודעת למפתחים של Portal שמשהו לא תקין באתר זה. אנו נעשה כמיטב יכולתנו לתקן זאת!</translation>
-<translation id="2974339193389078578">ברוכים הבאים לדפדפן Brave</translation>
+<translation id="2974339193389078578">ברוכים הבאים לדפדפן Portal</translation>
 <translation id="7735138632831241257">תתכוננו ליהנות מחוויית גלישה מהירה יותר ומאובטחת יותר עם דפדפן הבנוי להגן על הפרטיות שלכם.</translation>
 <translation id="6001839398155993679">בואו נתחיל</translation>
 <translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>הרוויחו טוקנים<ph name="END_BOLD"/> על ידי צפייה בפרסומות פרטיות של Portal ותמכו ביוצרי תוכן אוטומטית.</translation>
@@ -194,16 +194,16 @@
 <translation id="3829010735958850433">לדלג על סיור קבלת הפנים</translation>
 <translation id="1201402288615127009">הבא</translation>
 <translation id="7954950242989581218">גלשו באופן בטוח</translation>
-<translation id="2188651882929633653">Brave Shields חוסמים את היצורים הקריפיים שמנסים לעקוב אחריך ברשת — כולל רוב הפרסומות. כוון/י את המגנים ל-“ למטה ” אם נראה שאתר לא עובד. Portal משתמש <ph name="BEGIN_LINK_P3A"/> אנליטיקה של מוצר בפרטיות מלאה<ph name="END_LINK_P3A"/> להערכת השימוש הכולל בתכונות מסוימות. אפשר לכבות את זה ב-<ph name="BEGIN_LINK_P3A_SETTINGS"/>Settings<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
-<translation id="4851215387785619212">מודעות פרטיות Brave.</translation>
-<translation id="3114984266384096064">הרווח [[מטבע]] על ידי צפייה במודעות פרטיות של Brave. המודעות המוצגות מבוססות על תחומי העניין שלך, כפי שניתן להסיק מהתנהגות הגלישה שלך. שום מידע אישי או היסטוריית גלישה לא יופצו מהדפדפן שלך.</translation>
+<translation id="2188651882929633653">Portal Shields חוסמים את היצורים הקריפיים שמנסים לעקוב אחריך ברשת — כולל רוב הפרסומות. כוון/י את המגנים ל-“ למטה ” אם נראה שאתר לא עובד. Portal משתמש <ph name="BEGIN_LINK_P3A"/> אנליטיקה של מוצר בפרטיות מלאה<ph name="END_LINK_P3A"/> להערכת השימוש הכולל בתכונות מסוימות. אפשר לכבות את זה ב-<ph name="BEGIN_LINK_P3A_SETTINGS"/>Settings<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="4851215387785619212">מודעות פרטיות Portal.</translation>
+<translation id="3114984266384096064">הרווח [[מטבע]] על ידי צפייה במודעות פרטיות של Portal. המודעות המוצגות מבוססות על תחומי העניין שלך, כפי שניתן להסיק מהתנהגות הגלישה שלך. שום מידע אישי או היסטוריית גלישה לא יופצו מהדפדפן שלך.</translation>
 <translation id="6112368337882254910">תרומה אוטומטית</translation>
-<translation id="3742599705619405136">שיטה אוטומטית לתמיכה במו"לים וביוצרי תוכן. הגדר/י תשלום חודשים והמשך/י לגלוש כרגיל. האתרים המאומתים ע"י Portal שביקרת בהם יקבלו את התרומות שלך באופן אוטומטי, על פי מידת העניין שלך שנמדדת על ידי Brave.</translation>
+<translation id="3742599705619405136">שיטה אוטומטית לתמיכה במו"לים וביוצרי תוכן. הגדר/י תשלום חודשים והמשך/י לגלוש כרגיל. האתרים המאומתים ע"י Portal שביקרת בהם יקבלו את התרומות שלך באופן אוטומטי, על פי מידת העניין שלך שנמדדת על ידי Portal.</translation>
 <translation id="3325399124634342726">הרווחים הנוכחיים לחודש זה (הערכה)</translation>
 <translation id="8593551638387217772">תאריך התשלום הבא</translation>
 <translation id="4428871418618312983">פרסומות שהתקבלו החודש</translation>
 <translation id="4229016885653790965">סליחה! פרסומות אינן זמינות עדיין באזור שלך.</translation>
-<translation id="2539279826042558064">Brave Rewards ו-Ads אינם זמינים במכשירך כרגע.</translation>
+<translation id="2539279826042558064">Portal Rewards ו-Ads אינם זמינים במכשירך כרגע.</translation>
 <translation id="5736977383725358876">תדירות ההתראות על מודעות</translation>
 <translation id="7701040980221191251">ללא</translation>
 <translation id="767929144984201135">עד מודעה 1 לשעה</translation>
@@ -213,7 +213,7 @@
 <translation id="8827015466803589071">עד 5 מודעות לשעה</translation>
 <translation id="2293009346092992234">עד 10 מודעות לשעה</translation>
 <translation id="2356652719351432565">פרסומות ממוקדות איזור</translation>
-<translation id="3216275550298493597">מאפשר ל-Brave להציג לך מודעות שרלוונטיות במיוחד לאזור שלך.</translation>
+<translation id="3216275550298493597">מאפשר ל-Portal להציג לך מודעות שרלוונטיות במיוחד לאזור שלך.</translation>
 <translation id="8446884382197647889">למידע נוסף</translation>
 <translation id="6209514229703649203">זוהה אוטומטית כ- [[adsSubdivisionTarget]]</translation>
 <translation id="8010081455002666927">זיהוי אוטומטי</translation>
@@ -256,31 +256,31 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">טוויטר</translation>
 <translation id="7583327070390027131">תאריך הטיפ החודשי הבא</translation>
-<translation id="6231182869178328516">הרגע נתתי טיפ <ph name="NAME"/> באמצעות דפדפן Brave. אפשר לראות את זה ב-https://brave.com/tips.</translation>
-<translation id="5916536234616514390">אני מרוצה מזה ש-<ph name="HASHTAG"/>Brave מאפשר לי לתמוך ביוצרים! בדיוק נתתי טיפ של <ph name="HASHTAG2"/> BAT ל-<ph name="NAME"/>. ברגע שיתבצע אימות בכתובת https://creators.brave.com לפני <ph name="DATE"/>, ה-BAT יעבור!</translation>
-<translation id="8404935570206006581">תנו טיפ עם Brave</translation>
+<translation id="6231182869178328516">הרגע נתתי טיפ <ph name="NAME"/> באמצעות דפדפן Portal. אפשר לראות את זה ב-https://brave.com/tips.</translation>
+<translation id="5916536234616514390">אני מרוצה מזה ש-<ph name="HASHTAG"/>Portal מאפשר לי לתמוך ביוצרים! בדיוק נתתי טיפ של <ph name="HASHTAG2"/> BAT ל-<ph name="NAME"/>. ברגע שיתבצע אימות בכתובת https://creators.brave.com לפני <ph name="DATE"/>, ה-BAT יעבור!</translation>
+<translation id="8404935570206006581">תנו טיפ עם Portal</translation>
 <translation id="3082557070674409251">נלחץ</translation>
 <translation id="7119308337584989771">נדחה</translation>
 <translation id="6805660603861526473">נצפה</translation>
-<translation id="8826352442759228526">לא ניתן לאמת את ה-Brave Rewards שלך מכיוון שהגעת כרגע למגבלת המכשיר המאומת המקסימלית.</translation>
+<translation id="8826352442759228526">לא ניתן לאמת את ה-Portal Rewards שלך מכיוון שהגעת כרגע למגבלת המכשיר המאומת המקסימלית.</translation>
 <translation id="1221593978088944142">שגיאה: הגעת למגבלת המכשיר</translation>
 <translation id="3113653894794167793">מצטערים, הייתה בעיה בעיבוד הבקשה שלך, נא לנסות שוב.</translation>
-<translation id="3509185560119586847">למרבה הצער, פרופיל ה-Brave Rewards שלך סומן, ואין באפשרותך לבצע אימות עם אפוטרופוס בשלב זה. הסימון הזה יכול לפעמים לקרות עקב פעילות לא סדירה של Portal Ads, אם כי הוא יכול גם להיות שגוי.</translation>
-<translation id="5031451251720571882">לתשומת לבך, כל עוד פרופיל ה-Brave Rewards שלך מסומן, לא יהיה באפשרות לבצע אימות.</translation>
-<translation id="7301759045821910866">לא נדרשת כל פעולה מצידך. תתבצע הערכה מחודשת של פרופיל ה-Brave Rewards שלך באופן אוטומטי על בסיס קבוע כדי לקבוע מתי (או האם) ניתן להסיר את הסימון. יש לנסות שוב מעת לעת כדי לבדוק אם הסימון הוסר.</translation>
+<translation id="3509185560119586847">למרבה הצער, פרופיל ה-Portal Rewards שלך סומן, ואין באפשרותך לבצע אימות עם אפוטרופוס בשלב זה. הסימון הזה יכול לפעמים לקרות עקב פעילות לא סדירה של Portal Ads, אם כי הוא יכול גם להיות שגוי.</translation>
+<translation id="5031451251720571882">לתשומת לבך, כל עוד פרופיל ה-Portal Rewards שלך מסומן, לא יהיה באפשרות לבצע אימות.</translation>
+<translation id="7301759045821910866">לא נדרשת כל פעולה מצידך. תתבצע הערכה מחודשת של פרופיל ה-Portal Rewards שלך באופן אוטומטי על בסיס קבוע כדי לקבוע מתי (או האם) ניתן להסיר את הסימון. יש לנסות שוב מעת לעת כדי לבדוק אם הסימון הוסר.</translation>
 <translation id="280350148043792509"><ph name="BEGIN_LINK"/>למידע נוסף על התהליך של Portal לסימון פרופילים של Rewards. <ph name="END_LINK"/></translation>
 <translation id="5028274575541726856">שגיאת: פרופיל Portal Rewards סומן.</translation>
 <translation id="2607420597216860026">נא לנסות שוב לאחר סיום אימות הזיהוי ב-<ph name="PROVIDER"/>.</translation>
 <translation id="3183954159462541696">שגיאה: עליך להיות בעל חשבון מאומת כדי להתחבר</translation>
-<translation id="1859789048900659918">אממ, נראה שהמדינה שלך ב-Brave Rewards אינה תואמת את המדינה של חשבון <ph name="PROVIDER"/> שאתה מנסה להתחבר אליו.</translation>
+<translation id="1859789048900659918">אממ, נראה שהמדינה שלך ב-Portal Rewards אינה תואמת את המדינה של חשבון <ph name="PROVIDER"/> שאתה מנסה להתחבר אליו.</translation>
 <translation id="8925428135452218262">שגיאה: אי התאמה למדינה</translation>
 <translation id="5260522591743022748">זה נראה כאילו שלך Portal Rewards כבר אומת עם אחר<ph name="PROVIDER"/> חֶשְׁבּוֹן. נסה לאמת שוב באמצעות החשבון הקודם שלך.</translation>
 <translation id="5111921830714291902">שגיאה: חשבון שונה</translation>
-<translation id="5225019866741699134">נראה שהחיבור <ph name="PROVIDER"/> ל-Brave Rewards לא זמין כרגע. נסו שוב מאוחר יותר.</translation>
+<translation id="5225019866741699134">נראה שהחיבור <ph name="PROVIDER"/> ל-Portal Rewards לא זמין כרגע. נסו שוב מאוחר יותר.</translation>
 <translation id="6105073131081187815">ניתן לצפות <ph name="BEGIN_LINK"/>בסטטוס השירות כאן<ph name="END_LINK"/></translation>
 <translation id="2400786541309111904">שגיאה: ההתחברות לאפוטרופוס נבחר לא פועלת כרגע</translation>
 <translation id="1024520300696337331">לא ניתן לחבר את חשבון ה-<ph name="PROVIDER"/> שלכם לפרופיל Portal Rewards כרגע. חשבון ה-<ph name="PROVIDER"/> רשום במדינה שבה אין כרגע תמיכה ב- Portal Rewards.</translation>
-<translation id="619384413404021992">עברו על <ph name="LINK_BEGIN"/>רשימת האזורים הנתמכים העדכנית וקבלו מידע נוסף<ph name="END_LINK"/> על חיבור חשבון אפוטרופוס ל-Brave Rewards.</translation>
+<translation id="619384413404021992">עברו על <ph name="LINK_BEGIN"/>רשימת האזורים הנתמכים העדכנית וקבלו מידע נוסף<ph name="END_LINK"/> על חיבור חשבון אפוטרופוס ל-Portal Rewards.</translation>
 <translation id="7193389978208728181">שגיאה: האזור אינו נתמך כרגע</translation>
 <translation id="5382684862562314222">BAT עדין לא נתמך באזור שלך ב-Uphold.</translation>
 <translation id="9074594632540931067">שגיאה: BAT אינו זמין</translation>
@@ -294,7 +294,7 @@
 <translation id="2054853229650377447">הערה: העסקאות שלכם יהיו גלויות לאפוטרופוס ברגע שתאשרו. לדוגמה, הם יוכלו לראות את המקבל ואת כמות הטיפים שלכם.</translation>
 <translation id="2147158325758481862">האימות הוא אופציונלי</translation>
 <translation id="8228649055483250005">ספקי שירות ממונים נדרשים לאמת את זהותו של כל אדם היוצר ארנק, כולל באמצעות תמונה מזהה.</translation>
-<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> לא מעבדת, מאחסנת או מקבלת גישה למידע אישי שניתן על ידך בחשבון עם שותפי הארנק הממונים שלנו.</translation>
+<translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Portal Software Inc.<ph name="BOLD_END"/> לא מעבדת, מאחסנת או מקבלת גישה למידע אישי שניתן על ידך בחשבון עם שותפי הארנק הממונים שלנו.</translation>
 <translation id="6682919029276027868">עם זאת, התכונות הנוכחיות של Portal Rewards שלך מוגבלות איכשהו. לכן, אימות עם שותף לארנק משמורת מאפשר לך:</translation>
 <translation id="9064931634458501855">למשוך ולהפקיד כספים באופן חופשי</translation>
 <translation id="3222002542796906461">קבל את התגמולים שלך ישירות לחשבון שלך</translation>
@@ -410,7 +410,7 @@
 <translation id="9088057605518918276">הטיפ החודשי נשלח.</translation>
 <translation id="6306631474379759382">תאריך הטיפ הבא:</translation>
 <translation id="3593485149443019592">אין מספיק אסימונים. יש <ph name="LINK_BEGIN"/>להוסיף כספים<ph name="LINK_END"/>.</translation>
-<translation id="3586352807094428968">Brave אוספת 5% מכמות הטיפים כעמלה עבור עיבוד.</translation>
+<translation id="3586352807094428968">Portal אוספת 5% מכמות הטיפים כעמלה עבור עיבוד.</translation>
 <translation id="207268487070188114">טיפ חד-פעמי</translation>
 <translation id="69861679024013299">סכום טיפ חד-פעמי:</translation>
 <translation id="3288812755711687300">הפוסט של <ph name="USER"/></translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">הגדרת טיפ בהמתנה!</translation>
 <translation id="5096821444729034955">עבור הפוסט שלהם</translation>
 <translation id="2978223787436054634">צייצו לגבי התמיכה שלכם</translation>
-<translation id="5916290544882167205">Brave .Brave Software הוא סימן מסחרי רשום של Portal Software. שמות אתרים עשויים להיות סימנים מסחריים או סימנים מסחריים רשומים של בעל האתר.</translation>
-<translation id="9026369588205476247">על מנת להגן על הפרטיות שלכם, הצהרה זו של Portal Rewards לא נשמרת, רשומה או מתועדת בשום מקום פרט למכשיר שלך (מחשב זה). לא ניתן לשחזר אותה מ-Brave במקרה של אובדן נתונים במכשירכם.</translation>
+<translation id="5916290544882167205">Portal .Portal Software הוא סימן מסחרי רשום של Portal Software. שמות אתרים עשויים להיות סימנים מסחריים או סימנים מסחריים רשומים של בעל האתר.</translation>
+<translation id="9026369588205476247">על מנת להגן על הפרטיות שלכם, הצהרה זו של Portal Rewards לא נשמרת, רשומה או מתועדת בשום מקום פרט למכשיר שלך (מחשב זה). לא ניתן לשחזר אותה מ-Portal במקרה של אובדן נתונים במכשירכם.</translation>
 <translation id="3587482841069643663">הכל</translation>
 <translation id="4241224519481557898">קטגוריה</translation>
 <translation id="3080423471207781945">מספר מקסימלי של מודעות שהתקבלו לשעה:</translation>
@@ -447,14 +447,14 @@
 <translation id="4932733599132424254">תאריך</translation>
 <translation id="3552003743293281224">הפקדות</translation>
 <translation id="3866249974567520381">תיאור</translation>
-<translation id="8605272644314973683">Brave Rewards הינו</translation>
+<translation id="8605272644314973683">Portal Rewards הינו</translation>
 <translation id="1346059596910821859">טיפ</translation>
 <translation id="7277134233385925078">הגדר טיפ חודשי</translation>
 <translation id="298067735430872465">צבירה מפרסומות</translation>
 <translation id="1418534671788496616">צפה בהיסטוריית ההפקדות</translation>
 <translation id="3412655388715513818">מלבד אתר זה</translation>
 <translation id="418343137736963579">המספר הכולל של האתרים שאין באפשרותכם "לתרום להם אוטומטית":</translation>
-<translation id="8802504113265057166">[[currency]] שפג תוקפם לפני השימוש יוחזרו באופן אוטומטי ל-User Growth Pool של Brave.</translation>
+<translation id="8802504113265057166">[[currency]] שפג תוקפם לפני השימוש יוחזרו באופן אוטומטי ל-User Growth Pool של Portal.</translation>
 <translation id="279567716178902927">תאריך תפוגת מענק</translation>
 <translation id="1389143276807887637">ייבוא</translation>
 <translation id="6302422639282249274">נהל את Portal Rewards</translation>
@@ -498,13 +498,13 @@
 <translation id="5939518447894949180">אפס</translation>
 <translation id="5669281110673664811">ניקוי רשימת ההחרגות</translation>
 <translation id="1797334173232638045">האתרים המוצמדים שלכם הועברו אל</translation>
-<translation id="542042553430131913">אם ה-Brave Rewards שלך עדיין לא אומת, יתרת ה-BAT שלך מאוחסנת בקבצים מקומיים במכשיר שלך.</translation>
+<translation id="542042553430131913">אם ה-Portal Rewards שלך עדיין לא אומת, יתרת ה-BAT שלך מאוחסנת בקבצים מקומיים במכשיר שלך.</translation>
 <translation id="2142973554991645476">אם תרצה לאבטח את ה-BAT שלך ולבצע התקנה מחדש נקייה של הדפדפן או לפרמט מחדש את המכשיר שלך ותרצה ליהנות מהטבות אחרות כגון הוספה או ביטול של BAT שלך, אנו ממליצים לך <ph name="LINK_BEGIN"/>מאמת<ph name="LINK_END"/>.</translation>
 <translation id="5317144262906129592">באפשרותכם לתמוך ביוצר התוכן על ידי שליחת טיפ. זוהי דרך נהדרת להודות להם על יצירת תוכן מעולה.</translation>
 <translation id="3074127054582480056">שימו לב</translation>
-<translation id="3659457123782988823">האם אתה בטוח שברצונך לאפס את ה-Brave Rewards שלך?</translation>
+<translation id="3659457123782988823">האם אתה בטוח שברצונך לאפס את ה-Portal Rewards שלך?</translation>
 <translation id="4048187103708861555">שֶׁלְךָ <ph name="BAT_AMOUNT"/> ונתוני תגמולים אחרים יאבדו לצמיתות אם תאפסו את Portal Rewards. אנא ודא אם יש לך <ph name="LINK_BEGIN"/>מְאוּמָת<ph name="LINK_END"/> כך שתוכל לשמור על ה-BAT שלך.</translation>
-<translation id="3548849774726860833">נתוני Rewards שלך יאבדו לצמיתות אם תאפס את הBrave Rewards.</translation>
+<translation id="3548849774726860833">נתוני Rewards שלך יאבדו לצמיתות אם תאפס את הPortal Rewards.</translation>
 <translation id="4914597931214386232">מענקי אסימון נתבעו</translation>
 <translation id="3494964159182650590">סיכום תגמולים</translation>
 <translation id="2913994227901456490">לצפייה בכל [[numItems]] הפריטים</translation>
@@ -518,7 +518,7 @@
 <translation id="5015443703424816075">טוקן</translation>
 <translation id="1634828734222219955">סך הכל</translation>
 <translation id="3535654229833214438">העברות</translation>
-<translation id="8772672608371898774">מפרסם מאומת של Brave</translation>
+<translation id="8772672608371898774">מפרסם מאומת של Portal</translation>
 <translation id="5050370287908180130">צפייה בהצהרה החודשית עבור פרטים</translation>
 <translation id="7853202427316060426">פעילות</translation>
 <translation id="7232682712743566408">איזון תגמולים</translation>
@@ -542,10 +542,10 @@
 <translation id="5113531205597573951">האתרים שנצפו</translation>
 <translation id="4450893287417543264">אל תציג שוב</translation>
 <translation id="6518133107902771759">אימות</translation>
-<translation id="422369484771082705">אימות איננו חובה. עם זאת, באמצעות אימות, יתאפשר לך למשוך את ה-BAT שלך שנצבר מ-Brave Rewards ישירות אל ארנק משמורת.</translation>
+<translation id="422369484771082705">אימות איננו חובה. עם זאת, באמצעות אימות, יתאפשר לך למשוך את ה-BAT שלך שנצבר מ-Portal Rewards ישירות אל ארנק משמורת.</translation>
 <translation id="4354564238172327160">בואו להיות יוצרים ב-Brave</translation>
 <translation id="4639659520811817892">גלשו אל creators.brave.com כדי להירשם היום ולהתחיל להרוויח BAT מהמעריצים והעוקבים שלכם.</translation>
-<translation id="4816455138209470435">Brave תומך ב-YouTube, Twitch, Vimeo ועוד!</translation>
+<translation id="4816455138209470435">Portal תומך ב-YouTube, Twitch, Vimeo ועוד!</translation>
 <translation id="3656941797339037856">קשרו פרסים אל Gemini!</translation>
 <translation id="31532096120351460">סחרו ב-50+ מטבעות קריפטו, כולל BAT, ב-Gemini. זוהי פלטפורמה מאובטחת לאחסון הקריפטו שלך. בנוסף, אתה יכול להרוויח ריבית בארה"ב, הונג קונג וסינגפור.</translation>
 <translation id="7404779623219601861">מימוש BAT עבור כרטיסי מתנה</translation>
@@ -556,7 +556,7 @@
 <translation id="7840362246306242214">מסחר במניות בארה"ב זמין ב- Uphold</translation>
 <translation id="3345432088196080137">השקיעו החל מ-$1 בלבד במניות פופולריות וקרנות הנסחרות בבורסה כמו AAPL, TSLA או AMZN</translation>
 <translation id="3787061634640932557">ערוך כרטיסים</translation>
-<translation id="2070991379950719711">התחל להשתמש ב-Brave Rewards</translation>
+<translation id="2070991379950719711">התחל להשתמש ב-Portal Rewards</translation>
 <translation id="5977237145327845546">התחל שיחת וידאו פרטית עם חבריך ועמיתיך.</translation>
 <translation id="8863928195533744356">התחל שיחה</translation>
 <translation id="3651550649176056334">לגבי הנתונים שלך</translation>
@@ -623,8 +623,8 @@
 <translation id="824449983246282560">אין לך יתרות כלשהן בחשבון. בקר ב- Gemini לרכישת יתרה.</translation>
 <translation id="8624961452383848703">אני רוצה להמיר...</translation>
 <translation id="1544192797660353713">ארנק</translation>
-<translation id="616639131065447379">ברוכים הבאים לארנקי קריפטו Brave</translation>
-<translation id="1740464057879304704">ארנקי Crypto מאפשרים לך לעבוד עם מטבעות קריפטוגרפיים ונכסים קשורים ב- Brave. ארנקי Crypto תומכים בטוקני אתריום כמו ETH ו- BAT, כמו גם בפריטי אוספים, ומאפשרים לך לעבוד עם Ðapps וחוזים חכמים אחרים. כל זה מיועד לאנשים שמכירים את אתריום ומערכות בלוקצ'יין אחרות - או שנלהבים ללמוד.</translation>
+<translation id="616639131065447379">ברוכים הבאים לארנקי קריפטו Portal</translation>
+<translation id="1740464057879304704">ארנקי Crypto מאפשרים לך לעבוד עם מטבעות קריפטוגרפיים ונכסים קשורים ב- Portal. ארנקי Crypto תומכים בטוקני אתריום כמו ETH ו- BAT, כמו גם בפריטי אוספים, ומאפשרים לך לעבוד עם Ðapps וחוזים חכמים אחרים. כל זה מיועד לאנשים שמכירים את אתריום ומערכות בלוקצ'יין אחרות - או שנלהבים ללמוד.</translation>
 <translation id="4855440621031541830">השתמש/י בארנקי קריפטו רק אם את/ה מסכימ/ה לכך שאת/ה בלבד אחראי/ת לכל סיכון הקשור בשימוש זה, וכי Portal Software אינה נושאת בכל אחריות להפסד כלשהו לרבות הפסדים אקראיים או הפסדים מהם הנך עלול/ה לסבול כתוצאה משימוש זה.</translation>
 <translation id="3187473319809074178">כל זה נפרד לחלוטין מ-</translation>
 <translation id="8327818101454798856">אז אם חיפשת לתמוך באתרים המועדפים עליך, המשכ/י לשם במקום זאת.</translation>
@@ -642,24 +642,24 @@
 <translation id="1164622162816276433">נפח של 24 שעות</translation>
 <translation id="7534079972563542000">דומיינים בלתי ניתנים לעצירה</translation>
 <translation id="4492298165410552103">לאפשר תמיכה בדומיינים בלתי ניתנים לעצירה ב-Brave?</translation>
-<translation id="689573545156113164">Brave משתמשת ב-Infura כדי להנפיק קריאות Ethereum JSON-RPC לחוזה החכם מ-Unstoppable Domains כדי לפתור בקשות לחיפוש שם דומיין .crypto (וגם .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil). אם תפעילו אותה, הדומיינים הספציפיים שאליהם אתם מנסים לגלוש יהיו חשופים ל-Infura, אך הם לא יוכלו לראות דומיינים אחרים. עיינו <ph name="BEGIN_INFURA_TOU_LINK"/>בתנאי השימוש<ph name="END_INFURA_TOU_LINK"/> ו<ph name="BEGIN_INFURA_PRIVACY_LINK"/>בהודעת הפרטיות<ph name="END_INFURA_PRIVACY_LINK"/> של Infura.</translation>
+<translation id="689573545156113164">Portal משתמשת ב-Infura כדי להנפיק קריאות Ethereum JSON-RPC לחוזה החכם מ-Unstoppable Domains כדי לפתור בקשות לחיפוש שם דומיין .crypto (וגם .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil). אם תפעילו אותה, הדומיינים הספציפיים שאליהם אתם מנסים לגלוש יהיו חשופים ל-Infura, אך הם לא יוכלו לראות דומיינים אחרים. עיינו <ph name="BEGIN_INFURA_TOU_LINK"/>בתנאי השימוש<ph name="END_INFURA_TOU_LINK"/> ו<ph name="BEGIN_INFURA_PRIVACY_LINK"/>בהודעת הפרטיות<ph name="END_INFURA_PRIVACY_LINK"/> של Infura.</translation>
 <translation id="6513892817556267573">שירות רישום שמות Ethereum</translation>
 <translation id="4335039108389860301">לאפשר תמיכה ב-Ethereum Name Service (ENS) ב-Brave?</translation>
-<translation id="8328137586971750853">Brave ישתמש ב-Infura כדי להנפיק קריאות אתריום JSON-RPC לחוזה החכם משירות Ethereum Name כדי לפתור בקשות לחיפוש את שם הדומיין eth. כאשר ההגדרה מופעלת, Infura תראה את הדומיינים הספציפיים שבהם ניסיתם לבקר אך הם לא יוכלו לראות דומיינים אחרים. יש לעיין <ph name="BEGIN_INFURA_TOU_LINK"/>בתנאי השימוש<ph name="END_INFURA_TOU_LINK"/>וב<ph name="BEGIN_INFURA_PRIVACY_LINK"/>הודעת הפרטיות<ph name="END_INFURA_PRIVACY_LINK"/> של Infura.</translation>
+<translation id="8328137586971750853">Portal ישתמש ב-Infura כדי להנפיק קריאות אתריום JSON-RPC לחוזה החכם משירות Ethereum Name כדי לפתור בקשות לחיפוש את שם הדומיין eth. כאשר ההגדרה מופעלת, Infura תראה את הדומיינים הספציפיים שבהם ניסיתם לבקר אך הם לא יוכלו לראות דומיינים אחרים. יש לעיין <ph name="BEGIN_INFURA_TOU_LINK"/>בתנאי השימוש<ph name="END_INFURA_TOU_LINK"/>וב<ph name="BEGIN_INFURA_PRIVACY_LINK"/>הודעת הפרטיות<ph name="END_INFURA_PRIVACY_LINK"/> של Infura.</translation>
 <translation id="807404806385418949">חיפוש Ethereum Name Service אופ-צ'יין</translation>
 <translation id="4049590838234508776">לאפשר תמיכה בחיפוש אופ-צ'יין של Ethereum Name Service (ENS)  ב-Brave?</translation>
-<translation id="1769433806670482329">Brave תשתמש בשערים מחוץ לשרשרת (אופ-צ'יין) כדי לפתור בקשות לחיפוש שם דומיין מסוג .eth. אם תפעילו זאת, שערים של צד שלישי יראו את דומיין .eth שאליו אתם מנסים לגלוש אך הם לא יוכלו לראות דומיינים אחרים. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>לפרטים נוספים <ph name="END_BRAVE_LEARN_MORE_LINK"/></translation>
+<translation id="1769433806670482329">Portal תשתמש בשערים מחוץ לשרשרת (אופ-צ'יין) כדי לפתור בקשות לחיפוש שם דומיין מסוג .eth. אם תפעילו זאת, שערים של צד שלישי יראו את דומיין .eth שאליו אתם מנסים לגלוש אך הם לא יוכלו לראות דומיינים אחרים. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>לפרטים נוספים <ph name="END_BRAVE_LEARN_MORE_LINK"/></translation>
 <translation id="4047002754575891955">המשך בחיפוש אופ-צ'יין</translation>
 <translation id="531747189990625622">Solana Name Service</translation>
 <translation id="1090584614351290462">האם לאפשר תמיכה של Solana Name Service (SNS) ב-Brave?</translation>
-<translation id="954404755605517948">Brave תשתמש ב-Coinbase Cloud כדי להנפיק קריאות Solana JSON-RPC לתוכנית מ- Solana Name Service כדי לזהות בקשות חיפוש שמות דומיין מסוג .sol. אם תפעילו זאת, Coinbase Cloud יוכל לראות את דומיין ה-.sol שאליו אתם מנסים לגלוש אך לא יוכלו לצפות בדומיינים אחרים. צפו <ph name="BEGIN_COINBASE_TOU_LINK"/>בתנאי השימוש <ph name="END_COINBASE_TOU_LINK"/><ph name="BEGIN_COINBASE_PRIVACY_LINK"/>ובתנאי השימוש<ph name="END_COINBASE_PRIVACY_LINK"/> של Coinbase Cloud</translation>
+<translation id="954404755605517948">Portal תשתמש ב-Coinbase Cloud כדי להנפיק קריאות Solana JSON-RPC לתוכנית מ- Solana Name Service כדי לזהות בקשות חיפוש שמות דומיין מסוג .sol. אם תפעילו זאת, Coinbase Cloud יוכל לראות את דומיין ה-.sol שאליו אתם מנסים לגלוש אך לא יוכלו לצפות בדומיינים אחרים. צפו <ph name="BEGIN_COINBASE_TOU_LINK"/>בתנאי השימוש <ph name="END_COINBASE_TOU_LINK"/><ph name="BEGIN_COINBASE_PRIVACY_LINK"/>ובתנאי השימוש<ph name="END_COINBASE_PRIVACY_LINK"/> של Coinbase Cloud</translation>
 <translation id="7378412287463452336">המשך להשתמש בשרת Infura</translation>
 <translation id="2313603121968571839">המשיכו להשתמש בשרת Coinbase Cloud</translation>
 <translation id="2356070529366658676">שאל</translation>
 <translation id="59174027418879706">מאופשר</translation>
 <translation id="2468755552460246661">הדומיין חסום</translation>
 <translation id="6393849031898466746">ייתכן שאתר זה ינסה לעקוב אחריך באתרים אחרים</translation>
-<translation id="983774928604730749">Brave מנע את טעינת האתר הבא</translation>
+<translation id="983774928604730749">Portal מנע את טעינת האתר הבא</translation>
 <translation id="4781961723893779890">האתר עלול לקשר נתונים אישיים שלך עם קובץ Cookie לפני הצגת התוכן.</translation>
 <translation id="2459038234784107183">אל תזהיר אותי לגבי אתר זה שוב</translation>
 <translation id="8242426110754782860">המשך</translation>
@@ -696,15 +696,15 @@
 <translation id="72868071984333667">למידע נוסף על IPFS ופרטיות</translation>
 <translation id="1886162073868201257">שגיאה בהפעלת שירות IPFS</translation>
 <translation id="5357895013476183089">IPFS לא מחובר</translation>
-<translation id="7662930734991751511">לא ניתן לטעון משאבי IPFS באמצעות צומת IPFS מקומי של Brave</translation>
+<translation id="7662930734991751511">לא ניתן לטעון משאבי IPFS באמצעות צומת IPFS מקומי של Portal</translation>
 <translation id="1141556610026845297">נכשל השימוש בצומת ה- IPFS המקומי לטעינת משאבי ה- IPFS המבוקשים. לחצו על כפתור "המשך" בכדי להשתמש בשער הציבורי במקום זאת ולעשות שימוש אוטומטית בשער הציבורי בעתיד.</translation>
 <translation id="3373798179786163193">המשך עם השער הציבורי</translation>
 <translation id="1974060860693918893">מתקדם</translation>
 <translation id="9096577886148726047">הסתר מתקדם</translation>
-<translation id="182581792765792826">Brave אינו יכול לטעון את משאבי ה- IPFS המבוקשים משום שהצומת המקומי לא הופעל, או מכיוון שאין כרגע עמיתים מחוברים זמינים. אם תבחרו ב"המשך", Portal יעשה שימוש אוטומטי בשער הציבורי המוגדר כברירת מחדל בכל פעם שהשימוש בצומת IPFS המקומי נכשל. באפשרותכם לשנות התנהגות זו בכל עת בהגדרות Brave.</translation>
+<translation id="182581792765792826">Portal אינו יכול לטעון את משאבי ה- IPFS המבוקשים משום שהצומת המקומי לא הופעל, או מכיוון שאין כרגע עמיתים מחוברים זמינים. אם תבחרו ב"המשך", Portal יעשה שימוש אוטומטי בשער הציבורי המוגדר כברירת מחדל בכל פעם שהשימוש בצומת IPFS המקומי נכשל. באפשרותכם לשנות התנהגות זו בכל עת בהגדרות Portal.</translation>
 <translation id="8026038288183400906">העדפת IPFS</translation>
 <translation id="2058855456574089690">הגדירו את העדפות IPFS שלכם</translation>
-<translation id="4780526507945807546">השתמשו בצומת IPFS מקומי של Brave</translation>
+<translation id="4780526507945807546">השתמשו בצומת IPFS מקומי של Portal</translation>
 <translation id="8148464361648742409">השתמש/י בשער ציבורי</translation>
 <translation id="5123478056123923857">IPFS (מערכת הקבצים המבוזרת, InterPlanetary File System) היא רשת ציבורית לאחסון והעברת נתונים מעמית לעמית. לפרוטוקול זה יש שיקולי פרטיות שונים מאלה של רשתות HTTP.</translation>
 <translation id="1216911189668016151">המחשב שלך תורם לרשת הציבורית, אבל כתובת ה-IP שלך וכל תוכן שיבוקש או שיסופק על ידך עלולים להיחשף. תוכן שיבוקש על ידך באמצעות IPFS יעבור אימות לפני שיוגש לך. ייתכן שבקשות רשת לא ישתמשו בהגדרות פרוקסי ו-DNS של הדפדפן.</translation>
@@ -771,7 +771,7 @@
 <translation id="5095252080770652994">התקדמות</translation>
 <translation id="6278643716658443228">הגדרות תשלומים</translation>
 <translation id="2862978891748913252">בחרו את המדינה שלכם</translation>
-<translation id="3717922248131893262">כדי להמשיך להשתמש ב-Brave Rewards, בחר את המדינה שלך כדי שנוכל להציג לך את האפשרויות והמודעות הנכונות עבור האזור שלך.
+<translation id="3717922248131893262">כדי להמשיך להשתמש ב-Portal Rewards, בחר את המדינה שלך כדי שנוכל להציג לך את האפשרויות והמודעות הנכונות עבור האזור שלך.
 <ph name="LINK_BEGIN"/>
 מדיניות פרטיות <ph name="LINK_END"/></translation>
 <translation id="6777169449483742979">אתה’re הנך מרוויח טוקנים עבור צפייה בתמונה ממומנת זו.</translation>
@@ -796,7 +796,7 @@
 <translation id="6333727259565526314">הפרס שלך בדרך.</translation>
 <translation id="39734939514946950">סכום התגמול שלך</translation>
 <translation id="717952606991220586">אופס, משהו השתבש. אנא נסה שנית מאוחר יותר.</translation>
-<translation id="7210234701206674260">Brave Rewards נתקל בבעיה. אנא נסו שוב מאוחר יותר.</translation>
+<translation id="7210234701206674260">Portal Rewards נתקל בבעיה. אנא נסו שוב מאוחר יותר.</translation>
 <translation id="579702532610384533">התחבר מחדש</translation>
 <translation id="7550470870580166294">יתרה אינה מספיקה</translation>
 <translation id="2775064702681588061">חשבון Portal Rewards שלך מחכה להפקה.</translation>
@@ -822,10 +822,10 @@
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>ערכו סיור מהיר<ph name="TOUR_LINK_END"/> או <ph name="LEARN_LINK_BEGIN"/>למדו עוד<ph name="LEARN_LINK_END"/> לפרטים.</translation>
 <translation id="7465614181960492526">הרוויחו טוקנים &amp; תנו בחזרה</translation>
 <translation id="2731539192954672606">הרוויחו טוקנים על ידי צפייה בפרסומות השומרות על הפרטיות ותמכו באתרים וביוצרי התוכן המועדפים עליכם באופן אוטומטי.</translation>
-<translation id="5425006356459378415">Brave Rewards לא זמין</translation>
+<translation id="5425006356459378415">Portal Rewards לא זמין</translation>
 <translation id="909076461795862330">לרוע המזל, אירעה שגיאה בעת ניסיון להגדיר את Portal Rewards. בבקשה נסה שוב.</translation>
 <translation id="3180990265682133881">למרבה הצער, אירעה שגיאה בעת ניסיון להגדיר את המדינה שלך. בבקשה נסה שוב.</translation>
-<translation id="5931798071481566121">הרשמות חדשות ל-Brave Rewards מושבתות כעת באזורכם. עם זאת, תמיד אפשר לנסות שוב מאוחר יותר. <ph name="LINK_BEGIN"/>לפרטים נוספים<ph name="LINK_END"/></translation>
+<translation id="5931798071481566121">הרשמות חדשות ל-Portal Rewards מושבתות כעת באזורכם. עם זאת, תמיד אפשר לנסות שוב מאוחר יותר. <ph name="LINK_BEGIN"/>לפרטים נוספים<ph name="LINK_END"/></translation>
 <translation id="8764860730661377310">אזור Portal Rewards שלl הוגדר ל-<ph name="COUNTRY"/></translation>
 <translation id="7068416025603720599">בחו את המדינה שלl כדי שנוכל להראות לl את האפשרויות והמודעות הנכונות עבור האזור שלl. <ph name="LINK_BEGIN"/> מדיניות פרטיות <ph name="LINK_END"/></translation>
 <translation id="1275213816424141989">אולי אחר כך</translation>
@@ -842,7 +842,7 @@
 <translation id="185034574799484512">בואו נערוך סיור מהיר</translation>
 <translation id="8281886186245836920">דלג</translation>
 <translation id="1377600615067678409">דלג לעת עתה</translation>
-<translation id="7930505144430343145">ברוכים הבאים ל-Brave Rewards!</translation>
+<translation id="7930505144430343145">ברוכים הבאים ל-Portal Rewards!</translation>
 <translation id="3477340970981564961">פרסומות Portal Private מתגמלות אתכם בטוקנים לתמיכה ביוצרי תוכן בשונה מפרסומות מסורתיות, כל זאת תוך שמירה על פרטיות המידע האישי שלכם.</translation>
 <translation id="6973095375773523904">היכן מוצגות פרסומות?</translation>
 <translation id="7556325460112047619">פרסומות Portal Private יופיעו כהודעה רגילה. אתם שולטים באיזו תדירות אתם רואים פרסומות אלה בהגדרות.</translation>
@@ -857,7 +857,7 @@
 <translation id="1402530520078693620">לסיום, בוא/י נתקין אותך עם ההגדרות הבסיסיות</translation>
 <translation id="3494356595346329740">תוכלו לשנות זאת בהמשך.</translation>
 <translation id="827315274423079662">ווהו, אתם מוכנים!</translation>
-<translation id="8268038362451312235">בשימושכם ב-Brave Rewards אתם עוזרים להפוך את האינטרנט למקום טוב יותר עבור כולם. וזה מדהים!</translation>
+<translation id="8268038362451312235">בשימושכם ב-Portal Rewards אתם עוזרים להפוך את האינטרנט למקום טוב יותר עבור כולם. וזה מדהים!</translation>
 <translation id="2318949593486441832">כדי למשוך את ה-BAT שאתה מרוויח עבור צפייה במודעות, תצטרך לאמת את Portal Rewards.</translation>
 <translation id="9168436347345867845">עשה זאת מאוחר יותר</translation>
 <translation id="7193761697942491145">אמת את Portal Rewards</translation>
@@ -869,7 +869,7 @@
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>לפרטים נוספים<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">אל דאגה.</translation>
 <translation id="5027616819996705541">אתם עדיין יכולים לגלוש בפרטיות!</translation>
-<translation id="8303087505226646884">Brave Speedreader</translation>
+<translation id="8303087505226646884">Portal Speedreader</translation>
 <translation id="1013121820689882118">Speedreader</translation>
 <translation id="8112297508607107861">יש תמיד לטעון תמיד את מצב speedreader עבור <ph name="HOST_NAME"/></translation>
 <translation id="6278428485366576908">ערכת נושא</translation>
@@ -971,16 +971,16 @@
 <translation id="4500473291496079954">בתוקף עד</translation>
 <translation id="2236833281018938257">כתובת ארנק או כתובת אתר</translation>
 <translation id="928500657730628112">כתובת ארנק</translation>
-<translation id="6812967455478797345">Brave משתמש ב-<ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> בתור צובר DEX.</translation>
+<translation id="6812967455478797345">Portal משתמש ב-<ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> בתור צובר DEX.</translation>
 <translation id="151946611346774041">העיבוד של כתובת Ethereum וכתובת ה-IP יתבצע באמצעות Ox כדי להשלים עסקה (כולל קבלת הצעות מחיר). המידע ישמש את Ox אך ורק למטרות הטיפול בעסקה.</translation>
 <translation id="7465227658364622464">יופיטר יעבד את כתובת סולאנה וכתובת ה-IP כדי למלא עסקה (כולל קבלת הצעות מחיר). יופיטר ישתמש בנתונים אלו רק למטרות עיבוד עסקאות.</translation>
-<translation id="712738518060477110">הצעת המחיר כוללת <ph name="SWAP_FEE_PERCENTAGE"/> עמלת Brave.</translation>
+<translation id="712738518060477110">הצעת המחיר כוללת <ph name="SWAP_FEE_PERCENTAGE"/> עמלת Portal.</translation>
 <translation id="8368540604723748428">יותר מדי מקומות עשרוניים</translation>
 <translation id="6575120282593094155">עדיין אין לך <ph name="ACCOUNT_TYPE"/> חשבון. ליצור אחד עכשיו?</translation>
 <translation id="8712637175834984815">הבנתי</translation>
 <translation id="2704606927547763573">הועתק</translation>
 <translation id="6042308850641462728">עוד</translation>
-<translation id="768236965975208017">בטוח. רב שרשרת. וקל לשימוש. ה-Brave Wallet שלך נמצא במרחק של כמה קליקים בלבד</translation>
+<translation id="768236965975208017">בטוח. רב שרשרת. וקל לשימוש. ה-Portal Wallet שלך נמצא במרחק של כמה קליקים בלבד</translation>
 <translation id="3157931365184549694">שחזר</translation>
 <translation id="2484275747844666540">צור ארנק חדש</translation>
 <translation id="3662348701117072366">ייבוא ארנק קיים</translation>
@@ -1013,7 +1013,7 @@
 <translation id="1108298724135935307">אתרים מחוברים</translation>
 <translation id="163697698769819510">מומלץ לבצע גיבוי של הארנק שלך עכשיו כדי להגן על הנכסים שלך ולהבטיח שלעולם לא תאבד לך הגישה.</translation>
 <translation id="1018806299114415224">גבה כעת</translation>
-<translation id="1400709719911593089">Brave Wallet אינו מוגדר כארנק ברירת המחדל שלך ולא יגיב ל-DApps של Web3. עליך להיכנס להגדרות כדי לשנות את ארנק ברירת המחדל שלך.</translation>
+<translation id="1400709719911593089">Portal Wallet אינו מוגדר כארנק ברירת המחדל שלך ולא יגיב ל-DApps של Web3. עליך להיכנס להגדרות כדי לשנות את ארנק ברירת המחדל שלך.</translation>
 <translation id="4362717653795263052">שחזר חשבונות קריפטו עיקריים</translation>
 <translation id="3038077262567136741">הזן את ביטוי השחזור שלך כדי לשחזר את חשבון הקריפטו של ארנק Portal שלך.</translation>
 <translation id="955918646509748368">ביטוי השחזור שהוזן אינו תקין.</translation>
@@ -1054,7 +1054,7 @@
 <translation id="6892232036314454524">שגיאה זו עשויה להתרחש בעת פתיחת אפלקציה שגויה במכשיר ה-Ledger.</translation>
 <translation id="6598291715079540080">Trezor</translation>
 <translation id="5605670050355397069">ספר חשבונות ראשי</translation>
-<translation id="4247752006222818397">אפשר ל-Brave גישה למכשיר ה-Ledger שלך.</translation>
+<translation id="4247752006222818397">אפשר ל-Portal גישה למכשיר ה-Ledger שלך.</translation>
 <translation id="4378551569595875038">מתחבר...</translation>
 <translation id="1943188256166395881">הצג חשבונות מסומנים</translation>
 <translation id="8554010658308662631">טען עוד</translation>
@@ -1135,7 +1135,7 @@
 <translation id="7073918978411974168">קצבה מוצעת</translation>
 <translation id="9019403281000653275">התבקש אישור בלתי מוגבל</translation>
 <translation id="4717431746210146708">לאפשר לאתר זה להוסיף רשת?</translation>
-<translation id="2521480044079508357">זה יאפשר שימוש ברשת זו בתוך ה-Brave Wallet.</translation>
+<translation id="2521480044079508357">זה יאפשר שימוש ברשת זו בתוך ה-Portal Wallet.</translation>
 <translation id="1982257600591932657">שם רשת</translation>
 <translation id="5052727830821470769">כתובת URL של הרשת</translation>
 <translation id="427875364838253580">הצג את כל הפרטים</translation>
@@ -1174,7 +1174,7 @@
 <translation id="2018472018751735678">הצגת כתובות חשבונותיך המותרים (נדרש)</translation>
 <translation id="7029403458170657879">התחבר ל-Brave</translation>
 <translation id="2770851145415891830">זוהה ארנק קריפטו קיים</translation>
-<translation id="2237759620789871865">אם אתה מעדיף לדלג על הייבוא ולשמור על חוויית ה-Crypto Wallets הישנה, פשוט נווט להגדרות Portal browser <ph name="LINK_BEFORE"/>ושנה את <ph name="LINK_AFTER"/>ברירת המחדל בחזרה ל-Crypto Wallets. תוכל גם לייבא, לנסות את ה-Brave Wallet החדש ולשנות בכל עת.</translation>
+<translation id="2237759620789871865">אם אתה מעדיף לדלג על הייבוא ולשמור על חוויית ה-Crypto Wallets הישנה, פשוט נווט להגדרות Portal browser <ph name="LINK_BEFORE"/>ושנה את <ph name="LINK_AFTER"/>ברירת המחדל בחזרה ל-Crypto Wallets. תוכל גם לייבא, לנסות את ה-Portal Wallet החדש ולשנות בכל עת.</translation>
 <translation id="5590175005414413980">עליך להזין את סיסמת ארנק הקריפטו הנוכחית שלך כדי לייבא ארנק אל Portal Wallet, ולהנות מדרך מהירה ובטוחה יותר לנהל נכסי קריפטו ואינטראקציה עם DApps של Web3.</translation>
 <translation id="880619123281809987">הקלד את סיסמת ארנקי Crypto</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> מחובר</translation>
@@ -1280,7 +1280,7 @@
 <translation id="2962388922926051374">בקשה עבור שיטת 'eth_chainId' ב-<ph name="URL"/>נכשלה</translation>
 <translation id="8325036459845654666">רשת זו כבר נוספה.</translation>
 <translation id="554350381160981853">נתונים מוקלדים חתומים נתמכים רק ב-Trezor Model One עם Firmware 1.10.5 ומעלה</translation>
-<translation id="1752214435563414457">Swap-stakes של Brave</translation>
+<translation id="1752214435563414457">Swap-stakes של Portal</translation>
 <translation id="7829441065063984927">7 ימים של חלוקת קריפטו, פרסים בסך של כ-500$.</translation>
 <translation id="8292716346768453265">היכנסו עכשיו!</translation>
 <translation id="1935944189549132903">כל הנכסים</translation>
@@ -1400,7 +1400,7 @@
 <translation id="8060029310790625334">מרכז תמיכה</translation>
 <translation id="2095142195578664632">צריכים עזרה? יש לעיין</translation>
 <translation id="3253669416991680932">ארנק החומרה הזה אינו תומך בפעולה זו.</translation>
-<translation id="7457027586454688423">הזן את סיסמת ה-Brave Wallet שלך</translation>
+<translation id="7457027586454688423">הזן את סיסמת ה-Portal Wallet שלך</translation>
 <translation id="7553242001898162573">הזן סיסמה</translation>
 <translation id="2873714185189940594">לפתוח את אפליקציית Rainbow Bridge?</translation>
 <translation id="2069777099181262239">Rainbow Bridge הוא שירות עצמאי שעוזר לגשר נכסים בין רשתות, ולהשתמש בקריפטו שלכם ברשתות אחרות ובמערכות אקולוגיות של DApp. כשמגשרים נכסים לרשתות אחרות ישנם כמה סיכונים.</translation>
@@ -1417,7 +1417,7 @@
 <translation id="8297006494302853456">חלש</translation>
 <translation id="6782556046178425980">לפני שתתחיל לגבות את הארנק</translation>
 <translation id="7119749028647909394">משפט השחזור באורך 12-24 מילים הוא מפתח פרטי שבו אתם יכולים להשתמש כדי לקבל חזרה גישה לארנק שלכם למקרה שתאבדו מכשיר/ים מחוברים. אחסנו אותו במקום בטוח, ובסדר המדויק שהוא מופיע למטה.</translation>
-<translation id="3259018319025894691">Brave  לא יכול לגשת לביטוי השחזור הסודי שלך. שמור עליו בצורה מאובטחת, ולעולם אל תשתף אותו עם אף אחד אחר.</translation>
+<translation id="3259018319025894691">Portal  לא יכול לגשת לביטוי השחזור הסודי שלך. שמור עליו בצורה מאובטחת, ולעולם אל תשתף אותו עם אף אחד אחר.</translation>
 <translation id="7650284207965419234"><ph name="TAG_BEFORE"/>חשוב: <ph name="TAG_AFTER"/>לעולם אל תשתף את ביטוי השחזור שלך. כל אחד שהביטוי יהיה ברשותו יוכל לקחת את הנכסים שלך לנצח.</translation>
 <translation id="7509948206688764960">גבה את ביטוי שחזור הארנק שלך</translation>
 <translation id="8052898407431791827">הועתק ללוח</translation>
@@ -1438,7 +1438,7 @@
 <translation id="7992766987062040279">שְׁלִישִׁי</translation>
 <translation id="2295726992010694229">ה-</translation>
 <translation id="8241405611628876973">מזל טוב! ה- Portal Walle שלך מוכן לשימוש!</translation>
-<translation id="6828327990705355767">כדי לגשת לארנק שלך, פשוט לחץ על סמל הארנק בפינה השמאלית העליונה של כל חלון דפדפן Brave.</translation>
+<translation id="6828327990705355767">כדי לגשת לארנק שלך, פשוט לחץ על סמל הארנק בפינה השמאלית העליונה של כל חלון דפדפן Portal.</translation>
 <translation id="396152018598329740">כיצד להשתמש בארנק קריפטו?</translation>
 <translation id="7512061585041489067">מהו ארנק הקריפטו הטוב ביותר?</translation>
 <translation id="1342755158522323177">מהו דפדפן קריפטו?</translation>
@@ -1452,7 +1452,7 @@
 <translation id="3551682252653406110">כדי לחבר ארנק שכבר יש לך, ייתכן שתצטרך להזין את ביטוי השחזור שלך. בשלב זה אנו תומכים בשחזור/ייבוא מארנקי Ethereum ו-Solana.</translation>
 <translation id="346929827081904572">שחזר מביטוי זרע</translation>
 <translation id="5645597512426471834">12-24 מילים</translation>
-<translation id="8158505311297755780">הקלידו את משפט השחזור של 12-24 מילים ב-Brave Wallet.</translation>
+<translation id="8158505311297755780">הקלידו את משפט השחזור של 12-24 מילים ב-Portal Wallet.</translation>
 <translation id="5419707890586509000">ייבוא מ- MetaMask</translation>
 <translation id="2265945811107390939">השתמש בסיסמת MetaMask שלך כדי לייבא את ביטוי הזרע שלך</translation>
 <translation id="7060680423657442298">לא משנה, אני אצור ארנק חדש</translation>
@@ -1462,7 +1462,7 @@
 <translation id="6260144012548445299">למידע נוסף על הארנק החדש שלי</translation>
 <translation id="8746910870914151528">דברים משפטיים</translation>
 <translation id="5148123176978018397">נא לאשר את הדברים הבאים:</translation>
-<translation id="6088314935678153800">אני מבין שזהו ארנק משמורת עצמית, ושאני לבד אחראי לכל כספים, נכסים או חשבונות הקשורים, ולנקיטת פעולות מתאימות כדי לאבטח, להגן ולגיבוי הארנק שלי. אני מבין ש-Brave לא יכול לגשת לארנק שלי או להפוך עסקאות בשמי, ושביטוי השחזור שלי הוא הדרך היחידה לקבל בחזרה גישה במקרה של איבוד סיסמה, מכשיר גנוב או נסיבות דומות.</translation>
+<translation id="6088314935678153800">אני מבין שזהו ארנק משמורת עצמית, ושאני לבד אחראי לכל כספים, נכסים או חשבונות הקשורים, ולנקיטת פעולות מתאימות כדי לאבטח, להגן ולגיבוי הארנק שלי. אני מבין ש-Portal לא יכול לגשת לארנק שלי או להפוך עסקאות בשמי, ושביטוי השחזור שלי הוא הדרך היחידה לקבל בחזרה גישה במקרה של איבוד סיסמה, מכשיר גנוב או נסיבות דומות.</translation>
 <translation id="7781090633800450517">קראתי ואני מסכים ל<ph name="LINK_BEFORE"/>תנאי השימוש<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">רכישת קריפטו</translation>
 <translation id="3887541341068007345">בודק תוספות ארנק...</translation>
@@ -1527,8 +1527,8 @@
 <translation id="6024292492796847324">התקדמות אתחול Tor</translation>
 <translation id="8300751939969131609">הפעל Portal News, ולא תפספס אף סיפור לעולם</translation>
 <translation id="7758665172236842395">עקבו אחר המקורות המועדפים עליכם, בפיד יחיד. פשוט פותחים כרטיסייה ב-Brave, גוללים למטה ו... הנה!</translation>
-<translation id="2376542729617592331">Brave News ממומנת באמצעות מודעות פרטיות ואנונימיות. <ph name="LINK_START"/>לפרטים נוספים<ph name="LINK_END"/></translation>
-<translation id="1765217911817124376">הפעל את חדשות Brave</translation>
+<translation id="2376542729617592331">Portal News ממומנת באמצעות מודעות פרטיות ואנונימיות. <ph name="LINK_START"/>לפרטים נוספים<ph name="LINK_END"/></translation>
+<translation id="1765217911817124376">הפעל את חדשות Portal</translation>
 <translation id="780301667611848630">לא תודה</translation>
 <translation id="6265592479622441247">חזרה ל-<ph name="BEGIN_BOLD"/>לוח המחוונים<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">חפשו אתר, נושא או הזנת RSS</translation>
@@ -1546,11 +1546,11 @@
 <translation id="3225021799163709119">פופולאריים</translation>
 <translation id="7436846601026966360">כמה מקורות שאולי תאהבו. ההצעות הן אנונימיות ומותאמות רק במכשיר שלכם.</translation>
 <translation id="7950715913905993008">אופס...</translation>
-<translation id="7158100730468448581">Brave News לא הצליח לאסוף תוכן.</translation>
+<translation id="7158100730468448581">Portal News לא הצליח לאסוף תוכן.</translation>
 <translation id="254100925533869330">אין תוכן</translation>
-<translation id="7172792761509429092">אין ב-Brave News תוכן להציג.</translation>
+<translation id="7172792761509429092">אין ב-Portal News תוכן להציג.</translation>
 <translation id="1771307734839364850">בחרו מקורות תוכן</translation>
-<translation id="939305735877869636">Brave Software</translation>
+<translation id="939305735877869636">Portal Software</translation>
 <translation id="6261915643960475695">עסקים</translation>
 <translation id="8265589281845759879">רכבים</translation>
 <translation id="7577010593836079522">תרבות</translation>
@@ -1575,7 +1575,7 @@
 <translation id="7509914170164691086">הגנות מופעלות <ph name="LINK_BEFORE"/> עבור <ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">הגנות אינן מופעלות <ph name="LINK_BEFORE"/>עבור<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">אם האתר הזה נראה מקולקל, נסה את Shields למטה.
- <ph name="LINK_BEFORE"/>הערה: כניסה זו עשויה להפחית את הגנת הפרטיות של Brave.<ph name="LINK_AFTER"/></translation>
+ <ph name="LINK_BEFORE"/>הערה: כניסה זו עשויה להפחית את הגנת הפרטיות של Portal.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">עוקבים, מודעות ועוד חסומים <ph name="LINK_BEFORE"/>
 למידע נוסף<ph name="LINK_AFTER"/></translation>
 <translation id="7604553853176833536">ללא ההגנה של Portal Shields <ph name="LINK_BEFORE"/> לפרטים נוספים <ph name="LINK_AFTER"/></translation>
@@ -1602,15 +1602,15 @@
 <translation id="8034285923190068220">אפשרו טביעות אצבע</translation>
 <translation id="1992750560347846445">דיווח על בעיה באתר</translation>
 <translation id="2387532482048804818">ספר לנו אם האתר לא פעל כשורה במצב הגנות מופעלות.</translation>
-<translation id="3795015906457257780">הצפייה שלך באתר זה נעשית בלי הגנת הפרטיות של Brave.</translation>
+<translation id="3795015906457257780">הצפייה שלך באתר זה נעשית בלי הגנת הפרטיות של Portal.</translation>
 <translation id="7194012750329511146">ההגנות של Portal 
 <ph name="NUMBER"/> חוסמות אפשרויות מעקב, פרסומות ועוד</translation>
 <translation id="4292121526390005808">פקודות חסומות</translation>
 <translation id="264682546981571963">נמאס לך מהודעות הסכמה לעוגיות?</translation>
-<translation id="4986297793092101884">Brave כבר חוסם קובצי Cookie של צד שלישי. אנחנו יכולים לחסום גם הודעות הסכמה לקובצי Cookie.</translation>
+<translation id="4986297793092101884">Portal כבר חוסם קובצי Cookie של צד שלישי. אנחנו יכולים לחסום גם הודעות הסכמה לקובצי Cookie.</translation>
 <translation id="535688588637568715">כן, חסום הודעות הסכמה לקובצי Cookie</translation>
 <translation id="6294662480095808915">פרטיות. כברירת מחדל.</translation>
-<translation id="4366423156486478559">קבלו הגנה מ-Brave בכל קישור שעליו אתם מקליקים. פשוט הגדירו את Portal כברירת מחדל ותתחילו לגלוש. בפרטיות.</translation>
+<translation id="4366423156486478559">קבלו הגנה מ-Portal בכל קישור שעליו אתם מקליקים. פשוט הגדירו את Portal כברירת מחדל ותתחילו לגלוש. בפרטיות.</translation>
 <translation id="3830912418080848377">ייבוא הגדרות</translation>
 <translation id="6378406588483694938">אפשר לייבא בקלות את המועדפים, התוספים ואפילו את הסיסמאות השמורות מהדפדפן הישן שלכם.</translation>
 <translation id="2092825239819166928">בחרו פרופיל לייבוא</translation>
@@ -1619,16 +1619,16 @@
 <translation id="2453860139492968684">סיום</translation>
 <translation id="2273851479262317744">הגדירו את Portal כדפדפן ברירת המחדל</translation>
 <translation id="5037676449506322593">בחר הכל</translation>
-<translation id="8330804319517911603">עזרו לשפר את Brave</translation>
+<translation id="8330804319517911603">עזרו לשפר את Portal</translation>
 <translation id="2867964979837593892">כוונון עדין של המוצר. הגנה על הפרטיות שלכם. בכל יום.</translation>
-<translation id="7661940959332108190">שלחו דוחות אבחון במקרה ש-Brave קורס או קופא</translation>
+<translation id="7661940959332108190">שלחו דוחות אבחון במקרה ש-Portal קורס או קופא</translation>
 <translation id="6358373266071757311">שתף תובנות אנונימיות ופרטיות לגבי מוצרים. זה עוזר לנו ללמוד באילו תכונות של Portal נעשה הכי הרבה שימוש.</translation>
 <translation id="7415454883318062233">ההתקנה הסתיימה</translation>
-<translation id="3141206739023333979">אפשר לשנות את הבחירות האלה בכל עת ב-Brave בכתובת <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/></translation>
+<translation id="3141206739023333979">אפשר לשנות את הבחירות האלה בכל עת ב-Portal בכתובת <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/></translation>
 <translation id="8321985064212130832">קראו את <ph name="LINK_BEFORE"/>מדיניות הפרטיות<ph name="LINK_AFTER"/> המלאה</translation>
-<translation id="7821773512278295352">Brave Firewall + VPN: מחובר</translation>
-<translation id="6019088868713395120">Brave Firewall + VPN: לא מחובר</translation>
-<translation id="3541307549916475335">Brave VPN Panel UI</translation>
+<translation id="7821773512278295352">Portal Firewall + VPN: מחובר</translation>
+<translation id="6019088868713395120">Portal Firewall + VPN: לא מחובר</translation>
+<translation id="3541307549916475335">Portal VPN Panel UI</translation>
 <translation id="1742469581923031760">מתחבר…</translation>
 <translation id="1287487756047817908">מתנתק…</translation>
 <translation id="2325196879156848326">ההתחברות נכשלה</translation>
@@ -1650,7 +1650,7 @@
 <translation id="8463313539532697053">יש להמתין בזמן טעינת…</translation>
 <translation id="4317307602527599178">לא ניתן היה לבדוק את סטטוס הרכישה שלך. ייתכן והסיבה לכך היא בעיה ברשת.</translation>
 <translation id="4613076894734402086">עריכת אמצעי תשלום</translation>
-<translation id="8373427068383038263">נראה שהתשלום האחרון שלך עבור <ph name="VALUE"/> לא עבר. הגישה למנוי זה תושהה עד לפתרון בעיית התשלום. עליך לנסות לערוך את אמצעי התשלום שלך, או לפנות לתמיכה של Brave.</translation>
+<translation id="8373427068383038263">נראה שהתשלום האחרון שלך עבור <ph name="VALUE"/> לא עבר. הגישה למנוי זה תושהה עד לפתרון בעיית התשלום. עליך לנסות לערוך את אמצעי התשלום שלך, או לפנות לתמיכה של Portal.</translation>
 <translation id="1839021455997460752">כתובת האימייל שלך</translation>
 <translation id="8054563304616131773">יש להזין כתובת כתובת דואר אלקטרוני חוקית</translation>
 <translation id="5154702632169343078">נושא</translation>
@@ -1668,9 +1668,9 @@
 <translation id="6676791921618140305">גרסת מערכת ההפעלה:</translation>
 <translation id="1156325797949437777">התמיכה מוענקת בשיתוף Guardian.</translation>
 <translation id="8146777497879160283">כתיבת תצורת ה-VPN נכשלה. זה עשוי לקרות אם אין הרשאה או אם Windows Update לא הופעל לאחרונה.</translation>
-<translation id="3307461350293459700">חיבור ה-VPN נכשל. יש לנסות להתחבר שוב, ולהקפיד ללחוץ על ׳אפשר׳ כדי להפעיל את תצורת ה-VPN של Brave.</translation>
+<translation id="3307461350293459700">חיבור ה-VPN נכשל. יש לנסות להתחבר שוב, ולהקפיד ללחוץ על ׳אפשר׳ כדי להפעיל את תצורת ה-VPN של Portal.</translation>
 <translation id="7261518280726313829">כיבוי DNS מאובטח או שימוש בשרתי ברירת מחדל במערכת Windows עלולים לחשוף בפני ספק האינטרנט שלך את שמות האתרים בהם ביקרת. Portal ממליץ שלא לעשות את זה. האם ברצונך לעשות זאת בכל מקרה?</translation>
-<translation id="888284761945060750">בהתאם למדיניות הארגון שלך, נעשתה השבתה של DNS מאובטח. שימוש ב-Brave VPN ללא הפעלה של DNS מאובטח עלול לחשוף בפני ספק האינטרנט או הארגון שלך את שמות האתרים בהם ביקרת.</translation>
+<translation id="888284761945060750">בהתאם למדיניות הארגון שלך, נעשתה השבתה של DNS מאובטח. שימוש ב-Portal VPN ללא הפעלה של DNS מאובטח עלול לחשוף בפני ספק האינטרנט או הארגון שלך את שמות האתרים בהם ביקרת.</translation>
 <translation id="1657858090675311947">אין לי עניין באזהרות נוספות בנושא</translation>
 <translation id="7586151660465233733">שווקים נוספים ב-<ph name="SITE_NAME"/></translation>
 <translation id="952067063131306699">צפו בשווקים וקנו קריפטו ב-FTX</translation>
