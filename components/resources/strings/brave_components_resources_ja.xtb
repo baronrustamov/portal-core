@@ -1014,11 +1014,11 @@
 <translation id="1018806299114415224">今すぐバックアップ</translation>
 <translation id="1400709719911593089">Braveウォレットはデフォルトのウォレットとして設定されておらず、Web3 DAppに応答しません。設定にアクセスし、デフォルトのウォレットを変更します。</translation>
 <translation id="4362717653795263052">プライマリ暗号資産アカウントを復元</translation>
-<translation id="3038077262567136741">リカバリフレーズを入力して Brave ウォレットの暗号資産アカウントを復元します。</translation>
+<translation id="3038077262567136741">リカバリフレーズを入力して Portal ウォレットの暗号資産アカウントを復元します。</translation>
 <translation id="955918646509748368">入力したリカバリフレーズが無効です。</translation>
 <translation id="8107437138787377150">クリップボードからリカバリフレーズを貼り付ける</translation>
 <translation id="4811736040444856406">リカバリーフレーズを表示</translation>
-<translation id="4359319875297001084">従来の Brave 暗号資産ウォレットからインポートしますか？</translation>
+<translation id="4359319875297001084">従来の Portal 暗号資産ウォレットからインポートしますか？</translation>
 <translation id="3331452756822160641">新しいパスワード</translation>
 <translation id="8624315169751085215">クリップボードにコピー</translation>
 <translation id="7885157704277298658">コピー完了!</translation>
@@ -1134,7 +1134,7 @@
 <translation id="7073918978411974168">提案された許可設定</translation>
 <translation id="9019403281000653275">無制限の承認をリクエスト済み</translation>
 <translation id="4717431746210146708">このサイトにネットワークの追加を許可しますか？</translation>
-<translation id="2521480044079508357">これにより、このネットワークを Brave Wallet 内で使用できるようになります。</translation>
+<translation id="2521480044079508357">これにより、このネットワークを Portal Wallet 内で使用できるようになります。</translation>
 <translation id="1982257600591932657">ネットワーク名</translation>
 <translation id="5052727830821470769">ネットワーク URL</translation>
 <translation id="427875364838253580">すべての詳細を表示</translation>

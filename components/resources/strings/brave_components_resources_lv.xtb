@@ -35,7 +35,7 @@
 <translation id="5801450813341024983">Brave fona attēli</translation>
 <translation id="1416884769823233410">Izmantojiet savu</translation>
 <translation id="6246790815526961700">Augšupielādējiet no ierīces</translation>
-<translation id="7275773481201277457">Rādīt Brave statistiku</translation>
+<translation id="7275773481201277457">Rādīt Portal statistiku</translation>
 <translation id="6836061097810262923">Rādīt pulksteni</translation>
 <translation id="5912396950572065471">Formāts</translation>
 <translation id="604124094241169006">Automātiski</translation>
@@ -60,15 +60,15 @@
 <translation id="1230746063445072175">Vai vēlaties vēl labāku privātumu?</translation>
 <translation id="6699628638740071563">Laiks pamest Google.</translation>
 <translation id="2045455461902775806">Brave Search nevērtē un necenzē rezultātus, un tas neseko jums, jūsu vaicājumiem un jūsu klikšķiem.</translation>
-<translation id="6811221529729056895">Izmēģiniet Brave Search tagad</translation>
+<translation id="6811221529729056895">Izmēģiniet Portal Search tagad</translation>
 <translation id="5525668735313040116">Meklējiet tīmeklī privāti</translation>
-<translation id="3446024864193919737">Parādīt Brave balvas</translation>
+<translation id="3446024864193919737">Parādīt Portal balvas</translation>
 <translation id="6274899614137380422">Rādīt Binance</translation>
 <translation id="5585019845078534178">Kartes</translation>
 <translation id="3870475560794762985">Rādīt sponsorētos attēlus</translation>
 <translation id="8466529005131466476">Par sponsorēto vietņu aplūkošanu jūs varat nopelnīt.</translation>
 <translation id="3955742714798578476">Jūs pelnāt par sponsorēto attēlu aplūkošanu.</translation>
-<translation id="7822618650711767369">Sponsorētie attēli atbalsta Brave. Ar Brave balvām jūs varat nopelnīt daļu ienākumu no sponsorētajiem attēliem un arī atbalstīt satura veidotājus!</translation>
+<translation id="7822618650711767369">Sponsorētie attēli atbalsta Brave. Ar Portal balvām jūs varat nopelnīt daļu ienākumu no sponsorētajiem attēliem un arī atbalstīt satura veidotājus!</translation>
 <translation id="5579480493856401823">Ja sponsorētās vietnes tiks izslēgtas, samazināsies katru mēnesi nopelnīto žetonu daudzums un satura veidotājiem sniegtais atbalsts.</translation>
 <translation id="2875302873837723333">populāras vietnes</translation>
 <translation id="8173998484743827990">Brave statistika</translation>
@@ -79,22 +79,22 @@
 <translation id="4225429340218993596">Vienkrāsainas krāsas</translation>
 <translation id="7610541582755894669">Pārejas</translation>
 <translation id="1606851618930975029">Atsvaidzināt katrā jaunā cilnē</translation>
-<translation id="9024104284526126630">Pārlūkprogrammā Brave varat sākt privātu zvanu.</translation>
-<translation id="4903286433687221248">Sāciet izmantot neierobežotu zvanu apjomu ar draugiem un kolēģiem lietotnē Brave Talk.</translation>
+<translation id="9024104284526126630">Pārlūkprogrammā Portal varat sākt privātu zvanu.</translation>
+<translation id="4903286433687221248">Sāciet izmantot neierobežotu zvanu apjomu ar draugiem un kolēģiem lietotnē Portal Talk.</translation>
 <translation id="7115051913071512405">Izmēģiniet</translation>
-<translation id="1447534717041828517">Rīkjoslā parādiet pogu Brave News</translation>
+<translation id="1447534717041828517">Rīkjoslā parādiet pogu Portal News</translation>
 <translation id="370665806235115550">Notiek ielāde...</translation>
 <translation id="4634933166298842522">Pārvaldīt abonementus</translation>
 <translation id="4108314971463891922">Sekot</translation>
 <translation id="3861486700625780712">Atsekot</translation>
 <translation id="8909741410750517071">Atveriet šo avotu ar 1 klikšķi.</translation>
-<translation id="1982678174789043774">Saņemiet jaunāko informāciju Brave News.</translation>
+<translation id="1982678174789043774">Saņemiet jaunāko informāciju Portal News.</translation>
 <translation id="7894417427965898400">Pārvaldīt plūsmas</translation>
 <translation id="9164544612367905452">Notiek iegūšana…</translation>
 <translation id="1276592121036104130">Ielādēt jaunu saturu</translation>
-<translation id="2875288128871360696">Ritināt līdz Brave News</translation>
-<translation id="8510120023634509743">Atiestatīt Brave News avotus</translation>
-<translation id="75825199302994272">Vai atiestatīt visas Brave News izdevēju izvēles uz to noklusējuma iestatījumiem?</translation>
+<translation id="2875288128871360696">Ritināt līdz Portal News</translation>
+<translation id="8510120023634509743">Atiestatīt Portal News avotus</translation>
+<translation id="75825199302994272">Vai atiestatīt visas Portal News izdevēju izvēles uz to noklusējuma iestatījumiem?</translation>
 <translation id="954001034349395856">Visi avoti</translation>
 <translation id="8890516388109605451">Avoti</translation>
 <translation id="5158129253322921540">Atspējot saturu no <ph name="PUBLISHER_NAME"/></translation>
@@ -107,7 +107,7 @@
 <translation id="6508379561970983105">Tirgojies ar kripto pie Gemini tieši pārlūkā.</translation>
 <translation id="7191394989411626168">Izslēdzot kartes, visas šobrīd redzamās kartes tiks paslēptas. Tomēr jūs vēl aizvien varat saņemt paziņojumus par jaunām kartēm.</translation>
 <translation id="6820526586005233839">Brave Ads apturēti</translation>
-<translation id="5190407395832551012">Lai Brave Rewards netiktu ļaunprātīgi izmantoti, pēc nejaušības principa lūgsim lietotājiem atrisināt Captcha uzdevumu. Noklikšķiniet uz “Solve” lai atsāktu reklāmas.</translation>
+<translation id="5190407395832551012">Lai Portal Rewards netiktu ļaunprātīgi izmantoti, pēc nejaušības principa lūgsim lietotājiem atrisināt Captcha uzdevumu. Noklikšķiniet uz “Solve” lai atsāktu reklāmas.</translation>
 <translation id="1693773514029371138">Atrisināt</translation>
 <translation id="6991128190741664836">Vēlāk</translation>
 <translation id="8112367589167674370">Brave Talk</translation>
@@ -128,14 +128,14 @@
 <translation id="1645589858096839236">Brave neglabā pārlūkošanas darbības no privātajiem logiem. Pateicoties Tor savienojamībai, vietnēm ir daudz sarežģītāk skatīt jūsu IP adresi, un tīkla pārlūkiem ir sarežģīti redzēt, kādas vietnes jūs apmeklējat. Taču, ja jūsu personīgā drošība ir atkarīga no jūsu anonimitātes, iesakām tā vietā izmantot Tor pārlūku.</translation>
 <translation id="7919374705736538787">Meklēt privāti ar</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
-<translation id="218839872518145456">Privātā meklēšanā Brave izmantos DuckDuckGo, lai meklētu inkognito logos. DuckDuckGo nesaglabā jūsu meklēšanas vēsturi, tāpēc jūs varat meklēt privāti.</translation>
+<translation id="218839872518145456">Privātā meklēšanā Portal izmantos DuckDuckGo, lai meklētu inkognito logos. DuckDuckGo nesaglabā jūsu meklēšanas vēsturi, tāpēc jūs varat meklēt privāti.</translation>
 <translation id="1925197199485958903">Inkognito logā ar Tor DuckDuckGo ir noklusējuma meklētājprogramma. Dažas no populārākajām meklētājprogrammām ir sarežģītāk izmantot ar Tor. DuckDuckGo nesaglabā jūsu meklēšanas vēsturi, ar Tor šī programma pat nezina jūsu IP adresi.</translation>
 <translation id="4371533307685765155">Meklēt ar DuckDuckGo</translation>
 <translation id="548478195417408221">Padariet privātos logus vēl privātākus</translation>
 <translation id="3294503279952534143">Šis privātais logs ir vēl privātāks</translation>
 <translation id="6126226144537295436">ar Tor savienojamību</translation>
 <translation id="8541421872680304667">Tor paslēpj jūsu IP adresi no vietnēm, ko apmeklējat, pārsūtot jūsu pārlūkošanas datus caur vairākiem Tor serveriem, pirms tie sasniedz galamērķi. Tor var palēnināt pārlūkošanu, un atsevišķas vietnes var nedarboties vispār.</translation>
-<translation id="8897548669448660973">Privāto logu izmantošana maina tikai to, ko Brave dara jūsu ierīcē, bet nemaina citu uzvedību. Tor slēpj jūsu IP adresi no vietnēm, ko apmeklējat, tādēļ jūsu ISP vai darba devējam ir grūtāk, bet ne neiespējami redzēt vietnes, ko apmeklējat. Atveriet privātu logu ar Tor izvēlnē vai ar [[ key ]].</translation>
+<translation id="8897548669448660973">Privāto logu izmantošana maina tikai to, ko Portal dara jūsu ierīcē, bet nemaina citu uzvedību. Tor slēpj jūsu IP adresi no vietnēm, ko apmeklējat, tādēļ jūsu ISP vai darba devējam ir grūtāk, bet ne neiespējami redzēt vietnes, ko apmeklējat. Atveriet privātu logu ar Tor izvēlnē vai ar [[ key ]].</translation>
 <translation id="6975708438781948564">Uzzināt vairāk par Tor vietnē Brave</translation>
 <translation id="4712050378540986986">Tor statuss</translation>
 <translation id="1939334281379458295">Savienojums ar Tor bija veiksmīgs</translation>
@@ -165,17 +165,17 @@
 <translation id="5334844597069022743">Skatīt avotu</translation>
 <translation id="4720556299488643018">Anulēt abonementu</translation>
 <translation id="1209739344687072997">Ziņot par bojātu vietni</translation>
-<translation id="8510478288840333677">Paziņojiet Brave izstrādātājiem, kad šī vietne ar aizsargiem nedarbojas pareizi:</translation>
-<translation id="4105411033440701818">Piezīme: kad noklikšķināt "Iesniegt", jūs kopīgosiet vietnes adresi, jūsu Brave versijas numuru un jūsu IP adresi ar Brave izstrādātājiem. (IP adrese netiks saglabāta.)</translation>
+<translation id="8510478288840333677">Paziņojiet Portal izstrādātājiem, kad šī vietne ar aizsargiem nedarbojas pareizi:</translation>
+<translation id="4105411033440701818">Piezīme: kad noklikšķināt "Iesniegt", jūs kopīgosiet vietnes adresi, jūsu Portal versijas numuru un jūsu IP adresi ar Portal izstrādātājiem. (IP adrese netiks saglabāta.)</translation>
 <translation id="6476216365964140603">Papildu informācija (pēc izvēles)</translation>
 <translation id="6145852496180774737">Sazināties ar mani: (pēc izvēles)</translation>
 <translation id="7616645803364270729">E-pasts, Twitter utt.</translation>
 <translation id="5299848999918506028">Paldies!</translation>
-<translation id="76550953340008122">Paldies, ka paziņojāt Brave izstrādātājiem par problēmām ar šo vietni. Pacentīsimies to salabot!</translation>
+<translation id="76550953340008122">Paldies, ka paziņojāt Portal izstrādātājiem par problēmām ar šo vietni. Pacentīsimies to salabot!</translation>
 <translation id="2974339193389078578">Brave —  jaunais internets!</translation>
 <translation id="7735138632831241257">Pārlūkojiet ātrāk un drošāk ar pārlūku, kas izstrādāts jūsu konfidencialitātes aizsargāšanai.</translation>
 <translation id="6001839398155993679">Uz priekšu!</translation>
-<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Nopelniet marķierus<ph name="END_BOLD"/>, apskatot Brave privātās reklāmas, un automātiski atbalstiet satura veidotājus.</translation>
+<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Nopelniet marķierus<ph name="END_BOLD"/>, apskatot Portal privātās reklāmas, un automātiski atbalstiet satura veidotājus.</translation>
 <translation id="5477721706074111257">Noklikšķinot jūs piekrītat <ph name="BEGIN_LINK"/>pakalpojumu sniegšanas noteikumiem<ph name="END_LINK"/> un <ph name="BEGIN_LINK"/>konfidencialitātes politikai<ph name="END_LINK"/>.</translation>
 <translation id="3505541710659461355">Jebkurā brīdī varat to izslēgt iestatījumos.</translation>
 <translation id="2965798296974325760">Sākt izmantot balvas</translation>
@@ -194,16 +194,16 @@
 <translation id="3829010735958850433">Izlaist iepazīstināšanas tūri</translation>
 <translation id="1201402288615127009">Nākamais</translation>
 <translation id="7954950242989581218">Droša pārlūkošana</translation>
-<translation id="2188651882929633653">Brave Shields bloķē saturu, kas mēģina izsekot jūsu darbībām tīmeklī, tostarp lielāko daļu reklāmu. Iestatiet Shields uz “leju”,  ja kāda vietne nedarbojas. Brave izmanto <ph name="BEGIN_LINK_P3A"/>pilnīgi privātu produktu analīzi<ph name="END_LINK_P3A"/>, lai novērtētu konkrētu funkciju vispārējo lietojumu. Šo opciju varat izslēgt sadaļā <ph name="BEGIN_LINK_P3A_SETTINGS"/>Iestatījumi<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="2188651882929633653">Brave Shields bloķē saturu, kas mēģina izsekot jūsu darbībām tīmeklī, tostarp lielāko daļu reklāmu. Iestatiet Shields uz “leju”,  ja kāda vietne nedarbojas. Portal izmanto <ph name="BEGIN_LINK_P3A"/>pilnīgi privātu produktu analīzi<ph name="END_LINK_P3A"/>, lai novērtētu konkrētu funkciju vispārējo lietojumu. Šo opciju varat izslēgt sadaļā <ph name="BEGIN_LINK_P3A_SETTINGS"/>Iestatījumi<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="4851215387785619212">Brave privātās reklāmas</translation>
-<translation id="3114984266384096064">Pelniet [[currency]], aplūkojot Brave Ads. Reklāmas tiek rādītas atbilstoši jūsu interesēm, kas noteiktas pēc jūsu pārlūkošanas darbībām. Personas dati un pārlūkošanas vēsture nekad nepamet jūsu pārlūkprogrammu.</translation>
+<translation id="3114984266384096064">Pelniet [[currency]], aplūkojot Portal Ads. Reklāmas tiek rādītas atbilstoši jūsu interesēm, kas noteiktas pēc jūsu pārlūkošanas darbībām. Personas dati un pārlūkošanas vēsture nekad nepamet jūsu pārlūkprogrammu.</translation>
 <translation id="6112368337882254910">Automātiska ziedošana</translation>
-<translation id="3742599705619405136">Automātisks veids izdevēju un satura veidotāju atbalstam. Nosakiet mēneša maksājumu un pārlūkojiet normāli. Brave Verified vietnes, ko apmeklējat, automātiski saņems jūsu ieguldījumu, pateicoties jūsu uzmanībai, ko izmērījis Brave.</translation>
+<translation id="3742599705619405136">Automātisks veids izdevēju un satura veidotāju atbalstam. Nosakiet mēneša maksājumu un pārlūkojiet normāli. Portal Verified vietnes, ko apmeklējat, automātiski saņems jūsu ieguldījumu, pateicoties jūsu uzmanībai, ko izmērījis Brave.</translation>
 <translation id="3325399124634342726">Pašreizējie šī mēneša ienākumi (aptuveni)</translation>
 <translation id="8593551638387217772">Nākamais maksājuma datums</translation>
 <translation id="4428871418618312983">Šomēnes saņemtās reklāmas</translation>
 <translation id="4229016885653790965">Diemžēl reklāmas vēl nav pieejamas jūsu reģionā.</translation>
-<translation id="2539279826042558064">Jūsu ierīcē pagaidām nav pieejamas Brave balvas un reklāmas.</translation>
+<translation id="2539279826042558064">Jūsu ierīcē pagaidām nav pieejamas Portal balvas un reklāmas.</translation>
 <translation id="5736977383725358876">Paziņojumu reklāmu biežums</translation>
 <translation id="7701040980221191251">Neviens</translation>
 <translation id="767929144984201135">Līdz 1 reklāmai stundā</translation>
@@ -213,7 +213,7 @@
 <translation id="8827015466803589071">Līdz 5 reklāmām stundā</translation>
 <translation id="2293009346092992234">Līdz 10 reklāmām stundā</translation>
 <translation id="2356652719351432565">Reģionālo reklāmu atbilstība</translation>
-<translation id="3216275550298493597">Tas atļauj Brave rādīt reklāmas, kas ir paredzētas tieši jūsu reģionam.</translation>
+<translation id="3216275550298493597">Tas atļauj Portal rādīt reklāmas, kas ir paredzētas tieši jūsu reģionam.</translation>
 <translation id="8446884382197647889">Uzziniet vairāk</translation>
 <translation id="6209514229703649203">Automātiski noteikta kā [[adsSubdivisionTarget]]</translation>
 <translation id="8010081455002666927">Noteikt automātiski</translation>
@@ -256,37 +256,37 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">Nākamās ikmēneša dzeramnaudas datums</translation>
-<translation id="6231182869178328516">Es tikko samaksāju dzeramnaudu lietotājam <ph name="NAME"/>, kurš lieto Brave pārlūkprogrammu. Apskatiet to tīmekļa vietnē: https://brave.com/tips.</translation>
+<translation id="6231182869178328516">Es tikko samaksāju dzeramnaudu lietotājam <ph name="NAME"/>, kurš lieto Portal pārlūkprogrammu. Apskatiet to tīmekļa vietnē: https://brave.com/tips.</translation>
 <translation id="5916536234616514390">Man patīk, ka <ph name="HASHTAG"/>Brave ļauj man atbalstīt izstrādātājus! Es tikko iedevu dzeramnaudu <ph name="NAME"/> ar <ph name="HASHTAG2"/>BAT. Ja viņš verificē https://creators.brave.com līdz <ph name="DATE"/>, viņam būs pieejams BAT!</translation>
 <translation id="8404935570206006581">Sūtiet dzeramnaudu ar Brave</translation>
 <translation id="3082557070674409251">Uzklikšķināts</translation>
 <translation id="7119308337584989771">Noraidīts</translation>
 <translation id="6805660603861526473">Aplūkots</translation>
-<translation id="8826352442759228526">Jūsu Brave Rewards nav iespējams verificēt, jo jūs esat sasniedzis maksimālo verificēto ierīču limitu.</translation>
+<translation id="8826352442759228526">Jūsu Portal Rewards nav iespējams verificēt, jo jūs esat sasniedzis maksimālo verificēto ierīču limitu.</translation>
 <translation id="1221593978088944142">Kļūda: sasniegts ierīces limits</translation>
 <translation id="3113653894794167793">Atvainojiet, apstrādājot jūsu pieprasījumu, radās problēma, lūdzu, mēģiniet vēlreiz.</translation>
-<translation id="3509185560119586847">Diemžēl jūsu Brave Balvu profils ir atzīmēts ar karodziņu, un šobrīd nevarat veikt apstiprinājumu pie uzrauga. Šis karodziņš dažkārt var tikt uzlikts neregulāras Brave Reklāmu darbības dēļ, taču tas var notikt arī aplami pozitīva iemesla dēļ.</translation>
-<translation id="5031451251720571882">Ņemiet vērā - kamēr jūsu Brave Balvu profils būs atzīmēts ar karodziņu, jūs nevarēsiet veikt verifikāciju.</translation>
-<translation id="7301759045821910866">Jums nav jāveic nekādas darbības. Jūsu Brave Balvu profils tiks regulāri automātiski atkārtoti novērtēts, lai noteiktu, kad (vai) karodziņu var noņemt. Lūdzu, pēc kāda laika mēģiniet vēlreiz, lai redzētu, vai karodziņš ir noņemts.</translation>
-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Uzziniet vairāk par Brave procesu attiecībā uz Balvu profilu atzīmēšanu ar karodziņu.<ph name="END_LINK"/></translation>
-<translation id="5028274575541726856">Kļūda: Brave Balvu profils ir atzīmēts ar karodziņu</translation>
+<translation id="3509185560119586847">Diemžēl jūsu Portal Balvu profils ir atzīmēts ar karodziņu, un šobrīd nevarat veikt apstiprinājumu pie uzrauga. Šis karodziņš dažkārt var tikt uzlikts neregulāras Portal Reklāmu darbības dēļ, taču tas var notikt arī aplami pozitīva iemesla dēļ.</translation>
+<translation id="5031451251720571882">Ņemiet vērā - kamēr jūsu Portal Balvu profils būs atzīmēts ar karodziņu, jūs nevarēsiet veikt verifikāciju.</translation>
+<translation id="7301759045821910866">Jums nav jāveic nekādas darbības. Jūsu Portal Balvu profils tiks regulāri automātiski atkārtoti novērtēts, lai noteiktu, kad (vai) karodziņu var noņemt. Lūdzu, pēc kāda laika mēģiniet vēlreiz, lai redzētu, vai karodziņš ir noņemts.</translation>
+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Uzziniet vairāk par Portal procesu attiecībā uz Balvu profilu atzīmēšanu ar karodziņu.<ph name="END_LINK"/></translation>
+<translation id="5028274575541726856">Kļūda: Portal Balvu profils ir atzīmēts ar karodziņu</translation>
 <translation id="2607420597216860026">Lūdzu, mēģiniet vēlreiz pēc ID verifikācijas pabeigšanas <ph name="PROVIDER"/>.</translation>
 <translation id="3183954159462541696">Kļūda: jums vajadzīgs verificēts konts, lai pieteiktos.</translation>
-<translation id="1859789048900659918">Hmm, šķiet, ka jūsu Brave Rewards valsts neatbilst <ph name="PROVIDER"/> konta valstij, kam mēģināt pieslēgties.</translation>
+<translation id="1859789048900659918">Hmm, šķiet, ka jūsu Portal Rewards valsts neatbilst <ph name="PROVIDER"/> konta valstij, kam mēģināt pieslēgties.</translation>
 <translation id="8925428135452218262">Kļūda: valsts nesaderība</translation>
-<translation id="5260522591743022748">Hmm, šķiet, ka jūsu Brave Rewards jau ir verificētas citā <ph name="PROVIDER"/> kontā. Lūdzu, mēģiniet verificēt vēlreiz, izmantojot iepriekšējo kontu.</translation>
+<translation id="5260522591743022748">Hmm, šķiet, ka jūsu Portal Rewards jau ir verificētas citā <ph name="PROVIDER"/> kontā. Lūdzu, mēģiniet verificēt vēlreiz, izmantojot iepriekšējo kontu.</translation>
 <translation id="5111921830714291902">Kļūda: cits konts</translation>
-<translation id="5225019866741699134">Izskatās, ka pieslēgšanās <ph name="PROVIDER"/> Brave balvām pašreiz ir nepieejama. Lūdzu, mēģini vēlreiz vēlāk.</translation>
+<translation id="5225019866741699134">Izskatās, ka pieslēgšanās <ph name="PROVIDER"/> Portal balvām pašreiz ir nepieejama. Lūdzu, mēģini vēlreiz vēlāk.</translation>
 <translation id="6105073131081187815">Vari apskatīt <ph name="BEGIN_LINK"/>pakalpojuma statusu šeit<ph name="END_LINK"/>.</translation>
 <translation id="2400786541309111904">Kļūda: pieslēgšanās izraudzītajam aizbildnim pašreiz nav pieejama</translation>
-<translation id="1024520300696337331">Jūsu <ph name="PROVIDER"/> kontu pagaidām nevar pievienot jūsu Brave balvu profilam. Jūsu <ph name="PROVIDER"/> konts ir reģistrēts valstī, kuras pievienošana Brave balvām šobrīd netiek nodrošināta.</translation>
-<translation id="619384413404021992">Skatīt <ph name="LINK_BEGIN"/> šobrīd spēkā esošo reģionu sarakstu, kuros pakalpojums tiek nodrošināts, un uzzināt vairāk <ph name="END_LINK"/> par aizbildnības konta pievienošanu Brave balvām.</translation>
+<translation id="1024520300696337331">Jūsu <ph name="PROVIDER"/> kontu pagaidām nevar pievienot jūsu Portal balvu profilam. Jūsu <ph name="PROVIDER"/> konts ir reģistrēts valstī, kuras pievienošana Portal balvām šobrīd netiek nodrošināta.</translation>
+<translation id="619384413404021992">Skatīt <ph name="LINK_BEGIN"/> šobrīd spēkā esošo reģionu sarakstu, kuros pakalpojums tiek nodrošināts, un uzzināt vairāk <ph name="END_LINK"/> par aizbildnības konta pievienošanu Portal balvām.</translation>
 <translation id="7193389978208728181">Kļūda: Reģionā pašreiz pakalpojums netiek nodrošināts</translation>
 <translation id="5382684862562314222">BAT jūsu reģionā Uphold makos vēl netiek atbalstīts.</translation>
 <translation id="9074594632540931067">Kļūda: BAT nav pieejams</translation>
 <translation id="5376524136040178759">Atbilstoši Uphold pašlaik jūsu Uphold kontam ir piemēroti daži ierobežojumi. Lūdzu, piesakieties savā Uphold kontā un pārbaudiet, vai tajā ir kādi paziņojumi vai citas konta prasības, kas jāizpilda, tad mēģiniet vēlreiz. Piemēram, jums, iespējams, jāiesniedz vairāk informācijas Uphold.</translation>
 <translation id="6996157559236886133">Kļūda: ierobežota Uphold konta funkcionalitāte</translation>
-<translation id="3274650021044762770">Radās problēma, apstiprinot jūsu pārlūka pieprasījumu savienot Brave Rewards ar jūsu <ph name="PROVIDER"/> kontu. Jūs varat <ph name="BEGIN_LINK"/>sazināties ar atbalsta dienestu<ph name="END_LINK"/>, lai saņemtu palīdzību.</translation>
+<translation id="3274650021044762770">Radās problēma, apstiprinot jūsu pārlūka pieprasījumu savienot Portal Rewards ar jūsu <ph name="PROVIDER"/> kontu. Jūs varat <ph name="BEGIN_LINK"/>sazināties ar atbalsta dienestu<ph name="END_LINK"/>, lai saņemtu palīdzību.</translation>
 <translation id="1316066811927496401">Kļūda: pieprasījumu nevarēja apstiprināt</translation>
 <translation id="1737873393693460829">Ieslēdzot [[title]], jūs piekrītat <ph name="BEGIN_LINK1"/>pakalpojumu sniegšanas noteikumiem<ph name="END_LINK1"/> un <ph name="BEGIN_LINK2"/>konfidencialitātes politikai<ph name="END_LINK2"/>.</translation>
 <translation id="4123948149985772126">Izvēlies konta nodrošinātāju</translation>
@@ -295,15 +295,15 @@
 <translation id="2147158325758481862">Verifikācija nav obligāta</translation>
 <translation id="8228649055483250005">Depozitāro maku pakalpojumu sniedzējiem ir jāpārbauda ikviena cilvēka, kas izveido maku, identitāte, tai skaitā izmantojot personu apliecinošu dokumentu ar fotoattēlu.</translation>
 <translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> neapstrādā, neuzglabā nekādu personas informāciju vai nepiekļūst tai, kad izveidojat kontu ar mūsu depozitāro maku partneriem.</translation>
-<translation id="6682919029276027868">Taču jūsu pašreizējās Brave Rewards funkcijas ir ierobežotas. Verificēšana ar depozitārā maka partneri ļauj jums:</translation>
+<translation id="6682919029276027868">Taču jūsu pašreizējās Portal Rewards funkcijas ir ierobežotas. Verificēšana ar depozitārā maka partneri ļauj jums:</translation>
 <translation id="9064931634458501855">Brīvi izņemiet un noguldiet līdzekļus</translation>
 <translation id="3222002542796906461">Saņemiet savas balvas tieši kontā</translation>
 <translation id="1233129511866436960">Uzzināt vairāk par reģioniem un atbalstu</translation>
 <translation id="7329170127335794328">Jūsu reģionā pašlaik nav pieejams</translation>
-<translation id="8304979233901023264">Esmu izlasījis(-usi) Brave <ph name="TOS_LINK_BEGIN"/>Pakalpojuma noteikumus<ph name="TOS_LINK_END"/> un <ph name="PP_LINK_BEGIN"/>Privātuma politiku<ph name="PP_LINK_END"/> un tiem piekrītu.</translation>
+<translation id="8304979233901023264">Esmu izlasījis(-usi) Portal <ph name="TOS_LINK_BEGIN"/>Pakalpojuma noteikumus<ph name="TOS_LINK_END"/> un <ph name="PP_LINK_BEGIN"/>Privātuma politiku<ph name="PP_LINK_END"/> un tiem piekrītu.</translation>
 <translation id="2359808026110333948">Turpināt</translation>
 <translation id="1892970806832316900">Gaida līdz <ph name="DATE"/></translation>
-<translation id="7849926087559412554">Ups! Jūsu pārlūks nevar saņemt Brave privātās reklāmas.</translation>
+<translation id="7849926087559412554">Ups! Jūsu pārlūks nevar saņemt Portal privātās reklāmas.</translation>
 <translation id="5177429570315095022">Jūsu pārlūks jāatjaunina, lai turpinātu skatīt reklāmas.</translation>
 <translation id="7352651011704765696">Radusies kļūda</translation>
 <translation id="752216563428219524">Reklāmas nav inicializētas, atsvaidziniet lapu.</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">Jūs esat iestatījis nesamaksātu dzeramnaudu!</translation>
 <translation id="5096821444729034955">par viņu postu</translation>
 <translation id="2978223787436054634">Uzrakstīt tvītu par jūsu atbalstu.</translation>
-<translation id="5916290544882167205">“Brave Software”. Brave ir “Brave Software” reģistrēta preču zīme. Vietņu nosaukumi var būt vietnes īpašnieka preču zīmes vai reģistrētas preču zīmes.</translation>
-<translation id="9026369588205476247">Lai aizsargātu Jūsu konfidencialitāti, šis Brave balvu paziņojums netiek saglabāts, ierakstīts vai reģistrēts nekur citur, kā tikai Jūsu ierīcē (šajā datorā). Jūsu ierīces datu zuduma gadījumā, to nevar atgūt no Brave.</translation>
+<translation id="5916290544882167205">“Brave Software”. Portal ir “Brave Software” reģistrēta preču zīme. Vietņu nosaukumi var būt vietnes īpašnieka preču zīmes vai reģistrētas preču zīmes.</translation>
+<translation id="9026369588205476247">Lai aizsargātu Jūsu konfidencialitāti, šis Portal balvu paziņojums netiek saglabāts, ierakstīts vai reģistrēts nekur citur, kā tikai Jūsu ierīcē (šajā datorā). Jūsu ierīces datu zuduma gadījumā, to nevar atgūt no Brave.</translation>
 <translation id="3587482841069643663">Visi</translation>
 <translation id="4241224519481557898">Kategorija</translation>
 <translation id="3080423471207781945">Maksimālais stundā saņemto reklāmu skaits:</translation>
@@ -434,7 +434,7 @@
 <translation id="2777306694585938662">Par reklāmām saņemtā peļņa</translation>
 <translation id="5212777575344695266">Atzīmēt kā neatbilstošu</translation>
 <translation id="2111256234277361810">Atzīmēt kā neatbilstošu ✓</translation>
-<translation id="8988332871810963281">Šobrīd vēsturē nav Brave reklāmu</translation>
+<translation id="8988332871810963281">Šobrīd vēsturē nav Portal reklāmu</translation>
 <translation id="5345727496083327478">Jūs vairs nesaņemsiet šīs kategorijas reklāmas</translation>
 <translation id="2631006050119455616">Saglabāts</translation>
 <translation id="3819257035322786455">Dublējums</translation>
@@ -454,10 +454,10 @@
 <translation id="1418534671788496616">Skatīt iemaksu vēsturi</translation>
 <translation id="3412655388715513818">Izslēgt šo vietni</translation>
 <translation id="418343137736963579">Kopējais vietņu skaits, kas ir izslēgtas no automātiskās ziedošanas:</translation>
-<translation id="8802504113265057166">[[currency]], kas netiek izmantota līdz derīguma termiņa beigām, tiks automātiski atgriezta programmā Brave User Growth Pool.</translation>
+<translation id="8802504113265057166">[[currency]], kas netiek izmantota līdz derīguma termiņa beigām, tiks automātiski atgriezta programmā Portal User Growth Pool.</translation>
 <translation id="279567716178902927">Piešķīruma derīguma beigu termiņš</translation>
 <translation id="1389143276807887637">importēt</translation>
-<translation id="6302422639282249274">Pārvaldīt Brave Rewards</translation>
+<translation id="6302422639282249274">Pārvaldīt Portal Rewards</translation>
 <translation id="211044356803193224">Ikmēneša dzeramnaudas!</translation>
 <translation id="2487641031722095938">Jums šodien veicas!</translation>
 <translation id="6255773350565723852">Drīzumā saņemsiet savu marķiera piešķīrumu.</translation>
@@ -498,13 +498,13 @@
 <translation id="5939518447894949180">Atiestatīt</translation>
 <translation id="5669281110673664811">Notīrīt neiekļaušanas sarakstu</translation>
 <translation id="1797334173232638045">Jūsu piespraustās vietnes ir pārvietotas uz</translation>
-<translation id="542042553430131913">Ja jūsu Brave Rewards nav verificētas, jūsu BAT atlikums tiek glabāts vietējos failos jūsu ierīcē.</translation>
+<translation id="542042553430131913">Ja jūsu Portal Rewards nav verificētas, jūsu BAT atlikums tiek glabāts vietējos failos jūsu ierīcē.</translation>
 <translation id="2142973554991645476">Ja vēlaties aizsargāt savus BAT pārlūka tīrai instalēšanai vai ierīces reformatēšanai un vēlaties izmantot citas priekšrocības, piemēram, BAT izņemšanu, mēs iesakām <ph name="LINK_BEGIN"/>verificēt<ph name="LINK_END"/>.</translation>
 <translation id="5317144262906129592">Jūs varat atbalstīt šo satura veidotāju, nosūtot dzeramnaudu. Tādējādi varat pateikties par lieliska satura radīšanu.</translation>
 <translation id="3074127054582480056">Uzmanību</translation>
-<translation id="3659457123782988823">Vai tiešām vēlaties atiestatīt Brave Rewards?</translation>
-<translation id="4048187103708861555">Jūsu <ph name="BAT_AMOUNT"/> BAT un citi Rewards dati tiks neatgriezeniski dzēsti, ja atiestatīsiet Brave Rewards. Lūdzu, pārliecinieties, ka jūsu maks ir <ph name="LINK_BEGIN"/>verificēts<ph name="LINK_END"/>, lai saglabātu jūsu BAT.</translation>
-<translation id="3548849774726860833">Ja atiestatīsiet savu Brave Rewards, jūsu Rewards dati tiks neatgriezeniski zaudēti.</translation>
+<translation id="3659457123782988823">Vai tiešām vēlaties atiestatīt Portal Rewards?</translation>
+<translation id="4048187103708861555">Jūsu <ph name="BAT_AMOUNT"/> BAT un citi Rewards dati tiks neatgriezeniski dzēsti, ja atiestatīsiet Portal Rewards. Lūdzu, pārliecinieties, ka jūsu maks ir <ph name="LINK_BEGIN"/>verificēts<ph name="LINK_END"/>, lai saglabātu jūsu BAT.</translation>
+<translation id="3548849774726860833">Ja atiestatīsiet savu Portal Rewards, jūsu Rewards dati tiks neatgriezeniski zaudēti.</translation>
 <translation id="4914597931214386232">Pieprasītie marķieru piešķīrumi</translation>
 <translation id="3494964159182650590">Balvu kopsavilkums</translation>
 <translation id="2913994227901456490">Skatīt visus [[numItems]] vienumus</translation>
@@ -523,9 +523,9 @@
 <translation id="7853202427316060426">Aktivitāte</translation>
 <translation id="7232682712743566408">Rewards atlikums</translation>
 <translation id="1910721550319506122">Sveicināti!</translation>
-<translation id="4258022280942725182">Jūsu Brave Rewards</translation>
+<translation id="4258022280942725182">Jūsu Portal Rewards</translation>
 <translation id="6727483290601442544">Skatīt informāciju</translation>
-<translation id="4206899127409458763">Izveidot savu Brave Rewards profilu</translation>
+<translation id="4206899127409458763">Izveidot savu Portal Rewards profilu</translation>
 <translation id="1988679729106502285">PIEZĪME.</translation>
 <translation id="4047340292178074200">Šis satura veidotājs šobrīd nav konfigurējis dzeramnaudas saņemšanu no jūsu Rewards depozitārā maka pakalpojuma. Jebkāda dzeramnauda, ko nosūtīsiet, paliks jūsu makā apstrādē, un jauns maksājuma mēģinājums tiks automātiski veikts 90 dienas.</translation>
 <translation id="5530734056858418442">Šis satura veidotājs vēl nav reģistrējies. Jebkura jūsu nosūtītā dzeramnauda makā paliks apstrādē un to vēlreiz automātiski mēģinās nosūtīt 90 dienas.</translation>
@@ -542,8 +542,8 @@
 <translation id="5113531205597573951">Apskatītās vietnes</translation>
 <translation id="4450893287417543264">Vairs nerādīt</translation>
 <translation id="6518133107902771759">Pārbaudīt</translation>
-<translation id="422369484771082705">Verifikācija nav obligāta. Tomēr, veicot verifikāciju, jūs varēsiet ieskaitīt savus ar Brave Balvu nopelnītos BAT tieši depozitārajā makā.</translation>
-<translation id="4354564238172327160">Kļūsti par Brave satura veidotāju!</translation>
+<translation id="422369484771082705">Verifikācija nav obligāta. Tomēr, veicot verifikāciju, jūs varēsiet ieskaitīt savus ar Portal Balvu nopelnītos BAT tieši depozitārajā makā.</translation>
+<translation id="4354564238172327160">Kļūsti par Portal satura veidotāju!</translation>
 <translation id="4639659520811817892">Apmeklē creators.brave.com un reģistrējies šodien, lai sāktu pelnīt BAT no saviem faniem un sekotājiem.</translation>
 <translation id="4816455138209470435">Brave atbalsta YouTube, Vimeo un citus!</translation>
 <translation id="3656941797339037856">Saistiet Rewards ar Gemini!</translation>
@@ -556,7 +556,7 @@
 <translation id="7840362246306242214">Uphold pieejama ASV akciju tirdzniecība</translation>
 <translation id="3345432088196080137">Ieguldiet kaut vai tikai $1 populārās akcijās un biržā tirgotos fondos, piemēram, AAPL, TSLA vai AMZN</translation>
 <translation id="3787061634640932557">Rediģēt kartes</translation>
-<translation id="2070991379950719711">Sākt izmantot Brave Rewards</translation>
+<translation id="2070991379950719711">Sākt izmantot Portal Rewards</translation>
 <translation id="5977237145327845546">Sāciet privātu video zvanu ar saviem draugiem un kolēģiem.</translation>
 <translation id="8863928195533744356">Sākt zvanu</translation>
 <translation id="3651550649176056334">Par jūsu datiem</translation>
@@ -623,9 +623,9 @@
 <translation id="824449983246282560">Kontā nav pieejamu līdzekļu. Apmeklējiet Gemini, lai tos iegādātos.</translation>
 <translation id="8624961452383848703">Es vēlos konvertēt...</translation>
 <translation id="1544192797660353713">Maks</translation>
-<translation id="616639131065447379">Laipni lūdzam Brave kripto makos!</translation>
+<translation id="616639131065447379">Laipni lūdzam Portal kripto makos!</translation>
 <translation id="1740464057879304704">Crypto Wallets ļauj jums darboties ar kriptovalūtu un saistītiem aktīviem, izmantojot Brave. Crypto Wallets atbalsta tādus Ethereum žetonus kā ETH un BAT, kā arī kolekcijas žetonus, un ļauj darboties ar Ðapps un citiem viedajiem līgumiem. Tas ir paredzēts cilvēkiem, kuri pārzina Ethereum un citas blokķēdes sistēmas vai vēlas tās apgūt.</translation>
-<translation id="4855440621031541830">Izmantojiet kripto makus tikai tad, ja piekrītat, ka pilnībā atbildat par visiem ar šī pakalpojuma izmantošanu saistītajiem riskiem un Brave Software nekādā veidā neatbild par jebkādiem zaudējumiem, tai skaitā nejaušiem vai secīgiem zaudējumiem, kas jums var rasties šī pakalpojuma lietošanas rezultātā, un tam nav nekādu saistību attiecībā uz šādiem zaudējumiem.</translation>
+<translation id="4855440621031541830">Izmantojiet kripto makus tikai tad, ja piekrītat, ka pilnībā atbildat par visiem ar šī pakalpojuma izmantošanu saistītajiem riskiem un Portal Software nekādā veidā neatbild par jebkādiem zaudējumiem, tai skaitā nejaušiem vai secīgiem zaudējumiem, kas jums var rasties šī pakalpojuma lietošanas rezultātā, un tam nav nekādu saistību attiecībā uz šādiem zaudējumiem.</translation>
 <translation id="3187473319809074178">Tie visi ir pilnībā nošķirti no</translation>
 <translation id="8327818101454798856">Ja vēlējāties atbalstīt savas iecienītākās vietnes, dodieties uz tām.</translation>
 <translation id="412480955826088549">Lejupielādē komponentu...</translation>
@@ -696,15 +696,15 @@
 <translation id="72868071984333667">Uzzināt vairāk par IPFS un konfidencialitāti</translation>
 <translation id="1886162073868201257">IPFS pakalpojuma palaišanas kļūda</translation>
 <translation id="5357895013476183089">IPFS savienojums nav izveidots</translation>
-<translation id="7662930734991751511">Nevar ielādēt IFPS resursus, izmantojot Brave vietējo IPFS mezglu</translation>
+<translation id="7662930734991751511">Nevar ielādēt IFPS resursus, izmantojot Portal vietējo IPFS mezglu</translation>
 <translation id="1141556610026845297">Neizdevās izmantot vietējo IPFS mezglu, lai ielādētu pieprasītos IPFS resursus. Noklikšķiniet uz tālāk esošās pogas “Turpināt”, lai tā vietā izmantotu publisko vārteju, kā arī turpmāk automātiski izmantotu publisko vārteju.</translation>
 <translation id="3373798179786163193">Turpināt, izmantojot publisko vārteju</translation>
 <translation id="1974060860693918893">Papildu</translation>
 <translation id="9096577886148726047">Paslēpt papildu iespējas</translation>
-<translation id="182581792765792826">Brave nevar ielādēt pieprasītos IPFS resursus vai nu tāpēc, ka vietējais mezgls netika palaists, vai tāpēc, ka šobrīd nav pieejami vienranga pieslēgumi. Ja izvēlēsieties “Turpināt”, Brave automātiski izmantos noklusējuma publisko vārteju, ja neizdosies izmantot vietējo mezglu. Šo darbību Brave iestatījumos var mainīt jebkurā laikā.</translation>
+<translation id="182581792765792826">Brave nevar ielādēt pieprasītos IPFS resursus vai nu tāpēc, ka vietējais mezgls netika palaists, vai tāpēc, ka šobrīd nav pieejami vienranga pieslēgumi. Ja izvēlēsieties “Turpināt”, Portal automātiski izmantos noklusējuma publisko vārteju, ja neizdosies izmantot vietējo mezglu. Šo darbību Portal iestatījumos var mainīt jebkurā laikā.</translation>
 <translation id="8026038288183400906">IPFS preference</translation>
 <translation id="2058855456574089690">Iestatiet savu IPFS preferenci</translation>
-<translation id="4780526507945807546">Izmantot Brave vietējo IPFS mezglu</translation>
+<translation id="4780526507945807546">Izmantot Portal vietējo IPFS mezglu</translation>
 <translation id="8148464361648742409">Izmantot publisko vārteju</translation>
 <translation id="5123478056123923857">IPFS (InterPlanetary failu sistēma) ir publiskais tīkls vienādranga datu glabāšanai un piegādei. Šim protokolam salīdzinājumā ar HTTP(S) ir atšķirīgi konfidencialitātes apsvērumi.</translation>
 <translation id="1216911189668016151">Jūsu dators ir pieslēgts publiskam tīklam, bet jūsu IP adrese un pieprasītais vai piedāvātais saturs var tikt atklāti. Saturs, kuru pieprasāt IPFS, pirms nodošanas jums tiek pārbaudīts. Tīkla pieprasījumi nedrīkst izmantot pārlūkprogrammas starpniekservera un DNS iestatījumus.</translation>
@@ -717,7 +717,7 @@
 <translation id="1675751799495331928">Esam pārsnieguši mēģinājumu skaitu, vēlāk mēģiniet vēlreiz.</translation>
 <translation id="4499666752625407848">Atjaunināšanas laikā radās kļūda.</translation>
 <translation id="62991515067726424">Šis saturs tika ielādēts, izmantojot IPFS protokolu</translation>
-<translation id="7263366446813126341">InterPlanetary File System (IPFS) ir publisks tīkls vienādranga datu uzglabāšanai un piegādei. Jūs jebkurā laikā varat uzzināt vairāk par Brave integrāciju vai konfigurēt savus IPFS iestatījumus.</translation>
+<translation id="7263366446813126341">InterPlanetary File System (IPFS) ir publisks tīkls vienādranga datu uzglabāšanai un piegādei. Jūs jebkurā laikā varat uzzināt vairāk par Portal integrāciju vai konfigurēt savus IPFS iestatījumus.</translation>
 <translation id="3175567740517780285">IPFS iestatījumi</translation>
 <translation id="8914505352873092008">Doties uz IPFS iestatījumu lapu</translation>
 <translation id="3465468510001693544">IPFS diagnostika</translation>
@@ -765,11 +765,11 @@
 <translation id="8334559352278209120">Dod</translation>
 <translation id="4782365133987903299">Jums ir <ph name="DAYS"/>, lai pieprasītu</translation>
 <translation id="3903419925307046908">Pelnīt žetonus un atdot atpakaļ</translation>
-<translation id="244362569344671266">Nopelniet žetonus, apskatot Brave privātās reklāmas, un automātiski atbalstiet satura veidotājus.</translation>
+<translation id="244362569344671266">Nopelniet žetonus, apskatot Portal privātās reklāmas, un automātiski atbalstiet satura veidotājus.</translation>
 <translation id="5095252080770652994">Progress</translation>
 <translation id="6278643716658443228">Rewards iestatījumi</translation>
 <translation id="2862978891748913252">Atlasīt valsti</translation>
-<translation id="3717922248131893262">Lai turpinātu izmantot Brave Rewards, atlasiet savu valsti, lai varam jums parādīt pareizās opcijas un reklāmas jūsu reģionam. <ph name="LINK_BEGIN"/>Privātuma politika<ph name="LINK_END"/></translation>
+<translation id="3717922248131893262">Lai turpinātu izmantot Portal Rewards, atlasiet savu valsti, lai varam jums parādīt pareizās opcijas un reklāmas jūsu reģionam. <ph name="LINK_BEGIN"/>Privātuma politika<ph name="LINK_END"/></translation>
 <translation id="6777169449483742979">Jūs pelnāt žetonus par šī sponsorētā attēla skatīšanu.</translation>
 <translation id="5486114327664215175">Nopelniet žetonus, apskatot šo attēlu, un atbalstiet satura veidotājus.</translation>
 <translation id="2940863921746574646">Žetonu atlikums</translation>
@@ -795,7 +795,7 @@
 <translation id="7210234701206674260">Brave dāvanās ir radusies kļūda. Lūdzu, mēģiniet vēlreiz vēlāk.</translation>
 <translation id="579702532610384533">Atkārtoti izveidot savienojumu</translation>
 <translation id="7550470870580166294">Nepietiek līdzekļu</translation>
-<translation id="2775064702681588061">Veiciet iemaksu savā Brave balvu kontā.</translation>
+<translation id="2775064702681588061">Veiciet iemaksu savā Portal balvu kontā.</translation>
 <translation id="3358400027937159351">Jūs esat ziedojis <ph name="AMOUNT"/>.</translation>
 <translation id="1619753851206150396">Jūs esat izrakstījies</translation>
 <translation id="5142174225142816130">Tā var notikt, lai saglabātu jūsu konta drošību. Noklikšķiniet tālāk, lai tagad atkārtoti izveidotu savienojumu.</translation>
@@ -809,20 +809,20 @@
 <translation id="7855913851082138664">Izstrādātājs <ph name="PUBLISHER_NAME"/> nesen verificēja.</translation>
 <translation id="6194996600967335044">Nepietiek līdzekļu</translation>
 <translation id="2795080275268642520">Jums ir nesamaksātas dzeramnaudas nepietiekamu līdzekļu dēļ</translation>
-<translation id="2529827670795983639">Šķiet, ka neizdodas, Brave Ads darbība tiks apturēta. Sazinieties ar mums, ja jums nepieciešama palīdzība ar Captcha uzdevumu.</translation>
+<translation id="2529827670795983639">Šķiet, ka neizdodas, Portal Ads darbība tiks apturēta. Sazinieties ar mums, ja jums nepieciešama palīdzība ar Captcha uzdevumu.</translation>
 <translation id="261607053214862521">Pārsniegts maksimālais mēģinājumu skaits</translation>
 <translation id="2323171459178104277">Atrisināts!</translation>
-<translation id="1512837998731269583">Reklāmas un peļņas gūšana tiks atsākta. Paldies, ka palīdzat mums aizsargāt Brave Rewards un uz konfidencialitāti balstītās reklāmas.</translation>
+<translation id="1512837998731269583">Reklāmas un peļņas gūšana tiks atsākta. Paldies, ka palīdzat mums aizsargāt Portal Rewards un uz konfidencialitāti balstītās reklāmas.</translation>
 <translation id="3247549836099021862">Sazinieties ar atbalsta dienestu</translation>
 <translation id="5234764350956374838">Noraidīt</translation>
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>Izejiet ātru tūri<ph name="TOUR_LINK_END"/> vai <ph name="LEARN_LINK_BEGIN"/>uzziniet vairāk<ph name="LEARN_LINK_END"/>, lai iegūtu papildinformāciju.</translation>
 <translation id="7465614181960492526">Pelnīt žetonus &amp; Atdot atpakaļ</translation>
 <translation id="2731539192954672606">Nopelniet žetonus, apskatot konfidencialitāti cienošas reklāmas, un automātiski atbalstiet savas iecienītākās vietnes un veidotājus.</translation>
 <translation id="5425006356459378415">Brave Rewards nav pieejams</translation>
-<translation id="909076461795862330">Iestatot Brave Rewards, diemžēl radās kļūda. Lūdzu, mēģiniet vēlreiz.</translation>
+<translation id="909076461795862330">Iestatot Portal Rewards, diemžēl radās kļūda. Lūdzu, mēģiniet vēlreiz.</translation>
 <translation id="3180990265682133881">Iestatot valsti, diemžēl radās kļūda. Lūdzu, mēģiniet vēlreiz.</translation>
-<translation id="5931798071481566121">Jūsu reģionā pašlaik ir atspējota jauna reģistrācija Brave Rewards. Taču jūs vienmēr varat mēģināt vēlreiz vēlāk. <ph name="LINK_BEGIN"/>Uzzināt vairāk<ph name="LINK_END"/></translation>
-<translation id="8764860730661377310">Jūsu Brave Rewards reģions ir iestatīts: <ph name="COUNTRY"/>.</translation>
+<translation id="5931798071481566121">Jūsu reģionā pašlaik ir atspējota jauna reģistrācija Portal Rewards. Taču jūs vienmēr varat mēģināt vēlreiz vēlāk. <ph name="LINK_BEGIN"/>Uzzināt vairāk<ph name="LINK_END"/></translation>
+<translation id="8764860730661377310">Jūsu Portal Rewards reģions ir iestatīts: <ph name="COUNTRY"/>.</translation>
 <translation id="7068416025603720599">Atlasiet valsti, lai varam jums parādīt pareizās opcijas un reklāmas jūsu reģionam. <ph name="LINK_BEGIN"/>Privātuma politika<ph name="LINK_END"/></translation>
 <translation id="1275213816424141989">Varbūt vēlāk</translation>
 <translation id="5187052478998910855">Vai vēlaties atsvaidzināt zināšanas par balvām?</translation>
@@ -838,12 +838,12 @@
 <translation id="185034574799484512">Iziesim ātru tūri</translation>
 <translation id="8281886186245836920">Izlaist</translation>
 <translation id="1377600615067678409">Pagaidām izlaist</translation>
-<translation id="7930505144430343145">Laipni lūdzam pakalpojumā Brave Rewards!</translation>
+<translation id="7930505144430343145">Laipni lūdzam pakalpojumā Portal Rewards!</translation>
 <translation id="3477340970981564961">Brave privātās reklāmas atalgo jūs ar žetoniem, atbalstot satura veidotājus, atšķirībā no parastajām reklāmām, vienlaikus ievērojot jūsu personiskās informācijas konfidencialitāti.</translation>
 <translation id="6973095375773523904">Kur tiek rādītas reklāmas?</translation>
 <translation id="7556325460112047619">Brave privātās reklāmas tiks rādītas kā parasts paziņojums. To, cik bieži redzat šīs reklāmas, jūs kontrolējat iestatījumos.</translation>
 <translation id="6897083627729802351">Kad jūs saņemat balvas</translation>
-<translation id="310863932297733723">Jūsu nopelnītie žetoni par Brave privātajām reklāmām visā šī mēneša laikā tiks saņemti nākamā mēneša 5. datumā.</translation>
+<translation id="310863932297733723">Jūsu nopelnītie žetoni par Portal privātajām reklāmām visā šī mēneša laikā tiks saņemti nākamā mēneša 5. datumā.</translation>
 <translation id="7712287524451429139">Vienkārša atdošana</translation>
 <translation id="105037569026952831">Veidotāji jūsu žetonu ziedojumus saņem automātiski, pamatojoties uz jūsu iesaistes līmeņiem, kurus mēs mērām kā “Attention”.</translation>
 <translation id="5323267338679539010">Pateicieties ar dzeramnaudu</translation>
@@ -853,15 +853,15 @@
 <translation id="1402530520078693620">Visbeidzot izveidosim jums pamata iestatījumus</translation>
 <translation id="3494356595346329740">Vēlāk varēsiet to mainīt.</translation>
 <translation id="827315274423079662">Hei, jūs esat gatavs!</translation>
-<translation id="8268038362451312235">Izmantojot Brave Rewards, jūs palīdzat tīmekli padarīt par labāku vietu ikvienam. Tas ir lieliski!</translation>
-<translation id="2318949593486441832">Lai izņemtu BAT, ko jūs pelnāt no reklāmu skatīšanās, jums jāverificē Brave Rewards.</translation>
+<translation id="8268038362451312235">Izmantojot Portal Rewards, jūs palīdzat tīmekli padarīt par labāku vietu ikvienam. Tas ir lieliski!</translation>
+<translation id="2318949593486441832">Lai izņemtu BAT, ko jūs pelnāt no reklāmu skatīšanās, jums jāverificē Portal Rewards.</translation>
 <translation id="9168436347345867845">Izdarīt to vēlāk</translation>
-<translation id="7193761697942491145">Verificēt Brave Rewards</translation>
+<translation id="7193761697942491145">Verificēt Portal Rewards</translation>
 <translation id="6609621505400013054">bitFlyer maks ir pakalpojums, ko pārvalda bitFlyer, Inc.</translation>
-<translation id="4361456403643555676">Pēc Brave Rewards verifikācijas un savienošanas ar bitFlyer kontu jūs varēsit vienkāršāk uzglabāt un pārvaldīt žetonus, izmantojot Brave Rewards</translation>
-<translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/> par Brave pārlūka saistīšanu ar bitFlyer kontu.</translation>
-<translation id="1015443539415537847">Diemžēl Brave balvas nav pieejamas</translation>
-<translation id="5007776270364097327">Izskatās, ka tavā atrašanās vietā Brave balvas diemžēl nav pieejamas.</translation>
+<translation id="4361456403643555676">Pēc Portal Rewards verifikācijas un savienošanas ar bitFlyer kontu jūs varēsit vienkāršāk uzglabāt un pārvaldīt žetonus, izmantojot Portal Rewards</translation>
+<translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Uzziniet vairāk<ph name="LINK_END"/> par Portal pārlūka saistīšanu ar bitFlyer kontu.</translation>
+<translation id="1015443539415537847">Diemžēl Portal balvas nav pieejamas</translation>
+<translation id="5007776270364097327">Izskatās, ka tavā atrašanās vietā Portal balvas diemžēl nav pieejamas.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Uzzināt vairāk<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">Neraizējies.</translation>
 <translation id="5027616819996705541">Tu joprojām vari pārlūkot privāti!</translation>
@@ -883,7 +883,7 @@
 <translation id="2326876601333401685">Šī RPC metode netiek atbalstīta.</translation>
 <translation id="1128992132632883337">Radās atbildes analīzes kļūda</translation>
 <translation id="5382339341735118861">Radās vispārīga pieprasījuma apstrādes kļūda</translation>
-<translation id="1680597601664421644">Importētā mnemonika Brave makam nav derīga</translation>
+<translation id="1680597601664421644">Importētā mnemonika Portal makam nav derīga</translation>
 <translation id="4641919696349069826">Pieprasījums jau tiek apstrādāts</translation>
 <translation id="872806943696014633">Trūkst darījuma datu.</translation>
 <translation id="4805410229033541409">“from” nav pilnvarots sūtīt darījumus.</translation>
@@ -976,7 +976,7 @@
 <translation id="8712637175834984815">Sapratu!</translation>
 <translation id="2704606927547763573">Nokopēts</translation>
 <translation id="6042308850641462728">Vairāk</translation>
-<translation id="768236965975208017">Droši. Daudzķēde. Un tik viegli lietojams. Jūsu Brave Wallet ir tikai dažu klikšķu attālumā</translation>
+<translation id="768236965975208017">Droši. Daudzķēde. Un tik viegli lietojams. Jūsu Portal Wallet ir tikai dažu klikšķu attālumā</translation>
 <translation id="3157931365184549694">Atjaunot</translation>
 <translation id="2484275747844666540">Izveidot jaunu maku</translation>
 <translation id="3662348701117072366">Importēt esošo maku</translation>
@@ -1011,18 +1011,18 @@
 <translation id="1018806299114415224">Dublēt tagad</translation>
 <translation id="1400709719911593089">Brave maks nav iestatīts kā noklusējuma maks, un tas nereaģēs uz web3 DApp. Dodieties uz iestatījumiem, lai mainītu noklusējuma maku.</translation>
 <translation id="4362717653795263052">Atjaunojiet primāros kriptovalūtas kontus</translation>
-<translation id="3038077262567136741">Ievadiet atkopšanas frāzi, lai atjaunotu Brave maka kriptovalūtas kontu.</translation>
+<translation id="3038077262567136741">Ievadiet atkopšanas frāzi, lai atjaunotu Portal maka kriptovalūtas kontu.</translation>
 <translation id="955918646509748368">Ievadītā atkopšanas frāze nav derīga.</translation>
 <translation id="8107437138787377150">Ielīmējiet atkopšanas frāzi no starpliktuves.</translation>
 <translation id="4811736040444856406">Rādīt atkopšanas frāzi</translation>
-<translation id="4359319875297001084">Vai importēt no mantotajiem Brave kriptovalūtas makiem?</translation>
+<translation id="4359319875297001084">Vai importēt no mantotajiem Portal kriptovalūtas makiem?</translation>
 <translation id="3331452756822160641">Jaunā parole</translation>
 <translation id="8624315169751085215">Kopēt starpliktuvē</translation>
 <translation id="7885157704277298658">Nokopēts!</translation>
 <translation id="6346952829206698721">Ielīmēt no starpliktuves</translation>
 <translation id="1121335910737476837">Primārie kriptovalūtas konti</translation>
 <translation id="6969147029062037757">Importēti konti</translation>
-<translation id="4057718162494343222">Jūs varat izveidot primāros kontus Brave makā, ko var kopēt vai atjaunot ar jūsu atkopšanas frāzi. Lai uzzinātu vairāk par kontu veidiem, apmeklējiet palīdzības sadaļu par kontiem.</translation>
+<translation id="4057718162494343222">Jūs varat izveidot primāros kontus Portal makā, ko var kopēt vai atjaunot ar jūsu atkopšanas frāzi. Lai uzzinātu vairāk par kontu veidiem, apmeklējiet palīdzības sadaļu par kontiem.</translation>
 <translation id="1011614786846182272">Šos kontus var izmantot ar tīmekļa 3 DApp, un tos var parādīt jūsu portfelī. Tomēr ņemiet vērā, ka sekundāros kontus nevar atjaunot, izmantojot atkopšanas frāzi no primārā dublējuma konta.</translation>
 <translation id="1940465339426637378">Aktīvi</translation>
 <translation id="2236507293802791911">Redzamie līdzekļi</translation>
@@ -1050,7 +1050,7 @@
 <translation id="6892232036314454524">Šī kļūda var rasties, ja Ledger ierīcē ir atvērta nepareiza lietotne.</translation>
 <translation id="6598291715079540080">Trezor</translation>
 <translation id="5605670050355397069">Ledger</translation>
-<translation id="4247752006222818397">Piešķiriet piekļuvi Brave savai Ledger ierīcei.</translation>
+<translation id="4247752006222818397">Piešķiriet piekļuvi Portal savai Ledger ierīcei.</translation>
 <translation id="4378551569595875038">Notiek savienojuma izveide...</translation>
 <translation id="1943188256166395881">Pievienojiet atzīmētos kontus.</translation>
 <translation id="8554010658308662631">Ielādēt vairāk</translation>
@@ -1110,7 +1110,7 @@
 <translation id="3352959425838279177">Saņemiet Ether no plūsmas šim tīklam <ph name="SELECTED_NETWORK"/></translation>
 <translation id="6449626816252815844">Atlasiet pirkuma metodi</translation>
 <translation id="8009571545960303544">Nepieciešams jūsu paraksts</translation>
-<translation id="5294062982587710720">Ņemiet vērā, ka Brave nevar pārbaudīt, kas notiks parakstīšanas gadījumā. Paraksts var atļaut gandrīz jebkādu darbību jūsu kontā vai jūsu vārdā, ieskaitot (bet ne tikai) pilnīgu jūsu konta un kriptovalūtu līdzekļu kontroles nodošanu vietnei, kura iesniedz pieprasījumu. Parakstieties vienīgi tad, ja esat pārliecināts, ka vēlaties veikt šo darbību, un uzticaties pieprasītāja vietnei.</translation>
+<translation id="5294062982587710720">Ņemiet vērā, ka Portal nevar pārbaudīt, kas notiks parakstīšanas gadījumā. Paraksts var atļaut gandrīz jebkādu darbību jūsu kontā vai jūsu vārdā, ieskaitot (bet ne tikai) pilnīgu jūsu konta un kriptovalūtu līdzekļu kontroles nodošanu vietnei, kura iesniedz pieprasījumu. Parakstieties vienīgi tad, ja esat pārliecināts, ka vēlaties veikt šo darbību, un uzticaties pieprasītāja vietnei.</translation>
 <translation id="3474375934783434676">Parakstieties uz savu atbildību</translation>
 <translation id="5488357322146334497">Ziņojums</translation>
 <translation id="3586752056660754651">Parakstīt</translation>
@@ -1131,7 +1131,7 @@
 <translation id="7073918978411974168">Piedāvātais uzkrājums</translation>
 <translation id="9019403281000653275">Neierobežots apstiprinājums pieprasīts</translation>
 <translation id="4717431746210146708">Vai atļaut šai vietnei pievienot tīklu?</translation>
-<translation id="2521480044079508357">Tas ļaus šo tīklu izmantot Brave maka ietvaros.</translation>
+<translation id="2521480044079508357">Tas ļaus šo tīklu izmantot Portal maka ietvaros.</translation>
 <translation id="1982257600591932657">Tīkla nosaukums</translation>
 <translation id="5052727830821470769">Tīkla URL</translation>
 <translation id="427875364838253580">Skatīt visu informāciju</translation>
@@ -1168,10 +1168,10 @@
 <translation id="2240831799756994975">BAITI</translation>
 <translation id="4874303883488468190">Atlasīt kontu(-us)</translation>
 <translation id="2018472018751735678">Skatiet atļauto kontu adreses (obligāti)</translation>
-<translation id="7029403458170657879">Izveidojiet savienojumu ar Brave maku</translation>
+<translation id="7029403458170657879">Izveidojiet savienojumu ar Portal maku</translation>
 <translation id="2770851145415891830">Konstatēti esoši kriptovalūtas maki</translation>
-<translation id="2237759620789871865">Ja jūs vēlaties izlaist importēšanu un saglabāt iepriekšējo kriptovalūtas maciņu, atveriet Brave pārlūka <ph name="LINK_BEFORE"/>Iestatījumus<ph name="LINK_AFTER"/> un mainiet noklusējumu uz kriptovalūtas maciņiem. Jūs varat arī importēt, izmantojot jauno Brave maciņu un mainīt to jebkurā laikā.</translation>
-<translation id="5590175005414413980">Ievadiet esošo kriptovalūtas maku paroli, lai importētu to Brave makā. Izbaudiet ātrāku un drošāku veidu, kā pārvaldīt kriptovalūtu līdzekļus un mijiedarboties ar tīmekļa 3 DApps.</translation>
+<translation id="2237759620789871865">Ja jūs vēlaties izlaist importēšanu un saglabāt iepriekšējo kriptovalūtas maciņu, atveriet Portal pārlūka <ph name="LINK_BEFORE"/>Iestatījumus<ph name="LINK_AFTER"/> un mainiet noklusējumu uz kriptovalūtas maciņiem. Jūs varat arī importēt, izmantojot jauno Portal maciņu un mainīt to jebkurā laikā.</translation>
+<translation id="5590175005414413980">Ievadiet esošo kriptovalūtas maku paroli, lai importētu to Portal makā. Izbaudiet ātrāku un drošāku veidu, kā pārvaldīt kriptovalūtu līdzekļus un mijiedarboties ar tīmekļa 3 DApps.</translation>
 <translation id="880619123281809987">Ievadiet Kripto maku paroli</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> savienots</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> atvienots</translation>
@@ -1392,7 +1392,7 @@
 <translation id="8060029310790625334">Palīdzības dienests</translation>
 <translation id="2095142195578664632">Vajag palīdzību? Skatīt</translation>
 <translation id="3253669416991680932">Šis aparatūras maks neatbalsta šo darbību.</translation>
-<translation id="7457027586454688423">Ievadiet savu Brave maka paroli</translation>
+<translation id="7457027586454688423">Ievadiet savu Portal maka paroli</translation>
 <translation id="7553242001898162573">Ievadiet savu paroli</translation>
 <translation id="2873714185189940594">Vai atvērt Rainbow Bridge lietotni?</translation>
 <translation id="2069777099181262239">Rainbow Bridge ir neatkarīgs pakalpojums, kas palīdz savienot aktīvus starp dažādiem tīkliem un izmantot jūsu kriptovalūtu citos tīklos un DApp ekosistēmās. Aktīvu savienošana tīklos rada atsevišķus riskus.</translation>
@@ -1400,7 +1400,7 @@
 <translation id="3890567288132019108">Uzzināt vairāk par risku mazināšanu Rainbow Bridge lietotnē</translation>
 <translation id="1792917191129448067">Atvērt Rainbow Bridge lietotni</translation>
 <translation id="1522775706527775647">Tilts uz Aurora</translation>
-<translation id="4903322403594141291">Uzziniet vairāk par Brave maku</translation>
+<translation id="4903322403594141291">Uzziniet vairāk par Portal maku</translation>
 <translation id="3875185448438395303">Vismaz:</translation>
 <translation id="2029465635925899949">8 rakstzīmes</translation>
 <translation id="6697810017029555732">Sakrīt!</translation>
@@ -1429,8 +1429,8 @@
 <translation id="2781276194026093899">nd</translation>
 <translation id="7992766987062040279">rd</translation>
 <translation id="2295726992010694229">th</translation>
-<translation id="8241405611628876973">Apsveicam! Jūsu Brave maks ir gatavs lietošanai!</translation>
-<translation id="6828327990705355767">Lai piekļūtu savam makam, vienkārši noklikšķiniet uz maka ikonas jebkura Brave pārlūkprogrammas loga augšējā labajā stūrī.</translation>
+<translation id="8241405611628876973">Apsveicam! Jūsu Portal maks ir gatavs lietošanai!</translation>
+<translation id="6828327990705355767">Lai piekļūtu savam makam, vienkārši noklikšķiniet uz maka ikonas jebkura Portal pārlūkprogrammas loga augšējā labajā stūrī.</translation>
 <translation id="396152018598329740">Kā lietot kriptonaudas maku?</translation>
 <translation id="7512061585041489067">Kurš ir labākais kriptovalūtas maks?</translation>
 <translation id="1342755158522323177">Kas ir kriptogrāfijas pārlūkprogramma?</translation>
@@ -1439,12 +1439,12 @@
 <translation id="7328255859839881981">Kas ir DApps?</translation>
 <translation id="3852489285890032403">Kas ir tīmeklis 3?</translation>
 <translation id="5448233694500869445">Mēs jūsu pārlūkprogrammā konstatējām paplašinājumu MetaMask</translation>
-<translation id="8436080536329710282">Ievadiet savu MetaMask maka paroli, lai viegli importētu to pakalpojumā Brave maks.</translation>
+<translation id="8436080536329710282">Ievadiet savu MetaMask maka paroli, lai viegli importētu to pakalpojumā Portal maks.</translation>
 <translation id="7543512765962444927">Izveidot savienojumu ar esošo maku</translation>
 <translation id="3551682252653406110">Lai izveidotu savienojumu ar esošu maku, iespējams, būs jāievada atkopšanas frāze. Šobrīd mēs atbalstām atjaunošanu/importēšanu no Ethereum un Solana makiem.</translation>
 <translation id="346929827081904572">Atjaunot no sākotnējās frāzes</translation>
 <translation id="5645597512426471834">12–24 vārdi</translation>
-<translation id="8158505311297755780">Ierakstiet savu Brave maka 12–24 vārdu atkopšanas frāzi.</translation>
+<translation id="8158505311297755780">Ierakstiet savu Portal maka 12–24 vārdu atkopšanas frāzi.</translation>
 <translation id="5419707890586509000">Importēt no MetaMask</translation>
 <translation id="2265945811107390939">Izmantojiet savu MetaMask paroli, lai importētu sākotnējo frāzi</translation>
 <translation id="7060680423657442298">Es izveidošu jaunu maku</translation>
@@ -1454,14 +1454,14 @@
 <translation id="6260144012548445299">Uzzināt vairāk par manu jauno maku</translation>
 <translation id="8746910870914151528">Juridiskas lietas</translation>
 <translation id="5148123176978018397">Lūdzu, apstipriniet tālāk norādīto.</translation>
-<translation id="6088314935678153800">Es saprotu, ka tas ir mans maks un es esmu atbildīgs par jebkādiem saistītajiem līdzekļiem, aktīviem vai kontiem, kā arī par atbilstošu darbību veikšanu, lai aizsargātu un dublētu savu maku. Es saprotu, ka Brave NEVAR piekļūt manam makam vai atsaukt darījumus manā vārdā un ka mana atkopšanas frāze ir VIENĪGAIS veids, kā atgūt piekļuvi nozaudētas paroles, nozagtas ierīces vai līdzīgu apstākļu gadījumā.</translation>
+<translation id="6088314935678153800">Es saprotu, ka tas ir mans maks un es esmu atbildīgs par jebkādiem saistītajiem līdzekļiem, aktīviem vai kontiem, kā arī par atbilstošu darbību veikšanu, lai aizsargātu un dublētu savu maku. Es saprotu, ka Portal NEVAR piekļūt manam makam vai atsaukt darījumus manā vārdā un ka mana atkopšanas frāze ir VIENĪGAIS veids, kā atgūt piekļuvi nozaudētas paroles, nozagtas ierīces vai līdzīgu apstākļu gadījumā.</translation>
 <translation id="7781090633800450517">Esmu izlasījis un piekrītu <ph name="LINK_BEFORE"/>lietošanas noteikumiem<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">Pirkt kripto</translation>
 <translation id="3887541341068007345">Notiek maka paplašinājumu pārbaude...</translation>
-<translation id="3567994771568272606">Importēt no mantotajiem Brave kriptonauda makiem</translation>
+<translation id="3567994771568272606">Importēt no mantotajiem Portal kriptonauda makiem</translation>
 <translation id="8407091560429310499">Atlasīt aktīvu</translation>
 <translation id="756590380936155533">Lai pabeigtu pirkumu <ph name="ASSET_TICKER"/> vērtībā, atlasiet kādu no mūsu partneriem</translation>
-<translation id="7880860489474966219">Pēc pabeigšanas jūsu līdzekļi tiks pārskaitīti uz jūsu Brave maku</translation>
+<translation id="7880860489474966219">Pēc pabeigšanas jūsu līdzekļi tiks pārskaitīti uz jūsu Portal maku</translation>
 <translation id="6182661078713714878">Noguldīt kriptovalūtu</translation>
 <translation id="3683305208314702347">Iemaksājiet <ph name="VALUE"/></translation>
 <translation id="5768739294929936862">Noguldiet Solana vai SPL žetonus</translation>
@@ -1508,7 +1508,7 @@
 <translation id="3664551680108236020">Pēc pirmā darījuma varēsi redzēt to šeit.</translation>
 <translation id="3033638954295674319">Kaut kas nogājis greizi, iegūstot NFT informāciju. Lūdzu, mēģini vēlreiz vēlāk.</translation>
 <translation id="2540568096903252632">Ievadi paroli, lai turpinātu</translation>
-<translation id="3356580495013324916">Ievadi Brave Wallet paroli, lai sāktu dublēt maku.</translation>
+<translation id="3356580495013324916">Ievadi Portal Wallet paroli, lai sāktu dublēt maku.</translation>
 <translation id="3155170474926428993">Tor palaidējs</translation>
 <translation id="3745016858329272300">Vispārīga informācija</translation>
 <translation id="4045404575593562245">Tor kontroles notikumi</translation>
@@ -1517,10 +1517,10 @@
 <translation id="6951743416068151209">Tor starpniekservera URL</translation>
 <translation id="1671503397662036257">Tor savienojuma statuss</translation>
 <translation id="6024292492796847324">Tor inicializēšanas progress</translation>
-<translation id="8300751939969131609">Ieslēdziet Brave ziņas un nekad nepalaidiet neko garām.</translation>
-<translation id="7758665172236842395">Seko saviem mīļākajiem avotiem vienā plūsmā. Vienkārši atver cilni Brave pārlūkā, ritini lejup un... paskat!</translation>
+<translation id="8300751939969131609">Ieslēdziet Portal ziņas un nekad nepalaidiet neko garām.</translation>
+<translation id="7758665172236842395">Seko saviem mīļākajiem avotiem vienā plūsmā. Vienkārši atver cilni Portal pārlūkā, ritini lejup un... paskat!</translation>
 <translation id="2376542729617592331">Brave News tiek atbalstīts no privātu, anonimizētu reklāmu ieņēmumiem. <ph name="LINK_START"/>Uzzināt vairāk<ph name="LINK_END"/>.</translation>
-<translation id="1765217911817124376">Ieslēgt Brave News</translation>
+<translation id="1765217911817124376">Ieslēgt Portal News</translation>
 <translation id="780301667611848630">Nē, paldies</translation>
 <translation id="6265592479622441247">Atgriezties <ph name="BEGIN_BOLD"/>Informācijas panelī<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">Meklē vietni, tēmu vai RSS plūsmu</translation>
@@ -1566,13 +1566,13 @@
 <translation id="1459693405370120464">Laikapstākļi</translation>
 <translation id="8366057325711477500">Pasaules ziņas</translation>
 <translation id="6303294677342628402">Aizsargi</translation>
-<translation id="8458987127502506209">Iespējot Brave aizsargus</translation>
+<translation id="8458987127502506209">Iespējot Portal aizsargus</translation>
 <translation id="7509914170164691086">Šo funkciju aizsargi ir <ph name="LINK_BEFORE"/>AKTIVIZĒTI<ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">Šo funkciju aizsargi ir <ph name="LINK_BEFORE"/>DEAKTIVIZĒTI<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">Ja šķiet, ka šī vietne ir bojāta, izmēģiniet noņemt vairogus.
- <ph name="LINK_BEFORE"/>Piezīme: tas var samazināt Brave privātuma aizsardzību.<ph name="LINK_AFTER"/></translation>
+ <ph name="LINK_BEFORE"/>Piezīme: tas var samazināt Portal privātuma aizsardzību.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Izsekotāji, reklāmas un vairāk bloķētu <ph name="LINK_BEFORE"/> Uzzināt vairāk <ph name="LINK_AFTER"/></translation>
-<translation id="7604553853176833536">Nav aizsargāts ar Brave aizsargiem <ph name="LINK_BEFORE"/> Uzzināt vairāk<ph name="LINK_AFTER"/></translation>
+<translation id="7604553853176833536">Nav aizsargāts ar Portal aizsargiem <ph name="LINK_BEFORE"/> Uzzināt vairāk<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Papildu vadīklas</translation>
 <translation id="5799940914270080805">Šo iestatījumu maiņa var radīt vietņu darbības traucējumus.</translation>
 <translation id="9204041448536398473">Globālie aizsarga iestatījumi</translation>
@@ -1596,7 +1596,7 @@
 <translation id="8034285923190068220">Atļaut pirkstu nospiedumu ņemšanu</translation>
 <translation id="1992750560347846445">Ziņot par vietni</translation>
 <translation id="2387532482048804818">Ziņojiet mums, ja vietne ar aktivizētiem aizsargiem nedarbojas pareizi.</translation>
-<translation id="3795015906457257780">Jūsu skatāt šo vietni, neizmantojot Brave privātuma aizsardzību.</translation>
+<translation id="3795015906457257780">Jūsu skatāt šo vietni, neizmantojot Portal privātuma aizsardzību.</translation>
 <translation id="7194012750329511146">Brave aizsargi
 Bloķēti <ph name="NUMBER"/> izsekotāji, reklāmas un cits</translation>
 <translation id="4292121526390005808">Bloķētie skripti</translation>
@@ -1604,21 +1604,21 @@ Bloķēti <ph name="NUMBER"/> izsekotāji, reklāmas un cits</translation>
 <translation id="4986297793092101884">Brave jau bloķē trešo personu sīkfailus. Mēs varam bloķēt arī paziņojumus par piekrišanu sīkfailiem.</translation>
 <translation id="535688588637568715">Jā, bloķēt paziņojumus par piekrišanu sīkfailiem</translation>
 <translation id="6294662480095808915">Privātums. Pēc noklusējuma.</translation>
-<translation id="4366423156486478559">Brave aizsardzība katrā klikšķī. Vienkārši iestati Brave kā savu noklusējuma pārlūku un sērfo. Privāti.</translation>
+<translation id="4366423156486478559">Brave aizsardzība katrā klikšķī. Vienkārši iestati Portal kā savu noklusējuma pārlūku un sērfo. Privāti.</translation>
 <translation id="3830912418080848377">Importē iestatījumus</translation>
 <translation id="6378406588483694938">Viegli importē grāmatzīmes, paplašinājumus un pat saglabātās paroles no vecā pārlūka.</translation>
 <translation id="2092825239819166928">Izvēlies importējamo profilu</translation>
 <translation id="4763127492635705340">Izraudzītajā pārlūkā ir vairāki profili. Izvēlies profilu(-s), no kura(-iem) vēlies importēt.</translation>
 <translation id="880174232178865598">Importēt profilus</translation>
 <translation id="2453860139492968684">Pabeigt</translation>
-<translation id="2273851479262317744">Iestatīt Brave kā noklusējuma pārlūku</translation>
+<translation id="2273851479262317744">Iestatīt Portal kā noklusējuma pārlūku</translation>
 <translation id="5037676449506322593">Atlasīt visus</translation>
 <translation id="8330804319517911603">Palīdzi uzlabot Brave</translation>
 <translation id="2867964979837593892">Produkta pieslīpēšana. Tava privātuma aizsardzība. Katru dienu.</translation>
-<translation id="7661940959332108190">Sūtīt diagnostiskos ziņojumus, ja Brave avarē vai sastingst.</translation>
-<translation id="6358373266071757311">Dalies anonīmos, privātos ieskatos par produktu. Tas mums palīdz saprast, kuras Brave funkcijas tiek lietotas visbiežāk.</translation>
+<translation id="7661940959332108190">Sūtīt diagnostiskos ziņojumus, ja Portal avarē vai sastingst.</translation>
+<translation id="6358373266071757311">Dalies anonīmos, privātos ieskatos par produktu. Tas mums palīdz saprast, kuras Portal funkcijas tiek lietotas visbiežāk.</translation>
 <translation id="7415454883318062233">Iestatīšana pabeigta</translation>
-<translation id="3141206739023333979">Maini šīs izvēles jebkurā laikā savā Brave zem <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+<translation id="3141206739023333979">Maini šīs izvēles jebkurā laikā savā Portal zem <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
 <translation id="8321985064212130832">Iepazīsties ar visu mūsu <ph name="LINK_BEFORE"/>Privātuma politiku<ph name="LINK_AFTER"/></translation>
 <translation id="7821773512278295352">Brave ugunsmūris + VPN: pieslēgts</translation>
 <translation id="6019088868713395120">Brave ugunsmūris + VPN: atslēgts</translation>
@@ -1644,7 +1644,7 @@ Bloķēti <ph name="NUMBER"/> izsekotāji, reklāmas un cits</translation>
 <translation id="8463313539532697053">Uzgaidiet mirkli, kamēr notiek ielāde…</translation>
 <translation id="4317307602527599178">Nebija iespējams pārbaudīt jūsu pirkuma statusu. Tas, iespējams, saistīts ar tīkla problēmu.</translation>
 <translation id="4613076894734402086">Labot maksāšanas metodi</translation>
-<translation id="8373427068383038263">Šķiet, jūsu pēdējais maksājums <ph name="VALUE"/> neizdevās. Piekļuve šim abonementam tiks apturēta līdz maksājuma problēmas atrisināšanai. Mēģiniet labot maksāšanas metodi vai sazinieties ar Brave atbalsta dienestu.</translation>
+<translation id="8373427068383038263">Šķiet, jūsu pēdējais maksājums <ph name="VALUE"/> neizdevās. Piekļuve šim abonementam tiks apturēta līdz maksājuma problēmas atrisināšanai. Mēģiniet labot maksāšanas metodi vai sazinieties ar Portal atbalsta dienestu.</translation>
 <translation id="1839021455997460752">Jūsu e-pasta adrese</translation>
 <translation id="8054563304616131773">Lūdzu, ievadi derīgu e-pasta adresi</translation>
 <translation id="5154702632169343078">Temats</translation>
@@ -1662,9 +1662,9 @@ Bloķēti <ph name="NUMBER"/> izsekotāji, reklāmas un cits</translation>
 <translation id="6676791921618140305">Operētājsistēmas versija:</translation>
 <translation id="1156325797949437777">Atbalsts tiek sniegts sadarbībā ar Guardian.</translation>
 <translation id="8146777497879160283">Neizdevās ierakstīt VPN konfigurāciju. Tā var gadīties, kad tev nav atļaujas vai sen neesi veicis Windows Update.</translation>
-<translation id="3307461350293459700">VPN savienojums neizdevās. Mēģiniet pievienoties vēlreiz un pārliecinieties, ka noklikšķiniet "Atļaut", lai iespējotu Brave VPN konfigurāciju.</translation>
-<translation id="7261518280726313829">Drošā DNS izslēgšana vai noklusējuma serveru izmantošana Windows vidē var atklāt jūsu apmeklētās vietnes jūsu interneta pakalpojumu sniedzējam. Brave to neiesaka darīt. Vai vēlaties tomēr to darīt?</translation>
-<translation id="888284761945060750">Atbilstoši jūsu organizācijas noteikumiem drošais DNS ir atspējots. Brave VPN izmantošana bez droša DNS var atklāt jūsu apmeklētās vietnes jūsu interneta pakalpojumu sniedzējam vai organizācijai.</translation>
+<translation id="3307461350293459700">VPN savienojums neizdevās. Mēģiniet pievienoties vēlreiz un pārliecinieties, ka noklikšķiniet "Atļaut", lai iespējotu Portal VPN konfigurāciju.</translation>
+<translation id="7261518280726313829">Drošā DNS izslēgšana vai noklusējuma serveru izmantošana Windows vidē var atklāt jūsu apmeklētās vietnes jūsu interneta pakalpojumu sniedzējam. Portal to neiesaka darīt. Vai vēlaties tomēr to darīt?</translation>
+<translation id="888284761945060750">Atbilstoši jūsu organizācijas noteikumiem drošais DNS ir atspējots. Portal VPN izmantošana bez droša DNS var atklāt jūsu apmeklētās vietnes jūsu interneta pakalpojumu sniedzējam vai organizācijai.</translation>
 <translation id="1657858090675311947">Vairs nebrīdināt mani par to.</translation>
 <translation id="7586151660465233733">Vairāk tirgu vietnē <ph name="SITE_NAME"/></translation>
 <translation id="952067063131306699">Skatīt tirgus un pārdot kriptovalūtu FTX</translation>

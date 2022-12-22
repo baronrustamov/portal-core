@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grit-part>
-  <message name="IDS_BRAVE_SHIELDS" translateable="false" desc="Title for Brave Shields">
-    Brave Shields
+  <message name="IDS_BRAVE_SHIELDS" translateable="false" desc="Title for Portal Shields">
+    Portal Shields
   </message>
 
   <message name="IDS_BRAVE_SHIELDS_STANDALONE" desc="Label for back button on inner views of Shields panel">
     Shields
   </message>
 
-  <message name="IDS_BRAVE_SHIELDS_ENABLE" desc="An accessible label for Brave Shields switch button.">
-    Enable Brave Shields
+  <message name="IDS_BRAVE_SHIELDS_ENABLE" desc="An accessible label for Portal Shields switch button.">
+    Enable Portal Shields
   </message>
 
-  <message name="IDS_BRAVE_SHIELDS_UP" desc="Status label for when Brave Shields is enabled.">
+  <message name="IDS_BRAVE_SHIELDS_UP" desc="Status label for when Portal Shields is enabled.">
     Shields are UP <ph name="LINK_BEFORE">$1</ph>for<ph name="LINK_AFTER">$2</ph>
   </message>
 
-  <message name="IDS_BRAVE_SHIELDS_DOWN" desc="Status label for when Brave Shields is disabled.">
+  <message name="IDS_BRAVE_SHIELDS_DOWN" desc="Status label for when Portal Shields is disabled.">
     Shields are DOWN <ph name="LINK_BEFORE">$1</ph>for<ph name="LINK_AFTER">$2</ph>
   </message>
 
@@ -29,8 +29,8 @@
     Trackers, ads, and more blocked <ph name="LINK_BEFORE">$1</ph>Learn more<ph name="LINK_AFTER">$2</ph>
   </message>
 
-  <message name="IDS_BRAVE_SHIELDS_NOT_BLOCKED_NOTE" desc="Description to convey trackers, advertisement and more are not being blocked. Do not translate Brave SHields.">
-    Not protected by Brave Shields <ph name="LINK_BEFORE">$1</ph>Learn more<ph name="LINK_AFTER">$2</ph>
+  <message name="IDS_BRAVE_SHIELDS_NOT_BLOCKED_NOTE" desc="Description to convey trackers, advertisement and more are not being blocked. Do not translate Portal SHields.">
+    Not protected by Portal Shields <ph name="LINK_BEFORE">$1</ph>Learn more<ph name="LINK_AFTER">$2</ph>
   </message>
 
   <message name="IDS_BRAVE_SHIELDS_ADVANCED_CTRLS" desc="A button label to expand/collapse more options.">
@@ -130,7 +130,7 @@
   </message>
 
   <message name="IDS_BRAVE_SHIELDS_ICON_TOOLTIP" desc="The message shown on hover of the shields lion icon">
-    Brave Shields
+    Portal Shields
 <ph name="NUMBER">$1</ph> Trackers, ads, and more blocked
   </message>
 
@@ -147,7 +147,7 @@
   </message>
 
   <message name="IDS_BRAVE_SHIELDS_COOKIE_LIST_TEXT" desc="Description text for CookieList opt-in bubble">
-    Brave already blocks third-party cookies. We can block cookie consent notices, too.
+    Portal already blocks third-party cookies. We can block cookie consent notices, too.
   </message>
 
   <message name="IDS_BRAVE_SHIELDS_COOKIE_LIST_BUTTON_TEXT" desc="Label for button to enable the CookieList filter">
@@ -159,6 +159,6 @@
   </message>
 
   <message name="IDS_BRAVE_SHIELDS_NOT_VALID_ADDRESS" desc="Label for link about invalid pattern for content setting page dialog to add a site">
-    Wildcards are not allowed for Brave Shields.
+    Wildcards are not allowed for Portal Shields.
   </message>
 </grit-part>

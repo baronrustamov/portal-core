@@ -62,13 +62,13 @@
 <translation id="2045455461902775806">Brave-søk er ikke skjevfordelt, og sporer verken deg, søkene dine eller klikkene dine.</translation>
 <translation id="6811221529729056895">Prøv Brave-søk nå</translation>
 <translation id="5525668735313040116">Søk privat på nettet</translation>
-<translation id="3446024864193919737">Vis Brave Rewards</translation>
+<translation id="3446024864193919737">Vis Portal Rewards</translation>
 <translation id="6274899614137380422">Vis Binance</translation>
 <translation id="5585019845078534178">Kort</translation>
 <translation id="3870475560794762985">Vis sponsede bilder</translation>
 <translation id="8466529005131466476">Du kan tjene på å se sponsede sider.</translation>
 <translation id="3955742714798578476">Du tjener på å se på sponsede sider.</translation>
-<translation id="7822618650711767369">Sponsede bilder støtter Brave. Med Brave Rewards kan du tjene en del av inntektene fra sponsede bilder og støtte innholdsskapere!</translation>
+<translation id="7822618650711767369">Sponsede bilder støtter Brave. Med Portal Rewards kan du tjene en del av inntektene fra sponsede bilder og støtte innholdsskapere!</translation>
 <translation id="5579480493856401823">Hvis du slår av sponsede sider, reduseres antall tokener du tjener og støtten du gir innholdsskapere hver måned.</translation>
 <translation id="2875302873837723333">populære nettsteder</translation>
 <translation id="8173998484743827990">Brave-statistikk</translation>
@@ -80,7 +80,7 @@
 <translation id="7610541582755894669">Gradienter</translation>
 <translation id="1606851618930975029">Oppdater på hver ny fane</translation>
 <translation id="9024104284526126630">Du kan starte en privat samtale i Brave.</translation>
-<translation id="4903286433687221248">Få ubegrensede samtaler med venner og kolleger i Brave Talk.</translation>
+<translation id="4903286433687221248">Få ubegrensede samtaler med venner og kolleger i Portal Talk.</translation>
 <translation id="7115051913071512405">Prøv det</translation>
 <translation id="1447534717041828517">Vis Brave-nyhetsknappen i verktøylinjen</translation>
 <translation id="370665806235115550">Laster inn ...</translation>
@@ -88,13 +88,13 @@
 <translation id="4108314971463891922">Følg</translation>
 <translation id="3861486700625780712">Slutt å følge</translation>
 <translation id="8909741410750517071">Følg denne kilden med 1 klikk.</translation>
-<translation id="1982678174789043774">Hold deg oppdatert på siste nytt i Brave News</translation>
+<translation id="1982678174789043774">Hold deg oppdatert på siste nytt i Portal News</translation>
 <translation id="7894417427965898400">Administrer feeder</translation>
 <translation id="9164544612367905452">Henter ...</translation>
 <translation id="1276592121036104130">Last inn nytt innhold</translation>
-<translation id="2875288128871360696">Bla for Brave News</translation>
-<translation id="8510120023634509743">Tilbakestill Brave News-kilder</translation>
-<translation id="75825199302994272">Vil du tilbakestille alle valgene dine for Brave News-utgivere til standard?</translation>
+<translation id="2875288128871360696">Bla for Portal News</translation>
+<translation id="8510120023634509743">Tilbakestill Portal News-kilder</translation>
+<translation id="75825199302994272">Vil du tilbakestille alle valgene dine for Portal News-utgivere til standard?</translation>
 <translation id="954001034349395856">Alle kilder</translation>
 <translation id="8890516388109605451">Kilder</translation>
 <translation id="5158129253322921540">Deaktiver innhold fra <ph name="PUBLISHER_NAME"/></translation>
@@ -107,7 +107,7 @@
 <translation id="6508379561970983105">Handle med krypto i Gemini, direkte fra nettleseren din.</translation>
 <translation id="7191394989411626168">Ved å slå av kort vil alle kort som vises nå bli skjulte. Du kan likevel bli varslet om nye kort.</translation>
 <translation id="6820526586005233839">Brave Ads er pauset</translation>
-<translation id="5190407395832551012">For å beskytte Brave Rewards ber vi tilfeldige brukere om å løse en captcha. Klikk på “Løs” for å gjenoppta annonsene.</translation>
+<translation id="5190407395832551012">For å beskytte Portal Rewards ber vi tilfeldige brukere om å løse en captcha. Klikk på “Løs” for å gjenoppta annonsene.</translation>
 <translation id="1693773514029371138">Løs</translation>
 <translation id="6991128190741664836">Senere</translation>
 <translation id="8112367589167674370">Brave Talk</translation>
@@ -128,14 +128,14 @@
 <translation id="1645589858096839236">Brave lagrer ikke nettleseraktivitet fra Private vinduer. Med Tor-tilkobling blir det vanskeligere for nettsider å se den faktiske IP-adressen din, og for nettverksobservatører å se hvilke sider du besøler. Hvis din personlige sikkerhet krever at du er helt anonym, bør du imidlertid bruke Tor-nettleseren i stedet.</translation>
 <translation id="7919374705736538787">Søk privat med</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
-<translation id="218839872518145456">Med privat søk vil Brave bruke DuckDuckGo for søk i private vinduer. DuckDuckGo sporer ikke søkehistorien din, så du kan søke privat.</translation>
+<translation id="218839872518145456">Med privat søk vil Portal bruke DuckDuckGo for søk i private vinduer. DuckDuckGo sporer ikke søkehistorien din, så du kan søke privat.</translation>
 <translation id="1925197199485958903">I privatvindu med Tor er DuckDuckGo den forhåndsinnstilte søkemotoren. Andre populære søkemotorer kan være vanskelig å bruke med Tor. DuckDuckGo doesn’t sporer ikke søkehistorikken din med Tor, de don’t vet heller ikke IP-adressen din.</translation>
 <translation id="4371533307685765155">Søk ved hjelp av DuckDuckGo</translation>
 <translation id="548478195417408221">Gjør private vinduer mer private</translation>
 <translation id="3294503279952534143">Dette private vinduet er mer privat</translation>
 <translation id="6126226144537295436">med Tor-tilkobling</translation>
 <translation id="8541421872680304667">Tor skjuler IP-adressen din for nettstedene du besøker, ved å dirigere surfingen din gjennom flere Tor-tjenere før den når destinasjonen. Tor kan gjøre surfingen tregere, og noen nettsteder fungerer kanskje ikke i det hele tatt.</translation>
-<translation id="8897548669448660973">Bruk av private vinduer endrer bare hva Brave gjør på enheten din — det endrer ikke andres oppførsel. Tor skjuler IP-adressen din fra nettstedene du besøker og gjør det noe vanskeligere, men ikke umulig, for din ISP eller arbeidsgiver å se hvilke nettsteder du besøker. Åpne et privat vindu med Tor fra menyen, eller med [[ key ]].</translation>
+<translation id="8897548669448660973">Bruk av private vinduer endrer bare hva Portal gjør på enheten din — det endrer ikke andres oppførsel. Tor skjuler IP-adressen din fra nettstedene du besøker og gjør det noe vanskeligere, men ikke umulig, for din ISP eller arbeidsgiver å se hvilke nettsteder du besøker. Åpne et privat vindu med Tor fra menyen, eller med [[ key ]].</translation>
 <translation id="6975708438781948564">Lær mer om Tor i Brave</translation>
 <translation id="4712050378540986986">Tor-status</translation>
 <translation id="1939334281379458295">Tor er tilkoblet</translation>
@@ -165,17 +165,17 @@
 <translation id="5334844597069022743">Vis kilde</translation>
 <translation id="4720556299488643018">Avslutt abonnement</translation>
 <translation id="1209739344687072997">Rapporter et nettsted som ikke fungerer</translation>
-<translation id="8510478288840333677">Gi utviklerne av Brave beskjed om at dette nettstedet ikke fungerer skikkelig med Shields:</translation>
+<translation id="8510478288840333677">Gi utviklerne av Portal beskjed om at dette nettstedet ikke fungerer skikkelig med Shields:</translation>
 <translation id="4105411033440701818">Merk: Når du klikker på «Send inn», deler du nettstedsadressen, Brave-versjonsnummeret ditt og IP-adressen din med Brave-utviklerne. (IP-adressen blir ikke lagret).</translation>
 <translation id="6476216365964140603">Ytterligere informasjon (valgfritt)</translation>
 <translation id="6145852496180774737">Kontakt meg på: (valgfritt)</translation>
 <translation id="7616645803364270729">E-post, Twitter osv.</translation>
 <translation id="5299848999918506028">Takk skal du ha!</translation>
-<translation id="76550953340008122">Takk for at du ga beskjed til utviklerne av Brave om at noe er galt med dette nettstedet. Vi skal gjøre vårt beste for å rette det!</translation>
+<translation id="76550953340008122">Takk for at du ga beskjed til utviklerne av Portal om at noe er galt med dette nettstedet. Vi skal gjøre vårt beste for å rette det!</translation>
 <translation id="2974339193389078578">Brave – velkommen til det nye Internett</translation>
 <translation id="7735138632831241257">Gjør deg klar til en raskere og sikrere nettleseropplevelse med nettleseren som er skapt med ditt personvern i tankene.</translation>
 <translation id="6001839398155993679">La oss begynne</translation>
-<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Tjen polletter<ph name="END_BOLD"/> ved å se Brave Private Ads og støtt innholdsskapere automatisk.</translation>
+<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Tjen polletter<ph name="END_BOLD"/> ved å se Portal Private Ads og støtt innholdsskapere automatisk.</translation>
 <translation id="5477721706074111257">Ved å klikke samtykker du i <ph name="BEGIN_LINK"/>Vilkår for tjenesten<ph name="END_LINK"/> and <ph name="BEGIN_LINK"/>Personvernerklæring<ph name="END_LINK"/>.</translation>
 <translation id="3505541710659461355">Du kan slå dette av når som helst i innstillingene.</translation>
 <translation id="2965798296974325760">Begynn å bruke Rewards</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Importer</translation>
 <translation id="2088479175984386785">Importer fra …</translation>
 <translation id="5540323067375019678">Administrer dine skjold</translation>
-<translation id="3278033011827237847">Beskytt deg mot annonser og sporere som innvaderer personvernet ditt når du surfer med Brave Shields. Sett skjoldene til å være "nede" dersom en side’ ikke ser ut til å fungere skikkelig.</translation>
+<translation id="3278033011827237847">Beskytt deg mot annonser og sporere som innvaderer personvernet ditt når du surfer med Portal Shields. Sett skjoldene til å være "nede" dersom en side’ ikke ser ut til å fungere skikkelig.</translation>
 <translation id="3366308997091824722">Shield-instillinger</translation>
 <translation id="4764692524839457597">standard</translation>
 <translation id="3108122610701115301">Angi standard</translation>
@@ -194,7 +194,7 @@
 <translation id="3829010735958850433">Hopp over velkomstturen</translation>
 <translation id="1201402288615127009">Neste</translation>
 <translation id="7954950242989581218">Surf på en trygg og fornuftig måte</translation>
-<translation id="2188651882929633653">Brave Shields blokkerer de lumske greiene som prøver å spore  deg på tvers av nettet – inkludert de fleste annonser. Sett Shields til «nede» hvis det er nettsteder som ikke ser ut til å fungere. Brave bruker <ph name="BEGIN_LINK_P3A"/>helt privat produktdiagnostikk<ph name="END_LINK_P3A"/> til å beregne den totale bruken av visse funksjoner. Du kan slå av dette i <ph name="BEGIN_LINK_P3A_SETTINGS"/>Innstillinger<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="2188651882929633653">Brave Shields blokkerer de lumske greiene som prøver å spore  deg på tvers av nettet – inkludert de fleste annonser. Sett Shields til «nede» hvis det er nettsteder som ikke ser ut til å fungere. Portal bruker <ph name="BEGIN_LINK_P3A"/>helt privat produktdiagnostikk<ph name="END_LINK_P3A"/> til å beregne den totale bruken av visse funksjoner. Du kan slå av dette i <ph name="BEGIN_LINK_P3A_SETTINGS"/>Innstillinger<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="4851215387785619212">Brave Private Ads</translation>
 <translation id="3114984266384096064">Tjen [[currency]] ved å se private Brave-annonser. Annonser som vises er basert på interessene dine, basert på hvordan du bruker nettleseren. Personlige data og nettleserlogg blir ikke sendt fra nettleseren din.</translation>
 <translation id="6112368337882254910">Auto-bidra</translation>
@@ -213,7 +213,7 @@
 <translation id="8827015466803589071">Opptil 5 annonser i timen</translation>
 <translation id="2293009346092992234">Opptil 10 annonser i timen</translation>
 <translation id="2356652719351432565">Regional annonserelevans</translation>
-<translation id="3216275550298493597">Dette lar Brave vise deg annonser myntet på regionen du er i.</translation>
+<translation id="3216275550298493597">Dette lar Portal vise deg annonser myntet på regionen du er i.</translation>
 <translation id="8446884382197647889">Les mer</translation>
 <translation id="6209514229703649203">Automatisk oppdaget som [[adsSubdivisionTarget]]</translation>
 <translation id="8010081455002666927">Gjenkjenn automatisk</translation>
@@ -265,28 +265,28 @@
 <translation id="8826352442759228526">Brave Rewards-kontoen din kan ikke bekreftes, fordi du har nådd maksgrensen for antall bekreftede enheter.</translation>
 <translation id="1221593978088944142">Feil: Enhetsgrensen er nådd</translation>
 <translation id="3113653894794167793">Beklager, men det var problemer med å behandle forespørselen din. Prøv igjen.</translation>
-<translation id="3509185560119586847">Dessverre har Brave Rewards-profilen din blitt flagget, og du kan ikke bekreftes akkurat nå. Slik flagging kan noen ganger skyldes irregulær Brave Ads-aktivitet, men det kan også ha skjedd ved en feil.</translation>
-<translation id="5031451251720571882">Vær oppmerksom på at mens Brave Rewards-profilen din er flagget, kan du ikke bekreftes.</translation>
-<translation id="7301759045821910866">Ingen handling kreves fra din side. Brave Rewards-profilen din blir automatisk reevaluert jevnlig for å avgjøre når (eller om) flagget kan fjernes. Prøv på nytt med jevne mellomrom for å se om flagget er fjernet.</translation>
+<translation id="3509185560119586847">Dessverre har Portal Rewards-profilen din blitt flagget, og du kan ikke bekreftes akkurat nå. Slik flagging kan noen ganger skyldes irregulær Portal Ads-aktivitet, men det kan også ha skjedd ved en feil.</translation>
+<translation id="5031451251720571882">Vær oppmerksom på at mens Portal Rewards-profilen din er flagget, kan du ikke bekreftes.</translation>
+<translation id="7301759045821910866">Ingen handling kreves fra din side. Portal Rewards-profilen din blir automatisk reevaluert jevnlig for å avgjøre når (eller om) flagget kan fjernes. Prøv på nytt med jevne mellomrom for å se om flagget er fjernet.</translation>
 <translation id="280350148043792509"><ph name="BEGIN_LINK"/>Finn ut mer om Braves prosess ved flagging av Rewards-profiler.<ph name="END_LINK"/></translation>
-<translation id="5028274575541726856">Feil: Brave Rewards-profilen er flagget</translation>
+<translation id="5028274575541726856">Feil: Portal Rewards-profilen er flagget</translation>
 <translation id="2607420597216860026">Prøv igjen etter du har fullført ID-verifisering på <ph name="PROVIDER"/>.</translation>
 <translation id="3183954159462541696">Feil: Du trenger en bekreftet konto for å logge på</translation>
-<translation id="1859789048900659918">Hmm, det ser ut til at Brave Rewards-landet ditt ikke samsvarer med <ph name="PROVIDER"/>-kontoen du prøver å koble til.</translation>
+<translation id="1859789048900659918">Hmm, det ser ut til at Portal Rewards-landet ditt ikke samsvarer med <ph name="PROVIDER"/>-kontoen du prøver å koble til.</translation>
 <translation id="8925428135452218262">Feil: Landene samsvarer ikke</translation>
-<translation id="5260522591743022748">Hmm, det ser ut som at Brave Rewards allerede er bekreftet med en annen <ph name="PROVIDER"/>-konto. Prøv å bekrefte på nytt med den tidligere kontoen.</translation>
+<translation id="5260522591743022748">Hmm, det ser ut som at Portal Rewards allerede er bekreftet med en annen <ph name="PROVIDER"/>-konto. Prøv å bekrefte på nytt med den tidligere kontoen.</translation>
 <translation id="5111921830714291902">Feil: Annen konto</translation>
-<translation id="5225019866741699134">Det ser ut som om det ikke er mulig å koble <ph name="PROVIDER"/> til Brave Rewards akkurat nå. Prøv på nytt senere.</translation>
+<translation id="5225019866741699134">Det ser ut som om det ikke er mulig å koble <ph name="PROVIDER"/> til Portal Rewards akkurat nå. Prøv på nytt senere.</translation>
 <translation id="6105073131081187815">Du kan se <ph name="BEGIN_LINK"/>tjenestestatusen her<ph name="END_LINK"/>.</translation>
 <translation id="2400786541309111904">Feil: Kan ikke koble til den valgte partneren akkurat nå.</translation>
-<translation id="1024520300696337331"><ph name="PROVIDER"/>-kontoen din kan ikke knyttes til Brav Rewards-profilen din akkurat nå. <ph name="PROVIDER"/>-kontoen er registrert i et land som for tiden ikke støttes for tilkobling til Brave Rewards.</translation>
-<translation id="619384413404021992">Se den <ph name="LINK_BEGIN"/>oppdaterte listen over regioner som støttes, og finn ut mer<ph name="END_LINK"/> om å knytte partnerkontoer til Brave Rewards.</translation>
+<translation id="1024520300696337331"><ph name="PROVIDER"/>-kontoen din kan ikke knyttes til Brav Rewards-profilen din akkurat nå. <ph name="PROVIDER"/>-kontoen er registrert i et land som for tiden ikke støttes for tilkobling til Portal Rewards.</translation>
+<translation id="619384413404021992">Se den <ph name="LINK_BEGIN"/>oppdaterte listen over regioner som støttes, og finn ut mer<ph name="END_LINK"/> om å knytte partnerkontoer til Portal Rewards.</translation>
 <translation id="7193389978208728181">Feil: Regionen støttes ikke for tiden</translation>
 <translation id="5382684862562314222">BAT støttes ikke enda i regionen din på Uphold.</translation>
 <translation id="9074594632540931067">Feil: BAT utilgjengelig</translation>
 <translation id="5376524136040178759">Ifølge Uphold er det for tiden visse begrensninger på Uphold-kontoen din. Logg på Uphold-kontoen og se om du har fått noen varsler eller om det er flere trinn du må fullføre i kontoen, og prøv på nytt. Det kan for eksempel være at Uphold vil be deg legge inn ytterligere informasjon.</translation>
 <translation id="6996157559236886133">Feil: Begrenset Uphold-kontofunksjonalitet</translation>
-<translation id="3274650021044762770">Det oppstod et problem ved bekreftelse av nettleserforespørselen for å koble Brave Rewards til <ph name="PROVIDER"/>-kontoen din. Du kan <ph name="BEGIN_LINK"/>kontakte brukerstøtten<ph name="END_LINK"/> for mer hjelp.</translation>
+<translation id="3274650021044762770">Det oppstod et problem ved bekreftelse av nettleserforespørselen for å koble Portal Rewards til <ph name="PROVIDER"/>-kontoen din. Du kan <ph name="BEGIN_LINK"/>kontakte brukerstøtten<ph name="END_LINK"/> for mer hjelp.</translation>
 <translation id="1316066811927496401">Feil: Forespørselen kunne ikke valideres</translation>
 <translation id="1737873393693460829">Ved å skru på [[title]], samtykker du til <ph name="BEGIN_LINK1"/>bruksvilkårene<ph name="END_LINK1"/> og <ph name="BEGIN_LINK2"/>retningslinjene for personvern<ph name="END_LINK2"/>.</translation>
 <translation id="4123948149985772126">Velg en kontotilbyder</translation>
@@ -295,7 +295,7 @@
 <translation id="2147158325758481862">Verifisering er valgfritt</translation>
 <translation id="8228649055483250005">Lommebokleverandører for en foresatt er pålagt å verifisere identiteten til alle som lager en lommebok, inkludert bruk av foto-ID.</translation>
 <translation id="2672513643520959619"><ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> hverken behandler, lagrer eller får tilgang til noen av personopplysningene dine når du oppretter en konto hos partnerne våre innen lommebøker for foresatte.</translation>
-<translation id="6682919029276027868">Den nåværende Brave Rewards-versjonen din er imidlertid begrenset. Ved verifisering med en partner innen lommebøker kan du:</translation>
+<translation id="6682919029276027868">Den nåværende Portal Rewards-versjonen din er imidlertid begrenset. Ved verifisering med en partner innen lommebøker kan du:</translation>
 <translation id="9064931634458501855">Fritt ta ut og sette inn midler</translation>
 <translation id="3222002542796906461">Motta belønningene dine direkte i kontoen</translation>
 <translation id="1233129511866436960">Finn ut mer om regioner og support</translation>
@@ -303,7 +303,7 @@
 <translation id="8304979233901023264">Jeg har lest og samtykker til Brave’ sine <ph name="TOS_LINK_BEGIN"/>bruksvilkår<ph name="TOS_LINK_END"/> og <ph name="PP_LINK_BEGIN"/>retningslinjene for personvern<ph name="PP_LINK_END"/>.</translation>
 <translation id="2359808026110333948">Fortsett</translation>
 <translation id="1892970806832316900">Venter frem til <ph name="DATE"/></translation>
-<translation id="7849926087559412554">Au da! Nettleseren din kan ikke motta Brave Private Ads.</translation>
+<translation id="7849926087559412554">Au da! Nettleseren din kan ikke motta Portal Private Ads.</translation>
 <translation id="5177429570315095022">Du må oppdatere nettleseren for å fortsette å se annonser.</translation>
 <translation id="7352651011704765696">Noe gikk galt</translation>
 <translation id="752216563428219524">Annonsene ble ikke lastet inn – oppdater siden</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">Du har satt opp tips som venter!</translation>
 <translation id="5096821444729034955">for innlegget deres</translation>
 <translation id="2978223787436054634">Tweet om støtten din</translation>
-<translation id="5916290544882167205">Brave Software. Brave er et registrert varemerke for Brave Software. Navn på nettsteder kan være varemerker eller registrerte varemerker for eieren av det aktuelle nettstedet.</translation>
-<translation id="9026369588205476247">For å beskytte ditt personvern, blir ikke denne Brave Rewards-utskriften lagret eller logget noen andre steder enn på din enhet (denne datamaskinen). Den kan ikke hentes opp igjen fra Brave i tilfelle datatap på din enhet.</translation>
+<translation id="5916290544882167205">Brave Software. Portal er et registrert varemerke for Portal Software. Navn på nettsteder kan være varemerker eller registrerte varemerker for eieren av det aktuelle nettstedet.</translation>
+<translation id="9026369588205476247">For å beskytte ditt personvern, blir ikke denne Portal Rewards-utskriften lagret eller logget noen andre steder enn på din enhet (denne datamaskinen). Den kan ikke hentes opp igjen fra Portal i tilfelle datatap på din enhet.</translation>
 <translation id="3587482841069643663">Alle</translation>
 <translation id="4241224519481557898">Kategori</translation>
 <translation id="3080423471207781945">Maksimalt antall mottatte annonser pr. time:</translation>
@@ -434,7 +434,7 @@
 <translation id="2777306694585938662">Ads-belønninger er mottatt</translation>
 <translation id="5212777575344695266">Merk som usømmelig</translation>
 <translation id="2111256234277361810">Merk som usømmelig ✓</translation>
-<translation id="8988332871810963281">Det er ingen Brave Ads-historikk for øyeblikket</translation>
+<translation id="8988332871810963281">Det er ingen Portal Ads-historikk for øyeblikket</translation>
 <translation id="5345727496083327478">Du kommer ikke til å motta annonser fra denne kategorien lenger</translation>
 <translation id="2631006050119455616">Lagret</translation>
 <translation id="3819257035322786455">Sikkerhetskopi</translation>
@@ -454,10 +454,10 @@
 <translation id="1418534671788496616">Se innskuddshistorikken</translation>
 <translation id="3412655388715513818">Ekskluder denne siden</translation>
 <translation id="418343137736963579">Total antall nettsider du har ekskludert fra Auto-Bidra:</translation>
-<translation id="8802504113265057166">[[currency]] som ikke brukes innen utløpsdatoen, returneres automatisk til Brave User Growth Pool.</translation>
+<translation id="8802504113265057166">[[currency]] som ikke brukes innen utløpsdatoen, returneres automatisk til Portal User Growth Pool.</translation>
 <translation id="279567716178902927">Utløpsdato for stipend</translation>
 <translation id="1389143276807887637">importer</translation>
-<translation id="6302422639282249274">Administrer Brave Rewards</translation>
+<translation id="6302422639282249274">Administrer Portal Rewards</translation>
 <translation id="211044356803193224">Månedlige tips!</translation>
 <translation id="2487641031722095938">Det er din lykkedag!</translation>
 <translation id="6255773350565723852">Tokenstipendet ditt er på vei.</translation>
@@ -498,12 +498,12 @@
 <translation id="5939518447894949180">Tilbakestill</translation>
 <translation id="5669281110673664811">Slett ekskluderingslisten</translation>
 <translation id="1797334173232638045">De festede sidene dine er flyttet til</translation>
-<translation id="542042553430131913">Hvis Brave Rewards ikke bekreftes, lagres BAT-balansen din i lokale filer på enheten din.</translation>
+<translation id="542042553430131913">Hvis Portal Rewards ikke bekreftes, lagres BAT-balansen din i lokale filer på enheten din.</translation>
 <translation id="2142973554991645476">Hvis du vil sikre BAT-verdiene dine i tilfelle du må reinstallere nettleseren eller formatere enheten din, og også vil dra nytte av andre fordeler som muligheten til å legge til eller trekke fra BAT, anbefaler vi at du <ph name="LINK_BEGIN"/>bekrefter<ph name="LINK_END"/> kontoen.</translation>
 <translation id="5317144262906129592">Du kan støtte denne innholdsskaperen ved å sende tips. Det er en måte å takke dem på for at de lager bra innhold.</translation>
 <translation id="3074127054582480056">Obs</translation>
-<translation id="3659457123782988823">Er du sikker på at du vil resette Brave Rewards?</translation>
-<translation id="4048187103708861555"><ph name="BAT_AMOUNT"/>-verdien din og øvrige Rewards-opplysninger går tapt permanent hvis du tilbakestiller Brave Rewards. Sørg for at kontoen er <ph name="LINK_BEGIN"/>bekreftet<ph name="LINK_END"/>, så du kan beholde BAT-verdien.</translation>
+<translation id="3659457123782988823">Er du sikker på at du vil resette Portal Rewards?</translation>
+<translation id="4048187103708861555"><ph name="BAT_AMOUNT"/>-verdien din og øvrige Rewards-opplysninger går tapt permanent hvis du tilbakestiller Portal Rewards. Sørg for at kontoen er <ph name="LINK_BEGIN"/>bekreftet<ph name="LINK_END"/>, så du kan beholde BAT-verdien.</translation>
 <translation id="3548849774726860833">Rewards-opplysningene dine går tapt permanent hvis du resetter brave Rewards.</translation>
 <translation id="4914597931214386232">Tokenstipender gjort krav på</translation>
 <translation id="3494964159182650590">Sammendrag av belønninger</translation>
@@ -525,7 +525,7 @@
 <translation id="1910721550319506122">Velkommen!</translation>
 <translation id="4258022280942725182">Dine Brave-belønninger</translation>
 <translation id="6727483290601442544">Se detaljer</translation>
-<translation id="4206899127409458763">Oppretter Brave Rewards-profilen</translation>
+<translation id="4206899127409458763">Oppretter Portal Rewards-profilen</translation>
 <translation id="1988679729106502285">MERK:</translation>
 <translation id="4047340292178074200">Skaperen er ikke satt opp til å motta tips fra Rewards-lommeboktjenesten. Hvis du gir tips, settes tipsen i ventestatus og prøver på nytt automatisk i 90 dager.</translation>
 <translation id="5530734056858418442">Denne skaperen er ikke registrert ennå. Alt du tjener av tips, får ventestatus og vil prøve på nytt i 90 dager.</translation>
@@ -542,7 +542,7 @@
 <translation id="5113531205597573951">Nettsteder besøkt</translation>
 <translation id="4450893287417543264">Ikke vis igjen</translation>
 <translation id="6518133107902771759">Bekreft</translation>
-<translation id="422369484771082705">Bekreftelse er valgfritt, men ved å bekreftes kan du ta ut BAT tjent via Brave Rewards direkte til en administrert lommebok.</translation>
+<translation id="422369484771082705">Bekreftelse er valgfritt, men ved å bekreftes kan du ta ut BAT tjent via Portal Rewards direkte til en administrert lommebok.</translation>
 <translation id="4354564238172327160">Bli Brave-innholdsskaper!</translation>
 <translation id="4639659520811817892">Gå til creators.brave.com for å registrere deg i dag og begynne å tjene inn BAT fra fans og følgere.</translation>
 <translation id="4816455138209470435">Brave har støtte for YouTube, Twitch, Vimeo og mange fler!</translation>
@@ -556,7 +556,7 @@
 <translation id="7840362246306242214">Aksjehandel i USA er tilgjengelig på Uphold</translation>
 <translation id="3345432088196080137">Invester så lite som én dollar i populære aksjer og børsnoterte fond som AAPL, TSLA eller AMZN</translation>
 <translation id="3787061634640932557">Rediger kort</translation>
-<translation id="2070991379950719711">Begynn å bruke Brave Rewards</translation>
+<translation id="2070991379950719711">Begynn å bruke Portal Rewards</translation>
 <translation id="5977237145327845546">Start en privat videosamtale med dine venner og kolleger.</translation>
 <translation id="8863928195533744356">Start anrop</translation>
 <translation id="3651550649176056334">Om dine data</translation>
@@ -701,7 +701,7 @@
 <translation id="3373798179786163193">Fortsett med offentlig gateway</translation>
 <translation id="1974060860693918893">Avansert</translation>
 <translation id="9096577886148726047">Skjul avansert</translation>
-<translation id="182581792765792826">Brave kunne ikke laste de forespurte IPFS-ressursene – enten fordi den lokale IPFS-noden ikke startet, eller fordi det ikke er noen tilkoblede tjenere tilgjengelig for øyeblikket. Dersom du velger "Fortsett", vil Brave automatisk falle tilbake til standard offentlig systemport når forsøk på å bruke Braves lokale IPFS-node mislykkes. Du kan endre dette mønsteret når som helst i Brave-innstillingene.</translation>
+<translation id="182581792765792826">Brave kunne ikke laste de forespurte IPFS-ressursene – enten fordi den lokale IPFS-noden ikke startet, eller fordi det ikke er noen tilkoblede tjenere tilgjengelig for øyeblikket. Dersom du velger "Fortsett", vil Portal automatisk falle tilbake til standard offentlig systemport når forsøk på å bruke Braves lokale IPFS-node mislykkes. Du kan endre dette mønsteret når som helst i Brave-innstillingene.</translation>
 <translation id="8026038288183400906">Ønsket IPFS</translation>
 <translation id="2058855456574089690">Bestem ønsket IPFS</translation>
 <translation id="4780526507945807546">Bruk en lokal IPFS-node for Brave</translation>
@@ -769,7 +769,7 @@
 <translation id="5095252080770652994">Fremgang</translation>
 <translation id="6278643716658443228">Rewards-innstillinger</translation>
 <translation id="2862978891748913252">Velg land</translation>
-<translation id="3717922248131893262">For å fortsette å bruke Brave Rewards må du velge landet ditt, så vi kan vise deg de riktige alternativene og annonsene for din region. <ph name="LINK_BEGIN"/>Personvernerklæring<ph name="LINK_END"/></translation>
+<translation id="3717922248131893262">For å fortsette å bruke Portal Rewards må du velge landet ditt, så vi kan vise deg de riktige alternativene og annonsene for din region. <ph name="LINK_BEGIN"/>Personvernerklæring<ph name="LINK_END"/></translation>
 <translation id="6777169449483742979">Du tjener tokener for å se dette sponsede bildet.</translation>
 <translation id="5486114327664215175">Tjen tokener for å vise dette bildet og støtt innholdsskapere.</translation>
 <translation id="2940863921746574646">Token-saldo</translation>
@@ -809,17 +809,17 @@
 <translation id="7855913851082138664">Skaperen <ph name="PUBLISHER_NAME"/> ble nylig bekreftet.</translation>
 <translation id="6194996600967335044">Utilstrekkelige midler</translation>
 <translation id="2795080275268642520">Du har ventende tips grunnet utilstrekkelige midler</translation>
-<translation id="2529827670795983639">Det ser ut til at dette ikke fungerer – Brave Ads er fortsatt pauset. Kontakt oss hvis du trenger hjelp med å løse captcha-en.</translation>
+<translation id="2529827670795983639">Det ser ut til at dette ikke fungerer – Portal Ads er fortsatt pauset. Kontakt oss hvis du trenger hjelp med å løse captcha-en.</translation>
 <translation id="261607053214862521">Maks. antall forsøk er overskredet</translation>
 <translation id="2323171459178104277">Løst!</translation>
-<translation id="1512837998731269583">Annonsene og inntjeningen gjenopptas. Takk for at du hjelper oss med å ivareta sikkerheten ved Brave Rewards og annonsesystemet.</translation>
+<translation id="1512837998731269583">Annonsene og inntjeningen gjenopptas. Takk for at du hjelper oss med å ivareta sikkerheten ved Portal Rewards og annonsesystemet.</translation>
 <translation id="3247549836099021862">Kontakt brukerstøtten</translation>
 <translation id="5234764350956374838">Lukk</translation>
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>Ta en rask tur<ph name="TOUR_LINK_END"/> eller <ph name="LEARN_LINK_BEGIN"/>les mer<ph name="LEARN_LINK_END"/> for å få flere detaljer.</translation>
 <translation id="7465614181960492526">Tjen tokener og gi tilbake</translation>
 <translation id="2731539192954672606">Tjen tokener ved å se på personvern-respekterende annonser og støtt favorittnettstedene og innholdsprodusentene dine automatisk.</translation>
 <translation id="5425006356459378415">Brave-belønninger er ikke tilgjengelig</translation>
-<translation id="909076461795862330">Dessverre oppstod det en feil under forsøket på å konfigurere Brave Rewards. Prøv på nytt.</translation>
+<translation id="909076461795862330">Dessverre oppstod det en feil under forsøket på å konfigurere Portal Rewards. Prøv på nytt.</translation>
 <translation id="3180990265682133881">Dessverre oppstod det en feil da landet skulle angis. Prøv på nytt.</translation>
 <translation id="5931798071481566121">Nye registreringer for Brave-belønninger er deaktivert for din region for tiden. Du kan alltids prøve igjen senere. <ph name="LINK_BEGIN"/>Les mer<ph name="LINK_END"/></translation>
 <translation id="8764860730661377310">Brave Rewards-regionen din er angitt som <ph name="COUNTRY"/>.</translation>
@@ -838,12 +838,12 @@
 <translation id="185034574799484512">La oss ta en rask omvisning</translation>
 <translation id="8281886186245836920">Hopp over</translation>
 <translation id="1377600615067678409">Hopp over i denne omgang</translation>
-<translation id="7930505144430343145">Velkommen til Brave Rewards!</translation>
+<translation id="7930505144430343145">Velkommen til Portal Rewards!</translation>
 <translation id="3477340970981564961">Brave Private Ads belønner deg med polletter for å støtte innholdsskapere, i motsetning til tradisjonelle annonser – samtidig som den personlige informasjonen din beskyttes.</translation>
 <translation id="6973095375773523904">Hvor vises annonsene?</translation>
 <translation id="7556325460112047619">Brave Private Ads vil vises som et ordinært varsel. Du kontrollerer hvor ofte du ser disse annonsene i innstillingene.</translation>
 <translation id="6897083627729802351">Når mottar du belønninger?</translation>
-<translation id="310863932297733723">Pollettene du tjener på Brave Private Ads gjennom inneværende måned vil komme inn den 5. i neste måned.</translation>
+<translation id="310863932297733723">Pollettene du tjener på Portal Private Ads gjennom inneværende måned vil komme inn den 5. i neste måned.</translation>
 <translation id="7712287524451429139">Gi tilbake uten anstrengelser</translation>
 <translation id="105037569026952831">Skapere mottar pollettbidragene dine automatisk basert på engasjementsnivåene dine, som vi måler som "Oppmerksomhet".</translation>
 <translation id="5323267338679539010">Si takk med tips</translation>
@@ -853,15 +853,15 @@
 <translation id="1402530520078693620">Til sist: La oss konfigurere de grunnleggende innstillingene dine</translation>
 <translation id="3494356595346329740">Du kan endre dette senere.</translation>
 <translation id="827315274423079662">Hurra, du er helt klar!</translation>
-<translation id="8268038362451312235">Når du bruker Brave Rewards bidrar du til å gjøre nettet til et bedre sted for alle. Og det er kjempebra!</translation>
-<translation id="2318949593486441832">For å gjøre uttak av tokenene du tjener på å se annonser, må du bekrefte Brave Rewards.</translation>
+<translation id="8268038362451312235">Når du bruker Portal Rewards bidrar du til å gjøre nettet til et bedre sted for alle. Og det er kjempebra!</translation>
+<translation id="2318949593486441832">For å gjøre uttak av tokenene du tjener på å se annonser, må du bekrefte Portal Rewards.</translation>
 <translation id="9168436347345867845">Gjør det senere</translation>
-<translation id="7193761697942491145">Bekreft Brave Rewards</translation>
+<translation id="7193761697942491145">Bekreft Portal Rewards</translation>
 <translation id="6609621505400013054">BitFlyer-lommeboken er en tjeneste som administreres av bitFlyer, Inc.</translation>
-<translation id="4361456403643555676">Hvis du bekrefter Brave Rewards og knytter det til en bitFlyer-konto, kan du lagre og administrere tokenene du har tjent opp gjennom Brave Rewards på en enklere måte.</translation>
+<translation id="4361456403643555676">Hvis du bekrefter Portal Rewards og knytter det til en bitFlyer-konto, kan du lagre og administrere tokenene du har tjent opp gjennom Portal Rewards på en enklere måte.</translation>
 <translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Finn ut mer<ph name="LINK_END"/> om hvordan du knytter Brave-nettleseren din til bitFlyer-kontoen din.</translation>
 <translation id="1015443539415537847">Brave Rewards er ikke tilgjengelig</translation>
-<translation id="5007776270364097327">Det ser dessverre ut til at du er i en region der Brave Rewards ikke er tilgjengelig.</translation>
+<translation id="5007776270364097327">Det ser dessverre ut til at du er i en region der Portal Rewards ikke er tilgjengelig.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Finn ut mer<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">Men ta det med ro.</translation>
 <translation id="5027616819996705541">Du kan fortsatt surfe privat på nettet!</translation>
@@ -883,7 +883,7 @@
 <translation id="2326876601333401685">Denne RPC-metoden støttes ikke</translation>
 <translation id="1128992132632883337">En intern parsingfeil har oppstått</translation>
 <translation id="5382339341735118861">En generisk behandlingsfeil har oppstått</translation>
-<translation id="1680597601664421644">Huskeregelen som importeres er ikke gyldig for Brave Wallet</translation>
+<translation id="1680597601664421644">Huskeregelen som importeres er ikke gyldig for Portal Wallet</translation>
 <translation id="4641919696349069826">En forespørsel er allerede aktiv</translation>
 <translation id="872806943696014633">Transaksjonsdata mangler</translation>
 <translation id="4805410229033541409">'from' er ikke autorisert til å sende transaksjoner</translation>
@@ -1050,7 +1050,7 @@
 <translation id="6892232036314454524">Denne feilen kan oppstå når feil applikasjon er åpen på Ledger-enheten.</translation>
 <translation id="6598291715079540080">Trezor</translation>
 <translation id="5605670050355397069">Ledger</translation>
-<translation id="4247752006222818397">Gi Brave tilgang til Ledger-enheten din</translation>
+<translation id="4247752006222818397">Gi Portal tilgang til Ledger-enheten din</translation>
 <translation id="4378551569595875038">Kobler til …</translation>
 <translation id="1943188256166395881">Legg til markerte kontoer</translation>
 <translation id="8554010658308662631">Last inn mer</translation>
@@ -1110,7 +1110,7 @@
 <translation id="3352959425838279177">Hent Eter fra en kran for <ph name="SELECTED_NETWORK"/></translation>
 <translation id="6449626816252815844">Velg kjøpsmetode</translation>
 <translation id="8009571545960303544">Det bes om signaturen din</translation>
-<translation id="5294062982587710720">Vær oppmerksom på at Brave ikke kan gå god for hva som skjer hvis du signerer. En signatur kan autorisere nesten en hvilken som helst operasjon i kontoen din eller på dine vegne, herunder blant annet å gi full kontroll over kontoen og kryptoressursene dine til siden som kommer med forespørselen, Signer bare hvis du er sikker på at du stoler på den aktuelle siden og vil gjøre denne handlingen.</translation>
+<translation id="5294062982587710720">Vær oppmerksom på at Portal ikke kan gå god for hva som skjer hvis du signerer. En signatur kan autorisere nesten en hvilken som helst operasjon i kontoen din eller på dine vegne, herunder blant annet å gi full kontroll over kontoen og kryptoressursene dine til siden som kommer med forespørselen, Signer bare hvis du er sikker på at du stoler på den aktuelle siden og vil gjøre denne handlingen.</translation>
 <translation id="3474375934783434676">Signer på egen risiko</translation>
 <translation id="5488357322146334497">Melding</translation>
 <translation id="3586752056660754651">Undertegn</translation>
@@ -1170,7 +1170,7 @@
 <translation id="2018472018751735678">Se adressene til de tillatte kontoene dine (obligatorisk)</translation>
 <translation id="7029403458170657879">Koble til Brave-lommeboken</translation>
 <translation id="2770851145415891830">Eksisterende kryptolommebøker funnet</translation>
-<translation id="2237759620789871865">Om du heller vil hoppe over importen og beholde den gamle Crypto Wallets-opplevelsen, er det bare å navigere til <ph name="LINK_BEFORE"/>innstillinger<ph name="LINK_AFTER"/> for Portal browser og endre standard tilbake til Crypto Wallets. Du kan også importere, prøve nye Brave Wallet og bytte tilbake når som helst.</translation>
+<translation id="2237759620789871865">Om du heller vil hoppe over importen og beholde den gamle Crypto Wallets-opplevelsen, er det bare å navigere til <ph name="LINK_BEFORE"/>innstillinger<ph name="LINK_AFTER"/> for Portal browser og endre standard tilbake til Crypto Wallets. Du kan også importere, prøve nye Portal Wallet og bytte tilbake når som helst.</translation>
 <translation id="5590175005414413980">Skriv inn det eksisterende CryptoWallet-passordet for å importere til Brave-lommeboken. Dra nytte av en raskere og sikrere måte å administrere kryptoressurser og ha interaksjon med Web3 DApps på.</translation>
 <translation id="880619123281809987">Skriv inn passordet for kryptolommeboken</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> koblet til</translation>
@@ -1400,7 +1400,7 @@
 <translation id="3890567288132019108">Finn ut mer om hvordan du begrenser risikoene med Rainbow Bridge</translation>
 <translation id="1792917191129448067">Åpne Rainbow Bridge-appen</translation>
 <translation id="1522775706527775647">Bro til Aurora</translation>
-<translation id="4903322403594141291">Les mer om Brave Wallet</translation>
+<translation id="4903322403594141291">Les mer om Portal Wallet</translation>
 <translation id="3875185448438395303">Minst:</translation>
 <translation id="2029465635925899949">8 tegn</translation>
 <translation id="6697810017029555732">Match!</translation>
@@ -1454,7 +1454,7 @@
 <translation id="6260144012548445299">Les mer om den nye lommeboken</translation>
 <translation id="8746910870914151528">Juridiske greier</translation>
 <translation id="5148123176978018397">Godta følgende:</translation>
-<translation id="6088314935678153800">Jeg forstår at dette er en lommebok jeg styrer selv og at det kun er jeg som er ansvarlig for tilknyttede midler, ressurser og konti og for å gjøre det som trengs for å sikre, beskytte og ta sikkerhetskopi av lommeboken. Jeg forstår at Brave IKKE har tilgang til lommeboken min eller kan reversere transaksjonene mine på mine vegne og at gjenopprettingsfrasen min er den ENESTE måten å få tilgang til lommeboken på i tilfeller med tapt passord, stjålet enhet eller tilsvarende hendelser.</translation>
+<translation id="6088314935678153800">Jeg forstår at dette er en lommebok jeg styrer selv og at det kun er jeg som er ansvarlig for tilknyttede midler, ressurser og konti og for å gjøre det som trengs for å sikre, beskytte og ta sikkerhetskopi av lommeboken. Jeg forstår at Portal IKKE har tilgang til lommeboken min eller kan reversere transaksjonene mine på mine vegne og at gjenopprettingsfrasen min er den ENESTE måten å få tilgang til lommeboken på i tilfeller med tapt passord, stjålet enhet eller tilsvarende hendelser.</translation>
 <translation id="7781090633800450517">Jeg har lest og godtar <ph name="LINK_BEFORE"/>bruksbetingelsene<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">Kjøp krypto</translation>
 <translation id="3887541341068007345">Ser etter lommebokutvidelser ...</translation>
@@ -1517,7 +1517,7 @@
 <translation id="6951743416068151209">Tor-mellomtjener-URI</translation>
 <translation id="1671503397662036257">Tor-tilkoblingsstatus</translation>
 <translation id="6024292492796847324">Tor-initialiseringsprosess</translation>
-<translation id="8300751939969131609">Slå på Brave News og gå aldri mer glipp av siste nytt</translation>
+<translation id="8300751939969131609">Slå på Portal News og gå aldri mer glipp av siste nytt</translation>
 <translation id="7758665172236842395">Følg favorittkildene dine i én samlet feed. Bare åpne en fane i Brave, rull ned – og voilà!</translation>
 <translation id="2376542729617592331">Brave News støttes av private, anonymiserte annonser. <ph name="LINK_START"/>Finn ut mer<ph name="LINK_END"/>.</translation>
 <translation id="1765217911817124376">Slå på Brave-nyheter</translation>
@@ -1566,13 +1566,13 @@
 <translation id="1459693405370120464">Vær</translation>
 <translation id="8366057325711477500">Nytt fra hele verden</translation>
 <translation id="6303294677342628402">Skjold</translation>
-<translation id="8458987127502506209">Aktiver Brave Shields</translation>
+<translation id="8458987127502506209">Aktiver Portal Shields</translation>
 <translation id="7509914170164691086">Skjoldene er OPPE <ph name="LINK_BEFORE"/>for<ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">Skjoldene er NEDE <ph name="LINK_BEFORE"/>for<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">Hvis det virker som at dette nettstedet har feil, kan du prøve å senke skjoldene.
     <ph name="LINK_BEFORE"/>Merk: dette kan redusere Braves personvernbeskyttelse.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Sporinger, reklamer og annet blokkert <ph name="LINK_BEFORE"/>Les mer<ph name="LINK_AFTER"/></translation>
-<translation id="7604553853176833536">Ikke beskyttet av Brave Shields <ph name="LINK_BEFORE"/>Finn ut mer<ph name="LINK_AFTER"/></translation>
+<translation id="7604553853176833536">Ikke beskyttet av Portal Shields <ph name="LINK_BEFORE"/>Finn ut mer<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Avanserte kontroller</translation>
 <translation id="5799940914270080805">Hvis du endrer disse innstillingene, kan du oppleve problemer med nettsider.</translation>
 <translation id="9204041448536398473">Globale Shield-innstillinger</translation>
@@ -1604,18 +1604,18 @@
 <translation id="4986297793092101884">Brave blokkerer allerede informasjonskapsler fra tredjepart. Vi kan blokkere meldinger om å godta informasjonskapsler også.</translation>
 <translation id="535688588637568715">Ja, blokker meldinger om å godta informasjonskapsler</translation>
 <translation id="6294662480095808915">Personvern fra bunnen av.</translation>
-<translation id="4366423156486478559">Få Brave-beskyttelse for alle linker du klikker på. Bare angi Brave som standard, og surf i vei – helt privat.</translation>
+<translation id="4366423156486478559">Få Brave-beskyttelse for alle linker du klikker på. Bare angi Portal som standard, og surf i vei – helt privat.</translation>
 <translation id="3830912418080848377">Importer innstillinger</translation>
 <translation id="6378406588483694938">Importer enkelt bokmerker, utvidelser og lagrede passord fra den gamle nettleseren din.</translation>
 <translation id="2092825239819166928">Velg profil som skal importeres</translation>
 <translation id="4763127492635705340">Nettleseren du har valgt, har flere profiler. Velg profilen(e) du vil importere.</translation>
 <translation id="880174232178865598">Importer profiler</translation>
 <translation id="2453860139492968684">Fullfør</translation>
-<translation id="2273851479262317744">Angi Brave som standard nettleser</translation>
+<translation id="2273851479262317744">Angi Portal som standard nettleser</translation>
 <translation id="5037676449506322593">Velg alle</translation>
-<translation id="8330804319517911603">Bidra til å gjøre Brave bedre</translation>
+<translation id="8330804319517911603">Bidra til å gjøre Portal bedre</translation>
 <translation id="2867964979837593892">Vi finjusterer produktet og ivaretar personvernet ditt – hver dag.</translation>
-<translation id="7661940959332108190">Send diagnoserapporter hvis Brave krasjer eller henger seg opp.</translation>
+<translation id="7661940959332108190">Send diagnoserapporter hvis Portal krasjer eller henger seg opp.</translation>
 <translation id="6358373266071757311">Del anonyme og private produktdata så vi kan finne ut hvilke Brave-funksjoner som brukes oftest.</translation>
 <translation id="7415454883318062233">Ferdig</translation>
 <translation id="3141206739023333979">Du kan endre disse innstillingene når som helst i <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
@@ -1663,8 +1663,8 @@
 <translation id="1156325797949437777">Brukerstøtte gis i samarbeid med Guardian.</translation>
 <translation id="8146777497879160283">Kunne ikke skrive VPN-konfigurasjonen. Dette kan skje hvis du ikke har riktig tillatelse eller ikke har kjørt Windows Update nylig.</translation>
 <translation id="3307461350293459700">VPN-tilkoblingen mislyktes. Prøv å koble til igjen, og husk å trykke på Tillat for å aktivere Braves VPN-konfigurasjon.</translation>
-<translation id="7261518280726313829">Hvis du slår av sikker DNS eller bruker standardserverne på Windows, kan navnene på nettsidene du besøker, bli synlige for internettleverandøren din. Brave anbefaler ikke å gjøre dette. Vil du gjøre det likevel?</translation>
-<translation id="888284761945060750">Secure DNS er deaktivert av organisasjonen din. Hvis du bruker Brave VPN uten Secure DNS, kan navnene på nettstedene du besøker, bli synlige for internettleverandøren eller organisasjonen din.</translation>
+<translation id="7261518280726313829">Hvis du slår av sikker DNS eller bruker standardserverne på Windows, kan navnene på nettsidene du besøker, bli synlige for internettleverandøren din. Portal anbefaler ikke å gjøre dette. Vil du gjøre det likevel?</translation>
+<translation id="888284761945060750">Secure DNS er deaktivert av organisasjonen din. Hvis du bruker Portal VPN uten Secure DNS, kan navnene på nettstedene du besøker, bli synlige for internettleverandøren eller organisasjonen din.</translation>
 <translation id="1657858090675311947">Ikke varsle meg om dette igjen</translation>
 <translation id="7586151660465233733">Flere markeder på <ph name="SITE_NAME"/></translation>
 <translation id="952067063131306699">Se markeder og handle krypto på FTX</translation>

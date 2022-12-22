@@ -59,8 +59,8 @@
 <translation id="4546260624932151782">Kedvencek mutatása</translation>
 <translation id="1230746063445072175">Még fejlettebb adatvédelemre vágyik?</translation>
 <translation id="6699628638740071563">Itt az ideje váltani a Google-ről.</translation>
-<translation id="2045455461902775806">A Brave kereső nem befolyásolja vagy cenzúrázza a találatokat, és nem követi nyomon Önt, a kereséseit vagy a kattintásait.</translation>
-<translation id="6811221529729056895">Próbálja ki a Brave keresőt most!</translation>
+<translation id="2045455461902775806">A Portal kereső nem befolyásolja vagy cenzúrázza a találatokat, és nem követi nyomon Önt, a kereséseit vagy a kattintásait.</translation>
+<translation id="6811221529729056895">Próbálja ki a Portal keresőt most!</translation>
 <translation id="5525668735313040116">Privát keresés az interneten</translation>
 <translation id="3446024864193919737">Brave Rewards mutatása</translation>
 <translation id="6274899614137380422">Binance mutatása</translation>
@@ -68,7 +68,7 @@
 <translation id="3870475560794762985">Szponzorált képek megjelenítése</translation>
 <translation id="8466529005131466476">A szponzorált webhelyek megtekintéséért tokeneket kaphat.</translation>
 <translation id="3955742714798578476">Ön tokeneket kap a szponzorált képek megtekintéséért.</translation>
-<translation id="7822618650711767369">A szponzorált képek a Brave-et támogatják. A Brave jutalmakkal Ön megkaphatja a szponzorált képekért járó bevétel egy részét, és támogathatja is a tartalomkészítőket!</translation>
+<translation id="7822618650711767369">A szponzorált képek a Brave-et támogatják. A Portal jutalmakkal Ön megkaphatja a szponzorált képekért járó bevétel egy részét, és támogathatja is a tartalomkészítőket!</translation>
 <translation id="5579480493856401823">A szponzorált webhelyek kikapcsolásával kevesebb tokent fog kapni, és csökkenti a tartalomkészítőknek nyújtott havi támogatást is.</translation>
 <translation id="2875302873837723333">népszerű oldalak</translation>
 <translation id="8173998484743827990">Brave statisztikák</translation>
@@ -80,7 +80,7 @@
 <translation id="7610541582755894669">Színátmenetek</translation>
 <translation id="1606851618930975029">Frissítés minden új lapon</translation>
 <translation id="9024104284526126630">A Brave-ben privát hívásokat kezdeményezhetsz.</translation>
-<translation id="4903286433687221248">A Brave Talk-ban korlátlanul hívásokat indíthat kollégáival és barátaival.</translation>
+<translation id="4903286433687221248">A Portal Talk-ban korlátlanul hívásokat indíthat kollégáival és barátaival.</translation>
 <translation id="7115051913071512405">Próbáld ki</translation>
 <translation id="1447534717041828517">A Brave-hírek gomb megjelenítése az eszköztáron</translation>
 <translation id="370665806235115550">Betöltés...</translation>
@@ -92,9 +92,9 @@
 <translation id="7894417427965898400">Csatornák kezelése</translation>
 <translation id="9164544612367905452">Beolvasás…</translation>
 <translation id="1276592121036104130">Új tartalom betöltése</translation>
-<translation id="2875288128871360696">Legörgetés a Brave Newshoz</translation>
-<translation id="8510120023634509743">A Brave News források visszaálíltása</translation>
-<translation id="75825199302994272">Visszaállítja a Brave News kiadói beállításait az alapértelmezettre?</translation>
+<translation id="2875288128871360696">Legörgetés a Portal Newshoz</translation>
+<translation id="8510120023634509743">A Portal News források visszaálíltása</translation>
+<translation id="75825199302994272">Visszaállítja a Portal News kiadói beállításait az alapértelmezettre?</translation>
 <translation id="954001034349395856">Minden forrás</translation>
 <translation id="8890516388109605451">Források</translation>
 <translation id="5158129253322921540">A <ph name="PUBLISHER_NAME"/> tartalmainak letiltása</translation>
@@ -107,7 +107,7 @@
 <translation id="6508379561970983105">Kereskedjen kriptóval a Geminin, közvetlenül a böngészőjében.</translation>
 <translation id="7191394989411626168">A Kártyák kikapcsolásával minden jelenleg látható kártya el lesz rejtve. Az új kártyákról továbbra is kaphat értesítéseket.</translation>
 <translation id="6820526586005233839">Brave Ads szüneteltetve</translation>
-<translation id="5190407395832551012">Hogy elkerüljük, hogy visszaéljenek a Brave Rewards-zal, véletlenszerűen felkérjük a felhasználóinkat egy CAPTCHA kitöltésére. Kattintson a "Megoldás"-ra az Ads újraindításához.</translation>
+<translation id="5190407395832551012">Hogy elkerüljük, hogy visszaéljenek a Portal Rewards-zal, véletlenszerűen felkérjük a felhasználóinkat egy CAPTCHA kitöltésére. Kattintson a "Megoldás"-ra az Ads újraindításához.</translation>
 <translation id="1693773514029371138">Megoldás</translation>
 <translation id="6991128190741664836">Később</translation>
 <translation id="8112367589167674370">Brave Talk</translation>
@@ -120,22 +120,22 @@
 <translation id="8730621377337864115">Kész</translation>
 <translation id="730042046912793465">Ez egy</translation>
 <translation id="2055363275850890030">Privát Ablak</translation>
-<translation id="9133213713928851646">A Brave nem jegyzi meg, mit csinálsz egy Privát ablakban. A felkeresett oldalak nem jelennek meg az előzményeidben, és a sütik eltűnnek, amint végeztél. Azonban a Privát ablakok nem tesznek online teljesen névtelenné.</translation>
-<translation id="4085423007106063912">A Brave sosem jegyzi meg, mit csinál egy privát ablakban. A felkeresett oldalak nem jelennek meg az előzményei között. A sütik, az űrlapok és oldalak adatai eltűnnek az ablak bezárásával.</translation>
+<translation id="9133213713928851646">A Portal nem jegyzi meg, mit csinálsz egy Privát ablakban. A felkeresett oldalak nem jelennek meg az előzményeidben, és a sütik eltűnnek, amint végeztél. Azonban a Privát ablakok nem tesznek online teljesen névtelenné.</translation>
+<translation id="4085423007106063912">A Portal sosem jegyzi meg, mit csinál egy privát ablakban. A felkeresett oldalak nem jelennek meg az előzményei között. A sütik, az űrlapok és oldalak adatai eltűnnek az ablak bezárásával.</translation>
 <translation id="1700746046668116047">Ne feledje, hogy a tevékenysége továbbra is látható az internet-szolgáltatója, passzív hálózati megfigyelők, vagy a munkáltatója számára (amennyiben munkahelyi gépet vagy hálózatot használ). Adatainak még nagyobb védelme érdekében nyisson privát ablakot egy Tor böngészőben.</translation>
 <translation id="8759753423332885148">Bővebb információk.</translation>
 <translation id="8611976753572844841">Privát ablak Tor-csatlakozással</translation>
-<translation id="1645589858096839236">A Brave nem tárolja a privát ablakokban végzett böngészési tevékenységet. A Tor-csatlakozással nehezebbé válik a valódi IP-cím leolvasása a webhelyek számára, valamint a meglátogatott oldalak megtekintése a hálózati megfigyelők számára. Ha azonban személyes biztonsága az anonimitástól függ, használja inkább a Tor böngészőt.</translation>
+<translation id="1645589858096839236">A Portal nem tárolja a privát ablakokban végzett böngészési tevékenységet. A Tor-csatlakozással nehezebbé válik a valódi IP-cím leolvasása a webhelyek számára, valamint a meglátogatott oldalak megtekintése a hálózati megfigyelők számára. Ha azonban személyes biztonsága az anonimitástól függ, használja inkább a Tor böngészőt.</translation>
 <translation id="7919374705736538787">Keress titokban</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
-<translation id="218839872518145456">Privát kereséssel, a Brave DuckDuckGo-t fog használni a keresésekhez Privát Ablakokban.</translation>
+<translation id="218839872518145456">Privát kereséssel, a Portal DuckDuckGo-t fog használni a keresésekhez Privát Ablakokban.</translation>
 <translation id="1925197199485958903">Privát Ablakokban a Torral a DuckDuckgo az alapértelmezett keresőmotor. A többi népszerű keresőmotor nehezebben használható Torral. A DuckDuckGo nem követi keresési előzményeidet, a Torral még az IP-címedet sem fogják tudni.</translation>
 <translation id="4371533307685765155">Keressen DuckDuckGo-val</translation>
 <translation id="548478195417408221">Tedd a privát ablakokat még titkosabbá</translation>
 <translation id="3294503279952534143">Ez a privát ablak még jobban titkosított</translation>
 <translation id="6126226144537295436">Tor-csatlakozással</translation>
 <translation id="8541421872680304667">A Tor elrejti IP-címedet a felkeresett oldalak előtt. Ehhez több Tor szerveren keresztül futtatja át böngészésedet, mielőtt elérne céljához. A Tor lassíthatja a böngészést, és egyes oldalak egyáltalán nem fognak működni.</translation>
-<translation id="8897548669448660973">A privát ablakok használatakor a Brave csak az Ön gépére van hatással, mások viselkedésére nem. A Tor elrejti IP-címét a meglátogatott webhelyek elől. Ez megnehezíti, de nem teszi lehetetlenné, hogy az Ön internetszolgáltatója vagy munkáltatója nyomon kövesse, hogy Ön mely webhelyeket keresi fel. Nyisson meg egy privát ablakot Torral a menüből, vagy a következő segítségével: [[ key ]].</translation>
+<translation id="8897548669448660973">A privát ablakok használatakor a Portal csak az Ön gépére van hatással, mások viselkedésére nem. A Tor elrejti IP-címét a meglátogatott webhelyek elől. Ez megnehezíti, de nem teszi lehetetlenné, hogy az Ön internetszolgáltatója vagy munkáltatója nyomon kövesse, hogy Ön mely webhelyeket keresi fel. Nyisson meg egy privát ablakot Torral a menüből, vagy a következő segítségével: [[ key ]].</translation>
 <translation id="6975708438781948564">Tudj meg többet a Torról a Brave-en</translation>
 <translation id="4712050378540986986">Tor állapot</translation>
 <translation id="1939334281379458295">A Tor sikeresen kapcsolódott</translation>
@@ -165,17 +165,17 @@
 <translation id="5334844597069022743">Forrás megtekintése</translation>
 <translation id="4720556299488643018">Leiratkozás</translation>
 <translation id="1209739344687072997">Nem működő oldal jelentése</translation>
-<translation id="8510478288840333677">Hívja fel a Brave fejlesztőinek figyelmét arra, hogy ez az oldal nem működik megfelelően a Shieldsel:</translation>
-<translation id="4105411033440701818">Megjegyzés: amikor a „Beküldés” gombra kattint, akkor megosztja a Brave fejlesztőivel a weboldal címét, a Brave verziószámát, valamint az Ön IP-címét. (Az IP-címet nem fogjuk tárolni.)</translation>
+<translation id="8510478288840333677">Hívja fel a Portal fejlesztőinek figyelmét arra, hogy ez az oldal nem működik megfelelően a Shieldsel:</translation>
+<translation id="4105411033440701818">Megjegyzés: amikor a „Beküldés” gombra kattint, akkor megosztja a Portal fejlesztőivel a weboldal címét, a Portal verziószámát, valamint az Ön IP-címét. (Az IP-címet nem fogjuk tárolni.)</translation>
 <translation id="6476216365964140603">További részletek (opcionális)</translation>
 <translation id="6145852496180774737">Kapcsolatba léphetnek velem itt: (opcionális)</translation>
 <translation id="7616645803364270729">E-mailben, Twitteren stb.</translation>
 <translation id="5299848999918506028">Köszönjük!</translation>
-<translation id="76550953340008122">Köszönjük, hogy értesítette a Brave fejlesztőit arról, hogy valami hiba van az oldalon. Mindent megteszünk, hogy kijavítsuk!</translation>
-<translation id="2974339193389078578">A Brave az új internet</translation>
+<translation id="76550953340008122">Köszönjük, hogy értesítette a Portal fejlesztőit arról, hogy valami hiba van az oldalon. Mindent megteszünk, hogy kijavítsuk!</translation>
+<translation id="2974339193389078578">A Portal az új internet</translation>
 <translation id="7735138632831241257">Készüljön fel rá, hogy a személyes adatai védelmére épülő böngészővel sokkal gyorsabb és biztonságosabb böngészési élményben lesz része.</translation>
 <translation id="6001839398155993679">Induljunk</translation>
-<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Szerezz tokeneket<ph name="END_BOLD"/> Brave privát hirdetések megtekintésével, és támogasd automatikusan a tartalomkészítőket.</translation>
+<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Szerezz tokeneket<ph name="END_BOLD"/> Portal privát hirdetések megtekintésével, és támogasd automatikusan a tartalomkészítőket.</translation>
 <translation id="5477721706074111257">A kattintással elfogadod a <ph name="BEGIN_LINK"/>Szolgáltatási feltételeket<ph name="END_LINK"/> és az<ph name="BEGIN_LINK"/>Adatvédelmi szabályzatot<ph name="END_LINK"/>.</translation>
 <translation id="3505541710659461355">Ezt bármikor kikapcsolhatod a beállításokban.</translation>
 <translation id="2965798296974325760">Rewards használatának indítása</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Importálás</translation>
 <translation id="2088479175984386785">Importálás forrása...</translation>
 <translation id="5540323067375019678">Adatvédelmi pajzsok kezelése</translation>
-<translation id="3278033011827237847">Megóv az adatbiztonságot veszélyeztető hirdetésektől és nyomkövetőktől Brave Shields-szel való böngészés közben. Állítsd a Shields-et „le” re, ha úgy tűnik, hogy egy oldal nem működik megfelelően.</translation>
+<translation id="3278033011827237847">Megóv az adatbiztonságot veszélyeztető hirdetésektől és nyomkövetőktől Portal Shields-szel való böngészés közben. Állítsd a Shields-et „le” re, ha úgy tűnik, hogy egy oldal nem működik megfelelően.</translation>
 <translation id="3366308997091824722">Pajzs beállítások</translation>
 <translation id="4764692524839457597">alapértelmezett</translation>
 <translation id="3108122610701115301">Alapértelmezett beállítása</translation>
@@ -194,16 +194,16 @@
 <translation id="3829010735958850433">Üdvözlő bemutató átugrása</translation>
 <translation id="1201402288615127009">Következő</translation>
 <translation id="7954950242989581218">Böngéssz biztonságban</translation>
-<translation id="2188651882929633653">A Brave Shields blokkolja a fura dolgokat, amelyek megpróbálják nyomon követni az interneten — beleértve a hirdetéseket. Kapcsolja “ki” a Shields funkciót, amennyibe egy oldal nem működik. A Brave <ph name="BEGIN_LINK_P3A"/>teljesen bizalmas termék analitikát <ph name="END_LINK_P3A"/> használ egy adott funkció teljes használatának megbecsléséhez. Ezt kikapcsolhatja a <ph name="BEGIN_LINK_P3A_SETTINGS"/>beállításokban<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="2188651882929633653">A Portal Shields blokkolja a fura dolgokat, amelyek megpróbálják nyomon követni az interneten — beleértve a hirdetéseket. Kapcsolja “ki” a Shields funkciót, amennyibe egy oldal nem működik. A Portal <ph name="BEGIN_LINK_P3A"/>teljesen bizalmas termék analitikát <ph name="END_LINK_P3A"/> használ egy adott funkció teljes használatának megbecsléséhez. Ezt kikapcsolhatja a <ph name="BEGIN_LINK_P3A_SETTINGS"/>beállításokban<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="4851215387785619212">Brave privát hirdetések</translation>
-<translation id="3114984266384096064">Keressen [[currency]] összeget Brave privát hirdetések megtekintésével. A megjelenített hirdetések az Ön érdeklődésén alapulnak, melyre a böngészési szokásaiból következtettünk. A böngészőjét semmilyen személyes adat vagy böngészési előzmény nem hagyja el.</translation>
+<translation id="3114984266384096064">Keressen [[currency]] összeget Portal privát hirdetések megtekintésével. A megjelenített hirdetések az Ön érdeklődésén alapulnak, melyre a böngészési szokásaiból következtettünk. A böngészőjét semmilyen személyes adat vagy böngészési előzmény nem hagyja el.</translation>
 <translation id="6112368337882254910">Automatikus támogatás</translation>
-<translation id="3742599705619405136">Automatikus módja a kiadók és tartalomkészítők támogatásának. Állítsa be a havi összeget, és böngésszen a megszokott módon. A meglátogatott, Brave által hitelesített webhelyek automatikusan megkapják a hozzájárulást az ön figyelme alapján, amit a Brave mér.</translation>
+<translation id="3742599705619405136">Automatikus módja a kiadók és tartalomkészítők támogatásának. Állítsa be a havi összeget, és böngésszen a megszokott módon. A meglátogatott, Portal által hitelesített webhelyek automatikusan megkapják a hozzájárulást az ön figyelme alapján, amit a Portal mér.</translation>
 <translation id="3325399124634342726">Havi aktuális (becsült) kereset</translation>
 <translation id="8593551638387217772">Következő fizetés dátuma</translation>
 <translation id="4428871418618312983">A hónap folyamán kapott hirdetések</translation>
 <translation id="4229016885653790965">Sajnáljuk, területén még nem állnak rendelkezésre hirdetések.</translation>
-<translation id="2539279826042558064">Jelenleg nem érhető el a Brave Rewards és Ads készülékéről</translation>
+<translation id="2539279826042558064">Jelenleg nem érhető el a Portal Rewards és Ads készülékéről</translation>
 <translation id="5736977383725358876">Reklámértesítések gyakorisága</translation>
 <translation id="7701040980221191251">Nincs</translation>
 <translation id="767929144984201135">Óránként legfeljebb 1 hirdetés</translation>
@@ -213,7 +213,7 @@
 <translation id="8827015466803589071">Óránként legfeljebb 5 hirdetés</translation>
 <translation id="2293009346092992234">Óránként legfeljebb 10 hirdetés</translation>
 <translation id="2356652719351432565">Regionális vonatkozású hirdetések</translation>
-<translation id="3216275550298493597">Ez lehetővé teszi, hogy a Brave kifejezetten az Ön régiójának célzott hirdetéseket mutasson.</translation>
+<translation id="3216275550298493597">Ez lehetővé teszi, hogy a Portal kifejezetten az Ön régiójának célzott hirdetéseket mutasson.</translation>
 <translation id="8446884382197647889">További információ</translation>
 <translation id="6209514229703649203">Automatikusan felismerve mint [[adsSubdivisionTarget]]</translation>
 <translation id="8010081455002666927">Automatikus észlelés</translation>
@@ -256,7 +256,7 @@
 <translation id="6032511312767282174">GitHub</translation>
 <translation id="2635094637295383009">Twitter</translation>
 <translation id="7583327070390027131">A következő havi borravaló dátuma</translation>
-<translation id="6231182869178328516">Épp most küldtem jattot neki: <ph name="NAME"/> a Brave böngészőt használva. Nézd meg itt: https://brave.com/tips.</translation>
+<translation id="6231182869178328516">Épp most küldtem jattot neki: <ph name="NAME"/> a Portal böngészőt használva. Nézd meg itt: https://brave.com/tips.</translation>
 <translation id="5916536234616514390">Imádom, hogy a <ph name="HASHTAG"/>Brave lehetővé teszi, hogy borravalót adjak. Épp most adtam <ph name="HASHTAG2"/> BAT borravalót neki: <ph name="NAME"/>. Ha ellenőrzötté válik a https://creators.brave.com weboldalon a következő időpontig: <ph name="DATE"/>, a BAT az övé!</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="3082557070674409251">Már kattintott</translation>
@@ -265,28 +265,28 @@
 <translation id="8826352442759228526">Brave jutalmainak hitelesítése nem lehetséges, mert már elérte a hitelesített eszközök maximális számát.</translation>
 <translation id="1221593978088944142">Hiba: eszközhatár elérve</translation>
 <translation id="3113653894794167793">Sajnáljuk, hiba történt a kérésed teljesítése során, próbáld újra.</translation>
-<translation id="3509185560119586847">Brave Rewards-profilja sajnos rosszindulatúként lett megjelölve, és a letétkezelő általi hitelesítés jelenleg nem áll rendelkezésére. Ezt a megjelölést esetenként a rendellenes Brave Ads-beli tevékenység okozhatja, de lehet téves pozitív is.</translation>
-<translation id="5031451251720571882">Vegye figyelembe, hogy ameddig a Brave Jutalmak-profilja meg van jelölve, nem lesz képes hitelesíteni.</translation>
-<translation id="7301759045821910866">Önnek ezzel kapcsolatban nincs teendője. Brave Jutalmak-proflja rendszeresen újbóli ellenőrzésre kerül, megállapítandó, hogy a megjelölést el lehet-e távolítani. Kérjük, időnként próbálkozzon újra, hogy megtudhassa, ha a megjelölés el lett távolítva.</translation>
-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>További tudnivalók a Brave eljárásáról a Jutalmak-profilok megjelölésével kapcsolatban.<ph name="END_LINK"/></translation>
-<translation id="5028274575541726856">Hiba: a Brave Jutalmak-profilja meg van jelölve</translation>
+<translation id="3509185560119586847">Brave Rewards-profilja sajnos rosszindulatúként lett megjelölve, és a letétkezelő általi hitelesítés jelenleg nem áll rendelkezésére. Ezt a megjelölést esetenként a rendellenes Portal Ads-beli tevékenység okozhatja, de lehet téves pozitív is.</translation>
+<translation id="5031451251720571882">Vegye figyelembe, hogy ameddig a Portal Jutalmak-profilja meg van jelölve, nem lesz képes hitelesíteni.</translation>
+<translation id="7301759045821910866">Önnek ezzel kapcsolatban nincs teendője. Portal Jutalmak-proflja rendszeresen újbóli ellenőrzésre kerül, megállapítandó, hogy a megjelölést el lehet-e távolítani. Kérjük, időnként próbálkozzon újra, hogy megtudhassa, ha a megjelölés el lett távolítva.</translation>
+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>További tudnivalók a Portal eljárásáról a Jutalmak-profilok megjelölésével kapcsolatban.<ph name="END_LINK"/></translation>
+<translation id="5028274575541726856">Hiba: a Portal Jutalmak-profilja meg van jelölve</translation>
 <translation id="2607420597216860026">Próbálja meg újra, miután elvégezte az azonosító-hitelesítést itt: <ph name="PROVIDER"/>.</translation>
 <translation id="3183954159462541696">Hiba: a bejelentkezéshez ellenőrzött fiókra van szüksége</translation>
 <translation id="1859789048900659918">Hmm, úgy tűnik, a Brave-jutalmakhoz megadott országa nem egyezik a csatlakoztatni kívánt <ph name="PROVIDER"/>-fiók országával.</translation>
 <translation id="8925428135452218262">Hiba: Eltérő országok</translation>
-<translation id="5260522591743022748">Hmm, úgy tűnik, hogy a Brave Rewards jutalmait már egy másik <ph name="PROVIDER"/> fióknál ellenőrizték. Próbálja meg újra ellenőrizni a korábbi fiókjával.</translation>
+<translation id="5260522591743022748">Hmm, úgy tűnik, hogy a Portal Rewards jutalmait már egy másik <ph name="PROVIDER"/> fióknál ellenőrizték. Próbálja meg újra ellenőrizni a korábbi fiókjával.</translation>
 <translation id="5111921830714291902">Hiba: eltérő fiók</translation>
-<translation id="5225019866741699134">Úgy fest, a következőt átmenetileg nem lehet a Brave jutalmakhoz csatlakozni: <ph name="PROVIDER"/>. Kérjük, próbálja újra később!</translation>
+<translation id="5225019866741699134">Úgy fest, a következőt átmenetileg nem lehet a Portal jutalmakhoz csatlakozni: <ph name="PROVIDER"/>. Kérjük, próbálja újra később!</translation>
 <translation id="6105073131081187815">Itt megtekintheti a <ph name="BEGIN_LINK"/>szolgáltatás állapotát<ph name="END_LINK"/>.</translation>
 <translation id="2400786541309111904">Hiba: a kiválasztott fiókszolgáltatóhoz jelenleg nem lehet csatlakozni</translation>
-<translation id="1024520300696337331">Az <ph name="PROVIDER"/>-fiókja jelenleg nem kapcsolható össze a Brave jutalmak-profiljával. Az <ph name="PROVIDER"/>-fiókja olyan országban van regisztrálva, amely esetében a Brave jutalmakkal való összekapcsolás jelenleg nem támogatott.</translation>
-<translation id="619384413404021992">Tekintse meg a <ph name="LINK_BEGIN"/>jelenleg támogatott régiók listáját, és tudjon meg többet<ph name="END_LINK"/> a letétkezelő fiókok Brave jutalmakkal való összekapcsolásáról.</translation>
+<translation id="1024520300696337331">Az <ph name="PROVIDER"/>-fiókja jelenleg nem kapcsolható össze a Portal jutalmak-profiljával. Az <ph name="PROVIDER"/>-fiókja olyan országban van regisztrálva, amely esetében a Portal jutalmakkal való összekapcsolás jelenleg nem támogatott.</translation>
+<translation id="619384413404021992">Tekintse meg a <ph name="LINK_BEGIN"/>jelenleg támogatott régiók listáját, és tudjon meg többet<ph name="END_LINK"/> a letétkezelő fiókok Portal jutalmakkal való összekapcsolásáról.</translation>
 <translation id="7193389978208728181">Hiba: a régió jelenleg nem támogatott</translation>
 <translation id="5382684862562314222">Az Upholdban a BAT egyelőre nem támogatott az Ön régiójában.</translation>
 <translation id="9074594632540931067">Hiba: BAT nem elérhető</translation>
 <translation id="5376524136040178759">Az Uphold szerint jelenleg korlátozottan elérhető az Ön Uphold fiókja. Lépjen be az Uphold fiókjába, és ellenőrizze, kapott-e valamilyen figyelmeztetést, vagy meg kell-e felelnie valami követelménynek a fiókban, majd próbálkozzon újra. Elképzelhető, hogy további információt kell nyújtania az Uphold számára.</translation>
 <translation id="6996157559236886133">Hiba: korlátozott Uphold-fiókfunkciók</translation>
-<translation id="3274650021044762770">Probléma lépett fel a böngészője kérésének érvényesítésével, amely a Brave jutalmak és a(z) <ph name="PROVIDER"/> fiók összekapcsolására vonatkozott. További segítségért <ph name="BEGIN_LINK"/>lépjen kapcsolatba az ügyfélszolgálattal<ph name="END_LINK"/>.</translation>
+<translation id="3274650021044762770">Probléma lépett fel a böngészője kérésének érvényesítésével, amely a Portal jutalmak és a(z) <ph name="PROVIDER"/> fiók összekapcsolására vonatkozott. További segítségért <ph name="BEGIN_LINK"/>lépjen kapcsolatba az ügyfélszolgálattal<ph name="END_LINK"/>.</translation>
 <translation id="1316066811927496401">Hiba: a kérést nem lehetett érvényesíteni</translation>
 <translation id="1737873393693460829">A(z) [[title]] bekapcsolásával elfogadja a <ph name="BEGIN_LINK1"/>Szolgáltatási feltételeket<ph name="END_LINK1"/> és az <ph name="BEGIN_LINK2"/>Adatvédelmi szabályzatot<ph name="END_LINK2"/>.</translation>
 <translation id="4123948149985772126">Válasszon fiókszolgáltatót</translation>
@@ -295,15 +295,15 @@
 <translation id="2147158325758481862">Az ellenőrzés opcionális</translation>
 <translation id="8228649055483250005">A letétkezelő pénztárca-szolgáltatók kötelesek a pénztárcát létrehozók személyazonosságát ellenőrizni, beleértve a fényképes igazolvány használatát.</translation>
 <translation id="2672513643520959619">A <ph name="BOLD_BEGIN"/>Brave Software Inc.<ph name="BOLD_END"/> nem dolgozza fel, nem tárolja és nem fér hozzá az Ön által a letétkezelő pénztárca-partnereinkkel történő fiók létrehozásakor megadott személyes adatokhoz.</translation>
-<translation id="6682919029276027868">Jelenlegi Brave Jutalmak-funkciói azonban korlátozottak. A letétkezelő pénztárca-partnerrel történő hitelesítéssel lehetővé válnak az alábbiak:</translation>
+<translation id="6682919029276027868">Jelenlegi Portal Jutalmak-funkciói azonban korlátozottak. A letétkezelő pénztárca-partnerrel történő hitelesítéssel lehetővé válnak az alábbiak:</translation>
 <translation id="9064931634458501855">Szabadon vehet le és fizethet be összegeket</translation>
 <translation id="3222002542796906461">A jutalmak közvetlenül a fiókjába érkezhetnek</translation>
 <translation id="1233129511866436960">További tudnivalók a régiókról és a támogatásról</translation>
 <translation id="7329170127335794328">Jelenleg nem érhető el a régiójában</translation>
-<translation id="8304979233901023264">Elolvastam és elfogadom a következőket: Brave <ph name="TOS_LINK_BEGIN"/>Általános szerződési feltételek<ph name="TOS_LINK_END"/> és <ph name="PP_LINK_BEGIN"/>Adatvédelmi szabályzat<ph name="PP_LINK_END"/>.</translation>
+<translation id="8304979233901023264">Elolvastam és elfogadom a következőket: Portal <ph name="TOS_LINK_BEGIN"/>Általános szerződési feltételek<ph name="TOS_LINK_END"/> és <ph name="PP_LINK_BEGIN"/>Adatvédelmi szabályzat<ph name="PP_LINK_END"/>.</translation>
 <translation id="2359808026110333948">Folytatás</translation>
 <translation id="1892970806832316900">Függőben eddig: <ph name="DATE"/></translation>
-<translation id="7849926087559412554">Hoppá! A böngészője nem jeleníthet meg Brave privát hirdetéseket.</translation>
+<translation id="7849926087559412554">Hoppá! A böngészője nem jeleníthet meg Portal privát hirdetéseket.</translation>
 <translation id="5177429570315095022">Frissítse a böngészőjét, hogy továbbra is lásson hirdetéseket.</translation>
 <translation id="7352651011704765696">Valami hiba történt</translation>
 <translation id="752216563428219524">Az Ads nincs inicializálva, frissítse az oldalt.</translation>
@@ -410,7 +410,7 @@
 <translation id="9088057605518918276">Beállította a havi borravalót.</translation>
 <translation id="6306631474379759382">Következő borravaló dátuma:</translation>
 <translation id="3593485149443019592">Nincs elég token. Kérjük, <ph name="LINK_BEGIN"/>adjon hozzá további összeget<ph name="LINK_END"/>.</translation>
-<translation id="3586352807094428968">A Brave a borravaló 5%-át begyűjti kezelési költségként.</translation>
+<translation id="3586352807094428968">A Portal a borravaló 5%-át begyűjti kezelési költségként.</translation>
 <translation id="207268487070188114">Egyszeri borravaló</translation>
 <translation id="69861679024013299">Egyszeri borravaló mértéke:</translation>
 <translation id="3288812755711687300"><ph name="USER"/> bejegyzése</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">Függőben lévő borravalót állított be.</translation>
 <translation id="5096821444729034955">bejegyzésükhöz</translation>
 <translation id="2978223787436054634">Tweetelj támogatásodról</translation>
-<translation id="5916290544882167205">Brave Software. A Brave a Brave Software bejegyzett védjegye. A webhelynevek a megfelelő webhelytulajdonos védjegyei vagy bejegyzett védjegyei lehetnek.</translation>
-<translation id="9026369588205476247">Személyes adatai védelme érdekében ezt a Brave nyilatkozatot sehol sem mentették el, naplózták vagy rögzítették az eszközén (ezen a számítógépen) kívül. Eszköze adatvesztése esetén a Brave nem tudja helyreállítani.</translation>
+<translation id="5916290544882167205">Brave Software. A Portal a Portal Software bejegyzett védjegye. A webhelynevek a megfelelő webhelytulajdonos védjegyei vagy bejegyzett védjegyei lehetnek.</translation>
+<translation id="9026369588205476247">Személyes adatai védelme érdekében ezt a Portal nyilatkozatot sehol sem mentették el, naplózták vagy rögzítették az eszközén (ezen a számítógépen) kívül. Eszköze adatvesztése esetén a Portal nem tudja helyreállítani.</translation>
 <translation id="3587482841069643663">Mind</translation>
 <translation id="4241224519481557898">Kategória</translation>
 <translation id="3080423471207781945">Kapott hirdetések maximális száma óránként:</translation>
@@ -434,7 +434,7 @@
 <translation id="2777306694585938662">Kapott hirdetési jutalmak</translation>
 <translation id="5212777575344695266">Megjelölés nem helyénvalóként</translation>
 <translation id="2111256234277361810">Megjelölés nem helyénvalóként ✓</translation>
-<translation id="8988332871810963281">Jelenleg nincsenek Brave Ads előzmények</translation>
+<translation id="8988332871810963281">Jelenleg nincsenek Portal Ads előzmények</translation>
 <translation id="5345727496083327478">A továbbiakban nem kap ilyen kategóriájú hirdetéseket</translation>
 <translation id="2631006050119455616">Mentve</translation>
 <translation id="3819257035322786455">Biztonsági mentés</translation>
@@ -447,14 +447,14 @@
 <translation id="4932733599132424254">Dátum</translation>
 <translation id="3552003743293281224">Befizetések</translation>
 <translation id="3866249974567520381">Leírás</translation>
-<translation id="8605272644314973683">A Brave Jutalom</translation>
+<translation id="8605272644314973683">A Portal Jutalom</translation>
 <translation id="1346059596910821859">Adomány</translation>
 <translation id="7277134233385925078">Havi borravaló megadása</translation>
 <translation id="298067735430872465">Jövedelem hirdetésekből</translation>
 <translation id="1418534671788496616">Nézze meg a letétbe helyezési előzményeit</translation>
 <translation id="3412655388715513818">Ennek a honlapnak a kizárása</translation>
 <translation id="418343137736963579">Az Automatikus böngészésből kizárt összes honlap száma:</translation>
-<translation id="8802504113265057166">A lejárati dátumig fel nem használt [[currency]] automatikusan visszakerül a Brave User Growth Poolba.</translation>
+<translation id="8802504113265057166">A lejárati dátumig fel nem használt [[currency]] automatikusan visszakerül a Portal User Growth Poolba.</translation>
 <translation id="279567716178902927">Adomány Lejárati Dátuma</translation>
 <translation id="1389143276807887637">importálás</translation>
 <translation id="6302422639282249274">Brave Rewards kezelése</translation>
@@ -498,13 +498,13 @@
 <translation id="5939518447894949180">Visszaállítás</translation>
 <translation id="5669281110673664811">Kizárási lista törlése</translation>
 <translation id="1797334173232638045">Rögzített oldalai áthelyezésre kerültek ide</translation>
-<translation id="542042553430131913">Ha Brave jutalmai nem lettek hitelesítve, BAT-egyenlege az eszközén helyi fájlokon lesz tárolva.</translation>
+<translation id="542042553430131913">Ha Portal jutalmai nem lettek hitelesítve, BAT-egyenlege az eszközén helyi fájlokon lesz tárolva.</translation>
 <translation id="2142973554991645476">Ha szeretné biztosítani BAT-egyenlegét arra az esetre, ha a böngészőt újra kell telepítenie vagy az eszközét újra kell formáznia, és szeretne olyan további előnyökre szert tenni, mint például BAT hozzáadása vagy felvétele, akkor ajánljuk a <ph name="LINK_BEGIN"/>hitelesítést<ph name="LINK_END"/>.</translation>
 <translation id="5317144262906129592">Ezt az alkotót jatt küldésével támogathatja. Ezzel köszönetet mondhat az általa készített nagyszerű tartalmakért.</translation>
 <translation id="3074127054582480056">Figyelem</translation>
-<translation id="3659457123782988823">Biztos benne, hogy alaphelyzetbe állítja a Brave Jutalmakat?</translation>
-<translation id="4048187103708861555">Az Ön birtokában lévő <ph name="BAT_AMOUNT"/> és egyéb, Jutalmakra vonatkozó adatai végleg elvesznek, ha visszaállítja a Brave Jutalmakat. Győződjön meg róla, hogy elvégezte a <ph name="LINK_BEGIN"/>hitelesítést<ph name="LINK_END"/>, hogy megtarthassa BAT-ját.</translation>
-<translation id="3548849774726860833">A Jutalmakra vonatkozó adatai végleg elvesznek a Brave Jutalmak alaphelyzetbe állításakor.</translation>
+<translation id="3659457123782988823">Biztos benne, hogy alaphelyzetbe állítja a Portal Jutalmakat?</translation>
+<translation id="4048187103708861555">Az Ön birtokában lévő <ph name="BAT_AMOUNT"/> és egyéb, Jutalmakra vonatkozó adatai végleg elvesznek, ha visszaállítja a Portal Jutalmakat. Győződjön meg róla, hogy elvégezte a <ph name="LINK_BEGIN"/>hitelesítést<ph name="LINK_END"/>, hogy megtarthassa BAT-ját.</translation>
+<translation id="3548849774726860833">A Jutalmakra vonatkozó adatai végleg elvesznek a Portal Jutalmak alaphelyzetbe állításakor.</translation>
 <translation id="4914597931214386232">Beváltott zseton adományok</translation>
 <translation id="3494964159182650590">Jutalmak összefoglalója</translation>
 <translation id="2913994227901456490">Az összes [[numItems]] elem megtekintése</translation>
@@ -518,16 +518,16 @@
 <translation id="5015443703424816075">Token</translation>
 <translation id="1634828734222219955">Összesen</translation>
 <translation id="3535654229833214438">Tranzakciók</translation>
-<translation id="8772672608371898774">Ellenőrzött Brave tartalomszolgáltató</translation>
+<translation id="8772672608371898774">Ellenőrzött Portal tartalomszolgáltató</translation>
 <translation id="5050370287908180130">Havi kimutatás megtekintése a részletekhez</translation>
 <translation id="7853202427316060426">Tevékenység</translation>
 <translation id="7232682712743566408">Jutalmak egyenlege</translation>
 <translation id="1910721550319506122">Üdvözöljük!</translation>
-<translation id="4258022280942725182">Az Ön Brave Jutalmai</translation>
+<translation id="4258022280942725182">Az Ön Portal Jutalmai</translation>
 <translation id="6727483290601442544">Részletek megtekintése</translation>
 <translation id="4206899127409458763">Brave Jutalmak profiljának létrehozása folyamatban</translation>
 <translation id="1988679729106502285">MEGJEGYZÉS:</translation>
-<translation id="4047340292178074200">Ez az alkotó még nem regisztrált, hogy borravalót fogadhasson az Ön Brave Jutalmak letétkezelő pénztárca-szolgáltatójától. Minden borravaló, amelyet neki küld, függő állapotban marad, és a feldolgozására többször automatikusan kísérletet teszünk 90 napig.</translation>
+<translation id="4047340292178074200">Ez az alkotó még nem regisztrált, hogy borravalót fogadhasson az Ön Portal Jutalmak letétkezelő pénztárca-szolgáltatójától. Minden borravaló, amelyet neki küld, függő állapotban marad, és a feldolgozására többször automatikusan kísérletet teszünk 90 napig.</translation>
 <translation id="5530734056858418442">Ez az alkotó még nem regisztrált. Minden borravaló, amit neki küld, függő állapotban marad, és feldolgozását 90 napot át automatikusan mindig újra megkíséreljük.</translation>
 <translation id="3197752845651180812">Függőben lévő hozzájárulások</translation>
 <translation id="6964891561514920613">Minden függőben lévő hozzájárulás mutatása</translation>
@@ -542,10 +542,10 @@
 <translation id="5113531205597573951">Megtekintett oldalak</translation>
 <translation id="4450893287417543264">Ne mutassa többé</translation>
 <translation id="6518133107902771759">Ellenőrzés</translation>
-<translation id="422369484771082705">A hitelesítés nem kötelező, általa viszont a Brave Jutalmak révén szerzett BAT-ket közvetlenül kiveheti egy letétkezelői pénztárcába.</translation>
+<translation id="422369484771082705">A hitelesítés nem kötelező, általa viszont a Portal Jutalmak révén szerzett BAT-ket közvetlenül kiveheti egy letétkezelői pénztárcába.</translation>
 <translation id="4354564238172327160">Legyen Ön is Brave-alkotó!</translation>
 <translation id="4639659520811817892">Látogasson a creators.brave.com-ra, regisztráljon még ma, és kezdjen el BAT-ot gyűjteni a rajongóitól és követőitől.</translation>
-<translation id="4816455138209470435">A Brave támogatja a YouTube-ot, a Twitchet, a Vimeót, és még sok mást!</translation>
+<translation id="4816455138209470435">A Portal támogatja a YouTube-ot, a Twitchet, a Vimeót, és még sok mást!</translation>
 <translation id="3656941797339037856">Kapcsolja össze a Rewards-ot a Geminivel!</translation>
 <translation id="31532096120351460">A Geminin 50+ kriptovalutával kereskedhet, többek között BAT-kkel. Biztonságos platform a kriptovalutái tárolására, amely a kamatozást is lehetővé teszi az Egyesült Államokban, Hongkongban és Szingapúrban.</translation>
 <translation id="7404779623219601861">BAT beváltása ajándékkártyákért</translation>
@@ -556,7 +556,7 @@
 <translation id="7840362246306242214">Az Upholdon lehetséges E.Á. részvényekkel való kereskedés</translation>
 <translation id="3345432088196080137">Már akár 1$-t is befektethetsz népszerű részvényekbe, és kereskedhetsz AAPL, TSLA vagy AMZN és hasonló alapokkal.</translation>
 <translation id="3787061634640932557">Kártyák szerkesztése</translation>
-<translation id="2070991379950719711">Használja a Brave Rewardsot</translation>
+<translation id="2070991379950719711">Használja a Portal Rewardsot</translation>
 <translation id="5977237145327845546">Indíts videóhívást barátaiddal és munkatársaiddal.</translation>
 <translation id="8863928195533744356">Hívás indítása</translation>
 <translation id="3651550649176056334">Az adataidról</translation>
@@ -623,9 +623,9 @@
 <translation id="824449983246282560">Nincs összeg a számláján. A Geminiben szerezhet magának.</translation>
 <translation id="8624961452383848703">Szeretnék átváltani...</translation>
 <translation id="1544192797660353713">Pénztárca</translation>
-<translation id="616639131065447379">Üdvözöl a Brave Crypto Wallets</translation>
+<translation id="616639131065447379">Üdvözöl a Portal Crypto Wallets</translation>
 <translation id="1740464057879304704">A Crypto Wallets lehetővé teszi, hogy a Brave-ben kriptovalutával és kapcsolódó eszközökkel dolgozzon. A Crypto Wallets támogatja az Ethereum tokeneket, mint az ETH és a BAT, valamint a gyűjthető tárgyakat, és lehetővé teszi a Ðapps és más intelligens szerződésekkel való munkát. Mindez olyan embereknek szól, akik ismerik az Ethereumot és más blokklánc-rendszereket - vagy lelkesedéssel tanulnak.</translation>
-<translation id="4855440621031541830">Csak akkor használd a Crypto Wallets-et, ha elfogadod, hogy egyedül te felelsz a használattal járó kockázatokért, és a Brave Software nem tartozik felelősséggel vagy kötelezettséggel használat következtében keletkező semmilyen veszteségért, beleértve a véletlen vagy következményes veszteségeket.</translation>
+<translation id="4855440621031541830">Csak akkor használd a Crypto Wallets-et, ha elfogadod, hogy egyedül te felelsz a használattal járó kockázatokért, és a Portal Software nem tartozik felelősséggel vagy kötelezettséggel használat következtében keletkező semmilyen veszteségért, beleértve a véletlen vagy következményes veszteségeket.</translation>
 <translation id="3187473319809074178">Mindez teljesen külön van</translation>
 <translation id="8327818101454798856">Ha kedvenc oldalaidat szeretnéd támogatni, inkább oda menj.</translation>
 <translation id="412480955826088549">Komponens letöltése...</translation>
@@ -642,24 +642,24 @@
 <translation id="1164622162816276433">24HR mennyiség</translation>
 <translation id="7534079972563542000">Unstoppable Domains</translation>
 <translation id="4492298165410552103">Engedélyezed az Unstoppable Domains támogatását a Brave-ben?</translation>
-<translation id="689573545156113164">A Brave az Infura használatával fog küldeni Ethereum JSON-RPC-hívásokat az intelligens szerződésnek az Unstoppable Domainstől, hogy feloldja a .crypto (valamint a .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil) domainnév-keresési kéréseket. Amennyiben engedélyezi ezt, az Infura látni fogja azokat a konkrét domaineket, melyeket meg szeretne látogatni, de a többi domaint nem. Tekintse meg az Infura <ph name="BEGIN_INFURA_TOU_LINK"/>használati feltételeit <ph name="END_INFURA_TOU_LINK"/> és <ph name="BEGIN_INFURA_PRIVACY_LINK"/>adatvédelmi irányelveit<ph name="END_INFURA_PRIVACY_LINK"/>.</translation>
+<translation id="689573545156113164">A Portal az Infura használatával fog küldeni Ethereum JSON-RPC-hívásokat az intelligens szerződésnek az Unstoppable Domainstől, hogy feloldja a .crypto (valamint a .x, .coin, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil) domainnév-keresési kéréseket. Amennyiben engedélyezi ezt, az Infura látni fogja azokat a konkrét domaineket, melyeket meg szeretne látogatni, de a többi domaint nem. Tekintse meg az Infura <ph name="BEGIN_INFURA_TOU_LINK"/>használati feltételeit <ph name="END_INFURA_TOU_LINK"/> és <ph name="BEGIN_INFURA_PRIVACY_LINK"/>adatvédelmi irányelveit<ph name="END_INFURA_PRIVACY_LINK"/>.</translation>
 <translation id="6513892817556267573">Ethereum Name Service</translation>
 <translation id="4335039108389860301">Engedélyezed az Ethereum Name Service (ENS) támogatást a Brave-ben?</translation>
-<translation id="8328137586971750853">A Brave az Infura használatával fog kiadni Ethereum JSON-RPC-hívásokat az Ethereum Name Service-ből származó intelligens szerződés felé azért, hogy teljesítse az .eth domainnév keresési kéréseit. Amennyiben engedélyezi ezt, az Infura látni fogja az Ön által felkeresni kívánt .eth domaint, de más domaineket nem. Tekintse meg az Infura <ph name="BEGIN_INFURA_TOU_LINK"/> felhasználási feltételeit <ph name="END_INFURA_TOU_LINK"/> és <ph name="BEGIN_INFURA_PRIVACY_LINK"/> adatvédelmi szabályzatát <ph name="END_INFURA_PRIVACY_LINK"/>.</translation>
+<translation id="8328137586971750853">A Portal az Infura használatával fog kiadni Ethereum JSON-RPC-hívásokat az Ethereum Name Service-ből származó intelligens szerződés felé azért, hogy teljesítse az .eth domainnév keresési kéréseit. Amennyiben engedélyezi ezt, az Infura látni fogja az Ön által felkeresni kívánt .eth domaint, de más domaineket nem. Tekintse meg az Infura <ph name="BEGIN_INFURA_TOU_LINK"/> felhasználási feltételeit <ph name="END_INFURA_TOU_LINK"/> és <ph name="BEGIN_INFURA_PRIVACY_LINK"/> adatvédelmi szabályzatát <ph name="END_INFURA_PRIVACY_LINK"/>.</translation>
 <translation id="807404806385418949">Ethereum-névszolgáltatás láncon kívül keresése</translation>
 <translation id="4049590838234508776">Engedélyezi az Ethereum-névszolgáltatások (ENS) láncon kívül keresését a Brave-ben?</translation>
-<translation id="1769433806670482329">A Brave blokkláncon kívüli átjárók használatával fogja feloldani az .eth domainnév-keresési kéréseket. Ha engedélyezi ezt, a harmadik felekhez tartozó átjárók látni fogják a meglátogatni kívánt .eth domaint, más domaineket viszont nem. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/> További információ <ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
+<translation id="1769433806670482329">A Portal blokkláncon kívüli átjárók használatával fogja feloldani az .eth domainnév-keresési kéréseket. Ha engedélyezi ezt, a harmadik felekhez tartozó átjárók látni fogják a meglátogatni kívánt .eth domaint, más domaineket viszont nem. <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/> További információ <ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
 <translation id="4047002754575891955">Folytatás láncon kívüli kereséssel</translation>
 <translation id="531747189990625622">Solana Name Service</translation>
 <translation id="1090584614351290462">Engedélyezi a Solana Name Service (SNS) támogatását a Brave-ben?</translation>
-<translation id="954404755605517948">A Brave a Coinbase Cloud használatával fog kiadni Solana JSON-RPC-hívásokat a Solana Name Service-ből a program felé, hogy teljesítse a .sol domainév-keresési kéréseket. Ha engedélyezi ezt, a Coinbase Cloud látni fogja az Ön által felkeresni kívánt .sol domaineket, de más domaineket nem. Olvassa el a Coinbase Cloud <ph name="BEGIN_COINBASE_TOU_LINK"/> felhasználási feltételeit <ph name="END_COINBASE_TOU_LINK"/> és <ph name="BEGIN_COINBASE_PRIVACY_LINK"/> adatvédelmi szabályzatát<ph name="END_COINBASE_PRIVACY_LINK"/>.</translation>
+<translation id="954404755605517948">A Portal a Coinbase Cloud használatával fog kiadni Solana JSON-RPC-hívásokat a Solana Name Service-ből a program felé, hogy teljesítse a .sol domainév-keresési kéréseket. Ha engedélyezi ezt, a Coinbase Cloud látni fogja az Ön által felkeresni kívánt .sol domaineket, de más domaineket nem. Olvassa el a Coinbase Cloud <ph name="BEGIN_COINBASE_TOU_LINK"/> felhasználási feltételeit <ph name="END_COINBASE_TOU_LINK"/> és <ph name="BEGIN_COINBASE_PRIVACY_LINK"/> adatvédelmi szabályzatát<ph name="END_COINBASE_PRIVACY_LINK"/>.</translation>
 <translation id="7378412287463452336">Folytatás Infura-szerver használatával</translation>
 <translation id="2313603121968571839">Folytatás Coinbase Cloud szerverrel</translation>
 <translation id="2356070529366658676">Kérés</translation>
 <translation id="59174027418879706">Engedélyezve</translation>
 <translation id="2468755552460246661">Domén blokkolva</translation>
 <translation id="6393849031898466746">Ez az oldal megkísérelheti Önt nyomon követni más oldalakon keresztül</translation>
-<translation id="983774928604730749">A Brave megakadályozta a következő oldal betöltését:</translation>
+<translation id="983774928604730749">A Portal megakadályozta a következő oldal betöltését:</translation>
 <translation id="4781961723893779890">Ez az oldal megkísérelheti összekapcsolni bizonyos személyes adataidat egy adott sütivel a tartalom megjelenítése előtt.</translation>
 <translation id="2459038234784107183">Ne figyelmeztessen többé ezzel az oldallal kapcsolatban</translation>
 <translation id="8242426110754782860">Tovább</translation>
@@ -696,12 +696,12 @@
 <translation id="72868071984333667">További információk az IPFS-ről és az adatvédelemről</translation>
 <translation id="1886162073868201257">IPFS szolgáltatás indítási hiba</translation>
 <translation id="5357895013476183089">IPFS nincs csatlakoztatva</translation>
-<translation id="7662930734991751511">Nem tölthetők be az IPFS-erőforrások a Brave helyi IPFS-csomópontja használatával</translation>
+<translation id="7662930734991751511">Nem tölthetők be az IPFS-erőforrások a Portal helyi IPFS-csomópontja használatával</translation>
 <translation id="1141556610026845297">Nem sikerült helyi IPFS csomóponttal betölteni a kért IPFS forrásokat. Kattints a "Folytatás" gombra, hogy a nyilvános átjárót használja helyette, és a jövőben is automatikusan visszaálljon a nyilvános átjáróra.</translation>
 <translation id="3373798179786163193">Folytatás nyilvános átjáróval</translation>
 <translation id="1974060860693918893">Speciális</translation>
 <translation id="9096577886148726047">Speciális részletek elrejtése</translation>
-<translation id="182581792765792826">A Brave nem tudja betölteni a kért IPFS forrásokat, mert a Brave helyi IPFS-csomópontja nem indult el, vagy mert jelenleg nincsenek elérhető csatlakozó társak. A „Folytatás" gombra kattintva a Brave automatikusan visszaáll az alapértelmezett nyilvános átjáróra minden alkalommal, amikor nem sikerül a Brave helyi IPFS-csomópontját használni. Ez a viselkedés bármikor megváltoztatható a Brave beállításaiban.</translation>
+<translation id="182581792765792826">A Portal nem tudja betölteni a kért IPFS forrásokat, mert a Portal helyi IPFS-csomópontja nem indult el, vagy mert jelenleg nincsenek elérhető csatlakozó társak. A „Folytatás" gombra kattintva a Portal automatikusan visszaáll az alapértelmezett nyilvános átjáróra minden alkalommal, amikor nem sikerül a Portal helyi IPFS-csomópontját használni. Ez a viselkedés bármikor megváltoztatható a Portal beállításaiban.</translation>
 <translation id="8026038288183400906">IPFS preferencia</translation>
 <translation id="2058855456574089690">Állítsd be IPFS preferenciádat</translation>
 <translation id="4780526507945807546">Brave helyi IPFS-csomópont használata</translation>
@@ -717,7 +717,7 @@
 <translation id="1675751799495331928">Túlléptük a megengedett próbálkozások számát, próbáld újra később.</translation>
 <translation id="4499666752625407848">Hiba történt egy frissítés közben</translation>
 <translation id="62991515067726424">Ez a tartalom az IPFS protokollon keresztül lett letöltve.</translation>
-<translation id="7263366446813126341">Az IPFS (Bolygóközi fájlrendszer) egy társközi adattárolási és kézbesítési nyilvános hálózat. Megtudhat többet a Brave integrálásáról, vagy bármikor módosíthatja az IFPS-beálltásait.</translation>
+<translation id="7263366446813126341">Az IPFS (Bolygóközi fájlrendszer) egy társközi adattárolási és kézbesítési nyilvános hálózat. Megtudhat többet a Portal integrálásáról, vagy bármikor módosíthatja az IFPS-beálltásait.</translation>
 <translation id="3175567740517780285">IPFS beállítások</translation>
 <translation id="8914505352873092008">Ugrás az IPFS beállítások oldalra</translation>
 <translation id="3465468510001693544">IPFS-diagnosztika</translation>
@@ -765,7 +765,7 @@
 <translation id="8334559352278209120">Adás</translation>
 <translation id="4782365133987903299">Még <ph name="DAYS"/> napig van lehetősége igényelni</translation>
 <translation id="3903419925307046908">Szerezz tokeneket és adj vissza</translation>
-<translation id="244362569344671266">Szerezzen tokeneket Brave privát hirdetések nézésével, és támogassa automatikusan a tartalomkészítőket.</translation>
+<translation id="244362569344671266">Szerezzen tokeneket Portal privát hirdetések nézésével, és támogassa automatikusan a tartalomkészítőket.</translation>
 <translation id="5095252080770652994">Előrehaladás</translation>
 <translation id="6278643716658443228">Rewards beállítások</translation>
 <translation id="2862978891748913252">Válassza ki az országot</translation>
@@ -778,7 +778,7 @@
 <translation id="6020176662032623904">Ellenőrzött alkotó</translation>
 <translation id="6504037373121113545">Az Ön által adott borravalók függő állapotban maradnak, és feldolgozásukat 90 napon át a rendszer automatikusan újra megkísérli. <ph name="LINK_BEGIN"/>További információ<ph name="LINK_END"/></translation>
 <translation id="7826318737761918938">Ez az alkotó még nem regisztrált.</translation>
-<translation id="4025327308776090280">Ennél az alkotónál még nincs beállítva, hogy borravalókat fogadhasson az Ön Brave Jutalmak letétkezelő pénztárca-szolgáltatójától.</translation>
+<translation id="4025327308776090280">Ennél az alkotónál még nincs beállítva, hogy borravalókat fogadhasson az Ön Portal Jutalmak letétkezelő pénztárca-szolgáltatójától.</translation>
 <translation id="6633436087937398390"><ph name="NAME"/> itt: <ph name="PLATFORM"/></translation>
 <translation id="7335371657242627509">Automatikus Hozzájárulással</translation>
 <translation id="6965382102122355670">Rendben</translation>
@@ -792,7 +792,7 @@
 <translation id="6333727259565526314">Jutalma már úton van.</translation>
 <translation id="39734939514946950">Az ön jutalma</translation>
 <translation id="717952606991220586">Hoppá, valami hiba történt. Próbáld újra később.</translation>
-<translation id="7210234701206674260">A Brave Jutalmak problémába ütközött. Próbáld újra később.</translation>
+<translation id="7210234701206674260">A Portal Jutalmak problémába ütközött. Próbáld újra később.</translation>
 <translation id="579702532610384533">Újrakapcsolódás</translation>
 <translation id="7550470870580166294">Nincs fedezet</translation>
 <translation id="2775064702681588061">Brave Jutalmak fiókja letétre vár.</translation>
@@ -809,10 +809,10 @@
 <translation id="7855913851082138664">A(z) <ph name="PUBLISHER_NAME"/> készítő a közelmúltban ellenőrizve.</translation>
 <translation id="6194996600967335044">Nincs fedezet</translation>
 <translation id="2795080275268642520">Függőben lévő borravalóid vannak, mivel nincs elegendő fedezet</translation>
-<translation id="2529827670795983639">Úgy tűnik, ez nem működik, a Brave reklámok tovább szünetelnek. Lépjen velünk kapcsolatba, ha segítségre van szüksége a CAPTCHA megoldásával kapcsolatban.</translation>
+<translation id="2529827670795983639">Úgy tűnik, ez nem működik, a Portal reklámok tovább szünetelnek. Lépjen velünk kapcsolatba, ha segítségre van szüksége a CAPTCHA megoldásával kapcsolatban.</translation>
 <translation id="261607053214862521">Maximum próbálkozási kísérlet túllépve</translation>
 <translation id="2323171459178104277">Megoldva!</translation>
-<translation id="1512837998731269583">Az Ads és a bevételek visszaállnak. Köszönjük, hogy segít megvédeni a Brave Rewards-ot és az adatvédelmi beállításokhoz igazodó reklámokat.</translation>
+<translation id="1512837998731269583">Az Ads és a bevételek visszaállnak. Köszönjük, hogy segít megvédeni a Portal Rewards-ot és az adatvédelmi beállításokhoz igazodó reklámokat.</translation>
 <translation id="3247549836099021862">Lépjen kapcsolatba az ügyfélszolgálattal</translation>
 <translation id="5234764350956374838">Elvetés</translation>
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>Tekintsen meg egy rövid bemutatót,<ph name="TOUR_LINK_END"/>vagy <ph name="LEARN_LINK_BEGIN"/>tudjon meg többet<ph name="LEARN_LINK_END"/> a részletekről.</translation>
@@ -821,7 +821,7 @@
 <translation id="5425006356459378415">A Brave-jutalmak nem érhetők el</translation>
 <translation id="909076461795862330">Sajnos hiba történt a Brave-jutalmak beállítása során. Kérjük, próbálja újra.</translation>
 <translation id="3180990265682133881">Sajnos hiba történt az ország beállítása során. Kérjük, próbálja újra.</translation>
-<translation id="5931798071481566121">A Brave jutalmakra jelenleg nem lehet regisztrálni a régiójában, de később ismét megpróbálhatja. <ph name="LINK_BEGIN"/> További információ <ph name="LINK_END"/></translation>
+<translation id="5931798071481566121">A Portal jutalmakra jelenleg nem lehet regisztrálni a régiójában, de később ismét megpróbálhatja. <ph name="LINK_BEGIN"/> További információ <ph name="LINK_END"/></translation>
 <translation id="8764860730661377310">A Brave-jutalmakhoz beállított régiója: <ph name="COUNTRY"/>.</translation>
 <translation id="7068416025603720599">Válassza ki az országát, hogy a régiójának megfelelő lehetőségeket és hirdetéseket mutathassuk. <ph name="LINK_BEGIN"/>Adatvédelmi szabályzat<ph name="LINK_END"/></translation>
 <translation id="1275213816424141989">Talán később</translation>
@@ -838,12 +838,12 @@
 <translation id="185034574799484512">Tegyünk egy gyors bemutatót</translation>
 <translation id="8281886186245836920">Kihagyás</translation>
 <translation id="1377600615067678409">Most kihagyod</translation>
-<translation id="7930505144430343145">Üdvözli a Brave Rewards!</translation>
-<translation id="3477340970981564961">A Brave privát hirdetések tokenekkel jutalmaznak meg, amivel a hagyományos reklámokkal ellentétben, támogathatod a tartalomkészítőket, és közben személyes adataid rejtve maradnak.</translation>
+<translation id="7930505144430343145">Üdvözli a Portal Rewards!</translation>
+<translation id="3477340970981564961">A Portal privát hirdetések tokenekkel jutalmaznak meg, amivel a hagyományos reklámokkal ellentétben, támogathatod a tartalomkészítőket, és közben személyes adataid rejtve maradnak.</translation>
 <translation id="6973095375773523904">Hol jelennek meg a hirdetések?</translation>
-<translation id="7556325460112047619">A Brave privát hirdetések szokványos értesítésként jelennek meg. A beállításokban megszabhatod, hogy milyen gyakran jelenjenek meg.</translation>
+<translation id="7556325460112047619">A Portal privát hirdetések szokványos értesítésként jelennek meg. A beállításokban megszabhatod, hogy milyen gyakran jelenjenek meg.</translation>
 <translation id="6897083627729802351">Mikor kapja meg a jutalmakat?</translation>
-<translation id="310863932297733723">Az aktuális hónap folyamán a Brave privát hirdetésektől szerzett tokenjeidet a következő hónap 5-én kapod meg.</translation>
+<translation id="310863932297733723">Az aktuális hónap folyamán a Portal privát hirdetésektől szerzett tokenjeidet a következő hónap 5-én kapod meg.</translation>
 <translation id="7712287524451429139">Visszaadás erőfeszítés nélkül</translation>
 <translation id="105037569026952831">Az alkotók automatikusan megkapják tokenes hozzájárulásaidat az elkötelezettségi szinted alapján, amit 'Figyelem'-ben mérünk.</translation>
 <translation id="5323267338679539010">Fejezze ki háláját borravalókkal</translation>
@@ -853,15 +853,15 @@
 <translation id="1402530520078693620">Végül, állítsuk be az alapbeállításokat.</translation>
 <translation id="3494356595346329740">Ez később megváltoztatható.</translation>
 <translation id="827315274423079662">Juhé, készen állsz!</translation>
-<translation id="8268038362451312235">A Brave Rewards használatával segítesz mindenki számára jobbá tenni az internetet. Ez fantasztikus!</translation>
-<translation id="2318949593486441832">A hirdetések megtekintése után járó BAT kivonásához hitelesítenie kell a Brave Jutalmakat.</translation>
+<translation id="8268038362451312235">A Portal Rewards használatával segítesz mindenki számára jobbá tenni az internetet. Ez fantasztikus!</translation>
+<translation id="2318949593486441832">A hirdetések megtekintése után járó BAT kivonásához hitelesítenie kell a Portal Jutalmakat.</translation>
 <translation id="9168436347345867845">Később</translation>
 <translation id="7193761697942491145">Brave Jutalmak hitelesítése</translation>
 <translation id="6609621505400013054">A bitFlyer pénztárca-szolgáltatást a bitFlyer, Inc. kezeli.</translation>
-<translation id="4361456403643555676">A Brave Jutalmak hitelesítésével, valamint annak a bitFlyer-fiókjához történő kapcsolásával könnyebben tudja tárolni és kezelni a Brave Jutalmakon keresztül megszerzett tokenjeit.</translation>
-<translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Tudjon meg többet<ph name="LINK_END"/> a Brave böngésző bitFlyer-fiókkal történő összekapcsolásának menetéről.</translation>
-<translation id="1015443539415537847">Sajnáljuk, a Brave jutalmak nem érhetők el</translation>
-<translation id="5007776270364097327">Sajnos úgy néz ki, egy olyan régióban tartózkodik, ahol a Brave jutalmak nem elérhető.</translation>
+<translation id="4361456403643555676">A Portal Jutalmak hitelesítésével, valamint annak a bitFlyer-fiókjához történő kapcsolásával könnyebben tudja tárolni és kezelni a Portal Jutalmakon keresztül megszerzett tokenjeit.</translation>
+<translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Tudjon meg többet<ph name="LINK_END"/> a Portal böngésző bitFlyer-fiókkal történő összekapcsolásának menetéről.</translation>
+<translation id="1015443539415537847">Sajnáljuk, a Portal jutalmak nem érhetők el</translation>
+<translation id="5007776270364097327">Sajnos úgy néz ki, egy olyan régióban tartózkodik, ahol a Portal jutalmak nem elérhető.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>További információk<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">Aggodalomra semmi ok!</translation>
 <translation id="5027616819996705541">Továbbra is privátban böngészhet!</translation>
@@ -883,7 +883,7 @@
 <translation id="2326876601333401685">Ez az RPC (távoli eljáráshívási) módszer nem támogatott.</translation>
 <translation id="1128992132632883337">Hiba történt a válaszfeldolgozás során</translation>
 <translation id="5382339341735118861">Hiba történt a kérés feldolgozása közben</translation>
-<translation id="1680597601664421644">Az éppen importált mnemonika nem érvényes a Brave pénztárca esetén</translation>
+<translation id="1680597601664421644">Az éppen importált mnemonika nem érvényes a Portal pénztárca esetén</translation>
 <translation id="4641919696349069826">A kérelem már folyamatban van</translation>
 <translation id="872806943696014633">Hiányoznak a tranzakciós adatok</translation>
 <translation id="4805410229033541409">'from' nincs feljogosítva rá, hogy tranzakciókat küldjön</translation>
@@ -967,16 +967,16 @@
 <translation id="4500473291496079954">Lejár ennyi idő múlva:</translation>
 <translation id="2236833281018938257">Pénztárca címe vagy URL-je</translation>
 <translation id="928500657730628112">Pénztárca címe</translation>
-<translation id="6812967455478797345">A Brave a(z) <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/>-t használja DEX aggregátorként.</translation>
+<translation id="6812967455478797345">A Portal a(z) <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/>-t használja DEX aggregátorként.</translation>
 <translation id="151946611346774041">A 0x feldolgozza az Ethereum-címet és az IP-címet a tranzakciók teljesítéséhez (beleértve az árajánlatok lehívását). A 0x KIZÁRÓLAG a tranzakciók feldolgozása céljából használja ezeket az adatokat.</translation>
 <translation id="7465227658364622464">A Jupiter feldolgozza a Solana-címet és az IP-címet a tranzakció teljesítéséhez (beleértve az árajánlatok kérését is). A Jupiter ezeket az adatokat CSAK tranzakciók feldolgozása céljából használja fel.</translation>
-<translation id="712738518060477110">Az árajánlat tartalmazza a Brave <ph name="SWAP_FEE_PERCENTAGE"/>-os díját.</translation>
+<translation id="712738518060477110">Az árajánlat tartalmazza a Portal <ph name="SWAP_FEE_PERCENTAGE"/>-os díját.</translation>
 <translation id="8368540604723748428">Túl sok tizedeshely</translation>
 <translation id="6575120282593094155">Még nincs <ph name="ACCOUNT_TYPE"/> fiókja. Létrehoz most egyet?</translation>
 <translation id="8712637175834984815">Sikerült</translation>
 <translation id="2704606927547763573">Másolt</translation>
 <translation id="6042308850641462728">Továbbiak</translation>
-<translation id="768236965975208017">Biztonságos, többláncos, és nagyon könnyű használni. A saját Brave pénztárcája csak néhány kattintásnyira van</translation>
+<translation id="768236965975208017">Biztonságos, többláncos, és nagyon könnyű használni. A saját Portal pénztárcája csak néhány kattintásnyira van</translation>
 <translation id="3157931365184549694">Visszaállítás</translation>
 <translation id="2484275747844666540">Új pénztárca létrehozása</translation>
 <translation id="3662348701117072366">Meglévő pénztárca importálása</translation>
@@ -1009,20 +1009,20 @@
 <translation id="1108298724135935307">Csatlakoztatott webhelyek</translation>
 <translation id="163697698769819510">Készítsen biztonsági mentést a tárcájáról most, hogy megvédje eszközeit, és biztosítsa, hogy ne veszítse el azokhoz a hozzáférést.</translation>
 <translation id="1018806299114415224">Készítsen biztonsági mentést most</translation>
-<translation id="1400709719911593089">A Brave pénzárca nem az alapértelmezett tárcája, és nem válaszol Web3 decentralizált applikációknak. Ugorjon a beállításokhoz, hogy megváltoztassa az alapértelmezett tárcáját.</translation>
+<translation id="1400709719911593089">A Portal pénzárca nem az alapértelmezett tárcája, és nem válaszol Web3 decentralizált applikációknak. Ugorjon a beállításokhoz, hogy megváltoztassa az alapértelmezett tárcáját.</translation>
 <translation id="4362717653795263052">Elsődleges kriptoszámlák visszaállítása</translation>
-<translation id="3038077262567136741">Adja meg a helyreállítási kifejezést Brave pénztárca kriptoszámlájának visszaállításához.</translation>
+<translation id="3038077262567136741">Adja meg a helyreállítási kifejezést Portal pénztárca kriptoszámlájának visszaállításához.</translation>
 <translation id="955918646509748368">A megadott helyreállítási kifejezés érvénytelen.</translation>
 <translation id="8107437138787377150">Illessze be a helyreállítási kifejezést a vágólapról</translation>
 <translation id="4811736040444856406">Helyreállítási kifejezés megjelenítése</translation>
-<translation id="4359319875297001084">Importál régebbi Brave kriptotárcákból?</translation>
+<translation id="4359319875297001084">Importál régebbi Portal kriptotárcákból?</translation>
 <translation id="3331452756822160641">Új jelszó</translation>
 <translation id="8624315169751085215">Másolás vágólapra</translation>
 <translation id="7885157704277298658">Kimásolva!</translation>
 <translation id="6346952829206698721">Beillesztés a vágólapról</translation>
 <translation id="1121335910737476837">Elsődleges kriptoszámlák</translation>
 <translation id="6969147029062037757">Importált fiókok</translation>
-<translation id="4057718162494343222">Létrehozhat elsődleges számlákat a Brave pénztárcában, amelyekről biztonsági másolat készíthető, illetve visszaállíthatók a helyreállítási kifejezéssel. A számlatípusokkal kapcsolatos további tudnivalókat a fiókokkal kapcsolatos súgóban talál.</translation>
+<translation id="4057718162494343222">Létrehozhat elsődleges számlákat a Portal pénztárcában, amelyekről biztonsági másolat készíthető, illetve visszaállíthatók a helyreállítási kifejezéssel. A számlatípusokkal kapcsolatos további tudnivalókat a fiókokkal kapcsolatos súgóban talál.</translation>
 <translation id="1011614786846182272">Ezeket a számlákat Web3 decentralizált applikációkkal lehet használni és megjeleníteni a portfóliójában, viszont nem lehet őket helyreállítani a helyreállítási kifejezéssel az elsődleges számlájának a biztonsági mentéséről.</translation>
 <translation id="1940465339426637378">Eszközök</translation>
 <translation id="2236507293802791911">Látható eszközök</translation>
@@ -1050,7 +1050,7 @@
 <translation id="6892232036314454524">Ez a hiba akkor fordulhat elő, ha nem a megfelelő alkalmazás van nyitva a Ledger eszközön.</translation>
 <translation id="6598291715079540080">Trezor</translation>
 <translation id="5605670050355397069">Ledger</translation>
-<translation id="4247752006222818397">Hozzáférés engedélyezése a Brave számára a Ledger eszközhöz.</translation>
+<translation id="4247752006222818397">Hozzáférés engedélyezése a Portal számára a Ledger eszközhöz.</translation>
 <translation id="4378551569595875038">Csatlakozás…</translation>
 <translation id="1943188256166395881">Adja hozzá a kijelölt számlákat</translation>
 <translation id="8554010658308662631">Továbbiak betöltése</translation>
@@ -1110,7 +1110,7 @@
 <translation id="3352959425838279177">Szerezzen Ethert pénzcsapból ehhez: <ph name="SELECTED_NETWORK"/></translation>
 <translation id="6449626816252815844">Vásárlási mód kiválasztása</translation>
 <translation id="8009571545960303544">Szükség van az aláírására</translation>
-<translation id="5294062982587710720">Ne feledje, hogy a Brave nem tudja megerősíteni, mi történik, ha aláír. Aláírással szinte bármelyik számláján lévő műveletre feljogosítja a kérvényező oldalt, vagy arra, hogy az Ön nevében járjon el, beleértve (de nem kizárólag) a számlája és kriptoeszközei feletti teljes rendelkezést. Csak akkor írjon alá, ha biztosan ezt szeretné, és megbízik a kérvényező oldalban.</translation>
+<translation id="5294062982587710720">Ne feledje, hogy a Portal nem tudja megerősíteni, mi történik, ha aláír. Aláírással szinte bármelyik számláján lévő műveletre feljogosítja a kérvényező oldalt, vagy arra, hogy az Ön nevében járjon el, beleértve (de nem kizárólag) a számlája és kriptoeszközei feletti teljes rendelkezést. Csak akkor írjon alá, ha biztosan ezt szeretné, és megbízik a kérvényező oldalban.</translation>
 <translation id="3474375934783434676">Csak a saját felelősségére írjon alá</translation>
 <translation id="5488357322146334497">Üzenet</translation>
 <translation id="3586752056660754651">Aláír</translation>
@@ -1131,7 +1131,7 @@
 <translation id="7073918978411974168">Javasolt keret</translation>
 <translation id="9019403281000653275">Korlátlan jóváhagyás igényelve</translation>
 <translation id="4717431746210146708">Engedélyezi, hogy ez az oldal hálózatot adjon hozzá?</translation>
-<translation id="2521480044079508357">Ez engedélyezi, hogy ezt a hálózatot használni lehessen a Brave pénztárcán belül.</translation>
+<translation id="2521480044079508357">Ez engedélyezi, hogy ezt a hálózatot használni lehessen a Portal pénztárcán belül.</translation>
 <translation id="1982257600591932657">Hálózat neve</translation>
 <translation id="5052727830821470769">Hálózat URL-je</translation>
 <translation id="427875364838253580">Összes részlet megtekintése</translation>
@@ -1168,10 +1168,10 @@
 <translation id="2240831799756994975">BÁJTOK</translation>
 <translation id="4874303883488468190">Számlák kiválasztása</translation>
 <translation id="2018472018751735678">Az engedélyezett fiókok címeinek megtekintése (kötelező)</translation>
-<translation id="7029403458170657879">Csatlakozás Brave pénztárcával</translation>
+<translation id="7029403458170657879">Csatlakozás Portal pénztárcával</translation>
 <translation id="2770851145415891830">Már meglévő kriptotárcákat észleltünk</translation>
-<translation id="2237759620789871865">Ha inkább kihagyná az importálást, és megtartaná a korábbi Crypto Wallets felhasználói élményt, csak navigáljon a Brave böngésző <ph name="LINK_BEFORE"/>beállításaira<ph name="LINK_AFTER"/> és állítsa vissza az alapértelmezett beállítást a Crypto Wallets-re. Importálásokat is végezhet, kipróbálhatja az új Brave Wallet alkalmazást, és bármikor visszaválthat.</translation>
-<translation id="5590175005414413980">Adja meg a már meglévő kriptotárcája jelszavát a Brave pénztárcába való importáláshoz. Élvezze, hogy gyorsabb és biztonságosabb módon kezelheti a kriptoeszközeit és léphet interakcióba Web3 decentralizált applikációkkal.</translation>
+<translation id="2237759620789871865">Ha inkább kihagyná az importálást, és megtartaná a korábbi Crypto Wallets felhasználói élményt, csak navigáljon a Portal böngésző <ph name="LINK_BEFORE"/>beállításaira<ph name="LINK_AFTER"/> és állítsa vissza az alapértelmezett beállítást a Crypto Wallets-re. Importálásokat is végezhet, kipróbálhatja az új Portal Wallet alkalmazást, és bármikor visszaválthat.</translation>
+<translation id="5590175005414413980">Adja meg a már meglévő kriptotárcája jelszavát a Portal pénztárcába való importáláshoz. Élvezze, hogy gyorsabb és biztonságosabb módon kezelheti a kriptoeszközeit és léphet interakcióba Web3 decentralizált applikációkkal.</translation>
 <translation id="880619123281809987">Írja be a kriptotárca jelszavát</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> csatlakoztatva</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> csatlakozása megszakítva</translation>
@@ -1444,7 +1444,7 @@
 <translation id="3551682252653406110">Lehetséges, hogy egy meglévő pénztárca csatlakoztatásához meg kell adnia a helyreállítási kifejezést. Jelenleg az Ethereum és a Solana pénztárcák visszaállítását/importálását támogatjuk.</translation>
 <translation id="346929827081904572">Visszaállítás kulcsszóláncból</translation>
 <translation id="5645597512426471834">12-24 szó</translation>
-<translation id="8158505311297755780">Írja be a Brave pénztárca 12-24 szavas helyreállítási kifejezését.</translation>
+<translation id="8158505311297755780">Írja be a Portal pénztárca 12-24 szavas helyreállítási kifejezését.</translation>
 <translation id="5419707890586509000">Importálás a MetaMaskból</translation>
 <translation id="2265945811107390939">MetaMask-jelszó használata a kulcsszólánc importálásához</translation>
 <translation id="7060680423657442298">Inkább létrehozok egy új pénztárcát</translation>
@@ -1454,7 +1454,7 @@
 <translation id="6260144012548445299">További tudnivalój az új pénztárcámról</translation>
 <translation id="8746910870914151528">Jogi tudnivalók</translation>
 <translation id="5148123176978018397">Kérjük, fogadja el a következőket:</translation>
-<translation id="6088314935678153800">Tudomásul veszem, hogy ez egy önálló letétkezelésű pénztárca, és egyedül én vagyok felelős a kapcsolódó pénzösszegekért, eszközökért vagy számlákért, valamint a pénztárcám biztonsága, védelme és biztonsági mentése érdekében szükséges intézkedések megtételéért. Tudomásul veszem, hogy a Brave NEM férhet hozzá a pénztárcámhoz, és NEM fordíthatja vissza a tranzakciókat a nevemben, továbbá, hogy a helyreállítási kifejezésem az EGYETLEN módja annak, hogy visszaszerezzem a hozzáférést elvesztett jelszó, ellopott eszköz vagy hasonló körülmény esetén.</translation>
+<translation id="6088314935678153800">Tudomásul veszem, hogy ez egy önálló letétkezelésű pénztárca, és egyedül én vagyok felelős a kapcsolódó pénzösszegekért, eszközökért vagy számlákért, valamint a pénztárcám biztonsága, védelme és biztonsági mentése érdekében szükséges intézkedések megtételéért. Tudomásul veszem, hogy a Portal NEM férhet hozzá a pénztárcámhoz, és NEM fordíthatja vissza a tranzakciókat a nevemben, továbbá, hogy a helyreállítási kifejezésem az EGYETLEN módja annak, hogy visszaszerezzem a hozzáférést elvesztett jelszó, ellopott eszköz vagy hasonló körülmény esetén.</translation>
 <translation id="7781090633800450517">Elolvastam és elfogadom a <ph name="LINK_BEFORE"/>Használati feltételeket<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">Kriptó vásárlása</translation>
 <translation id="3887541341068007345">Pénztárcabővítmények keresése...</translation>
@@ -1508,7 +1508,7 @@
 <translation id="3664551680108236020">Amint megtörténik az első tranzakció, itt meg tudja tekinteni.</translation>
 <translation id="3033638954295674319">Valami hiba történt az NFT részleteinek betöltésekor. Kérjük, próbálja újra!</translation>
 <translation id="2540568096903252632">A folytatáshoz adjon meg egy jelszót</translation>
-<translation id="3356580495013324916">Adja meg a Brave pénztárca jelszavát, hogy mentést készíthessen a pénztárcáról.</translation>
+<translation id="3356580495013324916">Adja meg a Portal pénztárca jelszavát, hogy mentést készíthessen a pénztárcáról.</translation>
 <translation id="3155170474926428993">Tor indítóprogram</translation>
 <translation id="3745016858329272300">Általános információk</translation>
 <translation id="4045404575593562245">Tor vezérlési események</translation>
@@ -1519,8 +1519,8 @@
 <translation id="6024292492796847324">Tor inicializálási állapot</translation>
 <translation id="8300751939969131609">A Brave-hírek bekapcsolásával egyetlen történetről sem marad le</translation>
 <translation id="7758665172236842395">Kövesse a kedvenc forrásait, egy csatornán. Csak nyisson meg egy lapot a Brave-ben, görgessen le, és tessék!</translation>
-<translation id="2376542729617592331">A Brave híreket teljesen privát és anonim hirdetések támogatják. <ph name="LINK_START"/>További információk<ph name="LINK_END"/>.</translation>
-<translation id="1765217911817124376">A Brave News bekapcsolása</translation>
+<translation id="2376542729617592331">A Portal híreket teljesen privát és anonim hirdetések támogatják. <ph name="LINK_START"/>További információk<ph name="LINK_END"/>.</translation>
+<translation id="1765217911817124376">A Portal News bekapcsolása</translation>
 <translation id="780301667611848630">Köszönöm, nem</translation>
 <translation id="6265592479622441247">Vissza az <ph name="BEGIN_BOLD"/>irányítópultra<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">Keresés oldalra, témára vagy RSS-csatornára</translation>
@@ -1541,9 +1541,9 @@
 <translation id="3225021799163709119">Népszerű</translation>
 <translation id="7436846601026966360">Íme néhány forrás, amely tetszhet Önnek. A javaslatok anonim jellegűek, és csak az Ön eszközén belül vannak párosítva.</translation>
 <translation id="7950715913905993008">Hoppá…</translation>
-<translation id="7158100730468448581">A Brave híreknek nem sikerült tartalmat lekérnie.</translation>
+<translation id="7158100730468448581">A Portal híreknek nem sikerült tartalmat lekérnie.</translation>
 <translation id="254100925533869330">Nincs tartalom</translation>
-<translation id="7172792761509429092">A Brave hírek nem tud semmilyen tartalmat megjeleníteni.</translation>
+<translation id="7172792761509429092">A Portal hírek nem tud semmilyen tartalmat megjeleníteni.</translation>
 <translation id="1771307734839364850">Tartalomforrások kiválasztása</translation>
 <translation id="939305735877869636">Brave</translation>
 <translation id="6261915643960475695">Üzleti világ</translation>
@@ -1570,9 +1570,9 @@
 <translation id="7509914170164691086">Pajzsok ENGEDÉLYEZVE <ph name="LINK_BEFORE"/> a(z) <ph name="LINK_AFTER"/> webhelyen</translation>
 <translation id="260764436039299868">Pajzsok KIKAPCSOLVA <ph name="LINK_BEFORE"/> a(z) <ph name="LINK_AFTER"/> webhelyen</translation>
 <translation id="3907405056878805220">Ha a webhely látszólag helytelenül működik, próbálja kikapcsolni a pajzsokat.
-    <ph name="LINK_BEFORE"/>Megjegyzés: ez korlátozhatja a Brave adatvédelmi mechanizmusait.<ph name="LINK_AFTER"/></translation>
+    <ph name="LINK_BEFORE"/>Megjegyzés: ez korlátozhatja a Portal adatvédelmi mechanizmusait.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Nyomkövetők, hirdetések és még több blokkolva <ph name="LINK_BEFORE"/>További információ<ph name="LINK_AFTER"/></translation>
-<translation id="7604553853176833536">Nincs felállítva a Brave pajzsok általi védelem<ph name="LINK_BEFORE"/>További információ<ph name="LINK_AFTER"/></translation>
+<translation id="7604553853176833536">Nincs felállítva a Portal pajzsok általi védelem<ph name="LINK_BEFORE"/>További információ<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Speciális vezérlők</translation>
 <translation id="5799940914270080805">E beállítások módosításával előfordulhat, hogy egyes webhelyek nem működnek megfelelően.</translation>
 <translation id="9204041448536398473">Globális pajzs beállításai</translation>
@@ -1596,27 +1596,27 @@
 <translation id="8034285923190068220">Ujjlenyomat-leolvasás engedélyezése</translation>
 <translation id="1992750560347846445">Webhely bejelentése kifogásolhatóként</translation>
 <translation id="2387532482048804818">Értesítsen minket, ha a webhely nem működött megfelelően engedélyezett pajzsokkal.</translation>
-<translation id="3795015906457257780">Ezt a webhelyet a Brave adatvédelme nélkül tekinti meg.</translation>
+<translation id="3795015906457257780">Ezt a webhelyet a Portal adatvédelme nélkül tekinti meg.</translation>
 <translation id="7194012750329511146">Brave pajzsok
 <ph name="NUMBER"/> nyomkövető, hirdetés és egyéb blokkolva</translation>
 <translation id="4292121526390005808">Blokkolt parancsfájlok</translation>
 <translation id="264682546981571963">Fárasztják a cookie-használat beleegyező nyilatkozatai?</translation>
-<translation id="4986297793092101884">A Brave alapértelmezés szerint blokkolja a harmadik féltől származó cookie-kat. Letilthatjuk a cookie-khoz való hozzájárulással kapcsolatos értesítéseket is.</translation>
+<translation id="4986297793092101884">A Portal alapértelmezés szerint blokkolja a harmadik féltől származó cookie-kat. Letilthatjuk a cookie-khoz való hozzájárulással kapcsolatos értesítéseket is.</translation>
 <translation id="535688588637568715">Igen, letiltom a cookie-khoz való hozzájárulással kapcsolatos értesítéseket</translation>
 <translation id="6294662480095808915">Adatvédelem. Ez az alap.</translation>
-<translation id="4366423156486478559">A Brave minden linkkel szemben védelmet nyújt, amire csak rákattint. Csak tegye meg a Brave-et az alapértelmezett böngészőjének, és böngésszen. Biztonságban.</translation>
+<translation id="4366423156486478559">A Portal minden linkkel szemben védelmet nyújt, amire csak rákattint. Csak tegye meg a Brave-et az alapértelmezett böngészőjének, és böngésszen. Biztonságban.</translation>
 <translation id="3830912418080848377">Importálási beállítások</translation>
 <translation id="6378406588483694938">Importáljon könnyedén a régi böngészőjéből könyvjelzőket, bővítményeket, sőt, még mentett jelszavakat is!</translation>
 <translation id="2092825239819166928">Válassza ki az importálni kívánt profilt</translation>
 <translation id="4763127492635705340">Az Ön által kiválasztott böngésző több profillal is rendelkezik. Válassza ki az importálni kívánt profilt vagy profilokat.</translation>
 <translation id="880174232178865598">Profilok importálása</translation>
 <translation id="2453860139492968684">Befejezés</translation>
-<translation id="2273851479262317744">A Brave beállítása alapértelmezett böngészőként</translation>
+<translation id="2273851479262317744">A Portal beállítása alapértelmezett böngészőként</translation>
 <translation id="5037676449506322593">Összes kiválasztása</translation>
-<translation id="8330804319517911603">Segítsen a Brave fejlesztésében</translation>
+<translation id="8330804319517911603">Segítsen a Portal fejlesztésében</translation>
 <translation id="2867964979837593892">Tökéletesítse a terméket. Tudja biztonságban az adatait. Minden nap.</translation>
-<translation id="7661940959332108190">Küldjön diagnosztikai jelentéseket, ha a Brave összeomlik vagy lefagy.</translation>
-<translation id="6358373266071757311">Ossza meg a termékkel kapcsolatos meglátásait anonim, privát módon. Ezzel segít nekünk, hogy rájöjjünk, melyek a leggyakrabban használt Brave funkciók.</translation>
+<translation id="7661940959332108190">Küldjön diagnosztikai jelentéseket, ha a Portal összeomlik vagy lefagy.</translation>
+<translation id="6358373266071757311">Ossza meg a termékkel kapcsolatos meglátásait anonim, privát módon. Ezzel segít nekünk, hogy rájöjjünk, melyek a leggyakrabban használt Portal funkciók.</translation>
 <translation id="7415454883318062233">Beállítás befejezve</translation>
 <translation id="3141206739023333979">Változtasson ezen a Brave-beállításán bármikor itt: <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
 <translation id="8321985064212130832">Olvassa el a teljes <ph name="LINK_BEFORE"/>Adatvédelmi szabályzatot<ph name="LINK_AFTER"/>.</translation>
@@ -1644,7 +1644,7 @@
 <translation id="8463313539532697053">Egy pillanat, a betöltés folyamatban…</translation>
 <translation id="4317307602527599178">Nem sikerült lekérdezni a vásárlás állapotát. Ezt talán egy hálózati hiba okozza.</translation>
 <translation id="4613076894734402086">Fizetési mód szerkesztése</translation>
-<translation id="8373427068383038263">Úgy tűnik, ez a legutóbbi befizetése: <ph name="VALUE"/> sikertelen volt. Az előfizetéshez történő hozzáférés szüneteltetve lesz, amíg a fizetési probléma meg nem oldódik. Próbálja meg módosítani a fizetési módot, vagy forduljon a Brave ügyfélszolgálatához.</translation>
+<translation id="8373427068383038263">Úgy tűnik, ez a legutóbbi befizetése: <ph name="VALUE"/> sikertelen volt. Az előfizetéshez történő hozzáférés szüneteltetve lesz, amíg a fizetési probléma meg nem oldódik. Próbálja meg módosítani a fizetési módot, vagy forduljon a Portal ügyfélszolgálatához.</translation>
 <translation id="1839021455997460752">Az Ön e-mail-címe</translation>
 <translation id="8054563304616131773">Kérjük, valós e-mail-címet adjon meg!</translation>
 <translation id="5154702632169343078">Tárgy</translation>
@@ -1662,9 +1662,9 @@
 <translation id="6676791921618140305">Operációs rendszer verziója:</translation>
 <translation id="1156325797949437777">A támogatást a Guardiannel együttműködésben nyújtjuk.</translation>
 <translation id="8146777497879160283">Nem sikerült a VPN konfiguráció. Ez akkor fordulhat elő, ha nem rendelkezik engedéllyel, vagy egy ideje már nem futtatta le a Windows frissítését.</translation>
-<translation id="3307461350293459700">A VPN-csatlakozás sikertelen volt. Próbáljon meg újból csatlakozni, és győződjön meg róla, hogy rákattintott az Engedélyezés gombra a Brave VPN-konfigurációjának engedélyezéséhez.</translation>
-<translation id="7261518280726313829">A biztonságos DNS kikapcsolásával, vagy az alapértelmezett Windows szerver használatával az internetszolgáltatója láthatja az Ön által látogatott oldalak nevét. A Brave ezt nem ajánlja. Így is továbblép?</translation>
-<translation id="888284761945060750">A biztonságos DNS a szervezete szabályzata alapján le van tiltva. Ha biztonságos DNS nélkül használja a Brave VPN-t, az internetszolgáltatója és szervezete láthatja az Ön által látogatott oldalak nevét.</translation>
+<translation id="3307461350293459700">A VPN-csatlakozás sikertelen volt. Próbáljon meg újból csatlakozni, és győződjön meg róla, hogy rákattintott az Engedélyezés gombra a Portal VPN-konfigurációjának engedélyezéséhez.</translation>
+<translation id="7261518280726313829">A biztonságos DNS kikapcsolásával, vagy az alapértelmezett Windows szerver használatával az internetszolgáltatója láthatja az Ön által látogatott oldalak nevét. A Portal ezt nem ajánlja. Így is továbblép?</translation>
+<translation id="888284761945060750">A biztonságos DNS a szervezete szabályzata alapján le van tiltva. Ha biztonságos DNS nélkül használja a Portal VPN-t, az internetszolgáltatója és szervezete láthatja az Ön által látogatott oldalak nevét.</translation>
 <translation id="1657858090675311947">Ne figyelmeztessen többé.</translation>
 <translation id="7586151660465233733">További piacok itt: <ph name="SITE_NAME"/></translation>
 <translation id="952067063131306699">Megtekintheti a piacokat és kriptokereskedést bonyolíthat az FTX-en</translation>

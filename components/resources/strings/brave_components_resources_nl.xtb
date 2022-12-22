@@ -60,7 +60,7 @@
 <translation id="1230746063445072175">Wilt u nog meer privacy?</translation>
 <translation id="6699628638740071563">Het is tijd om Google aan de kant te zetten.</translation>
 <translation id="2045455461902775806">Brave Zoeken beïnvloedt of censureert de zoekresultaten niet, noch volgt het u, uw zoekopdrachten of uw klikken.</translation>
-<translation id="6811221529729056895">Probeer Brave Zoeken nu</translation>
+<translation id="6811221529729056895">Probeer Portal Zoeken nu</translation>
 <translation id="5525668735313040116">Privé op het web zoeken</translation>
 <translation id="3446024864193919737">Brave Rewards tonen</translation>
 <translation id="6274899614137380422">Binance weergeven</translation>
@@ -68,7 +68,7 @@
 <translation id="3870475560794762985">Laat gesponsorde afbeeldingen zien</translation>
 <translation id="8466529005131466476">U kunt verdienen aan het bekijken van gesponsorde sites.</translation>
 <translation id="3955742714798578476">U kunt verdienen aan het bekijken van gesponsorde afbeeldingen.</translation>
-<translation id="7822618650711767369">Gesponsorde afbeeldingen ondersteunen Brave. Met Brave Rewards kunt u een deel van de opbrengsten van gesponsorde afbeeldingen verdienen en content creators steunen.</translation>
+<translation id="7822618650711767369">Gesponsorde afbeeldingen ondersteunen Brave. Met Portal Rewards kunt u een deel van de opbrengsten van gesponsorde afbeeldingen verdienen en content creators steunen.</translation>
 <translation id="5579480493856401823">Het uitzetten van gesponsorde afbeeldingen verlaagt het aantal tokens dat u verdient en de steun die u elke maand aan content creators geeft.</translation>
 <translation id="2875302873837723333">Top websites</translation>
 <translation id="8173998484743827990">Brave-statistieken</translation>
@@ -80,7 +80,7 @@
 <translation id="7610541582755894669">Kleurverloop</translation>
 <translation id="1606851618930975029">Vernieuwen bij elk nieuw tabblad</translation>
 <translation id="9024104284526126630">U kunt een privégesprek beginnen in Brave.</translation>
-<translation id="4903286433687221248">Voer onbeperkt telefoongesprekken met vrienden en collega's via Brave Talk.</translation>
+<translation id="4903286433687221248">Voer onbeperkt telefoongesprekken met vrienden en collega's via Portal Talk.</translation>
 <translation id="7115051913071512405">Probeer het uit</translation>
 <translation id="1447534717041828517">Brave-nieuws knop weergeven in de werkbalk</translation>
 <translation id="370665806235115550">Bezig met laden...</translation>
@@ -88,13 +88,13 @@
 <translation id="4108314971463891922">Volgen</translation>
 <translation id="3861486700625780712">Niet meer volgen</translation>
 <translation id="8909741410750517071">Volg deze bron met 1 klik.</translation>
-<translation id="1982678174789043774">Ontvang de nieuwste artikelen met Brave Nieuws.</translation>
+<translation id="1982678174789043774">Ontvang de nieuwste artikelen met Portal Nieuws.</translation>
 <translation id="7894417427965898400">Feeds beheren</translation>
 <translation id="9164544612367905452">Ophalen…</translation>
 <translation id="1276592121036104130">Nieuwe inhoud laden</translation>
-<translation id="2875288128871360696">Scrol voor Brave News</translation>
+<translation id="2875288128871360696">Scrol voor Portal News</translation>
 <translation id="8510120023634509743">Brave News-bronnen opnieuw instellen</translation>
-<translation id="75825199302994272">Wilt u al uw instellingen als Brave News-uitgever terugzetten naar de standaardwaarden?</translation>
+<translation id="75825199302994272">Wilt u al uw instellingen als Portal News-uitgever terugzetten naar de standaardwaarden?</translation>
 <translation id="954001034349395856">Alle bronnen</translation>
 <translation id="8890516388109605451">Bronnen</translation>
 <translation id="5158129253322921540">Inhoud van <ph name="PUBLISHER_NAME"/> uitschakelen</translation>
@@ -107,7 +107,7 @@
 <translation id="6508379561970983105">Rechtstreeks in uw browser in crypto handelen op Gemini.</translation>
 <translation id="7191394989411626168">Door 'Kaarten' uit te schakelen, worden alle kaarten die momenteel zichtbaar zijn, verborgen. U kunt echter nog steeds op de hoogte worden gehouden van nieuwe kaarten.</translation>
 <translation id="6820526586005233839">Brave Ads gepauzeerd</translation>
-<translation id="5190407395832551012">Om Brave Rewards veilig te houden van misbruik, vragen we gebruikers willekeurig om een captcha op te lossen. Klik op “Oplossen” om door te gaan met advertenties.</translation>
+<translation id="5190407395832551012">Om Portal Rewards veilig te houden van misbruik, vragen we gebruikers willekeurig om een captcha op te lossen. Klik op “Oplossen” om door te gaan met advertenties.</translation>
 <translation id="1693773514029371138">Oplossen</translation>
 <translation id="6991128190741664836">Later</translation>
 <translation id="8112367589167674370">Brave Talk</translation>
@@ -128,14 +128,14 @@
 <translation id="1645589858096839236">Brave bewaart browse-activiteit van privévensters niet. Met Tor-activiteit wordt het moeilijker voor sites om uw echte IP-adres te zien en voor netwerkwaarnemers om te zien welke sites u bezoekt. Als uw persoonlijke veiligheid echter afhangt van uw anonimiteit, gebruikt u dan de Tor-browser.</translation>
 <translation id="7919374705736538787">Zoek Privé met</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
-<translation id="218839872518145456">Voor privé-zoekopdrachten zal Brave DuckDuckGo gebruiken voor zoekopdrachten met het Privévenster. DuckDuckGo houdt’ je zoekgeschiedenis niet bij. Dus je kan privé zoeken.</translation>
+<translation id="218839872518145456">Voor privé-zoekopdrachten zal Portal DuckDuckGo gebruiken voor zoekopdrachten met het Privévenster. DuckDuckGo houdt’ je zoekgeschiedenis niet bij. Dus je kan privé zoeken.</translation>
 <translation id="1925197199485958903">In Privévensters met Tor is DuckDuckGo de standaardzoekmachine. Sommige van de andere populaire zoekmachines zijn moeilijker te gebruiken met Tor. DuckDuckGo houdt ’ je zoekgeschiedenis niet bij; met Tor weten ze niet eens wat je IP-adres is.</translation>
 <translation id="4371533307685765155">Zoek met DuckDuckGo.</translation>
 <translation id="548478195417408221">Maak privévensters meer privé</translation>
 <translation id="3294503279952534143">Dit privévenster is meer privé</translation>
 <translation id="6126226144537295436">met Tor-connectiviteit</translation>
 <translation id="8541421872680304667">Tor verbergt uw IP-adres voor de sites die u bezoekt, door uw handelen door verschillende Tor-servers te leiden voordat het uw bestemming bereikt. Tor kan het browsen vertragen en sommige sites werken mogelijk helemaal niet.</translation>
-<translation id="8897548669448660973">Het gebruik van privévensters verandert alleen wat Brave op jouw apparaat doet — het verandert het gedrag van iemand anders niet. Tor verbergt je IP-adres voor de sites die je bezoekt en maakt het iets moeilijker, maar niet onmogelijk, voor je internetprovider of werkgever om te zien welke sites je bezoekt. Open een privévenster met Tor vanuit het menu, of met [[ key ]].</translation>
+<translation id="8897548669448660973">Het gebruik van privévensters verandert alleen wat Portal op jouw apparaat doet — het verandert het gedrag van iemand anders niet. Tor verbergt je IP-adres voor de sites die je bezoekt en maakt het iets moeilijker, maar niet onmogelijk, voor je internetprovider of werkgever om te zien welke sites je bezoekt. Open een privévenster met Tor vanuit het menu, of met [[ key ]].</translation>
 <translation id="6975708438781948564">Leer meer over Tor in Brave</translation>
 <translation id="4712050378540986986">Tor-status</translation>
 <translation id="1939334281379458295">Tor verbonden</translation>
@@ -165,17 +165,17 @@
 <translation id="5334844597069022743">Bron bekijken</translation>
 <translation id="4720556299488643018">Afmelden</translation>
 <translation id="1209739344687072997">Meld een gebroken site</translation>
-<translation id="8510478288840333677">Laat de ontwikkelaars van Brave weten dat deze site niet goed werkt met Shields:</translation>
+<translation id="8510478288840333677">Laat de ontwikkelaars van Portal weten dat deze site niet goed werkt met Shields:</translation>
 <translation id="4105411033440701818">Let op: als u op 'Indienen' klikt, worden dit webadres, uw Brave-versienummer en uw IP-adres gedeeld met de ontwikkelaars van Brave. (Het IP-adres wordt niet opgeslagen.)</translation>
 <translation id="6476216365964140603">Aanvullende gegevens (optioneel)</translation>
 <translation id="6145852496180774737">Neem contact met me op via: (optioneel)</translation>
 <translation id="7616645803364270729">E-mail, Twitter, etc.</translation>
 <translation id="5299848999918506028">Bedankt!</translation>
-<translation id="76550953340008122">Bedankt dat u de ontwikkelaars van Brave heeft laten weten dat er iets mis is met deze site. We zullen ons best doen om het te repareren!</translation>
+<translation id="76550953340008122">Bedankt dat u de ontwikkelaars van Portal heeft laten weten dat er iets mis is met deze site. We zullen ons best doen om het te repareren!</translation>
 <translation id="2974339193389078578">Brave, het nieuwe internet</translation>
 <translation id="7735138632831241257">Profiteer van een snellere, veiligere browse-ervaring met een browser die is gebouwd om je privacy te beschermen.</translation>
 <translation id="6001839398155993679">Laten we beginnen</translation>
-<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Verdien tokens<ph name="END_BOLD"/> door Brave Private Ads te bekijken en contentmakers automatisch te ondersteunen.</translation>
+<translation id="4225189922025976867"><ph name="BEGIN_BOLD"/>Verdien tokens<ph name="END_BOLD"/> door Portal Private Ads te bekijken en contentmakers automatisch te ondersteunen.</translation>
 <translation id="5477721706074111257">Door te klikken, gaat u akkoord met de <ph name="BEGIN_LINK"/>servicevoorwaarden<ph name="END_LINK"/> en het <ph name="BEGIN_LINK"/>privacybeleid<ph name="END_LINK"/>.</translation>
 <translation id="3505541710659461355">U kunt dit op elk gewenst moment uitschakelen in instellingen.</translation>
 <translation id="2965798296974325760">Start met het gebruik van Rewards</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Importeren</translation>
 <translation id="2088479175984386785">Importeren van...</translation>
 <translation id="5540323067375019678">Je schilden beheren</translation>
-<translation id="3278033011827237847">Bescherm tegen privacy schendende advertenties en trackers tijdens het browsen met Brave Shields. Stel Shields in op 'neer' als een website niet naar behoren lijkt te werken.</translation>
+<translation id="3278033011827237847">Bescherm tegen privacy schendende advertenties en trackers tijdens het browsen met Portal Shields. Stel Shields in op 'neer' als een website niet naar behoren lijkt te werken.</translation>
 <translation id="3366308997091824722">Shield instellingen</translation>
 <translation id="4764692524839457597">standaard</translation>
 <translation id="3108122610701115301">Stel standaard in</translation>
@@ -194,11 +194,11 @@
 <translation id="3829010735958850433">Welkomstour overslaan</translation>
 <translation id="1201402288615127009">Volgende</translation>
 <translation id="7954950242989581218">Blader veilig en wel</translation>
-<translation id="2188651882929633653">Brave Shields blokkeert alle enge zaken die u op internet proberen te volgen, — inclusief de meeste reclames. Schakel Shields “uit” als een site niet lijkt te werken. Brave gebruikt een <ph name="BEGIN_LINK_P3A"/>volledig privé productanalyse<ph name="END_LINK_P3A"/> om het totale gebruik van bepaalde functie te schatten. U kunt dit uitschakelen in de <ph name="BEGIN_LINK_P3A_SETTINGS"/>Instellingen<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="2188651882929633653">Brave Shields blokkeert alle enge zaken die u op internet proberen te volgen, — inclusief de meeste reclames. Schakel Shields “uit” als een site niet lijkt te werken. Portal gebruikt een <ph name="BEGIN_LINK_P3A"/>volledig privé productanalyse<ph name="END_LINK_P3A"/> om het totale gebruik van bepaalde functie te schatten. U kunt dit uitschakelen in de <ph name="BEGIN_LINK_P3A_SETTINGS"/>Instellingen<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="4851215387785619212">Brave-privéadvertenties</translation>
-<translation id="3114984266384096064">Verdien [[currency]] door advertenties van Brave te bekijken. De gepresenteerde advertenties zijn gebaseerd op uw interesses, afgeleid uit uw browsegedrag. Persoonlijke gegevens en de browsergeschiedenis worden nooit gedeeld buiten de browser.</translation>
+<translation id="3114984266384096064">Verdien [[currency]] door advertenties van Portal te bekijken. De gepresenteerde advertenties zijn gebaseerd op uw interesses, afgeleid uit uw browsegedrag. Persoonlijke gegevens en de browsergeschiedenis worden nooit gedeeld buiten de browser.</translation>
 <translation id="6112368337882254910">Auto-Contribute</translation>
-<translation id="3742599705619405136">Een automatische manier om uitgevers en makers van inhoud te ondersteunen. Stel een maandelijkse betaling in en browse zoals je normaal doet. De door Brave geverifieerde sites die je bezoekt ontvangen je bijdragen automatisch, op basis van jouw aandacht zoals gemeten door Brave.</translation>
+<translation id="3742599705619405136">Een automatische manier om uitgevers en makers van inhoud te ondersteunen. Stel een maandelijkse betaling in en browse zoals je normaal doet. De door Portal geverifieerde sites die je bezoekt ontvangen je bijdragen automatisch, op basis van jouw aandacht zoals gemeten door Brave.</translation>
 <translation id="3325399124634342726">Huidige verdiensten deze maand (geschat)</translation>
 <translation id="8593551638387217772">Volgende betaaldatum</translation>
 <translation id="4428871418618312983">Deze maand ontvangen advertenties</translation>
@@ -213,7 +213,7 @@
 <translation id="8827015466803589071">Max. 5 advertenties per uur</translation>
 <translation id="2293009346092992234">Max. 10 advertenties per uur</translation>
 <translation id="2356652719351432565">Regionale advertentierelevantie</translation>
-<translation id="3216275550298493597">Dit stelt Brave in staat om advertenties speciaal voor uw regio te laten zien.</translation>
+<translation id="3216275550298493597">Dit stelt Portal in staat om advertenties speciaal voor uw regio te laten zien.</translation>
 <translation id="8446884382197647889">Meer informatie</translation>
 <translation id="6209514229703649203">Automatisch gedetecteerd als [[adsSubdivisionTarget]]</translation>
 <translation id="8010081455002666927">Automatisch gedetecteerd</translation>
@@ -265,28 +265,28 @@
 <translation id="8826352442759228526">Brave Beloningen kan niet worden geverifieerd omdat u de maximale limiet aan geverifieerd apparaten hebt bereikt.</translation>
 <translation id="1221593978088944142">Fout: Apparaatlimiet bereikt</translation>
 <translation id="3113653894794167793">Sorry, er is een probleem opgetreden bij het verwerken van uw verzoek. Probeer het opnieuw.</translation>
-<translation id="3509185560119586847">Je Brave Beloningen-profiel is gerapporteerd en je kunt je profiel op dit moment niet verifiëren met een beheerder. Deze melding komt soms voor bij onregelmatige activiteit van Brave Advertenties, maar kan ook een onterechte melding zijn.</translation>
-<translation id="5031451251720571882">Houd er rekening mee dat wanneer je Brave Beloningen-profiel is gerapporteerd, je niet kunt verifiëren.</translation>
-<translation id="7301759045821910866">Je hoeft geen actie te ondernemen. Je Brave Beloningen-profiel wordt automatisch regelmatig opnieuw beoordeeld om te bepalen wanneer (en of) de melding kan worden verwijderd. Probeer je om de zoveel tijd opnieuw aan te melden om erachter te komen of de melding is verwijderd.</translation>
-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Meer informatie over het proces van Brave met betrekking tot het rapporteren van Beloningen-profielen.<ph name="END_LINK"/></translation>
-<translation id="5028274575541726856">Fout: Brave Beloningen-profiel is gerapporteerd</translation>
+<translation id="3509185560119586847">Je Portal Beloningen-profiel is gerapporteerd en je kunt je profiel op dit moment niet verifiëren met een beheerder. Deze melding komt soms voor bij onregelmatige activiteit van Portal Advertenties, maar kan ook een onterechte melding zijn.</translation>
+<translation id="5031451251720571882">Houd er rekening mee dat wanneer je Portal Beloningen-profiel is gerapporteerd, je niet kunt verifiëren.</translation>
+<translation id="7301759045821910866">Je hoeft geen actie te ondernemen. Je Portal Beloningen-profiel wordt automatisch regelmatig opnieuw beoordeeld om te bepalen wanneer (en of) de melding kan worden verwijderd. Probeer je om de zoveel tijd opnieuw aan te melden om erachter te komen of de melding is verwijderd.</translation>
+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Meer informatie over het proces van Portal met betrekking tot het rapporteren van Beloningen-profielen.<ph name="END_LINK"/></translation>
+<translation id="5028274575541726856">Fout: Portal Beloningen-profiel is gerapporteerd</translation>
 <translation id="2607420597216860026">Probeer het opnieuw nadat je de ID-verificatie hebt doorlopen van <ph name="PROVIDER"/>.</translation>
 <translation id="3183954159462541696">Fout: er is een geverifieerd account vereist om in te loggen</translation>
-<translation id="1859789048900659918">Hmm, het lijkt erop dat uw Brave Rewards-land niet overeenkomt met het land van het <ph name="PROVIDER"/>-account dat u probeert te koppelen.</translation>
+<translation id="1859789048900659918">Hmm, het lijkt erop dat uw Portal Rewards-land niet overeenkomt met het land van het <ph name="PROVIDER"/>-account dat u probeert te koppelen.</translation>
 <translation id="8925428135452218262">Fout: landen komen niet overeen</translation>
-<translation id="5260522591743022748">Het lijkt erop dat Brave Beloningen al is geverifieerd met een ander <ph name="PROVIDER"/>-account. Probeer nog eens te verifiëren met uw vorige account.</translation>
+<translation id="5260522591743022748">Het lijkt erop dat Portal Beloningen al is geverifieerd met een ander <ph name="PROVIDER"/>-account. Probeer nog eens te verifiëren met uw vorige account.</translation>
 <translation id="5111921830714291902">Fout: ander account</translation>
-<translation id="5225019866741699134">Het lijkt erop dat verbinden van <ph name="PROVIDER"/> met Brave Rewards tijdelijk niet mogelijk is. Probeer het later opnieuw.</translation>
+<translation id="5225019866741699134">Het lijkt erop dat verbinden van <ph name="PROVIDER"/> met Portal Rewards tijdelijk niet mogelijk is. Probeer het later opnieuw.</translation>
 <translation id="6105073131081187815">U kunt de <ph name="BEGIN_LINK"/>servicestatus<ph name="END_LINK"/> hier bekijken.</translation>
 <translation id="2400786541309111904">Fout: verbinden met de geselecteerde beheerder is momenteel niet beschikbaar</translation>
-<translation id="1024520300696337331">Uw <ph name="PROVIDER"/>-account kan momenteel niet worden verbonden met uw Brave Rewards-profiel. Uw <ph name="PROVIDER"/>-account is geregistreerd in een land dat momenteel geen ondersteuning biedt aan Brave Rewards.</translation>
-<translation id="619384413404021992">Bekijk de <ph name="LINK_BEGIN"/>huidige lijst met ondersteunde regio's en leer meer<ph name="END_LINK"/> over verbinding maken met Brave Rewards via een beheerdersaccount.</translation>
+<translation id="1024520300696337331">Uw <ph name="PROVIDER"/>-account kan momenteel niet worden verbonden met uw Portal Rewards-profiel. Uw <ph name="PROVIDER"/>-account is geregistreerd in een land dat momenteel geen ondersteuning biedt aan Portal Rewards.</translation>
+<translation id="619384413404021992">Bekijk de <ph name="LINK_BEGIN"/>huidige lijst met ondersteunde regio's en leer meer<ph name="END_LINK"/> over verbinding maken met Portal Rewards via een beheerdersaccount.</translation>
 <translation id="7193389978208728181">Fout: regio momenteel niet ondersteund</translation>
 <translation id="5382684862562314222">BAT wordt in Uphold nog niet ondersteund in jouw regio.</translation>
 <translation id="9074594632540931067">Fout: BAT niet beschikbaar</translation>
 <translation id="5376524136040178759">Volgens Uphold gelden er momenteel enkele beperkingen voor uw Uphold-account. Log in bij uw Uphold-account en controleer of er meldingen zijn of er gegevens ontbreken. Probeer het vervolgens opnieuw.</translation>
 <translation id="6996157559236886133">Fout: beperkte Uphold-accountfunctionaliteit</translation>
-<translation id="3274650021044762770">Er is een probleem opgetreden bij het valideren van het verzoek van uw browser om Brave Beloningen te koppelen aan uw <ph name="PROVIDER"/>-account. U kunt <ph name="BEGIN_LINK"/>contact opnemen met de ondersteuning <ph name="END_LINK"/> als u meer hulp nodig hebt.</translation>
+<translation id="3274650021044762770">Er is een probleem opgetreden bij het valideren van het verzoek van uw browser om Portal Beloningen te koppelen aan uw <ph name="PROVIDER"/>-account. U kunt <ph name="BEGIN_LINK"/>contact opnemen met de ondersteuning <ph name="END_LINK"/> als u meer hulp nodig hebt.</translation>
 <translation id="1316066811927496401">Fout: verzoek kan niet worden gevalideerd</translation>
 <translation id="1737873393693460829">Door [[title]] in the schakelen, ga je akkoord met de <ph name="BEGIN_LINK1"/>Servicevoorwaarden<ph name="END_LINK1"/> en het <ph name="BEGIN_LINK2"/>Privacybeleid<ph name="END_LINK2"/>.</translation>
 <translation id="4123948149985772126">Een accountprovider kiezen</translation>
@@ -300,7 +300,7 @@
 <translation id="3222002542796906461">Ontvang uw beloningen direct in uw account</translation>
 <translation id="1233129511866436960">Meer informatie over regio's en ondersteuning</translation>
 <translation id="7329170127335794328">Momenteel niet beschikbaar in uw regio</translation>
-<translation id="8304979233901023264">Ik heb de <ph name="TOS_LINK_BEGIN"/>servicevoorwaarden<ph name="TOS_LINK_END"/> &amp; en het <ph name="PP_LINK_BEGIN"/>privacybeleid<ph name="PP_LINK_END"/> van Brave gelezen en ga ermee akkoord.</translation>
+<translation id="8304979233901023264">Ik heb de <ph name="TOS_LINK_BEGIN"/>servicevoorwaarden<ph name="TOS_LINK_END"/> &amp; en het <ph name="PP_LINK_BEGIN"/>privacybeleid<ph name="PP_LINK_END"/> van Portal gelezen en ga ermee akkoord.</translation>
 <translation id="2359808026110333948">Doorgaan met</translation>
 <translation id="1892970806832316900">In behandeling tot <ph name="DATE"/></translation>
 <translation id="7849926087559412554">Uw browser kan geen Brave-privéadvertenties weergeven.</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">U hebt een in behandeling zijnde fooi ingesteld!</translation>
 <translation id="5096821444729034955">voor hun post</translation>
 <translation id="2978223787436054634">Tweet over uw support</translation>
-<translation id="5916290544882167205">Brave Software. Brave is een geregistreerd handelsmerk van Brave Software. Sitenamen kunnen handelsmerken of geregistreerde handelsmerken zijn van de site-eigenaar.</translation>
-<translation id="9026369588205476247">Om je privacy te beschermen is dit Brave Rewards afschrift niet opgeslagen of bewaard buiten je apparaat (deze computer). Het kan niet achterhaald worden via Brave indien je de data op je apparaat verliest.</translation>
+<translation id="5916290544882167205">Brave Software. Portal is een geregistreerd handelsmerk van Portal Software. Sitenamen kunnen handelsmerken of geregistreerde handelsmerken zijn van de site-eigenaar.</translation>
+<translation id="9026369588205476247">Om je privacy te beschermen is dit Portal Rewards afschrift niet opgeslagen of bewaard buiten je apparaat (deze computer). Het kan niet achterhaald worden via Portal indien je de data op je apparaat verliest.</translation>
 <translation id="3587482841069643663">Alles</translation>
 <translation id="4241224519481557898">Categorie</translation>
 <translation id="3080423471207781945">Maximaal aantal ontvangen advertenties per uur:</translation>
@@ -434,7 +434,7 @@
 <translation id="2777306694585938662">Advertentiebeloningen ontvangen</translation>
 <translation id="5212777575344695266">Markeren als ongepast</translation>
 <translation id="2111256234277361810">Markeren als ongepast ✓</translation>
-<translation id="8988332871810963281">Er is momenteel geen geschiedenis van Brave Ads</translation>
+<translation id="8988332871810963281">Er is momenteel geen geschiedenis van Portal Ads</translation>
 <translation id="5345727496083327478">Je ontvangt niet langer advertenties uit deze categorie</translation>
 <translation id="2631006050119455616">Opgeslagen</translation>
 <translation id="3819257035322786455">Back-up maken</translation>
@@ -454,10 +454,10 @@
 <translation id="1418534671788496616">Stortingsgeschiedenis bekijken</translation>
 <translation id="3412655388715513818">Sluit deze website uit</translation>
 <translation id="418343137736963579">Totaal aantal websites die je het uitgesloten van Auto-Contribute:</translation>
-<translation id="8802504113265057166">[[currency]] die niet gebruikt zijn op de verloopdatum worden automatisch weer toegewezen aan de Brave User Growth Pool.</translation>
+<translation id="8802504113265057166">[[currency]] die niet gebruikt zijn op de verloopdatum worden automatisch weer toegewezen aan de Portal User Growth Pool.</translation>
 <translation id="279567716178902927">Vervaldatum gift</translation>
 <translation id="1389143276807887637">importeer</translation>
-<translation id="6302422639282249274">Beheer Brave Rewards</translation>
+<translation id="6302422639282249274">Beheer Portal Rewards</translation>
 <translation id="211044356803193224">Maandelijkse donaties</translation>
 <translation id="2487641031722095938">Het is uw geluksdag!</translation>
 <translation id="6255773350565723852">Je gift komt eraan.</translation>
@@ -498,13 +498,13 @@
 <translation id="5939518447894949180">Resetten</translation>
 <translation id="5669281110673664811">Exclusielijst wissen</translation>
 <translation id="1797334173232638045">Je vastgepinde sites zijn verplaatst naar</translation>
-<translation id="542042553430131913">Als Brave Beloningen niet is geverifieerd, wordt uw BAT-saldo opgeslagen in lokale bestanden op uw apparaat.</translation>
+<translation id="542042553430131913">Als Portal Beloningen niet is geverifieerd, wordt uw BAT-saldo opgeslagen in lokale bestanden op uw apparaat.</translation>
 <translation id="2142973554991645476">Als u uw BAT wilt beveiligen in het geval van het opnieuw installeren van de browser of bij het opnieuw formatteren van uw apparaat, en als u wilt profiteren van andere voordelen zoals het toevoegen en opnemen van uw BAT, bevelen wij aan <ph name="LINK_BEGIN"/>te verifiëren<ph name="LINK_END"/>.</translation>
 <translation id="5317144262906129592">U kunt deze content creator steunen door een bijdrage te verzenden. Dit is een blijk van waardering voor het maken van goede content.</translation>
 <translation id="3074127054582480056">Opgelet</translation>
-<translation id="3659457123782988823">Weet u zeker dat u Brave Beloningen opnieuw wilt instellen?</translation>
-<translation id="4048187103708861555">Uw <ph name="BAT_AMOUNT"/> en andere Beloningen-gegevens gaan permanent verloren als u Brave Beloningen opnieuw instelt. Zorg ervoor dat u <ph name="LINK_BEGIN"/>verifieert<ph name="LINK_END"/> om uw BAT te behouden.</translation>
-<translation id="3548849774726860833">Uw Beloningen-gegevens gaan permanent verloren als u Brave Beloningen opnieuw instelt.</translation>
+<translation id="3659457123782988823">Weet u zeker dat u Portal Beloningen opnieuw wilt instellen?</translation>
+<translation id="4048187103708861555">Uw <ph name="BAT_AMOUNT"/> en andere Beloningen-gegevens gaan permanent verloren als u Portal Beloningen opnieuw instelt. Zorg ervoor dat u <ph name="LINK_BEGIN"/>verifieert<ph name="LINK_END"/> om uw BAT te behouden.</translation>
+<translation id="3548849774726860833">Uw Beloningen-gegevens gaan permanent verloren als u Portal Beloningen opnieuw instelt.</translation>
 <translation id="4914597931214386232">Geclaimde giften</translation>
 <translation id="3494964159182650590">Overzicht van de Beloningen</translation>
 <translation id="2913994227901456490">Bekijk alle [[numItems]] artikels</translation>
@@ -525,7 +525,7 @@
 <translation id="1910721550319506122">Welkom!</translation>
 <translation id="4258022280942725182">Uw Brave-beloningen</translation>
 <translation id="6727483290601442544">Bekijk de Details</translation>
-<translation id="4206899127409458763">Uw Brave Beloningen-profiel aanmaken</translation>
+<translation id="4206899127409458763">Uw Portal Beloningen-profiel aanmaken</translation>
 <translation id="1988679729106502285">OPMERKING:</translation>
 <translation id="4047340292178074200">Deze maker is momenteel nog niet geconfigureerd voor het ontvangen van fooi uit uw beheerde Beloningen-wallet. Alle fooien die u stuurt, blijven in uw wallet in behandeling. Na 90 dagen wordt automatisch opnieuw geprobeerd om de fooi te verzenden.</translation>
 <translation id="5530734056858418442">Deze maker is momenteel nog niet aangemeld. Alle fooien die u stuurt, blijven in uw wallet in behandeling. Na 90 dagen wordt automatisch opnieuw geprobeerd om de fooi te verzenden.</translation>
@@ -542,7 +542,7 @@
 <translation id="5113531205597573951">Bekeken sites</translation>
 <translation id="4450893287417543264">Laat niet weer zien</translation>
 <translation id="6518133107902771759">Verifieer</translation>
-<translation id="422369484771082705">Verifiëren is optioneel. Door te verifiëren kunt u echter uw verdiende BAT rechtstreeks opnemen vanuit Brave Beloningen naar een walletbeheerder.</translation>
+<translation id="422369484771082705">Verifiëren is optioneel. Door te verifiëren kunt u echter uw verdiende BAT rechtstreeks opnemen vanuit Portal Beloningen naar een walletbeheerder.</translation>
 <translation id="4354564238172327160">Word ontwikkelaar bij Brave!</translation>
 <translation id="4639659520811817892">Bezoek creators.brave.com om u vandaag aan te melden en Bat te verdienen van fans en volgers.</translation>
 <translation id="4816455138209470435">Brave ondersteunt YouTube, Twitch, Vimeo en meer!</translation>
@@ -556,7 +556,7 @@
 <translation id="7840362246306242214">Handelen in Amerikaanse aandelen beschikbaar op Uphold</translation>
 <translation id="3345432088196080137">Investeer al vanaf $1 in populaire aandelen en op de beurs verhandelde fondsen zoals AAPL, TSLA or AMZN</translation>
 <translation id="3787061634640932557">Kaarten bewerken</translation>
-<translation id="2070991379950719711">Starten met het gebruik van Brave rewards</translation>
+<translation id="2070991379950719711">Starten met het gebruik van Portal rewards</translation>
 <translation id="5977237145327845546">Start een privé-videogesprek met je vrienden en collega's.</translation>
 <translation id="8863928195533744356">Gesprek starten</translation>
 <translation id="3651550649176056334">Over jouw gegevens</translation>
@@ -623,9 +623,9 @@
 <translation id="824449983246282560">Je hebt geen saldo in je account. Ga naar Gemini om saldo toe te voegen.</translation>
 <translation id="8624961452383848703">Ik wil deze cryptovaluta converteren…</translation>
 <translation id="1544192797660353713">Wallet</translation>
-<translation id="616639131065447379">Welkom bij Brave Crypto Wallets</translation>
+<translation id="616639131065447379">Welkom bij Portal Crypto Wallets</translation>
 <translation id="1740464057879304704">Met Crypto Wallets kunt u werken met cryptocurrency en aanverwante zaken in Brave. Crypto Wallets ondersteunt Ethereum tokens zoals ETH en BAT, maar ook collectibles, en stelt u in staat om te werken met Ðapps en andere slimme contracten. Dit alles is bedoeld voor mensen die bekend zijn met Ethereum en andere blockchain-systemen of die het graag willen leren.</translation>
-<translation id="4855440621031541830">Gebruik Crypto Wallets alleen als je accepteert dat jij persoonlijk verantwoordelijk bent voor alle risico's die verbonden zijn aan dit gebruik, en dat Brave Software geen verantwoordelijkheid of aansprakelijkheid draagt voor eventuele verliezen, inclusief incidentele of indirecte schade die je zou kunnen lijden als gevolg van dit gebruik.</translation>
+<translation id="4855440621031541830">Gebruik Crypto Wallets alleen als je accepteert dat jij persoonlijk verantwoordelijk bent voor alle risico's die verbonden zijn aan dit gebruik, en dat Portal Software geen verantwoordelijkheid of aansprakelijkheid draagt voor eventuele verliezen, inclusief incidentele of indirecte schade die je zou kunnen lijden als gevolg van dit gebruik.</translation>
 <translation id="3187473319809074178">Dit alles staat volledig los van</translation>
 <translation id="8327818101454798856">Dus als je je favoriete sites wilt ondersteunen, ga dan daarheen.</translation>
 <translation id="412480955826088549">Onderdeel downloaden...</translation>
@@ -701,10 +701,10 @@
 <translation id="3373798179786163193">Ga door met publieke poort</translation>
 <translation id="1974060860693918893">Geavanceerd</translation>
 <translation id="9096577886148726047">Geavanceerd verbergen</translation>
-<translation id="182581792765792826">Brave kan de gevraagde IPFS-bronnen niet laden omdat het lokale IPFS-knooppunt van Brave niet is gestart, of omdat er op dit moment geen aangesloten peers beschikbaar zijn. Als u kiest voor 'Doorgaan', zal Brave automatisch terugvallen op de standaard openbare gateway wanneer het gebruik van het lokale IPFS-knooppunt van Brave is mislukt. U kunt dit op elk gewenst moment in uw Brave-instellingen wijzigen.</translation>
+<translation id="182581792765792826">Brave kan de gevraagde IPFS-bronnen niet laden omdat het lokale IPFS-knooppunt van Portal niet is gestart, of omdat er op dit moment geen aangesloten peers beschikbaar zijn. Als u kiest voor 'Doorgaan', zal Portal automatisch terugvallen op de standaard openbare gateway wanneer het gebruik van het lokale IPFS-knooppunt van Portal is mislukt. U kunt dit op elk gewenst moment in uw Brave-instellingen wijzigen.</translation>
 <translation id="8026038288183400906">IPFS-voorkeur</translation>
 <translation id="2058855456574089690">Stel uw IPFS-voorkeur in</translation>
-<translation id="4780526507945807546">Een lokaal IPFS-knooppunt van Brave gebruiken</translation>
+<translation id="4780526507945807546">Een lokaal IPFS-knooppunt van Portal gebruiken</translation>
 <translation id="8148464361648742409">Gebruik een publieke gateway</translation>
 <translation id="5123478056123923857">IPFS (InterPlanetary File System) is het openbare netwerk voor peer-to-peer gegevensopslag en -overdracht. Dit protocol maakt gebruik van andere privacy-overwegingen dan HTTP(S).</translation>
 <translation id="1216911189668016151">Uw computer is onderdeel van het openbare netwerk, maar uw IP-adres en de inhoud die u opvraagt of verstrekt zijn mogelijk zichtbaar. Inhoud die u via IPFS opvraagt wordt geverifieerd voordat deze aan u wordt aangeboden. Netwerkverzoeken gebruiken mogelijk geen proxy- en DNS-browserinstellingen.</translation>
@@ -717,7 +717,7 @@
 <translation id="1675751799495331928">We hebben het maximum aantal pogingen overschreden, probeer het later nog eens.</translation>
 <translation id="4499666752625407848">Er is een fout opgetreden tijdens een update.</translation>
 <translation id="62991515067726424">Deze inhoud is geladen met het IPFS-protocol</translation>
-<translation id="7263366446813126341">InterPlanetary File System (IPFS) is een openbaar netwerk voor peer-to-peer gegevensopslag en -overdracht. Je kunt te allen tijde meer informatie krijgen over de integratie van Brave of je IPFS-instellingen aanpassen.</translation>
+<translation id="7263366446813126341">InterPlanetary File System (IPFS) is een openbaar netwerk voor peer-to-peer gegevensopslag en -overdracht. Je kunt te allen tijde meer informatie krijgen over de integratie van Portal of je IPFS-instellingen aanpassen.</translation>
 <translation id="3175567740517780285">IPFS-instellingen</translation>
 <translation id="8914505352873092008">Ga naar de IPFS-instellingenpagina</translation>
 <translation id="3465468510001693544">IPFS-diagnostiek</translation>
@@ -730,7 +730,7 @@
 <translation id="5525148540855044244">Deelbare koppeling gekopieerd: <ph name="SHAREABLE_LINK"/></translation>
 <translation id="3741998951694470470">Kan gegevens voor import niet ophalen</translation>
 <translation id="7900950536120202771">Interne fout bij IPFS-knooppunt</translation>
-<translation id="1036635552229153800">De gegevens zijn geüpload maar zijn niet naar de importmap van Brave verplaatst. Je kunt dit handmatig doen via de pagina voor instellingen van importeren.</translation>
+<translation id="1036635552229153800">De gegevens zijn geüpload maar zijn niet naar de importmap van Portal verplaatst. Je kunt dit handmatig doen via de pagina voor instellingen van importeren.</translation>
 <translation id="3793279629218362523">ID van peer en IPNS-sleutels beheren</translation>
 <translation id="572392919096807438">Mijn keuze onthouden</translation>
 <translation id="7978789143098237970">totdat ik de website sluit</translation>
@@ -765,11 +765,11 @@
 <translation id="8334559352278209120">Schenken</translation>
 <translation id="4782365133987903299">U hebt nog <ph name="DAYS"/> om te claimen</translation>
 <translation id="3903419925307046908">Verdien tokens en geef terug</translation>
-<translation id="244362569344671266">Verdien tokens door het bekijken van Brave Private Ads en ondersteun automatisch makers van inhoud.</translation>
+<translation id="244362569344671266">Verdien tokens door het bekijken van Portal Private Ads en ondersteun automatisch makers van inhoud.</translation>
 <translation id="5095252080770652994">Voortgang</translation>
 <translation id="6278643716658443228">Instellingen voor beloningen</translation>
 <translation id="2862978891748913252">Selecteer uw land</translation>
-<translation id="3717922248131893262">Om Brave Rewards te blijven gebruiken, selecteert u uw land. Dan kunnen wij u de juiste opties en advertenties voor uw regio laten zien. <ph name="LINK_BEGIN"/>Privacybeleid<ph name="LINK_END"/></translation>
+<translation id="3717922248131893262">Om Portal Rewards te blijven gebruiken, selecteert u uw land. Dan kunnen wij u de juiste opties en advertenties voor uw regio laten zien. <ph name="LINK_BEGIN"/>Privacybeleid<ph name="LINK_END"/></translation>
 <translation id="6777169449483742979">Je verdient tokens voor het bekijken van deze gesponsorde afbeelding.</translation>
 <translation id="5486114327664215175">Verdien tokens door deze afbeelding te bekijken en ondersteun makers van content.</translation>
 <translation id="2940863921746574646">Tokensaldo</translation>
@@ -792,10 +792,10 @@
 <translation id="6333727259565526314">Uw beloning komt eraan.</translation>
 <translation id="39734939514946950">Je Rewards-bedrag</translation>
 <translation id="717952606991220586">Oeps, er is iets misgegaan. Probeer het later opnieuw.</translation>
-<translation id="7210234701206674260">Het Brave Beloningssysteem ondervindt op dit moment een probleem. Probeer het later opnieuw.</translation>
+<translation id="7210234701206674260">Het Portal Beloningssysteem ondervindt op dit moment een probleem. Probeer het later opnieuw.</translation>
 <translation id="579702532610384533">Opnieuw verbinding maken</translation>
 <translation id="7550470870580166294">Onvoldoende saldo</translation>
-<translation id="2775064702681588061">Je Brave Rewards-account wacht op een storting.</translation>
+<translation id="2775064702681588061">Je Portal Rewards-account wacht op een storting.</translation>
 <translation id="3358400027937159351">U hebt <ph name="AMOUNT"/> bijgedragen.</translation>
 <translation id="1619753851206150396">U bent uitgelogd</translation>
 <translation id="5142174225142816130">Dit kan voorkomen om je account veilig te houden. Klik hieronder om nu opnieuw verbinding te maken.</translation>
@@ -809,20 +809,20 @@
 <translation id="7855913851082138664">Ontwikkelaar <ph name="PUBLISHER_NAME"/> onlangs geverifieerd.</translation>
 <translation id="6194996600967335044">Onvoldoende saldo</translation>
 <translation id="2795080275268642520">U hebt openstaande fooien door ontoereikende fondsen</translation>
-<translation id="2529827670795983639">Het ziet ernaar uit dat dit niet werkt, Brave Ads blijven gepauzeerd. Neem contact met ons op als je hulp nodig hebt met de captcha.</translation>
+<translation id="2529827670795983639">Het ziet ernaar uit dat dit niet werkt, Portal Ads blijven gepauzeerd. Neem contact met ons op als je hulp nodig hebt met de captcha.</translation>
 <translation id="261607053214862521">Max. aantal pogingen overschreden</translation>
 <translation id="2323171459178104277">Opgelost!</translation>
-<translation id="1512837998731269583">Advertenties en verdiensten worden nu hervat. Bedankt dat je ons helpt bij het beschermen van Brave Rewards en op privacy gebaseerde advertenties.</translation>
+<translation id="1512837998731269583">Advertenties en verdiensten worden nu hervat. Bedankt dat je ons helpt bij het beschermen van Portal Rewards en op privacy gebaseerde advertenties.</translation>
 <translation id="3247549836099021862">Contact opnemen met ondersteuning</translation>
 <translation id="5234764350956374838">Dismiss</translation>
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>Neem een snelle tour<ph name="TOUR_LINK_END"/> of <ph name="LEARN_LINK_BEGIN"/>krijg meer<ph name="LEARN_LINK_END"/>informatie.</translation>
 <translation id="7465614181960492526">Tokens verdienen en terugschenken</translation>
 <translation id="2731539192954672606">Verdien tokens door privacy-respecterende advertenties te bekijken en steun automatisch uw favoriete sites en makers van inhoud.</translation>
 <translation id="5425006356459378415">Brave Rewards is niet beschikbaar</translation>
-<translation id="909076461795862330">Er heeft zich een probleem voorgedaan bij het instellen van Brave Rewards. Probeer het opnieuw.</translation>
+<translation id="909076461795862330">Er heeft zich een probleem voorgedaan bij het instellen van Portal Rewards. Probeer het opnieuw.</translation>
 <translation id="3180990265682133881">Er heeft zich een probleem voorgedaan bij het instellen van uw land. Probeer het opnieuw.</translation>
-<translation id="5931798071481566121">Nieuwe aanmeldingen voor Brave Rewards zijn momenteel uitgeschakeld in uw regio. U kunt het later echter altijd opnieuw proberen. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
-<translation id="8764860730661377310">Uw Brave Rewards-regio is ingesteld op <ph name="COUNTRY"/>.</translation>
+<translation id="5931798071481566121">Nieuwe aanmeldingen voor Portal Rewards zijn momenteel uitgeschakeld in uw regio. U kunt het later echter altijd opnieuw proberen. <ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
+<translation id="8764860730661377310">Uw Portal Rewards-regio is ingesteld op <ph name="COUNTRY"/>.</translation>
 <translation id="7068416025603720599">Selecteer uw land zodat we u de juiste opties en advertenties kunnen laten zien. <ph name="LINK_BEGIN"/>Privacybeleid<ph name="LINK_END"/></translation>
 <translation id="1275213816424141989">Misschien later</translation>
 <translation id="5187052478998910855">Heeft u een opfrisser nodig over Rewards?</translation>
@@ -838,12 +838,12 @@
 <translation id="185034574799484512">Laten we een snelle tour nemen</translation>
 <translation id="8281886186245836920">Overslaan</translation>
 <translation id="1377600615067678409">Voor nu overslaan</translation>
-<translation id="7930505144430343145">Welkom bij Brave Rewards!</translation>
+<translation id="7930505144430343145">Welkom bij Portal Rewards!</translation>
 <translation id="3477340970981564961">Brave Private Ads beloont u met tokens om de makers van content te ondersteunten, in tegenstelling tot traditionele advertenties, terwijl je persoonlijke informatie privé blijft.</translation>
 <translation id="6973095375773523904">Waar verschijnen de advertenties?</translation>
 <translation id="7556325460112047619">Brave Private Ads zullen verschijnen als een normale notificatie. U bepaalt zelf hoe vaak u deze advertenties ziet in instellingen.</translation>
 <translation id="6897083627729802351">Wanneer ontvang je beloningen?</translation>
-<translation id="310863932297733723">U verdiende tokens van Brave Private Ads gedurende de hele lopende maand zullen op de 5e van de volgende maand aankomen.</translation>
+<translation id="310863932297733723">U verdiende tokens van Portal Private Ads gedurende de hele lopende maand zullen op de 5e van de volgende maand aankomen.</translation>
 <translation id="7712287524451429139">Moeiteloos terugschenken</translation>
 <translation id="105037569026952831">De makers ontvangen uw contributies automatisch op basis van uw engagementniveau's die we meten als 'Attention'.</translation>
 <translation id="5323267338679539010">Bedanken door middel van een fooi</translation>
@@ -853,15 +853,15 @@
 <translation id="1402530520078693620">Laten we tot slot uw basisinstellingen in orde maken</translation>
 <translation id="3494356595346329740">U kunt dit later wijzigen.</translation>
 <translation id="827315274423079662">Woehoe, u bent er helemaal klaar voor!</translation>
-<translation id="8268038362451312235">Door Brave Rewards te gebruiken helpt u het internet een betere plek te maken voor iedereen. En dat is geweldig!</translation>
-<translation id="2318949593486441832">Om de BAT die u verdient voor het bekijken van advertenties op te nemen, moet u Brave Beloningen verifiëren.</translation>
+<translation id="8268038362451312235">Door Portal Rewards te gebruiken helpt u het internet een betere plek te maken voor iedereen. En dat is geweldig!</translation>
+<translation id="2318949593486441832">Om de BAT die u verdient voor het bekijken van advertenties op te nemen, moet u Portal Beloningen verifiëren.</translation>
 <translation id="9168436347345867845">Ik doe het later</translation>
 <translation id="7193761697942491145">Brave Beloningen verifiëren</translation>
 <translation id="6609621505400013054">De bitFlyer-wallet is een service die wordt beheerd door fitFlyer, Inc.</translation>
-<translation id="4361456403643555676">Door Brave Beloningen te verifiëren en dit te koppelen aan een bitFlyer-account, kunt u de tokens die u hebt verdiend eenvoudig via Brave Beloningen opslaan en beheren</translation>
+<translation id="4361456403643555676">Door Portal Beloningen te verifiëren en dit te koppelen aan een bitFlyer-account, kunt u de tokens die u hebt verdiend eenvoudig via Portal Beloningen opslaan en beheren</translation>
 <translation id="1411121707906693782"><ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/> over hoe u uw Brave-browser kunt koppelen aan uw bitFlyer-account.</translation>
-<translation id="1015443539415537847">Sorry, Brave Rewards is niet beschikbaar</translation>
-<translation id="5007776270364097327">Helaas, het ziet ernaar uit dat u zich in een regio bevindt waar Brave Rewards niet beschikbaar is.</translation>
+<translation id="1015443539415537847">Sorry, Portal Rewards is niet beschikbaar</translation>
+<translation id="5007776270364097327">Helaas, het ziet ernaar uit dat u zich in een regio bevindt waar Portal Rewards niet beschikbaar is.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Meer informatie<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">Maakt u zich geen zorgen.</translation>
 <translation id="5027616819996705541">U kunt nog altijd privé browsen!</translation>
@@ -1050,7 +1050,7 @@
 <translation id="6892232036314454524">Deze fout kan optreden als de verkeerde applicatie is geopend op het Ledger-apparaat.</translation>
 <translation id="6598291715079540080">Trezor</translation>
 <translation id="5605670050355397069">Ledger</translation>
-<translation id="4247752006222818397">Geef Brave toegang tot uw Ledger-apparaat.</translation>
+<translation id="4247752006222818397">Geef Portal toegang tot uw Ledger-apparaat.</translation>
 <translation id="4378551569595875038">Connecting...</translation>
 <translation id="1943188256166395881">Gecontroleerde accounts toevoegen</translation>
 <translation id="8554010658308662631">Meer laden</translation>
@@ -1110,7 +1110,7 @@
 <translation id="3352959425838279177">Haal Ether op uit een kraan voor <ph name="SELECTED_NETWORK"/></translation>
 <translation id="6449626816252815844">Betaalmethode selecteren</translation>
 <translation id="8009571545960303544">Uw handtekening wordt aangevraagd</translation>
-<translation id="5294062982587710720">Houd er rekening mee dat Brave niet kan controleren wat er gebeurt als je tekent. Een ondertekening kan bijna elke bewerking in jouw account of namens jouw account autoriseren, waaronder (maar niet beperkt tot) het geven van volledige controle over jouw account en cryptoassets aan de website die het verzoek doet. Teken alleen als je deze actie wilt uitvoeren en de aanvragende website vertrouwt.</translation>
+<translation id="5294062982587710720">Houd er rekening mee dat Portal niet kan controleren wat er gebeurt als je tekent. Een ondertekening kan bijna elke bewerking in jouw account of namens jouw account autoriseren, waaronder (maar niet beperkt tot) het geven van volledige controle over jouw account en cryptoassets aan de website die het verzoek doet. Teken alleen als je deze actie wilt uitvoeren en de aanvragende website vertrouwt.</translation>
 <translation id="3474375934783434676">Tekenen op eigen risico</translation>
 <translation id="5488357322146334497">Bericht</translation>
 <translation id="3586752056660754651">Teken</translation>
@@ -1171,7 +1171,7 @@
 <translation id="7029403458170657879">Verbinden met Brave-wallet</translation>
 <translation id="2770851145415891830">Bestaande cryptowallets gedetecteerd</translation>
 <translation id="2237759620789871865">Als je het importeren liever wilt overslaan en de oude cryptowalletervaring wilt houden, navigeer je naar de <ph name="LINK_BEFORE"/>instellingen<ph name="LINK_AFTER"/> van de Brave-browser en stel je cryptowallets weer als standaard in. Je kunt ook importeren, de nieuwe Brave-wallet uitproberen en teruggaan wanneer je wilt.</translation>
-<translation id="5590175005414413980">Voer je bestaande cryptowallet-wachtwoord in om naar Brave Wallet te importeren. Profiteer van een snellere en veiligere manier om crypto-assets te beheren en om met Web3 DApps te communiceren.</translation>
+<translation id="5590175005414413980">Voer je bestaande cryptowallet-wachtwoord in om naar Portal Wallet te importeren. Profiteer van een snellere en veiligere manier om crypto-assets te beheren en om met Web3 DApps te communiceren.</translation>
 <translation id="880619123281809987">Wachtwoord van cryptowallet typen</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> verbonden</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> losgekoppeld</translation>
@@ -1454,7 +1454,7 @@
 <translation id="6260144012548445299">Meer informatie over mijn nieuwe wallet</translation>
 <translation id="8746910870914151528">Juridische zaken</translation>
 <translation id="5148123176978018397">Gelieve het volgende te erkennen:</translation>
-<translation id="6088314935678153800">Ik begrijp dat dit een eigen wallet is, en dat ik alleen verantwoordelijk ben voor alle bijbehorende fondsen, activa of rekeningen, en voor het nemen van gepaste maatregelen om mijn wallet te beveiligen, beschermen en back-uppen. Ik begrijp dat Brave GEEN toegang heeft tot mijn wallet of transacties namens mij kan terugdraaien, en dat mijn herstelzin de ENIGE manier is om weer toegang te krijgen in het geval van een verloren wachtwoord, gestolen apparaat, of soortgelijke omstandigheden.</translation>
+<translation id="6088314935678153800">Ik begrijp dat dit een eigen wallet is, en dat ik alleen verantwoordelijk ben voor alle bijbehorende fondsen, activa of rekeningen, en voor het nemen van gepaste maatregelen om mijn wallet te beveiligen, beschermen en back-uppen. Ik begrijp dat Portal GEEN toegang heeft tot mijn wallet of transacties namens mij kan terugdraaien, en dat mijn herstelzin de ENIGE manier is om weer toegang te krijgen in het geval van een verloren wachtwoord, gestolen apparaat, of soortgelijke omstandigheden.</translation>
 <translation id="7781090633800450517">Ik heb de <ph name="LINK_BEFORE"/>gebruiksvoorwaarden<ph name="LINK_AFTER"/> gelezen en ga hiermee akkoord</translation>
 <translation id="1422451606553326863">Koop crypto</translation>
 <translation id="3887541341068007345">Controleren op wallet-extensies...</translation>
@@ -1508,7 +1508,7 @@
 <translation id="3664551680108236020">Na uw eerste transactie, kunt u deze hier bekijken.</translation>
 <translation id="3033638954295674319">Er is iets misgegaan bij het ophalen van de NFT-gegevens. Probeer het later opnieuw.</translation>
 <translation id="2540568096903252632">Voer het wachtwoord in om verder te gaan</translation>
-<translation id="3356580495013324916">Voer het wachtwoord van uw Brave Wallet in om een back-up te maken van uw wallet.</translation>
+<translation id="3356580495013324916">Voer het wachtwoord van uw Portal Wallet in om een back-up te maken van uw wallet.</translation>
 <translation id="3155170474926428993">Tor Launcher</translation>
 <translation id="3745016858329272300">Algemene informatie</translation>
 <translation id="4045404575593562245">Tor-controlegebeurtenissen</translation>
@@ -1517,7 +1517,7 @@
 <translation id="6951743416068151209">Tor Proxy-URI</translation>
 <translation id="1671503397662036257">Tor-verbindingsstatus</translation>
 <translation id="6024292492796847324">Tor-initialisatievoortgang</translation>
-<translation id="8300751939969131609">Schakel Brave Nieuws in en mis nooit een verhaal</translation>
+<translation id="8300751939969131609">Schakel Portal Nieuws in en mis nooit een verhaal</translation>
 <translation id="7758665172236842395">Volg uw favoriete bronnen in één feed. Open een tabblad in Brave, scrol omlaag en... voilà!</translation>
 <translation id="2376542729617592331">Brave News maakt gebruik van privé- en geanonimiseerde advertenties. <ph name="LINK_START"/>Meer informatie.<ph name="LINK_END"/>.</translation>
 <translation id="1765217911817124376">Brave-nieuws inschakelen</translation>
@@ -1543,7 +1543,7 @@
 <translation id="7950715913905993008">Oeps...</translation>
 <translation id="7158100730468448581">Brave News kan de content niet ophalen.</translation>
 <translation id="254100925533869330">Geen content</translation>
-<translation id="7172792761509429092">Er is geen content weer te geven voor Brave News.</translation>
+<translation id="7172792761509429092">Er is geen content weer te geven voor Portal News.</translation>
 <translation id="1771307734839364850">Kies contentbronnen</translation>
 <translation id="939305735877869636">Brave</translation>
 <translation id="6261915643960475695">Zakelijk</translation>
@@ -1570,9 +1570,9 @@
 <translation id="7509914170164691086">Shields zijn geactiveerd <ph name="LINK_BEFORE"/>voor<ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">Shields zijn gedeactiveerd <ph name="LINK_BEFORE"/>voor<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">Als de site niet goed lijkt, probeer het dan met Schilden uitgeschakeld.
-    <ph name="LINK_BEFORE"/>Opmerking: hierdoor kan de privacybescherming van Brave verminderd worden.<ph name="LINK_AFTER"/></translation>
+    <ph name="LINK_BEFORE"/>Opmerking: hierdoor kan de privacybescherming van Portal verminderd worden.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Trackers, advertenties en meer hebben <ph name="LINK_BEFORE"/> geblokkeerd. Meer informatie over<ph name="LINK_AFTER"/></translation>
-<translation id="7604553853176833536">Niet beschermd door Brave Shields <ph name="LINK_BEFORE"/>Meer informatie<ph name="LINK_AFTER"/></translation>
+<translation id="7604553853176833536">Niet beschermd door Portal Shields <ph name="LINK_BEFORE"/>Meer informatie<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Geavanceerde instellingen</translation>
 <translation id="5799940914270080805">Het wijzigen van deze instellingen kan ervoor zorgen dat websites niet meer werken.</translation>
 <translation id="9204041448536398473">Algemene Schilden-instellingen</translation>
@@ -1604,7 +1604,7 @@
 <translation id="4986297793092101884">Brave blokkeert al cookies van derden. We kunnen ook de kennisgevingen over cookietoestemming blokkeren.</translation>
 <translation id="535688588637568715">Ja, kennisgevingen over cookietoestemming blokkeren</translation>
 <translation id="6294662480095808915">Privacy. Standaard.</translation>
-<translation id="4366423156486478559">Ontvang bescherming door Brave voor elke link waarop u klikt. Stel Brave in als uw standaardbrowser en zoek privé.</translation>
+<translation id="4366423156486478559">Ontvang bescherming door Portal voor elke link waarop u klikt. Stel Portal in als uw standaardbrowser en zoek privé.</translation>
 <translation id="3830912418080848377">Instellingen importeren</translation>
 <translation id="6378406588483694938">Importeer gemakkelijk bladwijzers, extensies en zelfs opgeslagen wachtwoorden uit uw vorige browser.</translation>
 <translation id="2092825239819166928">Het profiel dat u wilt importeren selecteren</translation>
@@ -1613,16 +1613,16 @@
 <translation id="2453860139492968684">Voltooien</translation>
 <translation id="2273851479262317744">Brave instellen als standaardbrowser</translation>
 <translation id="5037676449506322593">Alles selecteren</translation>
-<translation id="8330804319517911603">Help Brave te verbeteren</translation>
+<translation id="8330804319517911603">Help Portal te verbeteren</translation>
 <translation id="2867964979837593892">Het product op uw wensen afstemmen. Bescherm uw privacy. Elke dag.</translation>
-<translation id="7661940959332108190">Stuur diagnostische rapporten als Brave crasht of vastloopt.</translation>
-<translation id="6358373266071757311">Deel anonieme, persoonlijke productinzichten. Dit geeft ons inzicht in welke functies van Brave het meest worden gebruikt.</translation>
+<translation id="7661940959332108190">Stuur diagnostische rapporten als Portal crasht of vastloopt.</translation>
+<translation id="6358373266071757311">Deel anonieme, persoonlijke productinzichten. Dit geeft ons inzicht in welke functies van Portal het meest worden gebruikt.</translation>
 <translation id="7415454883318062233">Set-up voltooid</translation>
 <translation id="3141206739023333979">Verander uw keuzes wanneer u wilt op <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
 <translation id="8321985064212130832">Lees ons volledige <ph name="LINK_BEFORE"/>privacybeleid<ph name="LINK_AFTER"/></translation>
 <translation id="7821773512278295352">Brave Firewall + VPN: verbonden</translation>
 <translation id="6019088868713395120">Brave Firewall + VPN: niet verbonden</translation>
-<translation id="3541307549916475335">Gebruikersinterface Brave VPN-venster</translation>
+<translation id="3541307549916475335">Gebruikersinterface Portal VPN-venster</translation>
 <translation id="1742469581923031760">Verbinden…</translation>
 <translation id="1287487756047817908">Verbinding verbreken…</translation>
 <translation id="2325196879156848326">Verbinden mislukt</translation>
@@ -1662,9 +1662,9 @@
 <translation id="6676791921618140305">OS-versie:</translation>
 <translation id="1156325797949437777">Ondersteuning wordt verleend in samenwerking met Guardian.</translation>
 <translation id="8146777497879160283">De VPN-configuratie kan niet worden geschreven. Dit kan gebeuren als u niet gemachtigd bent of als u niet recentelijk Windows Update heeft uitgevoerd.</translation>
-<translation id="3307461350293459700">VPN-verbinding mislukt. Probeer opnieuw verbinding te maken en klik op Toestaan om de VPN-configuratie van Brave in te schakelen.</translation>
-<translation id="7261518280726313829">Als u beveiligde DNS uitschakelt of standaardservers gebruikt in Windows, zijn de namen van sites die u bezoekt mogelijk zichtbaar voor uw internetprovider. Brave raadt dit niet aan. Wilt u toch doorgaan?</translation>
-<translation id="888284761945060750">Beveiligde DNS is uitgeschakeld vanwege het beleid van uw organisatie. Als u Brave VPN gebruikt zonder beveiligde DNS, zijn de namen van sites die u bezoekt mogelijk zichtbaar voor uw internetprovider of organisatie.</translation>
+<translation id="3307461350293459700">VPN-verbinding mislukt. Probeer opnieuw verbinding te maken en klik op Toestaan om de VPN-configuratie van Portal in te schakelen.</translation>
+<translation id="7261518280726313829">Als u beveiligde DNS uitschakelt of standaardservers gebruikt in Windows, zijn de namen van sites die u bezoekt mogelijk zichtbaar voor uw internetprovider. Portal raadt dit niet aan. Wilt u toch doorgaan?</translation>
+<translation id="888284761945060750">Beveiligde DNS is uitgeschakeld vanwege het beleid van uw organisatie. Als u Portal VPN gebruikt zonder beveiligde DNS, zijn de namen van sites die u bezoekt mogelijk zichtbaar voor uw internetprovider of organisatie.</translation>
 <translation id="1657858090675311947">Deze waarschuwing niet meer weergeven.</translation>
 <translation id="7586151660465233733">Meer markten op <ph name="SITE_NAME"/></translation>
 <translation id="952067063131306699">Markten bekijken en crypto verhandelen op FTX</translation>

@@ -80,7 +80,7 @@
 <translation id="7610541582755894669">Liukuvärit</translation>
 <translation id="1606851618930975029">Päivitä jokaisella uudella välilehdellä</translation>
 <translation id="9024104284526126630">Voit aloittaa yksityispuhelun Bravessa.</translation>
-<translation id="4903286433687221248">Käynnistä rajoittamattomat puhelut ystävien ja kollegoiden kanssa Brave Talkissa.</translation>
+<translation id="4903286433687221248">Käynnistä rajoittamattomat puhelut ystävien ja kollegoiden kanssa Portal Talkissa.</translation>
 <translation id="7115051913071512405">Kokeile</translation>
 <translation id="1447534717041828517">Näytä Brave-uutiset-painike työkalupalkissa</translation>
 <translation id="370665806235115550">Ladataan...</translation>
@@ -92,9 +92,9 @@
 <translation id="7894417427965898400">Hallitse syötteitä</translation>
 <translation id="9164544612367905452">Haetaan…</translation>
 <translation id="1276592121036104130">Lataa uutta sisältöä</translation>
-<translation id="2875288128871360696">Vieritä näyttöä Brave Newsiin</translation>
-<translation id="8510120023634509743">Palauta Brave News -lähteet alkutilaan</translation>
-<translation id="75825199302994272">Palauta kaikki Brave Newsin julkaisijavalinnat oletustiloihinsa?</translation>
+<translation id="2875288128871360696">Vieritä näyttöä Portal Newsiin</translation>
+<translation id="8510120023634509743">Palauta Portal News -lähteet alkutilaan</translation>
+<translation id="75825199302994272">Palauta kaikki Portal Newsin julkaisijavalinnat oletustiloihinsa?</translation>
 <translation id="954001034349395856">Kaikki lähteet</translation>
 <translation id="8890516388109605451">Lähteet</translation>
 <translation id="5158129253322921540">Ota sisältö pois käytöstä julkaisijalta <ph name="PUBLISHER_NAME"/></translation>
@@ -107,7 +107,7 @@
 <translation id="6508379561970983105">Käy kryptokauppaa Geminissä suoraan selaimestasi käsin.</translation>
 <translation id="7191394989411626168">Kaikki tällä hetkellä näkyvissä olevat kortit piilotetaan, jos asetat kortit pois päältä. Sinulle kuitenkin voidaan vielä ilmoittaa uusista korteista.</translation>
 <translation id="6820526586005233839">Brave Ads keskeytetty</translation>
-<translation id="5190407395832551012">Pitääksemme Brave Rewards -palkinnot turvassa väärinkäytöltä, pyydämme satunnaisesti käyttäjiä ratkaisemaan captchan. Napsauta "Ratkaise" jatkaaksesi mainoksia.</translation>
+<translation id="5190407395832551012">Pitääksemme Portal Rewards -palkinnot turvassa väärinkäytöltä, pyydämme satunnaisesti käyttäjiä ratkaisemaan captchan. Napsauta "Ratkaise" jatkaaksesi mainoksia.</translation>
 <translation id="1693773514029371138">Ratkaise</translation>
 <translation id="6991128190741664836">Myöhemmin</translation>
 <translation id="8112367589167674370">Brave Talk</translation>
@@ -184,7 +184,7 @@
 <translation id="8275038454117074363">Tuo</translation>
 <translation id="2088479175984386785">Tuo kohteesta...</translation>
 <translation id="5540323067375019678">Hallitse suojiasi</translation>
-<translation id="3278033011827237847">Suojaudu yksityisyyttäsi uhkaavilta mainoksilta ja seuraimilta selauksen aikana Brave Shieldsin avulla. Aseta Shields "alas", jos sivusto ei toimi kunnolla.</translation>
+<translation id="3278033011827237847">Suojaudu yksityisyyttäsi uhkaavilta mainoksilta ja seuraimilta selauksen aikana Portal Shieldsin avulla. Aseta Shields "alas", jos sivusto ei toimi kunnolla.</translation>
 <translation id="3366308997091824722">Suoja-asetukset</translation>
 <translation id="4764692524839457597">oletus</translation>
 <translation id="3108122610701115301">Määritä oletusarvoiset</translation>
@@ -194,11 +194,11 @@
 <translation id="3829010735958850433">Ohita tervetuliaiskierros</translation>
 <translation id="1201402288615127009">Seuraava</translation>
 <translation id="7954950242989581218">Selaa turvallisesti ja huoletta</translation>
-<translation id="2188651882929633653">Brave Shields estää kaiken ikävän, joka yrittää jäljittää sinua pitkin verkkoa, — muun muassa suurimman osan mainoksista. Aseta Shieldsin tilaksi “pois”, jos sivusto ei vaikuta toimivan. Brave käyttää <ph name="BEGIN_LINK_P3A"/>täysin yksityistä tuoteanalytiikkaa<ph name="END_LINK_P3A"/> arvioidakseen tiettyjen ominaisuuksien kokonaiskäytön. Voit poistaa sen käytöstä <ph name="BEGIN_LINK_P3A_SETTINGS"/>asetuksista<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
+<translation id="2188651882929633653">Brave Shields estää kaiken ikävän, joka yrittää jäljittää sinua pitkin verkkoa, — muun muassa suurimman osan mainoksista. Aseta Shieldsin tilaksi “pois”, jos sivusto ei vaikuta toimivan. Portal käyttää <ph name="BEGIN_LINK_P3A"/>täysin yksityistä tuoteanalytiikkaa<ph name="END_LINK_P3A"/> arvioidakseen tiettyjen ominaisuuksien kokonaiskäytön. Voit poistaa sen käytöstä <ph name="BEGIN_LINK_P3A_SETTINGS"/>asetuksista<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="4851215387785619212">Braven yksityiset mainokset</translation>
 <translation id="3114984266384096064">Ansaitse [[currency]] katsomalla Brave-yksityismainoksia. Näytetyt mainokset perustuvat kiinnostuksen kohteisiisi siten kuin ne on päätelty selauskäyttäytymisesi perusteella. Henkilötiedot tai selaushistoria eivät koskaan poistu selaimeltasi.</translation>
 <translation id="6112368337882254910">Osallistu automaattisesti</translation>
-<translation id="3742599705619405136">Automaattinen tapa tukea julkaisijoita ja sisällönluojia. Määrää kuukausittainen maksu ja selaa tavalliseen tapaan. Braven vahvistamat sivut, joilla vierailet, saavat kannatusmaksusi automaattisesti sen mukaan, miten Brave on mitannut sinun osoittavan niille huomiotasi.</translation>
+<translation id="3742599705619405136">Automaattinen tapa tukea julkaisijoita ja sisällönluojia. Määrää kuukausittainen maksu ja selaa tavalliseen tapaan. Braven vahvistamat sivut, joilla vierailet, saavat kannatusmaksusi automaattisesti sen mukaan, miten Portal on mitannut sinun osoittavan niille huomiotasi.</translation>
 <translation id="3325399124634342726">Nykyiset ansiot tässä kuussa (arvioitu)</translation>
 <translation id="8593551638387217772">Seuraava maksupäivä</translation>
 <translation id="4428871418618312983">Tässä kuussa vastaanotetut mainokset</translation>
@@ -213,7 +213,7 @@
 <translation id="8827015466803589071">Enintään 5 mainosta tunnissa</translation>
 <translation id="2293009346092992234">Enintään 10 mainosta tunnissa</translation>
 <translation id="2356652719351432565">Alueellisten mainosten relevanssi</translation>
-<translation id="3216275550298493597">Tämän avulla Brave voi näyttää juuri alueellesi tarkoitettuja mainoksia.</translation>
+<translation id="3216275550298493597">Tämän avulla Portal voi näyttää juuri alueellesi tarkoitettuja mainoksia.</translation>
 <translation id="8446884382197647889">Lue lisää</translation>
 <translation id="6209514229703649203">Havaittu automaattisesti seuraavaksi: [[adsSubdivisionTarget]]</translation>
 <translation id="8010081455002666927">Automaattihavaitsin</translation>
@@ -266,8 +266,8 @@
 <translation id="1221593978088944142">Virhe: laiteraja saavutettu</translation>
 <translation id="3113653894794167793">Pyyntösi käsittelyn yhteydessä ilmeni häiriö; ole hyvä ja yritä uudelleen.</translation>
 <translation id="3509185560119586847">Brave-palkintoprofiilisi on merkitty haitalliseksi, etkä voi suorittaa vahvistamista säilyttäjän kanssa juuri nyt. Merkinnän syynä voi joskus olla epätavallinen Brave-mainosten käyttö, mutta kyseessä voi myös olla väärä hälytys.</translation>
-<translation id="5031451251720571882">Huomaa, että kun Brave Rewards -profiilisi on merkitty haitalliseksi, et voi suorittaa tarkistusta.</translation>
-<translation id="7301759045821910866">Sinulta ei vaadita toimenpiteitä. Brave Rewards -profiilisi arvioidaan automaattisesti säännöllisin väliajoin sen määrittämiseksi, milloin haitalliseksi merkintä voidaan poistaa (jos voidaan). Yritä uudelleen myöhemmin tarkistaaksesi, onko haitalliseksi merkintä poistettu.</translation>
+<translation id="5031451251720571882">Huomaa, että kun Portal Rewards -profiilisi on merkitty haitalliseksi, et voi suorittaa tarkistusta.</translation>
+<translation id="7301759045821910866">Sinulta ei vaadita toimenpiteitä. Portal Rewards -profiilisi arvioidaan automaattisesti säännöllisin väliajoin sen määrittämiseksi, milloin haitalliseksi merkintä voidaan poistaa (jos voidaan). Yritä uudelleen myöhemmin tarkistaaksesi, onko haitalliseksi merkintä poistettu.</translation>
 <translation id="280350148043792509"><ph name="BEGIN_LINK"/>Lue lisää Braven prosessista palkintoprofiilien merkitsemisestä haitalliseksi.<ph name="END_LINK"/></translation>
 <translation id="5028274575541726856">Virhe: Brave-palkintoprofiili on merkitty haitalliseksi</translation>
 <translation id="2607420597216860026">Yritä uudelleen, kun olet suorittanut henkilöllisyyden vahvistuksen kohteessa <ph name="PROVIDER"/>.</translation>
@@ -423,8 +423,8 @@
 <translation id="839058704683989763">Olet asettanut käsittelyssä olevan tipin!</translation>
 <translation id="5096821444729034955">julkaisulleen</translation>
 <translation id="2978223787436054634">Twiittaa tuestasi</translation>
-<translation id="5916290544882167205">Brave Software. Brave on Brave Softwaren rekisteröity tavaramerkki. Sivustojen nimet voivat olla sivuston omistajan tavaramerkkejä tai rekisteröityjä tavaramerkkejä.</translation>
-<translation id="9026369588205476247">Yksityisyytesi suojaamiseksi tätä Brave -palkinto-otetta ei tallenneta tai kirjata minnekään muualle kuin laitteeseesi (tähän tietokoneeseen). Sitä ei voi noutaa Bravesta, vaikka tiedot katoaisivat laitteestasi.</translation>
+<translation id="5916290544882167205">Brave Software. Portal on Portal Softwaren rekisteröity tavaramerkki. Sivustojen nimet voivat olla sivuston omistajan tavaramerkkejä tai rekisteröityjä tavaramerkkejä.</translation>
+<translation id="9026369588205476247">Yksityisyytesi suojaamiseksi tätä Portal -palkinto-otetta ei tallenneta tai kirjata minnekään muualle kuin laitteeseesi (tähän tietokoneeseen). Sitä ei voi noutaa Bravesta, vaikka tiedot katoaisivat laitteestasi.</translation>
 <translation id="3587482841069643663">Kaikki</translation>
 <translation id="4241224519481557898">Kategoria</translation>
 <translation id="3080423471207781945">Mainosten maksimimäärä per tunti:</translation>
@@ -454,10 +454,10 @@
 <translation id="1418534671788496616">Näytä talletushistoria</translation>
 <translation id="3412655388715513818">Älä sisällytä tätä sivua</translation>
 <translation id="418343137736963579">Automaattiselta lahjoitukselta estettyjen sivustojen kokonaismäärä:</translation>
-<translation id="8802504113265057166">Voimassaolon päättymiseen mennessä käyttämättä jääneet [[currency]] palautetaan automaattisesti Brave -käyttäjäkasvuvarantoihin.</translation>
+<translation id="8802504113265057166">Voimassaolon päättymiseen mennessä käyttämättä jääneet [[currency]] palautetaan automaattisesti Portal -käyttäjäkasvuvarantoihin.</translation>
 <translation id="279567716178902927">Lahjoituksen umpeutumispäivä</translation>
 <translation id="1389143276807887637">tuo</translation>
-<translation id="6302422639282249274">Hallitse Brave Rewards -ohjelmaa</translation>
+<translation id="6302422639282249274">Hallitse Portal Rewards -ohjelmaa</translation>
 <translation id="211044356803193224">Kuukausittaiset vihjeet</translation>
 <translation id="2487641031722095938">On onnenpäiväsi!</translation>
 <translation id="6255773350565723852">Tunnuslahjoituksesi on matkalla.</translation>
@@ -625,7 +625,7 @@
 <translation id="1544192797660353713">Lompakko</translation>
 <translation id="616639131065447379">Tervetuloa Braven Crypto Walletsiin</translation>
 <translation id="1740464057879304704">Kryptovaluuttalompakot mahdollistavat kryptovaluuttojen ynnä niihin liittyvän omaisuuden käyttämisen Bravessa. Kryptovaluuttalompakot tukevat ETHin ja BATin kaltaisia Ethereum-käyttötunnuksia sekä kerättäviä tunnuksia, minkä ansiosta voit käyttää Ðappseja ynnä muita vastaavia älysopimuksia. Nämä palvelut on tarkoitettu Ethereumiin sekä muihin lohkoketjuihin perehtyneille — ja niistä kiinnostuneille.</translation>
-<translation id="4855440621031541830">Käytä Crypto Walletsia ainoastaan, jos olet valmis itse kantamaan kaikki sen käyttöön liittyvät riskit. Sinun on myös tunnustettava, että Brave Software ei ole vastuussa sen käytöstä johtuvista tappioista, lompakon oheiskulut mukaan lukien.</translation>
+<translation id="4855440621031541830">Käytä Crypto Walletsia ainoastaan, jos olet valmis itse kantamaan kaikki sen käyttöön liittyvät riskit. Sinun on myös tunnustettava, että Portal Software ei ole vastuussa sen käytöstä johtuvista tappioista, lompakon oheiskulut mukaan lukien.</translation>
 <translation id="3187473319809074178">Kaikki tämä on erillään tästä:</translation>
 <translation id="8327818101454798856">Jos tahtoisit tukea suosikkisivustoasi, niin suosittelemme siirtymään siihen.</translation>
 <translation id="412480955826088549">Komponenttia ladataan...</translation>
@@ -701,7 +701,7 @@
 <translation id="3373798179786163193">Jatka julkisella portilla</translation>
 <translation id="1974060860693918893">Lisäasetukset</translation>
 <translation id="9096577886148726047">Piilota vaativa</translation>
-<translation id="182581792765792826">Brave ei voi ladata pyydettyä IPFS-resurssia, sillä joko Braven paikallinen solmu ei käynnistynyt tai yhteyden muodostaneita vertaisia ei ole tällä hetkellä tavoitettavissa. Jos valitset "Jatka"-vaihtoehdon, Brave palaa automaattisesti oletusarvoiseen julkiseen yhdyskäytävään aina, kun Braven paikallinen solmu pettää. Voit muuttaa tätä käytöstä milloin tahansa Brave-asetuksissa.</translation>
+<translation id="182581792765792826">Brave ei voi ladata pyydettyä IPFS-resurssia, sillä joko Braven paikallinen solmu ei käynnistynyt tai yhteyden muodostaneita vertaisia ei ole tällä hetkellä tavoitettavissa. Jos valitset "Jatka"-vaihtoehdon, Portal palaa automaattisesti oletusarvoiseen julkiseen yhdyskäytävään aina, kun Braven paikallinen solmu pettää. Voit muuttaa tätä käytöstä milloin tahansa Brave-asetuksissa.</translation>
 <translation id="8026038288183400906">IPFS-suosikkiasetukset</translation>
 <translation id="2058855456574089690">Määritä IPFS-suosikkiasetuksesi</translation>
 <translation id="4780526507945807546">Käytä Braven paikallista IPFS-solmua</translation>
@@ -809,10 +809,10 @@
 <translation id="7855913851082138664">Tekijä <ph name="PUBLISHER_NAME"/> vahvistettu hiljattain.</translation>
 <translation id="6194996600967335044">Ei riittävästi varoja</translation>
 <translation id="2795080275268642520">Sinulla on varojen riittämättömyydestä johtuvia odottavia tippejä</translation>
-<translation id="2529827670795983639">Näyttää siltä, että tämä ei toimi. Brave Ads pysyvät keskeytettyinä. Ota meihin yhteyttä, jos tarvitse apua captchan kanssa.</translation>
+<translation id="2529827670795983639">Näyttää siltä, että tämä ei toimi. Portal Ads pysyvät keskeytettyinä. Ota meihin yhteyttä, jos tarvitse apua captchan kanssa.</translation>
 <translation id="261607053214862521">Yritysten enimmäismäärä ylitetty</translation>
 <translation id="2323171459178104277">Ratkaistu!</translation>
-<translation id="1512837998731269583">Mainokset ja tulot jatkuvat nyt. Kiitos, että autat meitä suojelemaan Brave Rewards -mainoksia ja yksityisyyteen perustuvia mainoksia.</translation>
+<translation id="1512837998731269583">Mainokset ja tulot jatkuvat nyt. Kiitos, että autat meitä suojelemaan Portal Rewards -mainoksia ja yksityisyyteen perustuvia mainoksia.</translation>
 <translation id="3247549836099021862">Ota yhteyttä tukeen</translation>
 <translation id="5234764350956374838">Piilota</translation>
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>Tee nopea tutustumiskierros<ph name="TOUR_LINK_END"/> tai <ph name="LEARN_LINK_BEGIN"/>lue lisää<ph name="LEARN_LINK_END"/> saadaksesi lisätietoja.</translation>
@@ -883,7 +883,7 @@
 <translation id="2326876601333401685">Tätä RPC-menetelmää ei tueta.</translation>
 <translation id="1128992132632883337">Tapahtui vastauksen jäsennysvirhe</translation>
 <translation id="5382339341735118861">Tapahtui yleinen pyynnön käsittelyvirhe</translation>
-<translation id="1680597601664421644">Tuotava muistisääntö ei kelpaa Brave Walletille</translation>
+<translation id="1680597601664421644">Tuotava muistisääntö ei kelpaa Portal Walletille</translation>
 <translation id="4641919696349069826">Pyyntö on jo käynnissä</translation>
 <translation id="872806943696014633">Maksutapahtuman tiedot puuttuvat</translation>
 <translation id="4805410229033541409">'from' ei ole valtuutettu lähettämään maksutapahtumia</translation>
@@ -1011,7 +1011,7 @@
 <translation id="1018806299114415224">Varmuuskopioi nyt</translation>
 <translation id="1400709719911593089">Brave-lompakkoa ei ole määritetty oletusarvoiseksi lompakoksi, eikä se vastaa Web3-sovelluksiin tai hajautettuihin sovelluksiin. Siirry asetuksiin vaihtaaksesi oletusarvoista lompakkoa.</translation>
 <translation id="4362717653795263052">Palauta ensisijaiset kryptotilit</translation>
-<translation id="3038077262567136741">Anna palautuslause palauttaaksesi Brave Wallet -lompakon kryptotilin.</translation>
+<translation id="3038077262567136741">Anna palautuslause palauttaaksesi Portal Wallet -lompakon kryptotilin.</translation>
 <translation id="955918646509748368">Annettu palautuslause on virheellinen.</translation>
 <translation id="8107437138787377150">Liitä palautuslause leikepöydältä</translation>
 <translation id="4811736040444856406">Näytä palautuslause</translation>
@@ -1110,7 +1110,7 @@
 <translation id="3352959425838279177">Hanki Ether-kolikkoa kolikoita jakavasta palvelusta <ph name="SELECTED_NETWORK"/></translation>
 <translation id="6449626816252815844">Valitse ostotapa</translation>
 <translation id="8009571545960303544">Allekirjoitustasi pyydetään</translation>
-<translation id="5294062982587710720">Huomaa, että Brave ei voi tarkistaa, mitä tapahtuu, jos allekirjoitat. Allekirjoitus voi valtuuttaa melkein minkä tahansa toiminnon tililläsi tai puolestasi, mukaan lukien (mutta ei rajoittuen) tilin ja kryptovarojen täydellisen hallinnan antaminen pyynnön esittäneelle sivustolle. Allekirjoita vain, jos olet varma, että haluat suorittaa tämän toiminnon ja että pystyt luottamaan pyytävään sivustoon.</translation>
+<translation id="5294062982587710720">Huomaa, että Portal ei voi tarkistaa, mitä tapahtuu, jos allekirjoitat. Allekirjoitus voi valtuuttaa melkein minkä tahansa toiminnon tililläsi tai puolestasi, mukaan lukien (mutta ei rajoittuen) tilin ja kryptovarojen täydellisen hallinnan antaminen pyynnön esittäneelle sivustolle. Allekirjoita vain, jos olet varma, että haluat suorittaa tämän toiminnon ja että pystyt luottamaan pyytävään sivustoon.</translation>
 <translation id="3474375934783434676">Allekirjoita omalla vastuullasi</translation>
 <translation id="5488357322146334497">Viesti</translation>
 <translation id="3586752056660754651">Allekirjoita</translation>
@@ -1131,7 +1131,7 @@
 <translation id="7073918978411974168">Ehdotettu varaus</translation>
 <translation id="9019403281000653275">Rajoittamattoman hyväksyntää pyydetty</translation>
 <translation id="4717431746210146708">Anna tälle sivustolle lupa lisätä verkko?</translation>
-<translation id="2521480044079508357">Tämä mahdollistaa tämän verkon käytön Brave Wallet -lompakossa.</translation>
+<translation id="2521480044079508357">Tämä mahdollistaa tämän verkon käytön Portal Wallet -lompakossa.</translation>
 <translation id="1982257600591932657">Verkon nimi</translation>
 <translation id="5052727830821470769">Verkon URL-osoite</translation>
 <translation id="427875364838253580">Näytä kaikki tiedot</translation>
@@ -1168,9 +1168,9 @@
 <translation id="2240831799756994975">TAVUA</translation>
 <translation id="4874303883488468190">Valitse tilit</translation>
 <translation id="2018472018751735678">Näytä sallittujen tilien osoitteet (vaaditaan)</translation>
-<translation id="7029403458170657879">Liitä Brave Wallet -lompakkoon</translation>
+<translation id="7029403458170657879">Liitä Portal Wallet -lompakkoon</translation>
 <translation id="2770851145415891830">Olemassa olevat kryptolompakot havaittu</translation>
-<translation id="2237759620789871865">Jos haluat mieluummin ohittaa tuonnin ja säilyttää vanhan Crypto Wallet -lompakkokokemuksen, siirry Brave-selaimen <ph name="LINK_BEFORE"/>asetuksiin<ph name="LINK_AFTER"/> ja muuta oletusarvoinen asetus Crypto Wallet -lompakoksi. Voit myös tuoda, kokeilla uutta Brave Wallet -lompakkoa ja vaihtaa takaisin milloin tahansa.</translation>
+<translation id="2237759620789871865">Jos haluat mieluummin ohittaa tuonnin ja säilyttää vanhan Crypto Wallet -lompakkokokemuksen, siirry Brave-selaimen <ph name="LINK_BEFORE"/>asetuksiin<ph name="LINK_AFTER"/> ja muuta oletusarvoinen asetus Crypto Wallet -lompakoksi. Voit myös tuoda, kokeilla uutta Portal Wallet -lompakkoa ja vaihtaa takaisin milloin tahansa.</translation>
 <translation id="5590175005414413980">Tuo Brave-lompakkoon antamalla olemassa olevien kryptolompakkojen salasana. Nauti nopeammasta ja turvallisemmasta tavasta hallita kryptovaroja ja ole vuorovaikutuksessa Web3-sovellusten ja hajautettujen sovellusten kanssa.</translation>
 <translation id="880619123281809987">Kirjoita kryptolompakkojen salasana</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/>-laite liitetty</translation>
@@ -1454,7 +1454,7 @@
 <translation id="6260144012548445299">Lue lisää uudesta lompakostani</translation>
 <translation id="8746910870914151528">Lakiasiat</translation>
 <translation id="5148123176978018397">Hyväksy seuraavat asiat:</translation>
-<translation id="6088314935678153800">Ymmärrän, että tämä on omavarainen lompakko ja että olen yksin vastuussa kaikista lompakkoon liittyvistä varoista, resursseista tai tileistä sekä asianmukaisten toimien toteuttamisesta lompakkoni turvaamiseksi, suojaamiseksi ja varmuuskopioimiseksi. Ymmärrän, että Brave EI voi käyttää lompakkoani tai peruuttaa tapahtumia puolestani ja että palautuslauseeni on AINOA tapa saada käyttöoikeus takaisin, jos salasana katoaa, laite varastetaan tai muu vastaava tilanne ilmanee.</translation>
+<translation id="6088314935678153800">Ymmärrän, että tämä on omavarainen lompakko ja että olen yksin vastuussa kaikista lompakkoon liittyvistä varoista, resursseista tai tileistä sekä asianmukaisten toimien toteuttamisesta lompakkoni turvaamiseksi, suojaamiseksi ja varmuuskopioimiseksi. Ymmärrän, että Portal EI voi käyttää lompakkoani tai peruuttaa tapahtumia puolestani ja että palautuslauseeni on AINOA tapa saada käyttöoikeus takaisin, jos salasana katoaa, laite varastetaan tai muu vastaava tilanne ilmanee.</translation>
 <translation id="7781090633800450517">Olen lukenut <ph name="LINK_BEFORE"/>käyttöehdot<ph name="LINK_AFTER"/> ja hyväksyn ne</translation>
 <translation id="1422451606553326863">Osta kryptoa</translation>
 <translation id="3887541341068007345">Tarkistetaan lompakkolaajennuksia...</translation>
@@ -1520,7 +1520,7 @@
 <translation id="8300751939969131609">Ota Brave-uutiset käyttöön, niin yksikään tarina ei mene ohi</translation>
 <translation id="7758665172236842395">Seuraa suosikkilähteitäsi, yhdessä syötteessä. Avaa välilehti Bravessa, vieritä alas ja… voila!</translation>
 <translation id="2376542729617592331">Brave-uutiset on mainoksilla tuettu palvelu, jossa on yksityisiä ja anonymisoituja mainoksia. <ph name="LINK_START"/>Lue lisää.<ph name="LINK_END"/>.</translation>
-<translation id="1765217911817124376">Ota Brave News käyttöön</translation>
+<translation id="1765217911817124376">Ota Portal News käyttöön</translation>
 <translation id="780301667611848630">Ei kiitos</translation>
 <translation id="6265592479622441247">Takaisin <ph name="BEGIN_BOLD"/>hallintapaneeliin<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">Hae sivustoja, aiheita tai RSS-syötteitä</translation>
@@ -1572,7 +1572,7 @@
 <translation id="3907405056878805220">Jos tämä sivusto vaikuttaa rikkinäiseltä, kokeile poistaa Shields käytöstä.
 <ph name="LINK_BEFORE"/>Huomaa: tämä saattaa heikentää Braven tietosuojaa.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Seurannat, mainokset ja muuta estetty <ph name="LINK_BEFORE"/>Lue lisää<ph name="LINK_AFTER"/></translation>
-<translation id="7604553853176833536">Ei Brave Shieldsin suojaama <ph name="LINK_BEFORE"/>Lue lisää<ph name="LINK_AFTER"/></translation>
+<translation id="7604553853176833536">Ei Portal Shieldsin suojaama <ph name="LINK_BEFORE"/>Lue lisää<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Edistyneet kontrollit</translation>
 <translation id="5799940914270080805">Näiden asetusten muuttaminen saattaa rikkoa sivustoja.</translation>
 <translation id="9204041448536398473">Yleiset suojausasetukset</translation>
@@ -1604,18 +1604,18 @@
 <translation id="4986297793092101884">Brave estää jo kolmannen osapuolen evästeet. Voimme myös estää evästeiden suostumusilmoitukset.</translation>
 <translation id="535688588637568715">Kyllä, estä evästeiden suostumusilmoitukset</translation>
 <translation id="6294662480095808915">Yksityisyys. Oletuksena.</translation>
-<translation id="4366423156486478559">Hanki Brave-suojaus jokaiselle napsauttamallesi linkille. Aseta Brave oletukseksi ja selaa. Yksityisesti.</translation>
+<translation id="4366423156486478559">Hanki Brave-suojaus jokaiselle napsauttamallesi linkille. Aseta Portal oletukseksi ja selaa. Yksityisesti.</translation>
 <translation id="3830912418080848377">Tuo asetukset</translation>
 <translation id="6378406588483694938">Tuo helposti kirjanmerkkejä, laajennuksia ja jopa tallennettuja salasanoja vanhalta selaimeltasi.</translation>
 <translation id="2092825239819166928">Valitse tuotava tiedosto</translation>
 <translation id="4763127492635705340">Valitsemallasi selaimella on monta profiilia. Valitse se profiili(t), jonka haluaisit tuoda.</translation>
 <translation id="880174232178865598">Tuo profiileja</translation>
 <translation id="2453860139492968684">Valmis</translation>
-<translation id="2273851479262317744">Aseta Brave oletusselaimeksi</translation>
+<translation id="2273851479262317744">Aseta Portal oletusselaimeksi</translation>
 <translation id="5037676449506322593">Valitse kaikki</translation>
 <translation id="8330804319517911603">Auta parantamaan Bravea</translation>
 <translation id="2867964979837593892">Hienosäätää tuotetta. Suojaa yksityisyyttäsi. Joka päivä.</translation>
-<translation id="7661940959332108190">Lähetä diagnostiikkaraportteja, jos Brave kaatuu tai jäätyy.</translation>
+<translation id="7661940959332108190">Lähetä diagnostiikkaraportteja, jos Portal kaatuu tai jäätyy.</translation>
 <translation id="6358373266071757311">Jaa anonyymejä, yksityisiä tuotetietoja. Näin saamme tietää, mitä Braven ominaisuuksia käytetään eniten.</translation>
 <translation id="7415454883318062233">Määritys on valmis</translation>
 <translation id="3141206739023333979">Muuta näitä valintoja milloin tahansa Bravessa osoitteessa <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
@@ -1663,8 +1663,8 @@
 <translation id="1156325797949437777">Tuki tarjotaan yhteistyössä Guardianin kanssa.</translation>
 <translation id="8146777497879160283">VPN-määrityksen kirjoittaminen epäonnistui. Näin voi käydä, jos sinulla ei ole lupaa tai jos et ole suorittanut Windows-päivitystä äskettäin.</translation>
 <translation id="3307461350293459700">VPN-yhteys epäonnistui. Yritä muodostaa yhteys uudelleen ja varmista, että napsautat Salli-painiketta ottaaksesi Braven VPN-määrityksen käyttöön.</translation>
-<translation id="7261518280726313829">Suojattujen DNS-asetusten poistaminen käytöstä tai oletuspalvelimien käyttäminen Windowsilla saattaa paljastaa Internet-palveluntarjoajallesi niiden sivustojen nimet, joilla olet vieraillut. Brave ei suosittele tämän tekemistä. Haluatko kuitenkin tehdä sen?</translation>
-<translation id="888284761945060750">Suojatut DNS-asetukset on poistettu käytöstä organisaatiosi käytäntöjen vuoksi. Brave VPN:n käyttäminen ilman suojattuja DNS-asetuksia voi paljastaa Internet-palveluntarjoajallesi tai organisaatiollesi niiden sivustojen nimet, joilla olet vieraillut.</translation>
+<translation id="7261518280726313829">Suojattujen DNS-asetusten poistaminen käytöstä tai oletuspalvelimien käyttäminen Windowsilla saattaa paljastaa Internet-palveluntarjoajallesi niiden sivustojen nimet, joilla olet vieraillut. Portal ei suosittele tämän tekemistä. Haluatko kuitenkin tehdä sen?</translation>
+<translation id="888284761945060750">Suojatut DNS-asetukset on poistettu käytöstä organisaatiosi käytäntöjen vuoksi. Portal VPN:n käyttäminen ilman suojattuja DNS-asetuksia voi paljastaa Internet-palveluntarjoajallesi tai organisaatiollesi niiden sivustojen nimet, joilla olet vieraillut.</translation>
 <translation id="1657858090675311947">Älä enää varoita minua tästä.</translation>
 <translation id="7586151660465233733">Lisää markkinoita sivustolla <ph name="SITE_NAME"/></translation>
 <translation id="952067063131306699">Katso markkinoita ja käy kauppaa kryptolla FTX:ssä</translation>
