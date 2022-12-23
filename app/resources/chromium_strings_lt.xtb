@@ -173,7 +173,7 @@ Kai kurios funkcijos gali būti nepasiekiamos ir nuostatų pakeitimai nebus išs
 <translation id="5536657158619734169">Pasiekiama nauja „Brave“ versija.</translation>
 <translation id="5267531627648004734">Pašalinti iš „Brave“</translation>
 <translation id="239760341987199724">Nustatyti „Brave“ kaip numatytąją naršyklę</translation>
-<translation id="1403270718080126244">„<ph name="PAGE_TITLE"/>“ – „Brave Beta“</translation>
+<translation id="1403270718080126244">„<ph name="PAGE_TITLE"/>“ – „Portal Beta“</translation>
 <translation id="894936507076470937">„Brave“ gali tinkamai neveikti, nes ji nebepalaikoma naudojant šią „Linux“ versiją</translation>
 <translation id="696826782632239602">„Brave“ reikia leidimo, kad galėtų naudoti jūsų vietovės informaciją ir bendrinti ją su šia svetaine</translation>
 <translation id="3809116188788099368">Siekdami apsaugoti jūsų privatumą, automatiškai ištriname senesnius nei keturių savaičių pomėgius. Jums naršant toliau, pomėgiai vėl gali atsirasti sąraše. Ir jei „Brave“ sprendimas atrodo neteisingas arba nenorite matyti tam tikrų skelbimų, pomėgį galite pašalinti.</translation>
@@ -280,7 +280,7 @@ Kai kurios funkcijos gali būti nepasiekiamos. Nurodykite kitą profilio katalog
 <translation id="3511996232906761537">Čia saugoma žiniatinklio informacija, žymės ir kiti „Brave“ duomenys.</translation>
 <translation id="5380963249588143069">Sistemos administratorius sukonfigūravo „Brave“ atidaryti naršyklę „<ph name="ALTERNATIVE_BROWSER_NAME"/>“, norint pasiekti <ph name="TARGET_URL_HOSTNAME"/>.</translation>
 <translation id="38294420683216447">Naudodami „Brave“ profilius galite atskirti visus savo „Brave“ duomenis. Galėsite lengviau atskirti darbą ir pramogas.</translation>
-<translation id="3943696263619956191">„<ph name="PAGE_TITLE"/>“ – „Brave Dev“</translation>
+<translation id="3943696263619956191">„<ph name="PAGE_TITLE"/>“ – „Portal Dev“</translation>
 <translation id="2034072705932785495">„Brave“ reikia leidimo, kad galėtų naudoti fotoaparatą šioje svetainėje</translation>
 <translation id="5296583608321648908">Jei norite gauti būsimus „Brave“ naujinius, jums reikės 10 ar naujesnės versijos „Windows“. Šiame kompiuteryje naudojama 7 versijos „Windows“.</translation>
 <translation id="3962395975456095331">Iš naujo paleisti „Brave“?</translation>
@@ -300,7 +300,7 @@ Kai kurios funkcijos gali būti nepasiekiamos. Nurodykite kitą profilio katalog
 <translation id="4784414698887946907">Atlikus šį veiksmą iš šio įrenginio bus ištrinti naršymo duomenys. Jei vėliau norėsite gauti duomenis, prisijunkite prie „Brave“ kaip <ph name="USER_EMAIL"/>.</translation>
 <translation id="7747138024166251722">Diegimo programai nepavyko sukurti laikino katalogo. Patikrinkite, ar yra laisvos vietos diske ir, ar leidžiama įdiegti programinę įrangą.</translation>
 <translation id="1978509466033734608">Paspartinkite „Brave“</translation>
-<translation id="6236814935154483927">„<ph name="PAGE_TITLE"/>“ – „Brave Canary“</translation>
+<translation id="6236814935154483927">„<ph name="PAGE_TITLE"/>“ – „Portal Canary“</translation>
 <translation id="1652855885539187849">Šios paskyros „Brave“ profilis jau yra šiame įrenginyje</translation>
 <translation id="7845233973568007926">Dėkojame už diegimą. Turite iš naujo paleisti kompiuterį, prieš naudodami „<ph name="BUNDLE_NAME"/>“.</translation>
 <translation id="7963515534397191222">Nepavyko atnaujinti „Brave“ į naujausią versiją, todėl nebus pasiekiamos naujos funkcijos ir saugos pataisos.</translation>
@@ -349,7 +349,7 @@ Kai kurios funkcijos gali būti nepasiekiamos. Nurodykite kitą profilio katalog
 <translation id="8285294305439559616">„Brave“ bando rodyti slaptažodžius. Įveskite „Windows“ slaptažodį, kad tai leistumėte.</translation>
 <translation id="6514033039060816211">„Brave“ gali numatyti jūsų pomėgius pagal pastarųjų kelių savaičių naršymo istoriją. Ši informacija lieka jūsų įrenginyje.</translation>
 <translation id="6389268239133412586">Nepavyko atnaujinti „Brave“</translation>
-<translation id="7731184591599776500">„Brave Enterprise“ logotipas</translation>
+<translation id="7731184591599776500">„Portal Enterprise“ logotipas</translation>
 <translation id="8986207147630327271">Pridedate darbo profilį prie šios naršyklės ir suteikiate administratoriui teisę valdyti tik darbo profilį.</translation>
 <translation id="82609232232243542">Prisijungti prie „Brave“</translation>
 <translation id="5173820533850252773">„Brave“ versija yra pasenusi</translation>

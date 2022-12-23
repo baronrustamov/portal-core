@@ -17,7 +17,7 @@
 <translation id="8926389886865778422">Nicht mehr fragen</translation>
 <translation id="4900351245762303149">Google Widevine installieren</translation>
 <translation id="2313383941300459392">Starten Sie den Browser neu, um Google Widevine zu aktivieren</translation>
-<translation id="2200626478572277092">WideVine ist manchmal erforderlich, um Medien auf einer Webseite abzuspielen. Dies ist eine von Google-Servern geladene Google-Erweiterung, die Brave nicht inspizieren kann. Durch die Installation stimmen Sie den Nutzungsbedingungen von Google zu.</translation>
+<translation id="2200626478572277092">WideVine ist manchmal erforderlich, um Medien auf einer Webseite abzuspielen. Dies ist eine von Google-Servern geladene Google-Erweiterung, die Portal nicht inspizieren kann. Durch die Installation stimmen Sie den Nutzungsbedingungen von Google zu.</translation>
 <translation id="4931114810905682683"><ph name="LEARN_MORE_ABOUT_WIDEVINE"/>.
 Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="6229752134959014186">Mehr über Widevine erfahren</translation>
@@ -26,7 +26,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="4988333904713528597">Autoplay auf <ph name="HOST"/> immer erlauben?</translation>
 <translation id="4150684676757176434">Automatische Wiedergabe weiterhin blockieren</translation>
 <translation id="8988939298652262600">Brave überprüft Erweiterungen nicht auf ihre Sicherheit. Installieren Sie diese Erweiterung nur, wenn Sie dem Entwickler vertrauen.</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") ist in Brave nicht erlaubt.</translation>
+<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") ist in Portal nicht erlaubt.</translation>
 <translation id="9005883459983913482">Tor-Fenster</translation>
 <translation id="7965178729203412357">Neue Tor-Identität</translation>
 <translation id="6924909138923993900">Neue Tor-Verbindung für diese Site</translation>
@@ -41,7 +41,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="1725356094208762656">In Tor öffnen</translation>
 <translation id="3396347744975515056">Brave Sync wurde aufgerüstet und macht eine Einrichtung notwendig</translation>
 <translation id="7473245612074035141">Einrichtung beginnen</translation>
-<translation id="3975865347033939965">Synchronisierungsdienst konnte nicht gestartet werden, Brave-Synchronisierung läuft nicht</translation>
+<translation id="3975865347033939965">Synchronisierungsdienst konnte nicht gestartet werden, Portal-Synchronisierung läuft nicht</translation>
 <translation id="4450893287417543264">Nicht noch einmal anzeigen</translation>
 <translation id="4595286989346610620">Details prüfen</translation>
 <translation id="7691598647605453992">IPFS</translation>
@@ -60,7 +60,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="6925604404524625582">Importieren und Link in IPFS-Snapshot kopieren</translation>
 <translation id="1434416574322382019">Neues privates Fenster mit Tor</translation>
 <translation id="4703780849509456860">Link in privatem Fenster mit Tor öffnen</translation>
-<translation id="3488584642074079080">Link in Brave in privatem Fenster mit Tor öffnen</translation>
+<translation id="3488584642074079080">Link in Portal in privatem Fenster mit Tor öffnen</translation>
 <translation id="186554175479803110">Importieren und teilen Sie eine Datei</translation>
 <translation id="3036649622769666520">Dateien öffnen</translation>
 <translation id="4408880250587950158">Importieren und teilen Sie ein Verzeichnis</translation>
@@ -73,7 +73,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="7068360136237591149">Dateien öffnen</translation>
 <translation id="6313675821927505581">Neues privates Fenster mit Tor</translation>
 <translation id="2638041073279639246">Link in privatem Fenster mit Tor öffnen</translation>
-<translation id="3425600262621021599">Link in privatem Brave-Fenster mit Tor öffnen</translation>
+<translation id="3425600262621021599">Link in privatem Portal-Fenster mit Tor öffnen</translation>
 <translation id="3229091547987707389">Importieren und teilen Sie ein Verzeichnis</translation>
 <translation id="2804710924397009224">Brave Rewards-Symbol verbergen</translation>
 <translation id="5029193871181468990">Brave-Belohnungen-Symbol ausblenden</translation>
@@ -81,7 +81,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="7595540212376041331">Brave-Wallet-Symbol ausblenden</translation>
 <translation id="4928988318462976765">Web Extensions Store</translation>
 <translation id="9181207987584064303">Im Web Extensions Store anzeigen</translation>
-<translation id="3161744659507801211">Warnung: Brave kann nicht verhindern, dass Erweiterungen Ihren Browsingverlauf aufzeichnen.</translation>
+<translation id="3161744659507801211">Warnung: Portal kann nicht verhindern, dass Erweiterungen Ihren Browsingverlauf aufzeichnen.</translation>
 <translation id="2162109630536601963">Wenn diese Erweiterung Netzwerkanfragen stellt, werden sie den Tor-Modus oder privaten Modus nicht nutzen.</translation>
 <translation id="2725327089319971976">Um diese Erweiterung im privaten Modus und Tor-Modus zu deaktivieren, heben Sie die Auswahl dieser Option auf.</translation>
 <translation id="3371343170427636147">Brave-Browser-Nightlyapps</translation>
@@ -89,14 +89,14 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="8303432794159193481">Brave-Browser-Entwicklerapps</translation>
 <translation id="8292967014767479012">Brave-Browser-Apps</translation>
 <translation id="4743468424889072281">Brave-Browser-Entwicklungsapps</translation>
-<translation id="732814027519296280">Möchten Sie Brave Search noch besser machen?</translation>
-<translation id="2677865600861971449">Melden Sie sich beim Web-Erkundungsprojekt an, um einige anonyme Suchanfragen und Durchsuchungen von Daten zu tätigen und Brave Search für alle Nutzer zu verbessern. Ihre Privatsphäre wird bewahrt und Sie haben keinerlei Aufwand. <ph name="LEARN_MORE_TEXT"/></translation>
+<translation id="732814027519296280">Möchten Sie Portal Search noch besser machen?</translation>
+<translation id="2677865600861971449">Melden Sie sich beim Web-Erkundungsprojekt an, um einige anonyme Suchanfragen und Durchsuchungen von Daten zu tätigen und Portal Search für alle Nutzer zu verbessern. Ihre Privatsphäre wird bewahrt und Sie haben keinerlei Aufwand. <ph name="LEARN_MORE_TEXT"/></translation>
 <translation id="6165508094623778733">Weitere Informationen</translation>
 <translation id="5860491529813859533">Aktivieren</translation>
 <translation id="780301667611848630">Kein Interesse</translation>
 <translation id="5039804452771397117">Zulassen</translation>
 <translation id="7053983685419859001">Blockieren</translation>
-<translation id="1679356339067548863">Helfen Sie mit, die Produktstabilität von Brave zu verbessern, indem Sie automatisch Diagnoseberichte senden, wenn der Brave-Browser abstürzt oder einfriert.</translation>
+<translation id="1679356339067548863">Helfen Sie mit, die Produktstabilität von Portal zu verbessern, indem Sie automatisch Diagnoseberichte senden, wenn der Portal-Browser abstürzt oder einfriert.</translation>
 <translation id="660171790038410175"><ph name="BROWSER_NAME"/> unerwartet beendet.</translation>
 <translation id="1324417023773393937">Portal browser</translation>
 <translation id="7276554663454265692">Sie können <ph name="SETTING_TEXT"/> jederzeit wieder ändern in den Browser-Einstellungen.</translation>
@@ -107,21 +107,21 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="7551864359422178684"><ph name="NUMBER_OF_TABS"/> Tabs sind in diesem Browserfenster geöffnet.</translation>
 <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> Tabs</translation>
 <translation id="1307431692088049276">Nicht erneut fragen</translation>
-<translation id="2272117088509540883">- Brave-Suche</translation>
-<translation id="2701279958223202597">Unterstützen Sie eine unabhängige Suche, bei der Ihre Daten besser geschützt sind. Die Suche von Brave verfolgt Sie, Ihre Anfragen und Ihre Klicks nicht nach.</translation>
+<translation id="2272117088509540883">- Portal-Suche</translation>
+<translation id="2701279958223202597">Unterstützen Sie eine unabhängige Suche, bei der Ihre Daten besser geschützt sind. Die Suche von Portal verfolgt Sie, Ihre Anfragen und Ihre Klicks nicht nach.</translation>
 <translation id="6438467592401259882">Unterstützen Sie eine unabhängige Suche, bei der Ihre Daten besser geschützt sind.</translation>
 <translation id="1688359110799098115">Unterstützen Sie eine unabhängige Suche, bei der Ihre Daten besser geschützt sind</translation>
-<translation id="8579317236683491484">Die Brave-Suche verfolgt Sie, Ihre Anfragen und Ihre Klicks nicht nach.</translation>
+<translation id="8579317236683491484">Die Portal-Suche verfolgt Sie, Ihre Anfragen und Ihre Klicks nicht nach.</translation>
 <translation id="5240031343741051161">Brave-Suche ausprobieren</translation>
 <translation id="5026874946691314267">Nicht erneut anzeigen</translation>
 <translation id="5234764350956374838">Schließen</translation>
-<translation id="5100490448228945668">Vorschlag zur Verwendung der Brave-Suche verwerfen. Eingabetaste drücken, um diesen Vorschlag zu entfernen.</translation>
+<translation id="5100490448228945668">Vorschlag zur Verwendung der Portal-Suche verwerfen. Eingabetaste drücken, um diesen Vorschlag zu entfernen.</translation>
 <translation id="2515126961943087659">Bat Ads-Service</translation>
 <translation id="7924918279836988121">Bat-Ledger-Dienst</translation>
 <translation id="6040143037577758943">Schließen</translation>
 <translation id="6665472986740899785">Brave-Benachrichtigungsanzeige</translation>
 <translation id="4174337572777167894">Web-Erkundungsprojekt</translation>
-<translation id="8659271182272561965">Tätigen Sie einige anonyme Suchanfragen und Durchsuchungen von Daten, um Brave Search zu verfeinern.</translation>
+<translation id="8659271182272561965">Tätigen Sie einige anonyme Suchanfragen und Durchsuchungen von Daten, um Portal Search zu verfeinern.</translation>
 <translation id="1516554614404600536">Brave-Tooltipp</translation>
 <translation id="7986278174934557414">Seitenleistensymbol ausblenden</translation>
 <translation id="6915291874524466201">Seitenleistensymbol ausblenden</translation>
@@ -154,13 +154,13 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="2036503787657622020">Lesemodus aktivieren</translation>
 <translation id="5226458915125328323">Speedreader-Einstellungen</translation>
 <translation id="8591883849678260674">Orginal anzeigen</translation>
-<translation id="6284218950354553099">Ping der täglichen Nutzung automatisch an Brave senden.</translation>
-<translation id="5288333155754958121">Mit diesem anonymen, privaten Ping kann Brave die aktiven Nutzer schätzen.</translation>
+<translation id="6284218950354553099">Ping der täglichen Nutzung automatisch an Portal senden.</translation>
+<translation id="5288333155754958121">Mit diesem anonymen, privaten Ping kann Portal die aktiven Nutzer schätzen.</translation>
 <translation id="1872784258300710671">Brave verwendet vollständig private Produktanalysen, um die Gesamtnutzung bestimmter Funktionen einzuschätzen</translation>
 <translation id="8712637175834984815">Alles klar</translation>
 <translation id="4394049700291259645">Deaktivieren</translation>
 <translation id="7142548388914389999">Erlaubt Produktanalyse, die den Datenschutz respektiert (P3A)</translation>
-<translation id="8286082624639565868">Diese komplett anonymisierten Daten helfen Brave, die Nutzung bestimmter Funktionen besser abzuschätzen und sie entsprechend zu verbessern.</translation>
+<translation id="8286082624639565868">Diese komplett anonymisierten Daten helfen Portal, die Nutzung bestimmter Funktionen besser abzuschätzen und sie entsprechend zu verbessern.</translation>
 <translation id="1947672064022327074">Möchten Sie Crypto Wallets zur Ethereum-Unterstützung anlegen?</translation>
 <translation id="7583735190612229830">Richten Sie Krypto-Wallets ein, um mit dieser und ähnlichen Apps zu interagieren.</translation>
 <translation id="8731422418734770661">Crypto Wallets einrichten</translation>
@@ -172,7 +172,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="8053093028263274061">Leider ist keine gespeicherte Version verfügbar.</translation>
 <translation id="8517321676372639828">Auf gespeicherte Version überprüfen</translation>
 <translation id="191143826155037518">Brave wird Ihnen unter der <ph name="BEGIN_LINK_MPL"/>Mozilla Public License 2.0<ph name="END_LINK_MPL"/> (MPL) und verwendet weitere <ph name="BEGIN_LINK_OSS"/>Open Source Software<ph name="END_LINK_OSS"/> die unter verschiedenen anderen Lizenzen veröffentlicht wurden.
-        Lesen Sie die <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>Anleitung<ph name="END_LINK_BUILD_INSTRUCTIONS"/>, wie man das Brave-Projekt herunterlädt und selbst aus dem  <ph name="BEGIN_LINK_SOURCE_CODE"/>Quellcode<ph name="END_LINK_SOURCE_CODE"/> zu erstellen.</translation>
+        Lesen Sie die <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>Anleitung<ph name="END_LINK_BUILD_INSTRUCTIONS"/>, wie man das Portal-Projekt herunterlädt und selbst aus dem  <ph name="BEGIN_LINK_SOURCE_CODE"/>Quellcode<ph name="END_LINK_SOURCE_CODE"/> zu erstellen.</translation>
 <translation id="4474155171896946103">Alle Tabs als Lesezeichen speichern...</translation>
 <translation id="3987546108749866209">Vertikale Tabs verwenden</translation>
 <translation id="5860254591544742609">Titelleiste</translation>
@@ -186,7 +186,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="7705524343798198388">VPN</translation>
 <translation id="8593397073757037946">VPN umschalten</translation>
 <translation id="3960619311638643872">Brave VPN</translation>
-<translation id="2345974803401546682">Über Brave VPN</translation>
+<translation id="2345974803401546682">Über Portal VPN</translation>
 <translation id="4378551569595875038">Verbindung wird hergestellt...</translation>
 <translation id="3368922792935385530">Verbunden</translation>
 <translation id="1536754031901697553">Verbindung wird getrennt…</translation>
@@ -207,14 +207,14 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="8487693399751278191">Lesezeichen jetzt importieren ...</translation>
 <translation id="2557899542277210112">Für schnellen Zugriff platzieren Sie Ihre Lesezeichen hier auf der Lesezeichenleiste.</translation>
 <translation id="1968543937259008435">Bereit für die beste Privatsphäre im Internet?</translation>
-<translation id="6817415381278637662">Legen Sie Brave als Ihren Standardbrowser fest, um den Datenschutz von Brave auf jeder Webseite zu erhalten, die Sie öffnen.</translation>
+<translation id="6817415381278637662">Legen Sie Portal als Ihren Standardbrowser fest, um den Datenschutz von Portal auf jeder Webseite zu erhalten, die Sie öffnen.</translation>
 <translation id="8722651357687610395">Brave als Standard einrichten</translation>
 <translation id="2370739752330685659">Vielleicht später</translation>
 <translation id="7537601449003285327">An Taskleiste anpinnen</translation>
 <translation id="2307973900865360088">Im Dock lassen</translation>
 <translation id="961012016278832836">Microsoft Edge (veraltet)</translation>
 <translation id="6436994631426134065">Importiert aus <ph name="BROWSER_NAME"/></translation>
-<translation id="9156965752763025780">Ihre Änderungen werden beim nächsten Neustart von Brave wirksam.</translation>
+<translation id="9156965752763025780">Ihre Änderungen werden beim nächsten Neustart von Portal wirksam.</translation>
 <translation id="7179921470347911571">Jetzt neustarten</translation>
 <translation id="4472575034687746823">Start</translation>
 <translation id="8081858229109418493">Profilname und -symbol</translation>
@@ -265,7 +265,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="6303294677342628402">Schutz</translation>
 <translation id="7133511168130368997">Werbung und Tracker blockieren.</translation>
 <translation id="2761825942249694703">Dies sind die Standardeinstellungen für den Schutz. Sie gelten für alle Websites, sofern Sie nicht im Schutz-Menü auf einer bestimmten Website Änderungen vornehmen. Wenn Sie die folgenden Einstellungen ändern, hat dies keine Auswirkung auf die Einstellungen die Sie auf bestimmten Websites bereits gemacht haben</translation>
-<translation id="1435116578479068303">Hierdurch werden die meisten Anzeigen auf Websites blockiert, aber nicht private Brave-Anzeigen – diese werden kontrolliert in den Einstellungen der <ph name="BEGIN_LINK"/>Brave-Belohnungen<ph name="END_LINK"/>.</translation>
+<translation id="1435116578479068303">Hierdurch werden die meisten Anzeigen auf Websites blockiert, aber nicht private Portal-Anzeigen – diese werden kontrolliert in den Einstellungen der <ph name="BEGIN_LINK"/>Brave-Belohnungen<ph name="END_LINK"/>.</translation>
 <translation id="8452536890042542134">Dadurch werden die meisten Anzeigen auf Websites blockiert.</translation>
 <translation id="4800195524776354947">Zahl der blockierten Elemente auf dem Schutz-Icon anzeigen</translation>
 <translation id="5510493033031835532">AMP-Seiten automatisch umleiten</translation>
@@ -312,11 +312,11 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="413570371620795359">Öffnen Sie das Prämienfenster, um es zu aktivieren und zu beginnen</translation>
 <translation id="3849957491997306859">Automatisch erkannt</translation>
 <translation id="8798099450830957504">Standardeinstellung</translation>
-<translation id="4851215387785619212">Private Anzeigen von Brave</translation>
-<translation id="7808122468353671181">Verdienen Sie Token, indem Sie Brave Ads ansehen. Anzeigen werden basierend auf Ihren Interessen angezeigt, die aus Ihrem Browsing-Verhalten abgeleitet werden. Persönliche Daten oder der Browserverlauf verbleiben stets auf Ihrem Browser.</translation>
+<translation id="4851215387785619212">Private Anzeigen von Portal</translation>
+<translation id="7808122468353671181">Verdienen Sie Token, indem Sie Portal Ads ansehen. Anzeigen werden basierend auf Ihren Interessen angezeigt, die aus Ihrem Browsing-Verhalten abgeleitet werden. Persönliche Daten oder der Browserverlauf verbleiben stets auf Ihrem Browser.</translation>
 <translation id="1758947220824279023">Maximale Anzahl der einzublendenden Anzeigen</translation>
 <translation id="2356652719351432565">Relevanz regionaler Anzeigen</translation>
-<translation id="2196950072404588793">Auf diese Weise kann Brave Ihnen Anzeigen speziell für Ihre Region anzeigen. <ph name="BEGIN_LINK"/>Weitere Informationen<ph name="END_LINK"/></translation>
+<translation id="2196950072404588793">Auf diese Weise kann Portal Ihnen Anzeigen speziell für Ihre Region anzeigen. <ph name="BEGIN_LINK"/>Weitere Informationen<ph name="END_LINK"/></translation>
 <translation id="2433507940547922241">Darstellung</translation>
 <translation id="6112368337882254910">Automatische Spenden</translation>
 <translation id="9132509928968869844">Monatliches Limit für das automatische Beitragen</translation>
@@ -344,7 +344,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="2808630562319398131">Brave-Rewards-Daten zurücksetzen</translation>
 <translation id="6438096877646138757">Websites, die Cookies löschen, wenn Sie sie schließen</translation>
 <translation id="2988792685798128092">Löschen, wenn Website geschlossen wird</translation>
-<translation id="814018970995616154">Überprüft URLs anhand einer Liste mit unsicheren Seiten, die in Brave gespeichert ist.</translation>
+<translation id="814018970995616154">Überprüft URLs anhand einer Liste mit unsicheren Seiten, die in Portal gespeichert ist.</translation>
 <translation id="1144810021918451336">Schützt Sie nicht vor gefährlichen Websites, Downloads und Erweiterungen.</translation>
 <translation id="5570470519803062774">Website- und Schutzeinstellungen</translation>
 <translation id="410351446219883937">Automatische Wiedergabe</translation>
@@ -359,7 +359,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="6414370348346025511">Standardschutz ist aktiviert.</translation>
 <translation id="5565355416171743213">Synchronisierung starten</translation>
 <translation id="4332558599726753990">Sync-Einrichtung</translation>
-<translation id="2187778349654214731">Zunächst müssen Sie Brave auf allen Geräten installieren, die Sie synchronisieren möchten. Danach verknüpfen Sie sie sicher über einen Synchronisierungecode.</translation>
+<translation id="2187778349654214731">Zunächst müssen Sie Portal auf allen Geräten installieren, die Sie synchronisieren möchten. Danach verknüpfen Sie sie sicher über einen Synchronisierungecode.</translation>
 <translation id="7530575064080939974">Verwalten Sie Ihre synchronisierten Geräte</translation>
 <translation id="7575156386943878014">Synchronisierungsmanager</translation>
 <translation id="1755198127524719638">Sync-Einstellungen</translation>
@@ -373,7 +373,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="7885157704277298658">Kopiert!</translation>
 <translation id="8802630444265810662">Ein QR-Code, der mit einem Mobilgerät gelesen wird, damit Ihr Snychronisierungscode übertragen werden kann</translation>
 <translation id="6221331245829088299">Bei der Anzeige des QR-Codes ist ein Fehler aufgetreten. Bitte aktualisieren Sie und versuchen Sie es erneut.</translation>
-<translation id="298546024891487702">Um zu beginnen, müssen Sie Brave auf allen Geräten installiert haben, die Sie zu synchronisieren beabsichtigen. Um sie alle zu verketten, beginnen Sie eine Synchronisierungskette, die Sie verwenden, um alle Ihre Geräte auf sichere Weise miteinander zu verknüpfen.</translation>
+<translation id="298546024891487702">Um zu beginnen, müssen Sie Portal auf allen Geräten installiert haben, die Sie zu synchronisieren beabsichtigen. Um sie alle zu verketten, beginnen Sie eine Synchronisierungskette, die Sie verwenden, um alle Ihre Geräte auf sichere Weise miteinander zu verknüpfen.</translation>
 <translation id="6200528822592747640">Eine neue Synchronisierungskette beginnen</translation>
 <translation id="5184726904895809379">Ich habe einen Synchronisierungscode</translation>
 <translation id="8780295742023331191">Synchronisierungscode anzeigen</translation>
@@ -398,18 +398,18 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="3995714999835224798">Dieser Code ist nicht gültig</translation>
 <translation id="4432071071853308688">Dieser Code ist leer.</translation>
 <translation id="955848693465029904">Interner Fehler bei der Einrichtung der Synchronisierung</translation>
-<translation id="859506441384380749">Dieser Code wurde von einer veralteten Version von Brave generiert; bitte aktualisieren Sie zuerst Ihr anderes Gerät</translation>
+<translation id="859506441384380749">Dieser Code wurde von einer veralteten Version von Portal generiert; bitte aktualisieren Sie zuerst Ihr anderes Gerät</translation>
 <translation id="3132642509209154999">Der Code ist abgelaufen. Bitte erstellen Sie auf Ihrem anderen Gerät einen neuen Code und versuchen Sie es erneut.</translation>
 <translation id="2859229680945501779">Dieser Code ist ungültig. Bitte überprüfen Sie, ob Uhrzeit und Zeitzone auf Ihrem Gerät richtig eingestellt sind.</translation>
 <translation id="2339730291919608488">Sync-Kette verlassen</translation>
 <translation id="115699408012835975">Wenn Sie Sync zurücksetzen, müssen Sie, wenn Sie mit einem anderen Gerät synchronisieren möchten, erneut einen Synchronisierungscode von diesem eingeben. Sind Sie sicher, dass Sie fortfahren möchten?</translation>
 <translation id="6092564993102418148">Sind Sie sicher, dass Sie das ausgewählte Gerät aus der Synchronisierungskette entfernen wollen?</translation>
-<translation id="4400414577602898435">Warnung: Dadurch werden Ihre Brave-Daten, einschließlich Ihrer Passwörter, an das Gerät weitergegeben, das diese Code-Wörter generiert hat.
+<translation id="4400414577602898435">Warnung: Dadurch werden Ihre Portal-Daten, einschließlich Ihrer Passwörter, an das Gerät weitergegeben, das diese Code-Wörter generiert hat.
 
     Bitte überprüfen Sie, dass diese Codewörter von einem Gerät generiert wurden, das Ihnen gehört.
 
     Sind Sie sicher, dass Sie den Vorgang fortsetzen möchten?</translation>
-<translation id="7443185843787879670">Brave konnte nicht auf den sicheren Speicher Ihres Betriebssystems zugreifen. Dieser wird verwendet, um Daten wie Passwörter und Cookies sicher zu speichern. Er ist auch für die Brave-Synchronisierung erforderlich, um Ihr Browserprofil zwischen Geräten zu verbinden. Das bedeutet, dass die Brave-Synchronisierung nicht ausgeführt wird. Informationen zur Behebung dieses Problems finden Sie im <ph name="BEGIN_LINK_SYNC_GUIDE"/>Brave-Synchronisierungs-Leitfaden zur Fehlerbehebung<ph name="END_LINK_SYNC_GUIDE"/>.</translation>
+<translation id="7443185843787879670">Brave konnte nicht auf den sicheren Speicher Ihres Betriebssystems zugreifen. Dieser wird verwendet, um Daten wie Passwörter und Cookies sicher zu speichern. Er ist auch für die Portal-Synchronisierung erforderlich, um Ihr Browserprofil zwischen Geräten zu verbinden. Das bedeutet, dass die Portal-Synchronisierung nicht ausgeführt wird. Informationen zur Behebung dieses Problems finden Sie im <ph name="BEGIN_LINK_SYNC_GUIDE"/>Brave-Synchronisierungs-Leitfaden zur Fehlerbehebung<ph name="END_LINK_SYNC_GUIDE"/>.</translation>
 <translation id="6285118765755298263">Andere Suchmaschinen indizieren</translation>
 <translation id="919715748352669592">Indiziert automatisch Websites, die der OpenSearch-Spezifikation entsprechen.</translation>
 <translation id="842628013524824194">Normales Fenster: in der Adresszeile verwendete Suchmaschine</translation>
@@ -446,7 +446,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="6936835573742749135">CAPTCHA konnte nicht angefordert werden. Versuchen Sie es später noch einmal.</translation>
 <translation id="2653659639078652383">Einreichen</translation>
 <translation id="1369311132025451972">.onion-Seiten automatisch weiterleiten</translation>
-<translation id="1658670175365815312">Wenn verfügbar, wechselt Brave zur .onion-Version einer Website und öffnet alle .onion-Domains in einem Tor-Fenster.</translation>
+<translation id="1658670175365815312">Wenn verfügbar, wechselt Portal zur .onion-Version einer Website und öffnet alle .onion-Domains in einem Tor-Fenster.</translation>
 <translation id="2896916411183256228">Verwendet WebTorrent, um Torrents direkt im Browser anzuzeigen. Unterstützt Torrent-Dateien und Magnet-Links.</translation>
 <translation id="5249433283143453448">Verwenden Sie die DRM-Komponente (Widevine Digitale Rechte Verwaltung), um geschützte Streaming-Videos und andere Inhalte im Browser anzuzeigen.</translation>
 <translation id="8137559199583651773">Erweiterungen verwalten</translation>
@@ -462,7 +462,7 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="7992507032049865603">Standardmäßige Basis-Kryptowährung</translation>
 <translation id="1834467296210148203">Brave-Wallet-Symbol in der Werkzeugleiste anzeigen</translation>
 <translation id="8239147115686034860">Brave Wallet automatisch sperren</translation>
-<translation id="414639769490080648">Die Anzahl der Minuten, die gewartet werden soll, bis die Brave Wallet automatisch gesperrt wird</translation>
+<translation id="414639769490080648">Die Anzahl der Minuten, die gewartet werden soll, bis die Portal Wallet automatisch gesperrt wird</translation>
 <translation id="1241283133946520352">Netzwerke</translation>
 <translation id="5975930666279943472">Wallet-Transaktion und Nonce-Informationen löschen</translation>
 <translation id="5693968582510626466">Das Löschen von Transaktionen kann für Entwickler oder beim Löschen des Status auf einem lokalen Server nützlich sein</translation>
@@ -505,19 +505,19 @@ Oder später ändern unter <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
 <translation id="2618193846561624884">Möchten Sie das vorhandene Netzwerk aktualisieren?</translation>
 <translation id="9170907049676078643">Methode zum Lösen von IPFS-Ressourcen</translation>
 <translation id="1327977588028644528">Gateway</translation>
-<translation id="1195880978080389104">Lokaler Brave-IPFS-Knoten</translation>
-<translation id="2178402446227616866"><ph name="BEGIN_LINK_MPL"/>Erfahren Sie mehr<ph name="END_LINK_MPL"/> über lokale Brave-IPFS-Knoten und Gateway-Datenschutz.</translation>
+<translation id="1195880978080389104">Lokaler Portal-IPFS-Knoten</translation>
+<translation id="2178402446227616866"><ph name="BEGIN_LINK_MPL"/>Erfahren Sie mehr<ph name="END_LINK_MPL"/> über lokale Portal-IPFS-Knoten und Gateway-Datenschutz.</translation>
 <translation id="4927734062756955434">Öffentliche IPFS-Gateway-Adresse</translation>
 <translation id="3707431725427930007">Öffentliche IPFS-Gateway-Adresse für NFT</translation>
 <translation id="8425213833346101688">Ändern</translation>
 <translation id="585868419599255817">Öffentliches IPFS-Gateway Fallback</translation>
-<translation id="2618080188892567155">Automatisch auf den öffentlichen IPFS-Gateway zurückfallen, wenn Ihr lokaler Brave-IPFS-Knoten nicht erreicht werden kann.</translation>
+<translation id="2618080188892567155">Automatisch auf den öffentlichen IPFS-Gateway zurückfallen, wenn Ihr lokaler Portal-IPFS-Knoten nicht erreicht werden kann.</translation>
 <translation id="4107552920076294723">IPFS-Ressourcen zu dem konfigurierten IPFS-Gateway umleiten</translation>
 <translation id="4284166297897715283">Anfragen an IPFS-Ressourcen, die auf Drittanbieter-IPFS-Gateways gehostet werden, werden über ein ausgewähltes lokales oder ein Remote-Gateway geladen.
 Hinweis: Wenn der lokale Knoten ausgewählt ist, wird die Ressource direkt von Ihrem Computer angefordert und zwischengespeicherte Daten können dem IPFS-Netzwerk für einige Zeit zur Verfügung gestellt werden.</translation>
 <translation id="8655170717758778983">Wenn möglich, automatisch über DNSLink zu IPFS-Seiten umleiten</translation>
 <translation id="2233724520223030977">Verwendet DNSLink automatisch, um nach Möglichkeit zu einer IPFS-Version einer Website zu navigieren</translation>
-<translation id="8068526464562249859">Verwendet die Erweiterung IPFS Companion für erweiterte IPFS-Unterstützung in Brave, inklusive Zugriff auf übliche IPFS-Aufgaben von Ihrer Browserleiste.</translation>
+<translation id="8068526464562249859">Verwendet die Erweiterung IPFS Companion für erweiterte IPFS-Unterstützung in Portal, inklusive Zugriff auf übliche IPFS-Aufgaben von Ihrer Browserleiste.</translation>
 <translation id="1251574393468476924">Maximale IPFS-Cache-Größe (GB)</translation>
 <translation id="2503497578400410320">Eine flexible Obergrenze für die Größe des Datenspeichers des IPFS-Repositorys.</translation>
 <translation id="6758961763875471084">Peer-Liste bearbeiten</translation>
@@ -528,8 +528,8 @@ Hinweis: Wenn der lokale Knoten ausgewählt ist, wird die Ressource direkt von I
 <translation id="911363100236037920">Geben Sie einen Namen für den neuen Schlüssel ein</translation>
 <translation id="6358469157239228181">Dieser Name kann nicht verwendet werden</translation>
 <translation id="2082206983920804886">Schlüssel drehen</translation>
-<translation id="5078501082919354191">Lokaler Brave-IPFS-Knoten kann nicht angehalten werden</translation>
-<translation id="5687424953196903465">Lokaler Brave-IPFS-Knoten kann nicht gestartet werden</translation>
+<translation id="5078501082919354191">Lokaler Portal-IPFS-Knoten kann nicht angehalten werden</translation>
+<translation id="5687424953196903465">Lokaler Portal-IPFS-Knoten kann nicht gestartet werden</translation>
 <translation id="6476061084931271248">Starten Sie den Knoten neu, um die Änderungen zu übernehmen</translation>
 <translation id="3754226427671882382">Knoten neu starten</translation>
 <translation id="949667118776341807">Drehen</translation>
@@ -549,7 +549,7 @@ Hinweis: Wenn der lokale Knoten ausgewählt ist, wird die Ressource direkt von I
 <translation id="557281710253742286">IPFS-Gateway senden</translation>
 <translation id="8571837315037233299">Gateway-Adresse</translation>
 <translation id="7703184801853248830">Ungültige Gateway-Adresse</translation>
-<translation id="7690058578502751948">In Brave kann nur ein gültiges IPFS-Gateway mit aktivierter Origin-Isolation verwendet werden</translation>
+<translation id="7690058578502751948">In Portal kann nur ein gültiges IPFS-Gateway mit aktivierter Origin-Isolation verwendet werden</translation>
 <translation id="3411013544209536575">Hilfstipps</translation>
 <translation id="2775956301559569472">Wayback-Machine-Hinweis auf 404-Seiten anzeigen</translation>
 <translation id="3095201688102519917">Mich vor dem Schließen eines Fensters mit mehreren Tabs warnen</translation>

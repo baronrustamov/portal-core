@@ -1,10 +1,10 @@
-COMPANY_FULLNAME=Brave Software, Inc.
-COMPANY_SHORTNAME=Brave Software
+COMPANY_FULLNAME=Portal Software, Inc.
+COMPANY_SHORTNAME=Portal Software
 PRODUCT_FULLNAME=Portal browser
 PRODUCT_SHORTNAME=Brave
-PRODUCT_INSTALLER_FULLNAME=Brave Installer
-PRODUCT_INSTALLER_SHORTNAME=Brave Installer
-COPYRIGHT=Copyright 2016 The Brave Authors. All rights reserved.
+PRODUCT_INSTALLER_FULLNAME=Portal Installer
+PRODUCT_INSTALLER_SHORTNAME=Portal Installer
+COPYRIGHT=Copyright 2016 The Portal Authors. All rights reserved.
 MAC_BUNDLE_ID=com.brave.Browser
 MAC_CREATOR_CODE=Cr24
 MAC_TEAM_ID=KL8N8XSYF4

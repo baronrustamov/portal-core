@@ -281,7 +281,7 @@
   <message name="IDS_EXTENSIONS_ITEM_EXTENSION_WEBSITE" desc="Label for button to go to the website the extension developer specified.">
     Open extension website
   </message>
-  <message name="IDS_EXTENSIONS_ITEM_CHROME_WEB_STORE" desc="Label for button to visit the Brave web store.">
+  <message name="IDS_EXTENSIONS_ITEM_CHROME_WEB_STORE" desc="Label for button to visit the Portal web store.">
     View in Web Store
   </message>
   <message name="IDS_EXTENSIONS_ITEM_OPTIONS" desc="The label on the button to open an extension options page.">
