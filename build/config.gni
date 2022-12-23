@@ -18,7 +18,7 @@ declare_args() {
   sparkle_eddsa_private_key = ""
   sparkle_eddsa_public_key = ""
 
-  brave_product_name = "brave"
+  brave_product_name = "portal"
   brave_exe = ""
   brave_version_major = ""
   brave_version_minor = ""
@@ -152,7 +152,7 @@ is_release_channel = brave_channel == ""
 
 brave_android_output = ""
 if (is_android) {
-  brave_android_output += "$root_out_dir/apks/Brave"
+  brave_android_output += "$root_out_dir/apks/Portal"
   if (target_android_base == "modern") {
     assert(target_cpu != "arm64" && target_cpu != "x64")
     brave_android_output += "Modern"
